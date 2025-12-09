@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "CcYObeWqnjsLdKqLyyPKalnQizY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "9EdziZ3W0U8bjGK-qGh-nDIca6s",
+            "id": "Suia6GCpUmE",
+            "snippet": {
+                "publishedAt": "2024-06-08T11:00:23Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"늦었어.. 이젠 잘 시간이야~\" 마음을 위로하는 수면음악",
+                "description": "얼른 자야 되는데..\n밤이 많이 늦었는데..\n밤의 시간은 순식간에 흘러가네..\n이젠 정말 불 끄고 잠들어야지~\n모두 모두 굿나잇!  :)\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#잠잘때듣는음악 #수면유도음악 #잠오는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Suia6GCpUmE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Suia6GCpUmE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Suia6GCpUmE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Suia6GCpUmE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Suia6GCpUmE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "자기전에듣는음악",
+                    "잠자는음악",
+                    "잠오는음악",
+                    "수면유도음악",
+                    "수면음악",
+                    "편안한음악",
+                    "피아노음악",
+                    "잠안올때듣는음악",
+                    "RelaxMusic",
+                    "RelaxingMusic",
+                    "SleepingMusic",
+                    "sleepMusic",
+                    "PianoMusic",
+                    "마음이편안해지는음악",
+                    "ComfortMusic"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"늦었어.. 이젠 잘 시간이야~\" 마음을 위로하는 수면음악",
+                    "description": "얼른 자야 되는데..\n밤이 많이 늦었는데..\n밤의 시간은 순식간에 흘러가네..\n이젠 정말 불 끄고 잠들어야지~\n모두 모두 굿나잇!  :)\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#잠잘때듣는음악 #수면유도음악 #잠오는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9H37M32S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "474457",
+                "likeCount": "9697",
+                "favoriteCount": "0",
+                "commentCount": "339"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

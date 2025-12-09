@@ -1,0 +1,100 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ZSD5Bnle_eGA33fkH8IunUYLeRQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Ruok0lyM4AqSirfDF2fT7fdJVQ4",
+            "id": "1I3aEqxM6f4",
+            "snippet": {
+                "publishedAt": "2024-01-18T07:04:00Z",
+                "channelId": "UC6YnTqZidFg4WUiXpiCtSSQ",
+                "title": "부̵서̴져̶ ̷사̶라̴져̷도̴ ̶언̸젠̶가̵는̵ ̴너̸에̷게̷ ̴닿̸기̷를̶,̷ ̸이̴ 노래가̸ |  Airi Kanna - ERROR(nikiP)/3D live",
+                "description": "#아이리칸나 #藍璃かんな #Airi_Kanna #error #에러 #nikip #stellive #shorts",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1I3aEqxM6f4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1I3aEqxM6f4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1I3aEqxM6f4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1I3aEqxM6f4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1I3aEqxM6f4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "아이리 칸나 Music Official",
+                "tags": [
+                    "ERROR",
+                    "nikiP",
+                    "칸나",
+                    "아이리칸나",
+                    "칸나 에러",
+                    "airikanna",
+                    "藍璃かんな error",
+                    "藍璃かんな",
+                    "かんな",
+                    "토와 에러",
+                    "에러",
+                    "에러 커버",
+                    "error 커버",
+                    "error 토와",
+                    "스텔라이브",
+                    "うたって",
+                    "歌ってみた",
+                    "cover",
+                    "covered",
+                    "error cover",
+                    "error covered",
+                    "error 歌ってみた",
+                    "towa error",
+                    "칸나 커버",
+                    "칸나 노래",
+                    "아이리칸나 노래"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "부̵서̴져̶ ̷사̶라̴져̷도̴ ̶언̸젠̶가̵는̵ ̴너̸에̷게̷ ̴닿̸기̷를̶,̷ ̸이̴ 노래가̸ |  Airi Kanna - ERROR(nikiP)/3D live",
+                    "description": "#아이리칸나 #藍璃かんな #Airi_Kanna #error #에러 #nikip #stellive #shorts"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT1M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "216569",
+                "likeCount": "12620",
+                "favoriteCount": "0",
+                "commentCount": "357"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "BoARjd7DGegDsA5TPAkdj0XUrms",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "-RSN7c9MdZdg5zrU9CiDdGYdnxc",
+            "id": "QaEVsiCtoak",
+            "snippet": {
+                "publishedAt": "2024-07-13T09:41:18Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "𝑵𝑨𝑴𝑪𝒀𝑨 𝒂𝒕 𝒕𝒉𝒆 𝑴𝑬𝑻",
+                "description": "A National Music Competitions for Young Artists (NAMCYA) Foundation, Inc.\n2024 Mid-year Concert in partnership with the National Commission for Culture and the Arts (NCCA) and in cooperation with the Metropolitan Theater.\n\n**NO COPYRIGHT INFRINGEMENT INTENDED. FOR ENTERTAINMENT PURPOSES ONLY**",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QaEVsiCtoak/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QaEVsiCtoak/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QaEVsiCtoak/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QaEVsiCtoak/sddefault_live.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QaEVsiCtoak/maxresdefault_live.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "24",
+                "liveBroadcastContent": "upcoming",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "𝑵𝑨𝑴𝑪𝒀𝑨 𝒂𝒕 𝒕𝒉𝒆 𝑴𝑬𝑻",
+                    "description": "A National Music Competitions for Young Artists (NAMCYA) Foundation, Inc.\n2024 Mid-year Concert in partnership with the National Commission for Culture and the Arts (NCCA) and in cooperation with the Metropolitan Theater.\n\n**NO COPYRIGHT INFRINGEMENT INTENDED. FOR ENTERTAINMENT PURPOSES ONLY**"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "P0D",
+                "dimension": "2d",
+                "definition": "sd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "0",
+                "likeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "9gggch7Y9L6FniMvmU-oIVo0GI4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "CmFf7PIHKqf_hAV03tH9kZUfwoo",
+            "id": "CgFASTgoBQc",
+            "snippet": {
+                "publishedAt": "2025-11-25T18:00:14Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Lux Brumalis (performance video) | Nathaniel Adams",
+                "description": "Lux Brumalis, translated as \"Wintery Light\" is a multi-movement work for choir and piano. The music and the text feature sounds and imagery of winter. The piano accompaniment allows opportunities for improvisation. \n\nEnjoy this performance by the Missouri State University Chorale conducted by Dr. Cameron LaBarr featuring Parker Payne on the piano. \n\nVideo production by Blake Richter Productions. \n\nPurchase the music: https://giamusic.com/resource/lux-brumalis-print-ww1913",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CgFASTgoBQc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CgFASTgoBQc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CgFASTgoBQc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CgFASTgoBQc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CgFASTgoBQc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Lux Brumalis (performance video) | Nathaniel Adams",
+                    "description": "Lux Brumalis, translated as \"Wintery Light\" is a multi-movement work for choir and piano. The music and the text feature sounds and imagery of winter. The piano accompaniment allows opportunities for improvisation. \n\nEnjoy this performance by the Missouri State University Chorale conducted by Dr. Cameron LaBarr featuring Parker Payne on the piano. \n\nVideo production by Blake Richter Productions. \n\nPurchase the music: https://giamusic.com/resource/lux-brumalis-print-ww1913"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10M42S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "58",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

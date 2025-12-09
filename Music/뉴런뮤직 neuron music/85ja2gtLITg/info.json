@@ -1,0 +1,71 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "WR6NpN0E1LbS-WC4VjGwv72bJDM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "bdiCdI4QKqdAoiD_nHY3W5iuqxQ",
+            "id": "85ja2gtLITg",
+            "snippet": {
+                "publishedAt": "2024-05-02T09:30:02Z",
+                "channelId": "UCFjKZImEGGPqOz7P9UZ0IlQ",
+                "title": "정수민 (JUNGSOOMIN) - be like YOU [Music Video]",
+                "description": "Baby I just wanna be like YOU\n🎧정수민 - ‘be like YOU’\n\n#정수민 #JUNGSOOMIN #belikeYOU\n\n✔️ 𝙁𝙤𝙡𝙡𝙤𝙬 𝙅𝙐𝙉𝙂𝙎𝙊𝙊𝙈𝙄𝙉\n∙ https://www.instagram.com/soomofficial/\n∙ https://www.youtube.com/@soominjung  \n∙ https://twitter.com/jungsoomin_twt\n∙ https://www.facebook.com/jungsoominofficial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/85ja2gtLITg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/85ja2gtLITg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/85ja2gtLITg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/85ja2gtLITg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/85ja2gtLITg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뉴런뮤직 neuron music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "정수민 (JUNGSOOMIN) - be like YOU [Music Video]",
+                    "description": "Baby I just wanna be like YOU\n🎧정수민 - ‘be like YOU’\n\n#정수민 #JUNGSOOMIN #belikeYOU\n\n✔️ 𝙁𝙤𝙡𝙡𝙤𝙬 𝙅𝙐𝙉𝙂𝙎𝙊𝙊𝙈𝙄𝙉\n∙ https://www.instagram.com/soomofficial/\n∙ https://www.youtube.com/@soominjung  \n∙ https://twitter.com/jungsoomin_twt\n∙ https://www.facebook.com/jungsoominofficial"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT25S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "642",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

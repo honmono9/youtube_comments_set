@@ -1,0 +1,76 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "u6UetVfYILgIAYYFsJhY8f-oWKE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "j6w2IKW9slIuLiO1qK-PxFw1bDg",
+            "id": "mxq3N9lxBcA",
+            "snippet": {
+                "publishedAt": "2025-06-18T06:02:05Z",
+                "channelId": "UCTOiofhGz26Nn4uARfKI_Mg",
+                "title": "c h o r d s",
+                "description": "I FINALLY FIGURED OUT HOW TO USE CHORDS!!!!!!!. Oh yeah the song is cool too I guess...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mxq3N9lxBcA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mxq3N9lxBcA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mxq3N9lxBcA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mxq3N9lxBcA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mxq3N9lxBcA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Toasty music & Games",
+                "tags": [
+                    "music",
+                    "soundtrap"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "c h o r d s",
+                    "description": "I FINALLY FIGURED OUT HOW TO USE CHORDS!!!!!!!. Oh yeah the song is cool too I guess..."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "22",
+                "likeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

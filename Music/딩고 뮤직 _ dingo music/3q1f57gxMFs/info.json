@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ogJBSUrAQci3BvKZ6FkOSEBeA4A",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "QPab1Hj6ycsJXIvhA5hvQsB01kM",
+            "id": "3q1f57gxMFs",
+            "snippet": {
+                "publishedAt": "2025-12-09T09:00:12Z",
+                "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+                "title": "조성확 – 헤어지지 못해 (Prod. 로코베리) | [TEXTED] IHWAK – I CAN’T SAY GOODBYE | 가사 (Lyrics) | 딩고뮤직 | dingo Music",
+                "description": "📝 ‘헤어지지 못해 (Prod. 로코베리)’ 곡 정보\n\nArtist 조성확 (IHWAK)\n\nLyrics by 베리(Rocoberry), 조성확\nComposed by 베리(Rocoberry), 조성확\nArranged by 베리(Rocoberry)\n\n▶딩고뮤직 (dingo Music) : http://bit.ly/Dingo__Music\n▶디에프 (df) : http://bit.ly/df_dingo\n▶일소라 (일반인들의 소름돋는 라이브) : http://bit.ly/ilsora\n▶딩고 공식 팬 커뮤니티 (with dingo) : https://withdingo.com \n\ncontact : musicbiz@makeus.com\n\n#조성확 #로코베리 #헤어지지못해\n#TEXTED #텍스티드 #IHWAK #ICANTSAYGOODBYE\n#딩고뮤직 #dingoMusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3q1f57gxMFs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3q1f57gxMFs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3q1f57gxMFs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3q1f57gxMFs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3q1f57gxMFs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "딩고 뮤직 / dingo music",
+                "tags": [
+                    "딩고뮤직",
+                    "dingo",
+                    "dingomusic",
+                    "music",
+                    "kpop",
+                    "live",
+                    "멜론",
+                    "세로라이브",
+                    "최신가요",
+                    "top100",
+                    "아이돌",
+                    "라이브",
+                    "음악",
+                    "딩고"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "조성확 – 헤어지지 못해 (Prod. 로코베리) | [TEXTED] IHWAK – I CAN’T SAY GOODBYE | 가사 (Lyrics) | 딩고뮤직 | dingo Music",
+                    "description": "📝 ‘헤어지지 못해 (Prod. 로코베리)’ 곡 정보\n\nArtist 조성확 (IHWAK)\n\nLyrics by 베리(Rocoberry), 조성확\nComposed by 베리(Rocoberry), 조성확\nArranged by 베리(Rocoberry)\n\n▶딩고뮤직 (dingo Music) : http://bit.ly/Dingo__Music\n▶디에프 (df) : http://bit.ly/df_dingo\n▶일소라 (일반인들의 소름돋는 라이브) : http://bit.ly/ilsora\n▶딩고 공식 팬 커뮤니티 (with dingo) : https://withdingo.com \n\ncontact : musicbiz@makeus.com\n\n#조성확 #로코베리 #헤어지지못해\n#TEXTED #텍스티드 #IHWAK #ICANTSAYGOODBYE\n#딩고뮤직 #dingoMusic"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "578",
+                "likeCount": "34",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

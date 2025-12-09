@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "OuDfcmzajP95IUAjUO1pQZ1bkVk",
+        "id": "UgzdQw8ECXnWccSxXQx4AaABAg",
+        "snippet": {
+            "channelId": "UCPxPvjsXfa6UJ30L3NAN-nQ",
+            "videoId": "za8qfwmCtTU",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "cOYeHeTrtyhMJuHRsQrZLkxL-p8",
+                "id": "UgzdQw8ECXnWccSxXQx4AaABAg",
+                "snippet": {
+                    "channelId": "UCPxPvjsXfa6UJ30L3NAN-nQ",
+                    "videoId": "za8qfwmCtTU",
+                    "textDisplay": "😊❤",
+                    "textOriginal": "😊❤",
+                    "authorDisplayName": "@magical0-0voice",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/X9bEDP1Y3GTLbdPk93RcPYSit01Qofta08wZL2381FHX0N76HF8F9ZgCmgRMO84hnNO1oMVeaQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@magical0-0voice",
+                    "authorChannelId": {
+                        "value": "UCm5eHFY8RCJ8jHBTg4rNWYw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-09-15T11:34:38Z",
+                    "updatedAt": "2025-09-15T11:34:38Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "pts0kz3FIs9OPbxRh03G2LPOIS4",
+        "id": "UgwfWeQraoM-bUdV3WJ4AaABAg",
+        "snippet": {
+            "channelId": "UCPxPvjsXfa6UJ30L3NAN-nQ",
+            "videoId": "za8qfwmCtTU",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "i65BYsaSRXrqFffmwSKORROPaS4",
+                "id": "UgwfWeQraoM-bUdV3WJ4AaABAg",
+                "snippet": {
+                    "channelId": "UCPxPvjsXfa6UJ30L3NAN-nQ",
+                    "videoId": "za8qfwmCtTU",
+                    "textDisplay": "普通に広告あるが…………",
+                    "textOriginal": "普通に広告あるが…………",
+                    "authorDisplayName": "@month8702",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lILEVKhp8VK40nOEwr3rluORM6UCcqCjoWdi3ZALilD-8=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@month8702",
+                    "authorChannelId": {
+                        "value": "UCb9BAp2kBP-33C0bo3aJmWA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-09-14T02:34:30Z",
+                    "updatedAt": "2025-09-14T02:34:30Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

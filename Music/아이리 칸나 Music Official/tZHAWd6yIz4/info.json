@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "VfwNykCQJqdT1EJ2rs9PAQBoA5Y",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "HXKq1cN9bPbd9AfAlMk0Tcajfdw",
+            "id": "tZHAWd6yIz4",
+            "snippet": {
+                "publishedAt": "2024-07-24T03:02:33Z",
+                "channelId": "UC6YnTqZidFg4WUiXpiCtSSQ",
+                "title": "아이리 칸나(Airi Kanna) | ‘푸른 보석과 어린 용’ Teaser",
+                "description": "2024년 7월 25일 오후 6시, 국내 및 글로벌 음원사이트 발매 예정\n\n아이리 칸나 (Airi Kanna) 3rd Single 「 푸른 보석과 어린 용 」\n2024년 7월 25일 (목요일) 오후 6시 발매!\n\n_\n\n[Credit]\nIllustrated by れおえん ( reoenl )\nVideo Directed by TEMACA\nArt Directed by TheCold (STELLIVE)\n© Accelers, Inc. & STELLIVE\n\n#아이리칸나 #Airi_Kanna #藍璃かんな #푸른보석과어린용  #Blue_crystal #青い宝石と竜の子 #stellive #스텔라이브",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tZHAWd6yIz4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tZHAWd6yIz4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tZHAWd6yIz4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tZHAWd6yIz4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tZHAWd6yIz4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "아이리 칸나 Music Official",
+                "tags": [
+                    "아이리칸나",
+                    "Airi Kanna",
+                    "藍璃かんな",
+                    "푸른 보석과 어린 용",
+                    "Blue crystal",
+                    "青い宝石と竜の子",
+                    "stellive",
+                    "스텔라이브"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "아이리 칸나(Airi Kanna) | ‘푸른 보석과 어린 용’ Teaser",
+                    "description": "2024년 7월 25일 오후 6시, 국내 및 글로벌 음원사이트 발매 예정\n\n아이리 칸나 (Airi Kanna) 3rd Single 「 푸른 보석과 어린 용 」\n2024년 7월 25일 (목요일) 오후 6시 발매!\n\n_\n\n[Credit]\nIllustrated by れおえん ( reoenl )\nVideo Directed by TEMACA\nArt Directed by TheCold (STELLIVE)\n© Accelers, Inc. & STELLIVE\n\n#아이리칸나 #Airi_Kanna #藍璃かんな #푸른보석과어린용  #Blue_crystal #青い宝石と竜の子 #stellive #스텔라이브"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT36S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "91997",
+                "likeCount": "5127",
+                "favoriteCount": "0",
+                "commentCount": "602"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

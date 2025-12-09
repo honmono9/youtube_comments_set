@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "znwp-nUjy6QWdJMN4W5D0WaQDvk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "WYpv_EccdSnp_c41qI46950kI4o",
+            "id": "KLXoWTF3ZyA",
+            "snippet": {
+                "publishedAt": "2023-11-24T09:04:18Z",
+                "channelId": "UCEhxA_aRk5gPi7PbzvmkSlg",
+                "title": "역대급 하울의 움직이는 성 나옴 ㄷㄷ(고급.ver)",
+                "description": "올 겨울, 뜨거운 크리스마스가 온다❤️‍🔥\n탱고X캐롤의 완벽한 조화를 선보이는\n#크리스마스지브리탱고\n\n탱고버전의 디즈니와 지브리의 음악부터, 크리스마스 캐롤까지!🎄\n크리스마스 캐롤의 무한한 변신을 \n다가오는 12월 대구, 고양에서 만나보세요!✨\n\n🎄크리스마스 지브리 탱고💃\n💛 일시장소 : 2023년 12월 16일(토) 5PM 대구콘서트하우스 그랜드홀 / 12월 17일(일) 5PM 고양아람누리 아람음악당\n💛 출 연 진 : 반도네온 고상지, 고상지 탱고밴드(피아노 조영훈, 바이올린 윤종수/김아람, 비올라 박용은, 첼로 강찬욱, 더블베이스 김강빈, 비브라폰 마더바이브, 퍼커션 렉토루즈), 아르헨티나 탱고 댄서 2팀\n💛 입장연령 : 7세 이상(미취학아동 입장불가)\n💛 예 매 처 : 인터파크, 티켓링크, 고양문화재단",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KLXoWTF3ZyA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KLXoWTF3ZyA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KLXoWTF3ZyA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KLXoWTF3ZyA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KLXoWTF3ZyA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "STOMP MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "역대급 하울의 움직이는 성 나옴 ㄷㄷ(고급.ver)",
+                    "description": "올 겨울, 뜨거운 크리스마스가 온다❤️‍🔥\n탱고X캐롤의 완벽한 조화를 선보이는\n#크리스마스지브리탱고\n\n탱고버전의 디즈니와 지브리의 음악부터, 크리스마스 캐롤까지!🎄\n크리스마스 캐롤의 무한한 변신을 \n다가오는 12월 대구, 고양에서 만나보세요!✨\n\n🎄크리스마스 지브리 탱고💃\n💛 일시장소 : 2023년 12월 16일(토) 5PM 대구콘서트하우스 그랜드홀 / 12월 17일(일) 5PM 고양아람누리 아람음악당\n💛 출 연 진 : 반도네온 고상지, 고상지 탱고밴드(피아노 조영훈, 바이올린 윤종수/김아람, 비올라 박용은, 첼로 강찬욱, 더블베이스 김강빈, 비브라폰 마더바이브, 퍼커션 렉토루즈), 아르헨티나 탱고 댄서 2팀\n💛 입장연령 : 7세 이상(미취학아동 입장불가)\n💛 예 매 처 : 인터파크, 티켓링크, 고양문화재단"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5972",
+                "likeCount": "94",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "q_bM2KsXPVyfekC5OE4p6OwHv_8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "NVcBw9QsyZgUgCZ3g-vBDQX4naA",
+            "id": "D_aiQ1NtJ-c",
+            "snippet": {
+                "publishedAt": "2025-12-03T10:25:34Z",
+                "channelId": "UCL_O5w1_yeGyukBIRB_1alw",
+                "title": "Heartwarming acoustic moment 🧡 #warmmusic #chill #cozymusic #decemberplaylist",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/D_aiQ1NtJ-c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/D_aiQ1NtJ-c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/D_aiQ1NtJ-c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/D_aiQ1NtJ-c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/D_aiQ1NtJ-c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Xadiya Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Heartwarming acoustic moment 🧡 #warmmusic #chill #cozymusic #decemberplaylist",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "112",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "AjO50Ji77JAyEozQeSTl5yyCjTo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "5gccDZSlJseWoB6YxUOSWqiky2s",
+            "id": "-9axIoUq_Mk",
+            "snippet": {
+                "publishedAt": "2025-09-05T11:00:01Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "어떤 악기로 연주해도 간지나는 곡",
+                "description": "#shorts #piano #quiz #피아노 #퀴즈 #피아노퀴즈 #노래퀴즈 \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313\n\n해마뮤직 유튜브 : https://www.youtube.com/@seahorseinmusic \n해마뮤직 인스타그램 : https://www.instagram.com/seahorse.music/\n해마뮤직 틱톡 : https://www.tiktok.com/@love_kalimba \n광고/협찬/제휴 문의 → love_kalimba@naver.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-9axIoUq_Mk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-9axIoUq_Mk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-9axIoUq_Mk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-9axIoUq_Mk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-9axIoUq_Mk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "피아노",
+                    "피아노 연주",
+                    "piano",
+                    "피아노 악보",
+                    "piano cover",
+                    "퀴즈",
+                    "QUIZ",
+                    "음악퀴즈",
+                    "캐논",
+                    "CANON"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "어떤 악기로 연주해도 간지나는 곡",
+                    "description": "#shorts #piano #quiz #피아노 #퀴즈 #피아노퀴즈 #노래퀴즈 \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313\n\n해마뮤직 유튜브 : https://www.youtube.com/@seahorseinmusic \n해마뮤직 인스타그램 : https://www.instagram.com/seahorse.music/\n해마뮤직 틱톡 : https://www.tiktok.com/@love_kalimba \n광고/협찬/제휴 문의 → love_kalimba@naver.com"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "24462",
+                "likeCount": "85",
+                "favoriteCount": "0",
+                "commentCount": "14"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

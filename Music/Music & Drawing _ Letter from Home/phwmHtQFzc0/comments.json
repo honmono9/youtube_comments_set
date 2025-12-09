@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "gnp-F9Rwz-lE6ULkcFNEjVS_gTA",
+        "id": "UgwyIBFRmjN4nItSt6B4AaABAg",
+        "snippet": {
+            "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+            "videoId": "phwmHtQFzc0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "9rEH770oHD4VSfdO5TDOo-tQdM4",
+                "id": "UgwyIBFRmjN4nItSt6B4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                    "videoId": "phwmHtQFzc0",
+                    "textDisplay": "少し早いけど、ベッドでこの音楽を聞いてると当に睡眠剤ですね。",
+                    "textOriginal": "少し早いけど、ベッドでこの音楽を聞いてると当に睡眠剤ですね。",
+                    "authorDisplayName": "@平均-t8g",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l8C-pjMw-IhvR2KQMeQpHIUaqWuVvjZbUuUBURUZA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%E5%B9%B3%E5%9D%87-t8g",
+                    "authorChannelId": {
+                        "value": "UC3VZKi__NipQ2PLvsT4Vrvg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 3,
+                    "publishedAt": "2025-09-29T11:51:30Z",
+                    "updatedAt": "2025-09-29T11:51:30Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 2,
+            "isPublic": true
+        }
+    }
+]

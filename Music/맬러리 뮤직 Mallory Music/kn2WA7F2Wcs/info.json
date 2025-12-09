@@ -1,0 +1,81 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "_Y_4En57WJd7W_4DDiX1bd4a6y0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "dQOT-sp34ysBYa8idaNYoqiYOcA",
+            "id": "kn2WA7F2Wcs",
+            "snippet": {
+                "publishedAt": "2022-03-28T22:21:39Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "화창한 봄날 여유롭고 기분 좋아지는 팝송 함께 들어요 :)",
+                "description": "Photo by 小谢\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd-0KQd-tQHqCE5suxgjZ2b4",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kn2WA7F2Wcs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kn2WA7F2Wcs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kn2WA7F2Wcs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kn2WA7F2Wcs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kn2WA7F2Wcs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "봄 노래",
+                    "봄 플레이리스트",
+                    "팝송 추천",
+                    "팝송 모음",
+                    "잔잔한 팝송",
+                    "relax songs",
+                    "good songs"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "화창한 봄날 여유롭고 기분 좋아지는 팝송 함께 들어요 :)",
+                    "description": "Photo by 小谢\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd-0KQd-tQHqCE5suxgjZ2b4"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT27M16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "80347",
+                "likeCount": "665",
+                "favoriteCount": "0",
+                "commentCount": "47"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

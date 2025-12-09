@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "hHD5vZJIk4Lgzrb4vb0emH1kqSQ",
+        "id": "UgzvVYy7mD1HfpgI1_V4AaABAg",
+        "snippet": {
+            "channelId": "UCh_8srMF2Q-i1nORhHI8zdw",
+            "videoId": "jblZy0JJsX8",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "9oenKpXc3_k0xiHy0AllGTJ7BsM",
+                "id": "UgzvVYy7mD1HfpgI1_V4AaABAg",
+                "snippet": {
+                    "channelId": "UCh_8srMF2Q-i1nORhHI8zdw",
+                    "videoId": "jblZy0JJsX8",
+                    "textDisplay": "안녕하세요, Music for Artist입니다. 실시간 라이브 스트리밍을 제외한 모든 영상은 음악 감상에 방해가 되지 않도록 중간광고가 없이 업로드됩니다. 좋아요와 구독은 큰 힘이 됩니다! 오늘도 당신의 창작을 음악과 함께 응원할게요🍀",
+                    "textOriginal": "안녕하세요, Music for Artist입니다. 실시간 라이브 스트리밍을 제외한 모든 영상은 음악 감상에 방해가 되지 않도록 중간광고가 없이 업로드됩니다. 좋아요와 구독은 큰 힘이 됩니다! 오늘도 당신의 창작을 음악과 함께 응원할게요🍀",
+                    "authorDisplayName": "@MusicforArtist",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/2ZceX27GIkG9Gx2TA3VtabSdL9xfcDfqHc3SznNb3HzbFsFFO2oTUPxZX6IGgFdC7vXv4K1W=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@MusicforArtist",
+                    "authorChannelId": {
+                        "value": "UCh_8srMF2Q-i1nORhHI8zdw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-11-07T07:04:07Z",
+                    "updatedAt": "2025-11-07T07:04:07Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Ypnb3nD7r_gKcwxVeZLB_nJLPdo",
+        "id": "UgxzzYjmsQ_GDfTo_554AaABAg",
+        "snippet": {
+            "channelId": "UCh_8srMF2Q-i1nORhHI8zdw",
+            "videoId": "jblZy0JJsX8",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "F-cQoftFc26Y_UM0QtS0FHr3O48",
+                "id": "UgxzzYjmsQ_GDfTo_554AaABAg",
+                "snippet": {
+                    "channelId": "UCh_8srMF2Q-i1nORhHI8zdw",
+                    "videoId": "jblZy0JJsX8",
+                    "textDisplay": "가을 오후의 감성을 이렇게 잘 담아내다니… 듣는 내내 마음이 따뜻해졌습니다 👏",
+                    "textOriginal": "가을 오후의 감성을 이렇게 잘 담아내다니… 듣는 내내 마음이 따뜻해졌습니다 👏",
+                    "authorDisplayName": "@hyeonkyoo",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/jrg0zHt7vaqEphSPn0fPsAvhhSR8g7c6kx3qMRgY83tPgj1oJ47Ok2CpJsjpcbYxfJ8QYHDr=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@hyeonkyoo",
+                    "authorChannelId": {
+                        "value": "UCQoiw6uHHx-C8C4EY_s_oag"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-11-09T08:37:20Z",
+                    "updatedAt": "2025-11-09T08:37:20Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

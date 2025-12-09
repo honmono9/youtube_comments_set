@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "nzuOyD_TNJaADkTnS0pILSB1uCI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "4r8uOnYw3moirM5F5NVVeTvFzgg",
+            "id": "xMd4vUzzhrg",
+            "snippet": {
+                "publishedAt": "2025-12-09T09:01:27Z",
+                "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+                "title": "이별... 이별... 이별...ㅠ ㅣ조성확 – 헤어지지 못해 (Prod. 로코베리)",
+                "description": "▶딩고뮤직 (dingo Music) : http://bit.ly/Dingo__Music\n▶디에프 (df) : http://bit.ly/df_dingo\n▶일소라 (일반인들의 소름돋는 라이브) : http://bit.ly/ilsora\n▶딩고 공식 팬 커뮤니티 (with dingo) : https://withdingo.com \n\ncontact : musicbiz@makeus.com\n\n# # #\n#딩고뮤직 #dingoMusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xMd4vUzzhrg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xMd4vUzzhrg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xMd4vUzzhrg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xMd4vUzzhrg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xMd4vUzzhrg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "딩고 뮤직 / dingo music",
+                "tags": [
+                    "딩고뮤직",
+                    "dingo",
+                    "dingomusic",
+                    "music",
+                    "kpop",
+                    "live",
+                    "멜론",
+                    "세로라이브",
+                    "최신가요",
+                    "top100",
+                    "아이돌",
+                    "라이브",
+                    "음악",
+                    "딩고"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "이별... 이별... 이별...ㅠ ㅣ조성확 – 헤어지지 못해 (Prod. 로코베리)",
+                    "description": "▶딩고뮤직 (dingo Music) : http://bit.ly/Dingo__Music\n▶디에프 (df) : http://bit.ly/df_dingo\n▶일소라 (일반인들의 소름돋는 라이브) : http://bit.ly/ilsora\n▶딩고 공식 팬 커뮤니티 (with dingo) : https://withdingo.com \n\ncontact : musicbiz@makeus.com\n\n# # #\n#딩고뮤직 #dingoMusic"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT36S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2878",
+                "likeCount": "25",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

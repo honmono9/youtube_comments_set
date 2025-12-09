@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "b9D2tx7BSqFsP2g5sTO_Woxy8c8",
+        "id": "Ugx5zBRyzgXb9kgogMJ4AaABAg",
+        "snippet": {
+            "channelId": "UC33yEDM8q3N8BeMpZMdP66Q",
+            "videoId": "l_cWw9sCE9w",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Mtk2hWn51atwGmQniuivJjC2jeY",
+                "id": "Ugx5zBRyzgXb9kgogMJ4AaABAg",
+                "snippet": {
+                    "channelId": "UC33yEDM8q3N8BeMpZMdP66Q",
+                    "videoId": "l_cWw9sCE9w",
+                    "textDisplay": "양지은 잔치로구나 ❤",
+                    "textOriginal": "양지은 잔치로구나 ❤",
+                    "authorDisplayName": "@yunhoo9493",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n71nQxiBZmQ-UJ_u7w0SQiXjp1Qjzg5ZZGYJLfqlMC8B6rBNKPl1yh2B1to-7vyED3pw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@yunhoo9493",
+                    "authorChannelId": {
+                        "value": "UCnX4Rmqu83XNT_Hg6khIBVw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-12-09T03:50:53Z",
+                    "updatedAt": "2025-12-09T03:50:53Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

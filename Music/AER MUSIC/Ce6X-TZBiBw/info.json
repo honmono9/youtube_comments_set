@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Q3JdySYTsuqbWNAQxFjbpZ9_qSs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ZVLkqgOYDN62p551n9D5pIYa8mY",
+            "id": "Ce6X-TZBiBw",
+            "snippet": {
+                "publishedAt": "2023-02-06T09:00:05Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[뮤비 공개 D-1] 레이나( Raina) - '그때 우리처럼' #shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ce6X-TZBiBw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ce6X-TZBiBw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ce6X-TZBiBw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ce6X-TZBiBw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ce6X-TZBiBw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[뮤비 공개 D-1] 레이나( Raina) - '그때 우리처럼' #shorts",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT25S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1767",
+                "likeCount": "140",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

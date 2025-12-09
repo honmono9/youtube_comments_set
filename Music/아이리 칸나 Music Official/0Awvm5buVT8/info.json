@@ -1,0 +1,94 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "PJCdHi_PuM4-1vfGwUUyvogicnQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "AMHgm0vvrbqwSnbrx8YasSnq5as",
+            "id": "0Awvm5buVT8",
+            "snippet": {
+                "publishedAt": "2024-01-14T07:27:26Z",
+                "channelId": "UC6YnTqZidFg4WUiXpiCtSSQ",
+                "title": "사랑하는 이에게 이 노래와 꽃다발을 바칠게요💐 | Airi Kanna - 최종화 (Last Flower)",
+                "description": "#아이리칸나 #藍璃かんな #Airi_Kanna #最終花  #the_last_flower #최종화 #stellive #shorts",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0Awvm5buVT8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0Awvm5buVT8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0Awvm5buVT8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0Awvm5buVT8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0Awvm5buVT8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "아이리 칸나 Music Official",
+                "tags": [
+                    "#아이리칸나",
+                    "칸나 노래",
+                    "버튜버",
+                    "스텔라이브",
+                    "강지",
+                    "airikanna",
+                    "airi kanna",
+                    "kanna",
+                    "칸나",
+                    "아이리칸나",
+                    "かんなTheLastFlower",
+                    "ステライブ",
+                    "kanna TheLastFlower",
+                    "칸나 최종화",
+                    "최종화 칸나",
+                    "아이리칸나 최종화",
+                    "最終花",
+                    "TheLastFlower",
+                    "藍璃かんな TheLastFlower",
+                    "최종화"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "사랑하는 이에게 이 노래와 꽃다발을 바칠게요💐 | Airi Kanna - 최종화 (Last Flower)",
+                    "description": "#아이리칸나 #藍璃かんな #Airi_Kanna #最終花  #the_last_flower #최종화 #stellive #shorts"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT55S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "49290",
+                "likeCount": "4145",
+                "favoriteCount": "0",
+                "commentCount": "157"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

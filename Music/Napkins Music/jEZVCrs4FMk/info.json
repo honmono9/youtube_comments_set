@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "dGUp7gkmoNZYm-eWH8QVzytrGPU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "E8J6-DVaPwyrRkaAX4UuIBo7ZZA",
+            "id": "jEZVCrs4FMk",
+            "snippet": {
+                "publishedAt": "2024-04-05T11:54:59Z",
+                "channelId": "UCYxyYe0yGYIlSaPDvwaO3TA",
+                "title": "The World's Strongest Lamdash",
+                "description": "#Lamdash #panasonic  #electricrazor #람대쉬 \n\nThe World's Strongest Lamdash\n\n이 영상은 Panasonic Korea 에서 제품 지원을 받은 \n'면도기 광고' 입니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jEZVCrs4FMk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jEZVCrs4FMk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jEZVCrs4FMk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jEZVCrs4FMk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jEZVCrs4FMk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Napkins Music",
+                "tags": [
+                    "람대쉬",
+                    "Lamdash",
+                    "razor",
+                    "electric razor",
+                    "napkins",
+                    "napkins music",
+                    "면도기",
+                    "panasonic",
+                    "파나소닉"
+                ],
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "The World's Strongest Lamdash",
+                    "description": "#Lamdash #panasonic  #electricrazor #람대쉬 \n\nThe World's Strongest Lamdash\n\n이 영상은 Panasonic Korea 에서 제품 지원을 받은 \n'면도기 광고' 입니다."
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT2M56S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "164568",
+                "likeCount": "1064",
+                "favoriteCount": "0",
+                "commentCount": "97"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

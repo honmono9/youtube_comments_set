@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "S1h6CstU8tB5RJ62VpheM9kq8W8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "-CpcxqfjglD6gqobaAd_kaTKegU",
+            "id": "EgqeUKV5uZU",
+            "snippet": {
+                "publishedAt": "2025-12-09T10:07:21Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "คำพิพากษา | ᴬˡᵇᵘᵐ -ᴼⁿᵉ ᵂᵉᵇ ᴮᴹᴬᴬᴿᴱᴺᴬ© เพลงเต็มในทุก แพลตฟอร์ม #𝐜𝐢𝐧𝐞𝐦𝐚𝐭𝐢𝐜𝐫𝐨𝐜𝐤 #𝐦𝐮𝐬𝐢𝐜",
+                "description": "⚡💔ศาลหัวใจ มีแต่คำพิพากษาที่ทำร้ายกันซ้ำ ๆ\n\nคำพิพากษา | ᴬˡᵇᵘᵐ -ᴼⁿᵉ ᵂᵉᵇ ᴮᴹᴬᴬᴿᴱᴺᴬ© เพลงเต็มในทุก แพลตฟอร์ม\n#𝐜𝐢𝐧𝐞𝐦𝐚𝐭𝐢𝐜𝐫𝐨𝐜𝐤 #𝐦𝐮𝐬𝐢𝐜 #𝐁𝐮𝐫𝐚𝐩𝐡𝐚𝐦𝐮𝐬𝐢𝐜𝐚𝐫𝐞𝐧𝐚",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EgqeUKV5uZU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EgqeUKV5uZU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EgqeUKV5uZU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EgqeUKV5uZU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EgqeUKV5uZU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "tags": [
+                    "คำพิพากษา",
+                    "ศาลหัวใจ",
+                    "เพลงใหม่",
+                    "Cinematic rock",
+                    "BMAarena"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "คำพิพากษา | ᴬˡᵇᵘᵐ -ᴼⁿᵉ ᵂᵉᵇ ᴮᴹᴬᴬᴿᴱᴺᴬ© เพลงเต็มในทุก แพลตฟอร์ม #𝐜𝐢𝐧𝐞𝐦𝐚𝐭𝐢𝐜𝐫𝐨𝐜𝐤 #𝐦𝐮𝐬𝐢𝐜",
+                    "description": "⚡💔ศาลหัวใจ มีแต่คำพิพากษาที่ทำร้ายกันซ้ำ ๆ\n\nคำพิพากษา | ᴬˡᵇᵘᵐ -ᴼⁿᵉ ᵂᵉᵇ ᴮᴹᴬᴬᴿᴱᴺᴬ© เพลงเต็มในทุก แพลตฟอร์ม\n#𝐜𝐢𝐧𝐞𝐦𝐚𝐭𝐢𝐜𝐫𝐨𝐜𝐤 #𝐦𝐮𝐬𝐢𝐜 #𝐁𝐮𝐫𝐚𝐩𝐡𝐚𝐦𝐮𝐬𝐢𝐜𝐚𝐫𝐞𝐧𝐚"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT38S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "54",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

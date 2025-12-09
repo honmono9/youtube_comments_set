@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "OZcd483oCBQuzWgG7XXJz5-fWe4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "l0eU6K0NfTy5ORE_A0s6Rzk9maQ",
+            "id": "A4H5DpYaS2s",
+            "snippet": {
+                "publishedAt": "2025-12-07T09:34:39Z",
+                "channelId": "UCL_O5w1_yeGyukBIRB_1alw",
+                "title": "This is Holiday Season 🥳🎄#christmas #decemberplaylist #merrychristmas #holidaymusic",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A4H5DpYaS2s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A4H5DpYaS2s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A4H5DpYaS2s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/A4H5DpYaS2s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/A4H5DpYaS2s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Xadiya Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "id",
+                "localized": {
+                    "title": "This is Holiday Season 🥳🎄#christmas #decemberplaylist #merrychristmas #holidaymusic",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "18",
+                "likeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

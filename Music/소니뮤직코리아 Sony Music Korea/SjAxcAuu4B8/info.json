@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "VbP7-YV6Ts7LxmgWLZtxfj0LvSI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "lkU7YDMQrG-NvEcMzQCRWXRMKBk",
+            "id": "SjAxcAuu4B8",
+            "snippet": {
+                "publishedAt": "2015-04-29T03:58:22Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "[MV] 이현우 (Lee Hyun-woo) - Happy Magic - 앵그리맘 OST 4교시 (Angry Mom OST Part. 4)",
+                "description": "이현우 (Lee Hyun-woo) - Happy Magic - 앵그리맘 OST 4교시 (Angry Mom OST Part. 4)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SjAxcAuu4B8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SjAxcAuu4B8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SjAxcAuu4B8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SjAxcAuu4B8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SjAxcAuu4B8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "tags": [
+                    "Soundtrack",
+                    "Angry Mom",
+                    "Angry Mom OST Part. 4",
+                    "OST Part. 4",
+                    "Lee Hyun Woo",
+                    "앵그리맘",
+                    "이현우",
+                    "뮤직비디오",
+                    "MV"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[MV] 이현우 (Lee Hyun-woo) - Happy Magic - 앵그리맘 OST 4교시 (Angry Mom OST Part. 4)",
+                    "description": "이현우 (Lee Hyun-woo) - Happy Magic - 앵그리맘 OST 4교시 (Angry Mom OST Part. 4)"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "124069",
+                "likeCount": "831",
+                "favoriteCount": "0",
+                "commentCount": "31"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

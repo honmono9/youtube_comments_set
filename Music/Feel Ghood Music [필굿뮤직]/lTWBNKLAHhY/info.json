@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ZiOtLdp3sSL0tZ8lRSg9g-GBaA0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "pgzWprLsNudybe3EyNk6mpp4F2U",
+            "id": "lTWBNKLAHhY",
+            "snippet": {
+                "publishedAt": "2021-04-28T09:12:01Z",
+                "channelId": "UC8gRco988IELoTNTl4OBd2w",
+                "title": "BIBI (비비) - 'BAD SAD AND MAD' Official M/V",
+                "description": "비비 (BIBI)\n'BAD SAD AND MAD' Music Video \n\n’인생은 나쁜X (Life is a Bi…)’\n\n1. Umm…Life \n2. BAD SAD AND MAD \n3. 피리 (PIRI the dog)\n4. Birthday Cake\n5. 인생은 나쁜년 (Life is a Bi…) \n\n@nakedbibi \n\nOUT NOW!\n \n\n#비비​​ #BIBI​​ #인생은나쁜X​​ #BAD​ SAD AND MAD\n#필굿뮤직​​ #FeelghoodMusic​​ #2ndEP​\n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4​​\n - Website : http://www.feelghood.com/​​ \n - Facebook : https://www.facebook.com/Feelghood",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lTWBNKLAHhY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lTWBNKLAHhY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lTWBNKLAHhY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lTWBNKLAHhY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lTWBNKLAHhY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Feel Ghood Music [필굿뮤직]",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "BIBI (비비) - 'BAD SAD AND MAD' Official M/V",
+                    "description": "비비 (BIBI)\n'BAD SAD AND MAD' Music Video \n\n’인생은 나쁜X (Life is a Bi…)’\n\n1. Umm…Life \n2. BAD SAD AND MAD \n3. 피리 (PIRI the dog)\n4. Birthday Cake\n5. 인생은 나쁜년 (Life is a Bi…) \n\n@nakedbibi \n\nOUT NOW!\n \n\n#비비​​ #BIBI​​ #인생은나쁜X​​ #BAD​ SAD AND MAD\n#필굿뮤직​​ #FeelghoodMusic​​ #2ndEP​\n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4​​\n - Website : http://www.feelghood.com/​​ \n - Facebook : https://www.facebook.com/Feelghood"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "831116",
+                "likeCount": "43890",
+                "favoriteCount": "0",
+                "commentCount": "818"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

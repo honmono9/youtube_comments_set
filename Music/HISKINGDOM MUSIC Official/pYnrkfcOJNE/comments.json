@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "uGawl_qjB_TrZGmI33Oytq7JaMg",
+        "id": "UgwD-Jz02hmmoWxB8yp4AaABAg",
+        "snippet": {
+            "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+            "videoId": "pYnrkfcOJNE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "cKBc2Asy9dzCOJTSzjsL9MSHygM",
+                "id": "UgwD-Jz02hmmoWxB8yp4AaABAg",
+                "snippet": {
+                    "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+                    "videoId": "pYnrkfcOJNE",
+                    "textDisplay": "장근희님 은혜로운 찬양 되었습니다.^^😅😊🎉❤",
+                    "textOriginal": "장근희님 은혜로운 찬양 되었습니다.^^😅😊🎉❤",
+                    "authorDisplayName": "@김수종-k9y",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kNtDY3GSx4x_pDArMY2Sq8tgPkCgnSRm1nWh17ZCc=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EA%B9%80%EC%88%98%EC%A2%85-k9y",
+                    "authorChannelId": {
+                        "value": "UCYZuG1U9L1AnWFzJUUBnsYQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-09-27T15:54:23Z",
+                    "updatedAt": "2025-09-27T15:54:23Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

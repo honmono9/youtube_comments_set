@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "n-MiYMY7NJvd_A-LQAGYhVuSMzQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "aoQbZtg6Z01DEeS2KZPh1I6cDVs",
+            "id": "sVoQSpoj4Ak",
+            "snippet": {
+                "publishedAt": "2024-03-08T09:00:43Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "[불면 라이브] 꿈보다 더 좋은 자장가 🛌 (with. 이준형)",
+                "description": "2024년 새해를 맞이해 오랜만에 돌아온 불면 라이브\n세 번째 주자 유다빈밴드의 기타리스트이자 싱어송라이터 '이준형' \n잔잔한 목소리와 기타 연주를 통해 달콤한 꿈보다 더 좋은 ASMR \n자장가를 들어보세요~💤\n\n인스타그램\n\n이준형:\nhttps://www.instagram.com/ruen14/\n\n유다빈밴드:\nhttps://www.instagram.com/ydbband/\n\n\n#유다빈밴드 #이준형 #ydbband #ASMR #불면라이브",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sVoQSpoj4Ak/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sVoQSpoj4Ak/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sVoQSpoj4Ak/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sVoQSpoj4Ak/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sVoQSpoj4Ak/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[불면 라이브] 꿈보다 더 좋은 자장가 🛌 (with. 이준형)",
+                    "description": "2024년 새해를 맞이해 오랜만에 돌아온 불면 라이브\n세 번째 주자 유다빈밴드의 기타리스트이자 싱어송라이터 '이준형' \n잔잔한 목소리와 기타 연주를 통해 달콤한 꿈보다 더 좋은 ASMR \n자장가를 들어보세요~💤\n\n인스타그램\n\n이준형:\nhttps://www.instagram.com/ruen14/\n\n유다빈밴드:\nhttps://www.instagram.com/ydbband/\n\n\n#유다빈밴드 #이준형 #ydbband #ASMR #불면라이브"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT29M17S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1047",
+                "likeCount": "71",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

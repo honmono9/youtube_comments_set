@@ -1,0 +1,112 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "BsG5uwwojCB2fwJu7mutJK-mavk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "NNIIcrHbkhkp0bImkxdqviIS6Qk",
+            "id": "_477vKuFOXA",
+            "snippet": {
+                "publishedAt": "2025-04-26T16:11:35Z",
+                "channelId": "UClbjf4pXBzXVk3ImyeBa__w",
+                "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 시험, 넌 뒤졌다",
+                "description": "0:00 Confetti - Rob A Bank\n0:00 Confetti - Rob A Bank\n\n2:51 grandson - Dirty\n2:51 grandson - Dirty\n\n6:18 AJR - Burn the House Down\n6:18 AJR - Burn the House Down\n\n9:49 Dan Farber - Don`t Touch\n9:49 Dan Farber - Don`t Touch\n\n12:25 Macklemore & Ryan Lewis (feat. Ray Dalton) - Can't Hold Us\n12:25 Macklemore & Ryan Lewis (feat. Ray Dalton) - Can't Hold Us\n\n17:14 Rina Sawayama - Eye For An Eye\n17:14 Rina Sawayama - Eye For An Eye\n\n20:16 The Heavy - Better As One\n20:16 The Heavy - Better As One",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_477vKuFOXA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_477vKuFOXA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_477vKuFOXA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_477vKuFOXA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_477vKuFOXA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뮤플비 Music Plus Movie",
+                "tags": [
+                    "팝송",
+                    "영화",
+                    "팝송가사해석",
+                    "가사해석",
+                    "배드가이즈",
+                    "배드가이즈2",
+                    "badguys",
+                    "신난는팝송",
+                    "신나는팝송",
+                    "종이의집팝송",
+                    "종이의집",
+                    "은행털때듣는",
+                    "홉스앤쇼",
+                    "금고 털기",
+                    "도둑",
+                    "도둑질",
+                    "도둑팝송",
+                    "신나는팝송플리",
+                    "리듬",
+                    "신나는플리",
+                    "운동할때듣는플리",
+                    "운동플리",
+                    "운동할때듣는팝송",
+                    "운동플리모음",
+                    "러닝플리",
+                    "시험공부플리",
+                    "시험플리",
+                    "공부시홈",
+                    "시험공부",
+                    "시험 잘치는 플리",
+                    "시험음악",
+                    "시험공부노래"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 시험, 넌 뒤졌다",
+                    "description": "0:00 Confetti - Rob A Bank\n0:00 Confetti - Rob A Bank\n\n2:51 grandson - Dirty\n2:51 grandson - Dirty\n\n6:18 AJR - Burn the House Down\n6:18 AJR - Burn the House Down\n\n9:49 Dan Farber - Don`t Touch\n9:49 Dan Farber - Don`t Touch\n\n12:25 Macklemore & Ryan Lewis (feat. Ray Dalton) - Can't Hold Us\n12:25 Macklemore & Ryan Lewis (feat. Ray Dalton) - Can't Hold Us\n\n17:14 Rina Sawayama - Eye For An Eye\n17:14 Rina Sawayama - Eye For An Eye\n\n20:16 The Heavy - Better As One\n20:16 The Heavy - Better As One"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT23M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "7050",
+                "likeCount": "166",
+                "favoriteCount": "0",
+                "commentCount": "26"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

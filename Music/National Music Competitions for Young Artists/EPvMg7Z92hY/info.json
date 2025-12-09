@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "onckOBDxJUceUdb0Ckd-XmagYUw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "iazSvMjtMaWxzg7oOc0Cv1jSUFM",
+            "id": "EPvMg7Z92hY",
+            "snippet": {
+                "publishedAt": "2020-09-19T14:17:27Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "Kundiman, Kumintang, Danza Habanera, and other Transcultural Filipino Music Genres",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EPvMg7Z92hY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EPvMg7Z92hY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EPvMg7Z92hY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EPvMg7Z92hY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EPvMg7Z92hY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "fil",
+                "localized": {
+                    "title": "Kundiman, Kumintang, Danza Habanera, and other Transcultural Filipino Music Genres",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2H12M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "738",
+                "likeCount": "18",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

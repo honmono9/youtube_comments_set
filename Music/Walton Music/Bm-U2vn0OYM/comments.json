@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "3lsLjSptg1RtX9vN71W9Jmgm5w0",
+        "id": "UgzHR65tvJv9GEFEpHR4AaABAg",
+        "snippet": {
+            "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+            "videoId": "Bm-U2vn0OYM",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "UDj73bnzLlioC_5sy2b4-hy_aM4",
+                "id": "UgzHR65tvJv9GEFEpHR4AaABAg",
+                "snippet": {
+                    "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                    "videoId": "Bm-U2vn0OYM",
+                    "textDisplay": "It’s too bad you can’t purchase this via electronic download.",
+                    "textOriginal": "It’s too bad you can’t purchase this via electronic download.",
+                    "authorDisplayName": "@kenturner6403",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l0EqzIjt5enEZuJqr-xS6YR0ErkWNa1dXc5oQ16C3Ucdk=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@kenturner6403",
+                    "authorChannelId": {
+                        "value": "UCuN84PtbEJcHhUetSMpRgfw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-10-18T16:07:44Z",
+                    "updatedAt": "2025-10-18T16:07:44Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

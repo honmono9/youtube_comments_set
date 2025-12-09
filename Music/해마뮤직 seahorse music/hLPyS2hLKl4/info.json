@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "lUDxogK24f8NW0bwN2m7jY_vn84",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "-RmWIj9wm6G4KRkaHsMSXGBIyqo",
+            "id": "hLPyS2hLKl4",
+            "snippet": {
+                "publishedAt": "2025-12-05T09:01:10Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "All I Want For Christmas Is You (Harmony ver) 🎄 피아노 건반 6개로 쉽게 연주하기 🎹",
+                "description": "#피아노커버 #pianocover #피아노연주 #alliwantforchristmasisyou #머라이어캐리 #크리스마스 #캐롤 #carol #christmas \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hLPyS2hLKl4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hLPyS2hLKl4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hLPyS2hLKl4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hLPyS2hLKl4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hLPyS2hLKl4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "머라이어캐리",
+                    "all i want for christmas is you",
+                    "piano",
+                    "피아노",
+                    "캐롤",
+                    "carol"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "All I Want For Christmas Is You (Harmony ver) 🎄 피아노 건반 6개로 쉽게 연주하기 🎹",
+                    "description": "#피아노커버 #pianocover #피아노연주 #alliwantforchristmasisyou #머라이어캐리 #크리스마스 #캐롤 #carol #christmas \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1425463",
+                "likeCount": "7743",
+                "favoriteCount": "0",
+                "commentCount": "66"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

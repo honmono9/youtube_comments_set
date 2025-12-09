@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "YFFxHNbk8dIW-0TntLrxkTqGVJM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "tr1LsZzvpVAmE7mFjA_HcAqVaSI",
+            "id": "307OSGjqdQ0",
+            "snippet": {
+                "publishedAt": "2025-01-19T12:00:03Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "[Teaser2] 공기남 - 우울한 별이 지네요 (Feat. 고남준)",
+                "description": "[Teaser2] 공기남 - 우울한 별이 지네요 (Feat. 고남준)\n2025. 1. 21 12PM release\n\n#공기남 #우울한별이지네요 #teaser #에어뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/307OSGjqdQ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/307OSGjqdQ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/307OSGjqdQ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/307OSGjqdQ0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/307OSGjqdQ0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Teaser2] 공기남 - 우울한 별이 지네요 (Feat. 고남준)",
+                    "description": "[Teaser2] 공기남 - 우울한 별이 지네요 (Feat. 고남준)\n2025. 1. 21 12PM release\n\n#공기남 #우울한별이지네요 #teaser #에어뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M4S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "238",
+                "likeCount": "20",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

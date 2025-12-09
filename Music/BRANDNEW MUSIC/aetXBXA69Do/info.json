@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "5GDj9J2JcGqf8J6Y7UCKruOg4nU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "rFe1z1hT3frlBxQ58vtmvfK76Jo",
+            "id": "aetXBXA69Do",
+            "snippet": {
+                "publishedAt": "2025-02-07T11:00:11Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "풀버전을 가르쳐줘👇",
+                "description": "한해, 문세윤 SINGLE '가르쳐줘' \n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music\n\n#한해 #HANHAE\n#문세윤 #MoonSeYoon\n#가르쳐줘 #TeachMe\n#브랜뉴뮤직 #BRANDNEWMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aetXBXA69Do/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aetXBXA69Do/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aetXBXA69Do/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aetXBXA69Do/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aetXBXA69Do/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "풀버전을 가르쳐줘👇",
+                    "description": "한해, 문세윤 SINGLE '가르쳐줘' \n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music\n\n#한해 #HANHAE\n#문세윤 #MoonSeYoon\n#가르쳐줘 #TeachMe\n#브랜뉴뮤직 #BRANDNEWMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "11447",
+                "likeCount": "589",
+                "favoriteCount": "0",
+                "commentCount": "31"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

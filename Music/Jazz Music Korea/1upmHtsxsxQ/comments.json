@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "DfiFusKPG6T_2ACkjG70fhs5GLM",
+        "id": "UgybjW5gklgk3y-b7c94AaABAg",
+        "snippet": {
+            "channelId": "UCsfYd7AVFk_ASiMudok6_sQ",
+            "videoId": "1upmHtsxsxQ",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "4K7UjRyNHKUb5_ANzBBXvG-OdJw",
+                "id": "UgybjW5gklgk3y-b7c94AaABAg",
+                "snippet": {
+                    "channelId": "UCsfYd7AVFk_ASiMudok6_sQ",
+                    "videoId": "1upmHtsxsxQ",
+                    "textDisplay": "너무 좋아요!💐",
+                    "textOriginal": "너무 좋아요!💐",
+                    "authorDisplayName": "@BrownHee",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/oKNXECpkBuQe9BE_4dhX4i1rW-I_GKOF6SBM5bDosnkqyQfbs78UALm0YuL5RpQHYJD7FGmq=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@BrownHee",
+                    "authorChannelId": {
+                        "value": "UCdbCvcnrx_fCzsmesdmNfPQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2023-08-25T00:01:55Z",
+                    "updatedAt": "2023-08-25T00:01:55Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

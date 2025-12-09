@@ -1,0 +1,100 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "V8mrT-kkKVOyxTJgWX3sDpkuzO0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "x4YaGMpqFbkmN-UEaGD87YMxG-g",
+            "id": "ZzEUckwKDlY",
+            "snippet": {
+                "publishedAt": "2025-02-11T09:00:42Z",
+                "channelId": "UCFjKZImEGGPqOz7P9UZ0IlQ",
+                "title": "#NotThatGirl OUT NOW",
+                "description": "#이지카이트 #Izykite #NotThatGirl\n\n이지카이트 (Izykite) - Not That Girl\n\n✔️ 𝙁𝙤𝙡𝙡𝙤𝙬 𝙄𝙯𝙮𝙠𝙞𝙩𝙚\n∙ https://www.instagram.com/izykite/\n∙ https://www.instagram.com/izykite_official/\n∙ https://www.youtube.com/@Izykite \n∙ https://twitter.com/Izykite_\n∙ https://www.facebook.com/izykite",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZzEUckwKDlY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZzEUckwKDlY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZzEUckwKDlY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZzEUckwKDlY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZzEUckwKDlY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뉴런뮤직 neuron music",
+                "tags": [
+                    "뉴런뮤직",
+                    "라이브",
+                    "live",
+                    "neuron music",
+                    "이지카이트",
+                    "Izykite",
+                    "이지연",
+                    "music video",
+                    "mv",
+                    "뮤직비디오",
+                    "뮤비",
+                    "리릭",
+                    "lyrics",
+                    "lyric video",
+                    "k-pop",
+                    "kpop",
+                    "pop",
+                    "팝송",
+                    "인디",
+                    "발라드",
+                    "싱어송라이터",
+                    "notthatgirl",
+                    "not that girl",
+                    "이지카이트 not that girl",
+                    "이지카이트 낫댓걸",
+                    "not that girl visualizer"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "#NotThatGirl OUT NOW",
+                    "description": "#이지카이트 #Izykite #NotThatGirl\n\n이지카이트 (Izykite) - Not That Girl\n\n✔️ 𝙁𝙤𝙡𝙡𝙤𝙬 𝙄𝙯𝙮𝙠𝙞𝙩𝙚\n∙ https://www.instagram.com/izykite/\n∙ https://www.instagram.com/izykite_official/\n∙ https://www.youtube.com/@Izykite \n∙ https://twitter.com/Izykite_\n∙ https://www.facebook.com/izykite"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT51S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "259",
+                "likeCount": "11",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

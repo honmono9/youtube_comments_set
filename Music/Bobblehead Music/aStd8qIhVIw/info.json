@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "3-Gd_Wu1EPLjkKOiU_wcpYxtoD4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "HqDBkG4c9X0KsxsqELcl3fIfy9o",
+            "id": "aStd8qIhVIw",
+            "snippet": {
+                "publishedAt": "2023-06-26T02:46:30Z",
+                "channelId": "UC6DbQObO-YiG5y3ojp0nZyA",
+                "title": "WATERBOMB 2023 KOALA (코알라) - '끄덕여 (GOOD 2 GO) Feat. Jay Park (박재범 WITH GROOVYROOM & BLASE",
+                "description": "WATERBOMB 2023 KOALA (코알라) - '끄덕여 (GOOD 2 GO) Feat. Jay Park (박재범 WITH GROOVYROOM & BLASE LIVE",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aStd8qIhVIw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aStd8qIhVIw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aStd8qIhVIw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aStd8qIhVIw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aStd8qIhVIw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bobblehead Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "WATERBOMB 2023 KOALA (코알라) - '끄덕여 (GOOD 2 GO) Feat. Jay Park (박재범 WITH GROOVYROOM & BLASE",
+                    "description": "WATERBOMB 2023 KOALA (코알라) - '끄덕여 (GOOD 2 GO) Feat. Jay Park (박재범 WITH GROOVYROOM & BLASE LIVE"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT3M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6773",
+                "likeCount": "141",
+                "favoriteCount": "0",
+                "commentCount": "24"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "NaQbBgRPBjWr6_FrqjfGq0GPAL0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ixCc59Yvkzt7WZ7GKKvYGO6oE3k",
+            "id": "UM9bBa2bZyY",
+            "snippet": {
+                "publishedAt": "2024-12-02T04:07:22Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "2024 NAMCYA Closing Ceremonies and Concert of Winners",
+                "description": "2024 NAMCYA: 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐂𝐥𝐨𝐬𝐢𝐧𝐠 𝐂𝐞𝐫𝐞𝐦𝐨𝐧𝐢𝐞𝐬 𝐚𝐧𝐝 𝐂𝐨𝐧𝐜𝐞𝐫𝐭 𝐨𝐟 𝐖𝐢𝐧𝐧𝐞𝐫𝐬\n—\nThe 2024 National Music Competitions for Young Artists (NAMCYA): 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐂𝐥𝐨𝐬𝐢𝐧𝐠 𝐂𝐞𝐫𝐞𝐦𝐨𝐧𝐢𝐞𝐬 𝐚𝐧𝐝 𝐂𝐨𝐧𝐜𝐞𝐫𝐭 𝐨𝐟 𝐖𝐢𝐧𝐧𝐞𝐫𝐬 is in partnership with the National Commission for Culture and the Arts and the Cultural Center of the Philippines, and in cooperation with The Metropolitan Theater and DepEd Philippines.\n\n#NAMCYA\n#NAMCYA2024\n#SalinlahingMusika\n#GalingNAMCYA\n#NAMCYAatTheMet\n#YoungArtists",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UM9bBa2bZyY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UM9bBa2bZyY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UM9bBa2bZyY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UM9bBa2bZyY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UM9bBa2bZyY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "2024 NAMCYA Closing Ceremonies and Concert of Winners",
+                    "description": "2024 NAMCYA: 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐂𝐥𝐨𝐬𝐢𝐧𝐠 𝐂𝐞𝐫𝐞𝐦𝐨𝐧𝐢𝐞𝐬 𝐚𝐧𝐝 𝐂𝐨𝐧𝐜𝐞𝐫𝐭 𝐨𝐟 𝐖𝐢𝐧𝐧𝐞𝐫𝐬\n—\nThe 2024 National Music Competitions for Young Artists (NAMCYA): 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐂𝐥𝐨𝐬𝐢𝐧𝐠 𝐂𝐞𝐫𝐞𝐦𝐨𝐧𝐢𝐞𝐬 𝐚𝐧𝐝 𝐂𝐨𝐧𝐜𝐞𝐫𝐭 𝐨𝐟 𝐖𝐢𝐧𝐧𝐞𝐫𝐬 is in partnership with the National Commission for Culture and the Arts and the Cultural Center of the Philippines, and in cooperation with The Metropolitan Theater and DepEd Philippines.\n\n#NAMCYA\n#NAMCYA2024\n#SalinlahingMusika\n#GalingNAMCYA\n#NAMCYAatTheMet\n#YoungArtists"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3H19M23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1382",
+                "likeCount": "19",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

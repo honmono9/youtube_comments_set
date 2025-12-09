@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "eWL1hcW68fWLYIgEJMobPvN26kA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "3tthWhy8jnc9f23feERQTDsbF7Q",
+            "id": "StIH-3AoanY",
+            "snippet": {
+                "publishedAt": "2025-07-19T03:00:27Z",
+                "channelId": "UC9LkgSReKybPl-gABo3fbRQ",
+                "title": "[경음악] 국악으로 엮어본 그리운 멜로디 경음악 - 황성옛터",
+                "description": "☑ 신청곡은 커뮤니티 댓글로 적어주세요  ▶https://www.youtube.com/@kbsmediamusicplus/community\n\n국악으로 엮어본 그리운 멜로디 경음악 - 황성옛터\n\n#국악으로엮어본그리운멜로디경음악 #황성옛터 #지구레코드",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/StIH-3AoanY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/StIH-3AoanY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/StIH-3AoanY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/StIH-3AoanY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/StIH-3AoanY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS Media Music +",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[경음악] 국악으로 엮어본 그리운 멜로디 경음악 - 황성옛터",
+                    "description": "☑ 신청곡은 커뮤니티 댓글로 적어주세요  ▶https://www.youtube.com/@kbsmediamusicplus/community\n\n국악으로 엮어본 그리운 멜로디 경음악 - 황성옛터\n\n#국악으로엮어본그리운멜로디경음악 #황성옛터 #지구레코드"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M38S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "122",
+                "likeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

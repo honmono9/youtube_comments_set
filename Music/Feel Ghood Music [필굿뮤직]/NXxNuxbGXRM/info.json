@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "4hAoyMif2OOw1LDBXF9EOdjABU8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "FqBc9HlJqHF8zFljogMNGW8j2h4",
+            "id": "NXxNuxbGXRM",
+            "snippet": {
+                "publishedAt": "2020-09-01T09:21:35Z",
+                "channelId": "UC8gRco988IELoTNTl4OBd2w",
+                "title": "Bizzy (비지) - '아름다운 (ONCE IN MY LIFE)' Official M/V Teaser 1",
+                "description": "Bizzy⁣\n아름다운(ONCE IN MY LIFE)⁣\n20.09.05 정오 🕛 Lunchtime🍴 ⁣\nOUT SOON ⁣\n-⁣\n@bizzionary⁣\n#아름다운 #비지 #Bizzy #onceinmylife",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NXxNuxbGXRM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NXxNuxbGXRM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NXxNuxbGXRM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NXxNuxbGXRM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NXxNuxbGXRM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Feel Ghood Music [필굿뮤직]",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Bizzy (비지) - '아름다운 (ONCE IN MY LIFE)' Official M/V Teaser 1",
+                    "description": "Bizzy⁣\n아름다운(ONCE IN MY LIFE)⁣\n20.09.05 정오 🕛 Lunchtime🍴 ⁣\nOUT SOON ⁣\n-⁣\n@bizzionary⁣\n#아름다운 #비지 #Bizzy #onceinmylife"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT51S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "915",
+                "likeCount": "135",
+                "favoriteCount": "0",
+                "commentCount": "17"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

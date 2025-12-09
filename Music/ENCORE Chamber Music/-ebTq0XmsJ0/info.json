@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "joosZYXg33rTeQhgnbljGdYNEX8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Op5-G5lFM8ud4qyUlZpsdPoXwfc",
+            "id": "-ebTq0XmsJ0",
+            "snippet": {
+                "publishedAt": "2019-08-01T13:46:42Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "071219 Sarasate Zigeunerweisen, Op. 20",
+                "description": "ENCORE Chamber Music 2019 Season 'La bohème' \nSummer Academy Blooming Artists Concert\n\nNicholas Alexander Vasilakopoulos-Kostopoulos, violin (age 14)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-ebTq0XmsJ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-ebTq0XmsJ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-ebTq0XmsJ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-ebTq0XmsJ0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-ebTq0XmsJ0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "071219 Sarasate Zigeunerweisen, Op. 20",
+                    "description": "ENCORE Chamber Music 2019 Season 'La bohème' \nSummer Academy Blooming Artists Concert\n\nNicholas Alexander Vasilakopoulos-Kostopoulos, violin (age 14)"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT8M38S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1729",
+                "likeCount": "13",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

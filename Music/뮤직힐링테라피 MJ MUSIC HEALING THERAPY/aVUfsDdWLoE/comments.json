@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "hsdL81kznMjIfz0wzRh-ri_LTWo",
+        "id": "UgxOUpKGk6nQ8b3JeN14AaABAg",
+        "snippet": {
+            "channelId": "UCFenHjfqkwDFalw73fHvjww",
+            "videoId": "aVUfsDdWLoE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "j2SoP6Gl_yf-rOQGnqbczHjtoew",
+                "id": "UgxOUpKGk6nQ8b3JeN14AaABAg",
+                "snippet": {
+                    "channelId": "UCFenHjfqkwDFalw73fHvjww",
+                    "videoId": "aVUfsDdWLoE",
+                    "textDisplay": "이 영상은 바다, 바람, 그리고 조용한 순간 속에서 진짜 '쉼'이 무엇인지 이야기합니다.\n바쁜 일상 속 지친 마음을 위한 힐링과 감성, 그리고 위로가 필요하다면 이 짧은 순간에 잠시 멈춰보세요.",
+                    "textOriginal": "이 영상은 바다, 바람, 그리고 조용한 순간 속에서 진짜 '쉼'이 무엇인지 이야기합니다.\n바쁜 일상 속 지친 마음을 위한 힐링과 감성, 그리고 위로가 필요하다면 이 짧은 순간에 잠시 멈춰보세요.",
+                    "authorDisplayName": "@therapymusic-pr8vg",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/GyKAwTEKIvpCTBHKYpyY2dOmSppcD3tYqRcbvGBCpLVh35LzNES8NiQ1H_gZCHpu7jBwITktSA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@therapymusic-pr8vg",
+                    "authorChannelId": {
+                        "value": "UCFenHjfqkwDFalw73fHvjww"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 3,
+                    "publishedAt": "2025-08-10T15:56:53Z",
+                    "updatedAt": "2025-08-10T15:56:53Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Ct_pEwhS-gJ9qx1gZks2nv1Npcg",
+        "id": "Ugxi0hbjCibaFTcHd9d4AaABAg",
+        "snippet": {
+            "channelId": "UCFenHjfqkwDFalw73fHvjww",
+            "videoId": "aVUfsDdWLoE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "0PNFlP2pCud02tw0IPAIXAYp1Ac",
+                "id": "Ugxi0hbjCibaFTcHd9d4AaABAg",
+                "snippet": {
+                    "channelId": "UCFenHjfqkwDFalw73fHvjww",
+                    "videoId": "aVUfsDdWLoE",
+                    "textDisplay": "❤❤",
+                    "textOriginal": "❤❤",
+                    "authorDisplayName": "@sonacapkova",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/nSPuYGvfMc6YkG4ESRfDZnLwy1Pj3DMHNebRR4k-Gvvx4Q9AysAMNoNhfbdQatqEN0u-bpKoAg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@sonacapkova",
+                    "authorChannelId": {
+                        "value": "UCpl89mXN5HKnG4I66oHyyvg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-26T20:08:37Z",
+                    "updatedAt": "2025-11-26T20:08:37Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

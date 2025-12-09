@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "KEUG5G8LNbpndcmyuzk4TgAVS4A",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "dtLQP-ivogD2CBxVGo-heKcv-fA",
+            "id": "ipqU0cLf7LU",
+            "snippet": {
+                "publishedAt": "2022-10-14T23:50:06Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "살랑살랑 불어오는 가을 바람처럼 가볍고 기분 좋아지는 팝송과 함께🍃",
+                "description": "📸 Micha Frank",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ipqU0cLf7LU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ipqU0cLf7LU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ipqU0cLf7LU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ipqU0cLf7LU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ipqU0cLf7LU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "기분좋아지는 팝송",
+                    "팝송 추천",
+                    "팝송 플리",
+                    "가을 팝송",
+                    "가을 플리",
+                    "플리",
+                    "playlist",
+                    "good vibes"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "살랑살랑 불어오는 가을 바람처럼 가볍고 기분 좋아지는 팝송과 함께🍃",
+                    "description": "📸 Micha Frank"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT30M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "29567",
+                "likeCount": "458",
+                "favoriteCount": "0",
+                "commentCount": "38"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

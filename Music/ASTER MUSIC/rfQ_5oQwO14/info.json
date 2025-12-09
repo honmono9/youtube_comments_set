@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "10QEo-iy-u31w7gnCHEBdxQ6MGU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "_Qa3z3Ig2P4FDEdGXhIk8va3LZ8",
+            "id": "rfQ_5oQwO14",
+            "snippet": {
+                "publishedAt": "2025-12-07T09:01:31Z",
+                "channelId": "UC3fPnB3ds2xBY1PTtgkCCYw",
+                "title": "DJ장비를 조심해야하는 이유(Feat.진상)🥲",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rfQ_5oQwO14/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rfQ_5oQwO14/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rfQ_5oQwO14/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rfQ_5oQwO14/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rfQ_5oQwO14/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ASTER MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "DJ장비를 조심해야하는 이유(Feat.진상)🥲",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "22384",
+                "likeCount": "41",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

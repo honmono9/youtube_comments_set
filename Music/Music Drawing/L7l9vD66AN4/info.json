@@ -1,0 +1,91 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "W1hfv46ZKZIsSn1o6cAs1RjSRk4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "hQ8MRfTWQSiCBXoHu3ezJH5O-6Y",
+            "id": "L7l9vD66AN4",
+            "snippet": {
+                "publishedAt": "2025-07-03T11:45:07Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"지친 하루를 지나서\" 수고한 당신을 위한 수면음악",
+                "description": "지친 하루의 끝, 늦은 밤에..\n편안한 음악과\n따뜻한 차 한잔으로\n나를 위로하는 시간을 가지길 바랍니다.\n오늘도 수고했다고,\n나를 토닥여주길 바랍니다 :)\n\n\"오늘도 수고했어요!\"\n\n\n🎵음악 제목              \n01.도시 불빛\n02.See you\n\n\n#수면유도음악 #잠잘때듣는음악 #불면증에좋은음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L7l9vD66AN4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L7l9vD66AN4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L7l9vD66AN4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/L7l9vD66AN4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/L7l9vD66AN4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "수면음악",
+                    "숙면음악",
+                    "수면유도음악",
+                    "편안한음악",
+                    "편안해지는음악",
+                    "잠잘때듣는음악",
+                    "잠오는음악",
+                    "자기전에듣는음악",
+                    "불면증에좋은음악",
+                    "SleepMusic",
+                    "SleepingMusic",
+                    "RelaxMusic",
+                    "RelaxingMusic",
+                    "PianoMusic",
+                    "피아노음악",
+                    "위로음악",
+                    "휴식음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"지친 하루를 지나서\" 수고한 당신을 위한 수면음악",
+                    "description": "지친 하루의 끝, 늦은 밤에..\n편안한 음악과\n따뜻한 차 한잔으로\n나를 위로하는 시간을 가지길 바랍니다.\n오늘도 수고했다고,\n나를 토닥여주길 바랍니다 :)\n\n\"오늘도 수고했어요!\"\n\n\n🎵음악 제목              \n01.도시 불빛\n02.See you\n\n\n#수면유도음악 #잠잘때듣는음악 #불면증에좋은음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8H45M15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "382781",
+                "likeCount": "4454",
+                "favoriteCount": "0",
+                "commentCount": "125"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

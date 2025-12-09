@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "rwJ7dJAm9OgM64IisTG-bD18Zmk",
+        "id": "UgzQXzTSCFSaYFA377d4AaABAg",
+        "snippet": {
+            "channelId": "UCuF5t0ziFf7QfoR9_xlti1w",
+            "videoId": "AGAebLsE8gc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "YT5ZXOfzfpwB1ir7YMsyNkRWZdA",
+                "id": "UgzQXzTSCFSaYFA377d4AaABAg",
+                "snippet": {
+                    "channelId": "UCuF5t0ziFf7QfoR9_xlti1w",
+                    "videoId": "AGAebLsE8gc",
+                    "textDisplay": "とても素敵な映像で樺乃ちゃんの歌の良さ伝えてもらえて最高です👏",
+                    "textOriginal": "とても素敵な映像で樺乃ちゃんの歌の良さ伝えてもらえて最高です👏",
+                    "authorDisplayName": "@take_0415",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/U8Xlqe-GJzgKYk5Y6tuoP-n3iIwwoLcgPpTVGD6VRY8BkA4GxJq-ARmZkWlA5wHAlBAzcRJlow=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@take_0415",
+                    "authorChannelId": {
+                        "value": "UCQa5HiaH67ZW70Kk6F4HLtA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-15T13:49:26Z",
+                    "updatedAt": "2025-11-15T13:49:26Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Y3oz7l79smGWhOMCC284mHMsixs",
+        "id": "UgxYY77SZE5UyPAoQa54AaABAg",
+        "snippet": {
+            "channelId": "UCuF5t0ziFf7QfoR9_xlti1w",
+            "videoId": "AGAebLsE8gc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "jCfkT6JCOyfHUXW8aWOoNju7EXQ",
+                "id": "UgxYY77SZE5UyPAoQa54AaABAg",
+                "snippet": {
+                    "channelId": "UCuF5t0ziFf7QfoR9_xlti1w",
+                    "videoId": "AGAebLsE8gc",
+                    "textDisplay": "野島樺乃さん歌声すごい…！もっと聴きたい",
+                    "textOriginal": "野島樺乃さん歌声すごい…！もっと聴きたい",
+                    "authorDisplayName": "@user-gc5xr1ny3z",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kjzlf1E_3HhyHwYV0OpXa6CG44Ow55cZXRVLQQJFQhz8XeUSedBXcrYBt16T_x8HC17OM=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@user-gc5xr1ny3z",
+                    "authorChannelId": {
+                        "value": "UC1PBdDKtTTTqZW_5pSmWH-w"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-15T13:43:09Z",
+                    "updatedAt": "2025-11-15T13:43:09Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

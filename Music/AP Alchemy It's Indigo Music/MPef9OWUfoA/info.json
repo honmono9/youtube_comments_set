@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "VxXq_VziVKj9JUMqBZklU5uQ6Q4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "k91MZblQkiX_iYle4exBENaRtCU",
+            "id": "MPef9OWUfoA",
+            "snippet": {
+                "publishedAt": "2023-03-15T09:00:12Z",
+                "channelId": "UCE4IM82TdhmOl4Qtn8nsaGQ",
+                "title": "[Official T/S] ron - Elegance (with 1300, dress)",
+                "description": "#ron #Elegance\n\n2023.03.16. 6PM (KST)\n\n-\nron Double Single [dead or alive]\n\nTrack List\n1. Mosh (with 1300, dress)\n2. Elegance (with 1300, dress)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MPef9OWUfoA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MPef9OWUfoA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MPef9OWUfoA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MPef9OWUfoA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MPef9OWUfoA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AP Alchemy It's Indigo Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[Official T/S] ron - Elegance (with 1300, dress)",
+                    "description": "#ron #Elegance\n\n2023.03.16. 6PM (KST)\n\n-\nron Double Single [dead or alive]\n\nTrack List\n1. Mosh (with 1300, dress)\n2. Elegance (with 1300, dress)"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT10S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "876",
+                "likeCount": "15",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

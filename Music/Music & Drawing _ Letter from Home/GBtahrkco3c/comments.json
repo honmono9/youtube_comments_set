@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "pvRfO56DGe19aiWzHnvMkKc0cq4",
+        "id": "UgwePP3s_EcA8xS_-Kx4AaABAg",
+        "snippet": {
+            "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+            "videoId": "GBtahrkco3c",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "aY85TOucahgkc5MzQ6I_hsdlxYo",
+                "id": "UgwePP3s_EcA8xS_-Kx4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                    "videoId": "GBtahrkco3c",
+                    "textDisplay": "Po wczorajszym deszczu liście lśnią w słońcu 🍂 👋😃",
+                    "textOriginal": "Po wczorajszym deszczu liście lśnią w słońcu 🍂 👋😃",
+                    "authorDisplayName": "@aloryt",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mBDPTjSST3uzjDYUH-oMCrtfhSMTHSxruu8RWiGuTfPA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@aloryt",
+                    "authorChannelId": {
+                        "value": "UCe24vR5n8ZcBvSTS-vIX89g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-09-15T17:23:57Z",
+                    "updatedAt": "2025-09-15T17:23:57Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Md6KSF6W-XkGR2WnrM2D_ZJagnE",
+        "id": "UgwmTSHC3GK44ZsqlpZ4AaABAg",
+        "snippet": {
+            "channelId": "UCG3TrrbS5wFPIinc86OLLKA",
+            "videoId": "Zaphf1RbLbc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "YXdgtJ4H6M3AW8-tarEQgocLiq8",
+                "id": "UgwmTSHC3GK44ZsqlpZ4AaABAg",
+                "snippet": {
+                    "channelId": "UCG3TrrbS5wFPIinc86OLLKA",
+                    "videoId": "Zaphf1RbLbc",
+                    "textDisplay": "This slow jam feels like silk on the soul",
+                    "textOriginal": "This slow jam feels like silk on the soul",
+                    "authorDisplayName": "@90sSlowJams",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/qeh4Do1qCqEFAvMiCRmUzTZGaSwiUduy9PE0kSyeVaFDQmNusBjMktouw7skjBb9LJu4No6iK1A=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@90sSlowJams",
+                    "authorChannelId": {
+                        "value": "UCCDf_cVGTYvRWcg6XC83U3g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-09T09:27:09Z",
+                    "updatedAt": "2025-12-09T09:27:09Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

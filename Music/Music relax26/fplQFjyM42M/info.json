@@ -1,0 +1,70 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "M1K0HMDInXhnqLAtr2gfxjxWx74",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "PVhdyrPEvCuvFdq1_lcAKnhOamw",
+            "id": "fplQFjyM42M",
+            "snippet": {
+                "publishedAt": "2025-08-26T05:24:10Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "ดนตรีสดฟังเพลิน รวมฮิตเพลงลูกทุ่งเพราะๆ ยาวๆไปครับ",
+                "description": "ดนตรีสดฟังเพลิน รวมฮิตเพลงลูกทุ่งเพราะๆ ยาวๆไปครับ\n#ดนตรีสด #เพลงลูกทุ่งอีสาน",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fplQFjyM42M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fplQFjyM42M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fplQFjyM42M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fplQFjyM42M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "tags": [
+                    "ดนตรีสดฟังเพลิน รวมฮิตเพลงลูกทุ่งเพราะๆ ยาวๆไปครับ"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "ดนตรีสดฟังเพลิน รวมฮิตเพลงลูกทุ่งเพราะๆ ยาวๆไปครับ",
+                    "description": "ดนตรีสดฟังเพลิน รวมฮิตเพลงลูกทุ่งเพราะๆ ยาวๆไปครับ\n#ดนตรีสด #เพลงลูกทุ่งอีสาน"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT32M40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "611",
+                "likeCount": "8",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

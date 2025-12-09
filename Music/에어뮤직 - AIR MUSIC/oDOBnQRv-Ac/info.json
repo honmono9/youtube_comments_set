@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "A3iXmqjo76IXy1R71PXjp_Ifydo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "0DdrfIOtNSapxkAHJgm5j4S2Bm0",
+            "id": "oDOBnQRv-Ac",
+            "snippet": {
+                "publishedAt": "2025-11-17T13:45:49Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "공기남 - 그대를 사랑한다는 건 [Short Clip]",
+                "description": "공기남 - 그대를 사랑한다는 건 [Short Clip] \nAirman - You're my moonlight\n\n얼룩진 과거 그 무엇도 중요하지 않아요 \n부족함을 서로 채워 함께 걸어가요",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oDOBnQRv-Ac/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oDOBnQRv-Ac/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oDOBnQRv-Ac/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oDOBnQRv-Ac/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oDOBnQRv-Ac/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "공기남 - 그대를 사랑한다는 건 [Short Clip]",
+                    "description": "공기남 - 그대를 사랑한다는 건 [Short Clip] \nAirman - You're my moonlight\n\n얼룩진 과거 그 무엇도 중요하지 않아요 \n부족함을 서로 채워 함께 걸어가요"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "631",
+                "likeCount": "17",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

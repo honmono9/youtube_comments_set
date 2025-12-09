@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "mVlWMcZXUXsblq91j52MGbLFOo4",
+        "id": "Ugxabzmr91VLaDpFbAt4AaABAg",
+        "snippet": {
+            "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+            "videoId": "kimgNMyDL5c",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "pYmflPpAQBDjErVFpW_TpDf8_zc",
+                "id": "Ugxabzmr91VLaDpFbAt4AaABAg",
+                "snippet": {
+                    "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+                    "videoId": "kimgNMyDL5c",
+                    "textDisplay": "Yalnızlığa yakışır 😢",
+                    "textOriginal": "Yalnızlığa yakışır 😢",
+                    "authorDisplayName": "@DARKFACE-g5s",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/EoLcV-cxnWEZjp20V2y81Wmoaky0VBfM-zRpC-2Tr5KPwrtsoEKJKGmuMkb6jD55kaS2saVY=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@DARKFACE-g5s",
+                    "authorChannelId": {
+                        "value": "UCKWnN5vpWeDVlfOzh7NNYbA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-29T12:16:51Z",
+                    "updatedAt": "2025-11-29T12:16:51Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

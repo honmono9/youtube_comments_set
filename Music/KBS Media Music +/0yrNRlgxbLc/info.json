@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "BDI-f9StrXDeMtXuYk4oOothVtU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "7urDXnZvVeE1DIbVK48IZnm9Y34",
+            "id": "0yrNRlgxbLc",
+            "snippet": {
+                "publishedAt": "2025-07-17T08:12:27Z",
+                "channelId": "UC9LkgSReKybPl-gABo3fbRQ",
+                "title": "[가사비디오 / Lyric Video] 선우영아 - 그사람 지금은",
+                "description": "☑ 신청곡은 커뮤니티 댓글로 적어주세요  ▶https://www.youtube.com/@kbsmediamusicplus/community\n\n할 말을 잊었는가\n할 말을 안 하는가\n처음 만난 그날에\n노래해 주더니\n\n웃으며 살아요\n노래하며 살아요\n외로운 나에게\n손 얹어 주더니\n\n후회 없이 살고 싶은\n내 마음 어이하라고\n그 사람 지금은\n왜 말이 없는가\n\n웃으며 살아요\n노래하며 살아요\n외로운 나에게\n손 얹어 주더니\n\n후회 없이 살고 싶은\n내 마음 어이하라고\n그 사람 지금은\n왜 말이 없는가\n\n#선우영아 #그사람지금은 #지구레코드",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0yrNRlgxbLc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0yrNRlgxbLc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0yrNRlgxbLc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0yrNRlgxbLc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0yrNRlgxbLc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS Media Music +",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[가사비디오 / Lyric Video] 선우영아 - 그사람 지금은",
+                    "description": "☑ 신청곡은 커뮤니티 댓글로 적어주세요  ▶https://www.youtube.com/@kbsmediamusicplus/community\n\n할 말을 잊었는가\n할 말을 안 하는가\n처음 만난 그날에\n노래해 주더니\n\n웃으며 살아요\n노래하며 살아요\n외로운 나에게\n손 얹어 주더니\n\n후회 없이 살고 싶은\n내 마음 어이하라고\n그 사람 지금은\n왜 말이 없는가\n\n웃으며 살아요\n노래하며 살아요\n외로운 나에게\n손 얹어 주더니\n\n후회 없이 살고 싶은\n내 마음 어이하라고\n그 사람 지금은\n왜 말이 없는가\n\n#선우영아 #그사람지금은 #지구레코드"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "208",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

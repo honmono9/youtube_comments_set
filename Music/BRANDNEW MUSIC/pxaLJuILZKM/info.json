@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "pn66M4WOVUo9HiCS1DybDmab3Bs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "i9THFjs-RSXxEg-0d2tfZPDfwfE",
+            "id": "pxaLJuILZKM",
+            "snippet": {
+                "publishedAt": "2018-04-09T09:00:08Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "#한해TV EP.2 ‘나오네 네가’ 뮤직비디오 촬영기",
+                "description": "#한해TV EP.2 ‘나오네 네가’ 뮤직비디오 촬영기\n\n*다음주 월요일 오후 6시에 다시 만나요!\n\n\n한해(HANHAE) Official @\nhttps://www.instagram.com/hanhae1990/\nhttps://www.facebook.com/hanhae2016/\nhttps://twitter.com/hanhae90\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pxaLJuILZKM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pxaLJuILZKM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pxaLJuILZKM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pxaLJuILZKM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pxaLJuILZKM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "tags": [
+                    "한해",
+                    "HANHAE",
+                    "브랜뉴뮤직",
+                    "BRANDNEWMUSIC",
+                    "나오네네가",
+                    "뮤직비디오",
+                    "MV",
+                    "한해TV",
+                    "RAP"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "#한해TV EP.2 ‘나오네 네가’ 뮤직비디오 촬영기",
+                    "description": "#한해TV EP.2 ‘나오네 네가’ 뮤직비디오 촬영기\n\n*다음주 월요일 오후 6시에 다시 만나요!\n\n\n한해(HANHAE) Official @\nhttps://www.instagram.com/hanhae1990/\nhttps://www.facebook.com/hanhae2016/\nhttps://twitter.com/hanhae90\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "844",
+                "likeCount": "32",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

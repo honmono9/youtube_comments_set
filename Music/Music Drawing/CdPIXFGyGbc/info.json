@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "V8BswmttvOvIRAVsBC8mk8NzCLQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "3Ea5xy3KA6BCWIrSuWEfgSgRmbo",
+            "id": "CdPIXFGyGbc",
+            "snippet": {
+                "publishedAt": "2025-09-04T11:45:01Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"네가 그리웠어\" 아련하고 서정적인 수면음악",
+                "description": "첫 눈이 오던 날을 기억하니?\n작고 따스한 손을 꼭 마주 잡고\n작은 미소로 마음이 가득 찼던 날..\n\n다시 또 첫눈이 또 내리겠지?\n\n난 여전히 네가 너무 그리워.\n\n\n🎵음악              \n01.비오는 밤\n02.My Room\n\n✏️그림\nHyunhyun\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #잠오는음악 #잠잘때듣는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CdPIXFGyGbc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CdPIXFGyGbc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CdPIXFGyGbc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CdPIXFGyGbc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CdPIXFGyGbc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "수면음악",
+                    "수면유도음악",
+                    "잠잘때듣는음악",
+                    "잠오는음악",
+                    "자기전에듣는음악",
+                    "숙면음악",
+                    "RelaxMusic",
+                    "RelaxingMusic",
+                    "SleepMusic",
+                    "SleepingMusic",
+                    "PianoMusic",
+                    "피아노음악",
+                    "아련한수면음악",
+                    "감성적인수면음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"네가 그리웠어\" 아련하고 서정적인 수면음악",
+                    "description": "첫 눈이 오던 날을 기억하니?\n작고 따스한 손을 꼭 마주 잡고\n작은 미소로 마음이 가득 찼던 날..\n\n다시 또 첫눈이 또 내리겠지?\n\n난 여전히 네가 너무 그리워.\n\n\n🎵음악              \n01.비오는 밤\n02.My Room\n\n✏️그림\nHyunhyun\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #잠오는음악 #잠잘때듣는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8H40M21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "31629",
+                "likeCount": "1022",
+                "favoriteCount": "0",
+                "commentCount": "96"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

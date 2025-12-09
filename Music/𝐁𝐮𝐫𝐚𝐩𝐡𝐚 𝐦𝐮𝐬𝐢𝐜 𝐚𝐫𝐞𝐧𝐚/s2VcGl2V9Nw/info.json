@@ -1,0 +1,81 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "uUF-YLxWnS2JbNyzMdfPm0gvLw4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "LB4oNthLRPszCTi3tdl_DTNZfzU",
+            "id": "s2VcGl2V9Nw",
+            "snippet": {
+                "publishedAt": "2025-11-08T10:11:15Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "ฝนสีเทา [Silver Rain]- Cinematic trailer New single Ep.Vibes #music",
+                "description": "🌧️ ทรมานในสายฝนสีเทา ....ท่ามกลางสายฝนที่พรำ... เขายังคงยืนอยู่ที่เดิม\nรอใครบางคนที่หายไป พร้อมกับความทรงจำสีเทาในใจ\nเสียงดนตรีร็อกที่อบอวลด้วยความเหงาและความหวัง\n“ฝนสีเทา” — ตัวอย่างเพลงจากเรื่องราวของหัวใจที่ยังไม่อาจลืม\n\n🕰️ เตรียมพบเพลงเต็ม 11.11.2568\n#ฝนสีเทา #ตัวอย่างเพลง #CinematicRock #BMAARENA #rock",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s2VcGl2V9Nw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s2VcGl2V9Nw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s2VcGl2V9Nw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/s2VcGl2V9Nw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/s2VcGl2V9Nw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "tags": [
+                    "สายฝน",
+                    "ฝนสีเทา",
+                    "รอยยิ้ม",
+                    "Burapha music arena",
+                    "BMAarena",
+                    "ตัวอย่างเพลง",
+                    "cinematic rock trailer"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "ฝนสีเทา [Silver Rain]- Cinematic trailer New single Ep.Vibes #music",
+                    "description": "🌧️ ทรมานในสายฝนสีเทา ....ท่ามกลางสายฝนที่พรำ... เขายังคงยืนอยู่ที่เดิม\nรอใครบางคนที่หายไป พร้อมกับความทรงจำสีเทาในใจ\nเสียงดนตรีร็อกที่อบอวลด้วยความเหงาและความหวัง\n“ฝนสีเทา” — ตัวอย่างเพลงจากเรื่องราวของหัวใจที่ยังไม่อาจลืม\n\n🕰️ เตรียมพบเพลงเต็ม 11.11.2568\n#ฝนสีเทา #ตัวอย่างเพลง #CinematicRock #BMAARENA #rock"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT39S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6312",
+                "likeCount": "38",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

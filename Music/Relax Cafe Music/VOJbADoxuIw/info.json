@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "1Wl5X6iEbxTiNdYkKCB0-lk5z-M",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "DIGgmL7vdIyNFEF4SioBa9juRI8",
+            "id": "VOJbADoxuIw",
+            "snippet": {
+                "publishedAt": "2022-08-05T13:00:32Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Warm August Jazz - Relaxing Jazz Piano Music to Work, Study",
+                "description": "Instrumental Jazz and Bossa Nova music by Richard Freeman.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #august #jazzpiano \n\nl088",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VOJbADoxuIw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VOJbADoxuIw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VOJbADoxuIw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VOJbADoxuIw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VOJbADoxuIw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "tags": [
+                    "warm vibes jazz",
+                    "august jazz",
+                    "jazz music",
+                    "relaxing jazz",
+                    "jazz piano",
+                    "jazz for study",
+                    "jazz for work",
+                    "jazz for concentrate"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Warm August Jazz - Relaxing Jazz Piano Music to Work, Study",
+                    "description": "Instrumental Jazz and Bossa Nova music by Richard Freeman.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #august #jazzpiano \n\nl088"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "10280",
+                "likeCount": "182",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

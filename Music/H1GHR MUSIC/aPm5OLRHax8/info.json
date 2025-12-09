@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "qIWooF5lCrudYyUkc3d2AFc5jqQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "wGUSFnRl4DmY4EUR4my4T1r8fwk",
+            "id": "aPm5OLRHax8",
+            "snippet": {
+                "publishedAt": "2025-06-17T05:00:03Z",
+                "channelId": "UC6TJkBRLMFJ-9c7pXehoZwg",
+                "title": "We'll be still making 'MUSIC' 🎹",
+                "description": "2025.06.19 6PM (KST)#BIGNaughty #빅나티 #서동현#LEECHANHYUK #이찬혁#MUSIC #H1GHRMUSIC #하이어뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aPm5OLRHax8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aPm5OLRHax8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aPm5OLRHax8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aPm5OLRHax8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aPm5OLRHax8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "H1GHR MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "We'll be still making 'MUSIC' 🎹",
+                    "description": "2025.06.19 6PM (KST)#BIGNaughty #빅나티 #서동현#LEECHANHYUK #이찬혁#MUSIC #H1GHRMUSIC #하이어뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "116420",
+                "likeCount": "2070",
+                "favoriteCount": "0",
+                "commentCount": "41"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

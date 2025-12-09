@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "sXj8mj0KpS5-pcQejhJx6iwAgaw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "kO3CAA4vdfu7oYj7cz8_rcMcO6M",
+            "id": "WMe02guYSsg",
+            "snippet": {
+                "publishedAt": "2025-08-21T13:00:56Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "O Morning Star | Kyle Pederson",
+                "description": "O Morning Star is an iconic hymn reimagined here by Kyle Pederson. It is scored for unaccompanied SATB choir with divisi. \n\nThe timeless message is reharmonized and adapted for a contemporary audience. This hymn and its setting will be a good fit for capable church choirs along with community and collegiate-level ensembles.\n\nPerformance by Transept, conducted by Timothy J. Campbell.\n\nVideo production by Brian Gaukel. \n\nPurchase the music: https://giamusic.com/resource/o-morning-star-printed-music-ww2079",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WMe02guYSsg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WMe02guYSsg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WMe02guYSsg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WMe02guYSsg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WMe02guYSsg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "O Morning Star | Kyle Pederson",
+                    "description": "O Morning Star is an iconic hymn reimagined here by Kyle Pederson. It is scored for unaccompanied SATB choir with divisi. \n\nThe timeless message is reharmonized and adapted for a contemporary audience. This hymn and its setting will be a good fit for capable church choirs along with community and collegiate-level ensembles.\n\nPerformance by Transept, conducted by Timothy J. Campbell.\n\nVideo production by Brian Gaukel. \n\nPurchase the music: https://giamusic.com/resource/o-morning-star-printed-music-ww2079"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "402",
+                "likeCount": "11",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

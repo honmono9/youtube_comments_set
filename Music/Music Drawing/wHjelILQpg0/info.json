@@ -1,0 +1,91 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "6JTQbxD0cVXCQa0LwkowxIMeguA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "pD-7ndR73BepR1xW6KbMxsTLr74",
+            "id": "wHjelILQpg0",
+            "snippet": {
+                "publishedAt": "2024-08-20T11:45:04Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"하루를 마친 너에게..\" 마음을 위로하는 수면음악",
+                "description": "오늘 하루,\n하기 싫은 일들도 다 해냈고 \n힘든 일들도 잘 마쳤어\n\n그렇게 대단한 너를 \n난 항상 응원해!\n오늘은 그런 너를 안아주는\n밤이 되길 바랄께! ^^\n\n\n🎵곡 제목                      \n01.하루의 끝\n02.밤하늘\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #편안한음악 #위로가되는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wHjelILQpg0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wHjelILQpg0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wHjelILQpg0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wHjelILQpg0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wHjelILQpg0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "수면음악",
+                    "수면유도음악",
+                    "편안한음악",
+                    "잠잘때듣는음악",
+                    "잠오는음악",
+                    "자기전에듣는음악",
+                    "편안한피아노음악",
+                    "피아노음악",
+                    "숙면음악",
+                    "위로음악",
+                    "RelaxMusic",
+                    "SleepMusic",
+                    "SleepingMusic",
+                    "RelaxingMusic",
+                    "PianoMusic",
+                    "스트레스해소음악",
+                    "ComfortingMusic"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"하루를 마친 너에게..\" 마음을 위로하는 수면음악",
+                    "description": "오늘 하루,\n하기 싫은 일들도 다 해냈고 \n힘든 일들도 잘 마쳤어\n\n그렇게 대단한 너를 \n난 항상 응원해!\n오늘은 그런 너를 안아주는\n밤이 되길 바랄께! ^^\n\n\n🎵곡 제목                      \n01.하루의 끝\n02.밤하늘\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #편안한음악 #위로가되는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9H36M53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4818211",
+                "likeCount": "129700",
+                "favoriteCount": "0",
+                "commentCount": "3139"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

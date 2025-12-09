@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "7wJq3U6Py1xAKwY7tOBHzj7MsC4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "I34aVn9_XKTkJfIQozRkCq1h5_w",
+            "id": "qMMF5Q8QOys",
+            "snippet": {
+                "publishedAt": "2023-02-15T10:15:03Z",
+                "channelId": "UCYTNxR2Z4ryz88WRWiaPCdg",
+                "title": "Kirara Magic (feat. Shion) - Beyond The Sky",
+                "description": "Composed / Released : Kirara Magic\nVocals  : Shion\n---------------------------------------------\n🔉 Free Listening  \n● Soundcloud : https://soundcloud.com/kiraramagic/beyond-the-sky-feat-shion\n\n 🛒 Buy Support \n●  iTunes : https://music.apple.com/album/beyond-the-sky-single-feat-shion-lee-single/1670413574\n●  Bandcamp https://kiraramagic.bandcamp.com/track/beyond-the-sky-feat-shion\n---------------------------------------------\n★ Follow - Kirara Magic\n● Soundcloud : https://soundcloud.com/kiraramagic\n● Youtube : @KiraraMagic \n● Twitter : https://twitter.com/kirara_magic\n● Web : https://kiraramagic.bandcamp.com/\n\n★ Follow - Shion Lee (リーシオン)\n● Youtube : @Shion_Lee \n● Twitter : https://twitter.com/LeeShionVG\n---------------------------------------------\n🎨 Wallpaper By (RH/お仕事募集中)  : https://www.pixiv.net/en/artworks/93957419\n● Pixiv : https://www.pixiv.net/en/users/3237998\n---------------------------------------------\n💌 If you would like to submit a song or have any questions , Please email me (kmusicsweet@gmail.com)\n\n#kmusicsweet \n#kiraramagic \n#shionlee",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qMMF5Q8QOys/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qMMF5Q8QOys/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qMMF5Q8QOys/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qMMF5Q8QOys/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qMMF5Q8QOys/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "K - Music Sweet",
+                "tags": [
+                    "kawaii music",
+                    "cute music",
+                    "kawaii song",
+                    "cute song",
+                    "anime"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Kirara Magic (feat. Shion) - Beyond The Sky",
+                    "description": "Composed / Released : Kirara Magic\nVocals  : Shion\n---------------------------------------------\n🔉 Free Listening  \n● Soundcloud : https://soundcloud.com/kiraramagic/beyond-the-sky-feat-shion\n\n 🛒 Buy Support \n●  iTunes : https://music.apple.com/album/beyond-the-sky-single-feat-shion-lee-single/1670413574\n●  Bandcamp https://kiraramagic.bandcamp.com/track/beyond-the-sky-feat-shion\n---------------------------------------------\n★ Follow - Kirara Magic\n● Soundcloud : https://soundcloud.com/kiraramagic\n● Youtube : @KiraraMagic \n● Twitter : https://twitter.com/kirara_magic\n● Web : https://kiraramagic.bandcamp.com/\n\n★ Follow - Shion Lee (リーシオン)\n● Youtube : @Shion_Lee \n● Twitter : https://twitter.com/LeeShionVG\n---------------------------------------------\n🎨 Wallpaper By (RH/お仕事募集中)  : https://www.pixiv.net/en/artworks/93957419\n● Pixiv : https://www.pixiv.net/en/users/3237998\n---------------------------------------------\n💌 If you would like to submit a song or have any questions , Please email me (kmusicsweet@gmail.com)\n\n#kmusicsweet \n#kiraramagic \n#shionlee"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M26S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "26212",
+                "likeCount": "684",
+                "favoriteCount": "0",
+                "commentCount": "27"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

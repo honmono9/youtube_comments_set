@@ -1,0 +1,112 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "7pnTqFxfHZNhpvuHlxaOOp0Edzc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "7w0vv9k3YhRPGVJmCgDjgeUZOu0",
+            "id": "kimgNMyDL5c",
+            "snippet": {
+                "publishedAt": "2025-11-21T14:06:37Z",
+                "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+                "title": "Yokluk Makamı - SofuMusick",
+                "description": "Yokluk Makamı, yalnızlığın en derin yerinde yankılanan bir feryat…\n\nBu eser; kayıpların, içe işleyen sessiz çığlıkların, insanın kendine kaldığı anların sesi.\n\nBozlak ruhundan ilham alan bu yorum, hem modern hem de kadim bir ağıt gibi derinden dokunuyor.\n\n🎧 Dinlerken:\nGözlerini kapat, içindeki sessizliğe bak.\nBu makam seni alıp kendi karanlığına çekecek.\n\n#YoklukMakamı #Bozlak #UzunHava #Hüzün #Ağıt #YanıkSes #AnadoluMüziği #TürkHalkMüziği #HüzünlüŞarkılar #AcıklıŞarkılar #Feryat #Yalnızlık #HüzünMüzikleri #Keder #AğlatanŞarkılar #TürkMüziği #AnatolianMusic #DeepSorrow #EmotionalMusic #TurkishFolk #ModernBozlak #YürekYakan #Acı #DuygusalMüzik #SadSong #Lament #VocalCry #Anatolia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kimgNMyDL5c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kimgNMyDL5c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kimgNMyDL5c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kimgNMyDL5c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kimgNMyDL5c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Obsidya Music",
+                "tags": [
+                    "#YoklukMakamı",
+                    "#Bozlak",
+                    "#UzunHava",
+                    "#Hüzün",
+                    "#Ağıt",
+                    "#YanıkSes",
+                    "#AnadoluMüziği",
+                    "#TürkHalkMüziği",
+                    "#HüzünlüŞarkılar",
+                    "#AcıklıŞarkılar",
+                    "#Feryat",
+                    "#Yalnızlık",
+                    "#HüzünMüzikleri",
+                    "#Keder",
+                    "#AğlatanŞarkılar",
+                    "#TürkMüziği",
+                    "#AnatolianMusic",
+                    "#DeepSorrow",
+                    "#EmotionalMusic",
+                    "#TurkishFolk",
+                    "#ModernBozlak",
+                    "#YürekYakan",
+                    "#Acı",
+                    "#DuygusalMüzik",
+                    "#SadSong",
+                    "#Lament",
+                    "#VocalCry",
+                    "#Anatolia",
+                    "türkü",
+                    "bağlama",
+                    "yeni türküler",
+                    "türkü dinle",
+                    "rekortmen türküler",
+                    "en iyi türküler",
+                    "seçme şarkılar",
+                    "anadolu türküleri",
+                    "türkçe müzik",
+                    "uzun türküler"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "Yokluk Makamı - SofuMusick",
+                    "description": "Yokluk Makamı, yalnızlığın en derin yerinde yankılanan bir feryat…\n\nBu eser; kayıpların, içe işleyen sessiz çığlıkların, insanın kendine kaldığı anların sesi.\n\nBozlak ruhundan ilham alan bu yorum, hem modern hem de kadim bir ağıt gibi derinden dokunuyor.\n\n🎧 Dinlerken:\nGözlerini kapat, içindeki sessizliğe bak.\nBu makam seni alıp kendi karanlığına çekecek.\n\n#YoklukMakamı #Bozlak #UzunHava #Hüzün #Ağıt #YanıkSes #AnadoluMüziği #TürkHalkMüziği #HüzünlüŞarkılar #AcıklıŞarkılar #Feryat #Yalnızlık #HüzünMüzikleri #Keder #AğlatanŞarkılar #TürkMüziği #AnatolianMusic #DeepSorrow #EmotionalMusic #TurkishFolk #ModernBozlak #YürekYakan #Acı #DuygusalMüzik #SadSong #Lament #VocalCry #Anatolia"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "contentDetails": {
+                "duration": "PT3M3S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1218",
+                "likeCount": "16",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

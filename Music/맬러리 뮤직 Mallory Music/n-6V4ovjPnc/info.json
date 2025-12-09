@@ -1,0 +1,92 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "icmYU9JS3oljqlsriHRw0XtYiqo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "INX9RBYFMKeJze7wJa2YPUcTpd4",
+            "id": "n-6V4ovjPnc",
+            "snippet": {
+                "publishedAt": "2021-12-13T10:43:14Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "생각을 비우고 불 보면서 멍하니 듣는 팝송",
+                "description": "photo by heidi lumb",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n-6V4ovjPnc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n-6V4ovjPnc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n-6V4ovjPnc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/n-6V4ovjPnc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/n-6V4ovjPnc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "겨울 팝송",
+                    "불멍",
+                    "잔잔한 팝송",
+                    "pop songs",
+                    "따뜻한 팝송",
+                    "팝송 모음",
+                    "팝송 추천",
+                    "불멍 노래",
+                    "playlist",
+                    "fireplace",
+                    "winter pop songs",
+                    "편안한 팝송"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "생각을 비우고 불 보면서 멍하니 듣는 팝송",
+                    "description": "photo by heidi lumb"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT25M37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "36822",
+                "likeCount": "947",
+                "favoriteCount": "0",
+                "commentCount": "100"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

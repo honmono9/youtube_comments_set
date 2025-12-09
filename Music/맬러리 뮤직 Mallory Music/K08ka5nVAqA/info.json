@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "8wqwv1tx5RWzecVflsFbBkg-VKA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "zK83cGI2-1cuH7C_y-5mtp2fD5g",
+            "id": "K08ka5nVAqA",
+            "snippet": {
+                "publishedAt": "2021-03-04T14:10:28Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "나만의 공간에서 즐기는 언택트 그루브",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K08ka5nVAqA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K08ka5nVAqA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K08ka5nVAqA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K08ka5nVAqA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K08ka5nVAqA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "감성 팝송",
+                    "그루브 팝송",
+                    "그루브",
+                    "언택트",
+                    "좋은 팝송",
+                    "플레이리스트",
+                    "알앤비",
+                    "playlist",
+                    "팝송 추천",
+                    "팝송",
+                    "best r&b song",
+                    "r&b"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "나만의 공간에서 즐기는 언택트 그루브",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT24M44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "88676",
+                "likeCount": "1895",
+                "favoriteCount": "0",
+                "commentCount": "125"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

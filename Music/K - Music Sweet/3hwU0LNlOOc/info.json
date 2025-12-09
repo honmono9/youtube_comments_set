@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "1yiH9JPHn0evRZ0iBWn69yL5_qA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "weQePEm3tCR3Ow-J03J32aS4yfQ",
+            "id": "3hwU0LNlOOc",
+            "snippet": {
+                "publishedAt": "2023-04-05T10:15:00Z",
+                "channelId": "UCYTNxR2Z4ryz88WRWiaPCdg",
+                "title": "Kirara Magic - Chocolate Love (feat. Ugu)",
+                "description": "Composed / Released : Kirara Magic\nVocals  : うぐ(ugu)\n\nVideo design : K - Music Sweet \n---------------------------------------------\n🔉 Free Listening  \n● Soundcloud : https://soundcloud.com/kiraramagic/chocolate-love-feat-ugu\n● Spotify : https://open.spotify.com/track/6wRtLaS2lsyfPq6HRX2goU\n\n 🛒 Buy Support \n●  iTunes : https://music.apple.com/album/1679598258\n●  Bandcamp : https://kiraramagic.bandcamp.com/album/chocolate-love-feat-ugu\n---------------------------------------------\n★ Follow - Kirara Magic\n● Soundcloud : https://soundcloud.com/kiraramagic\n● Youtube : https://www.youtube.com/c/kiraramagic\n● Twitter : https://twitter.com/kirara_magic\n● Web : https://www.kiraramagic.com/\n\n★ Follow - うぐ(ugu)\n● Youtube : https://www.youtube.com/@ugu\n● Twitter : https://twitter.com/ugusagi\n● Web : https://ugusagi.wixsite.com/rabbit-harmony\n---------------------------------------------\n🎨 Wallpaper By (Yaruwashi) : https://www.pixiv.net/en/artworks/105429184\n● Pixiv : https://www.pixiv.net/en/users/33143468\n● Twitter : https://twitter.com/yaruwashii\n---------------------------------------------\n💌 If you would like to submit a song or have any questions , Please email me  (kmusicsweet@gmail.com)\n\n#kmusicsweet\n#kiraramagic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3hwU0LNlOOc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3hwU0LNlOOc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3hwU0LNlOOc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3hwU0LNlOOc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3hwU0LNlOOc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "K - Music Sweet",
+                "tags": [
+                    "kawaii music",
+                    "cute music",
+                    "kawaii song",
+                    "cute song",
+                    "anime"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Kirara Magic - Chocolate Love (feat. Ugu)",
+                    "description": "Composed / Released : Kirara Magic\nVocals  : うぐ(ugu)\n\nVideo design : K - Music Sweet \n---------------------------------------------\n🔉 Free Listening  \n● Soundcloud : https://soundcloud.com/kiraramagic/chocolate-love-feat-ugu\n● Spotify : https://open.spotify.com/track/6wRtLaS2lsyfPq6HRX2goU\n\n 🛒 Buy Support \n●  iTunes : https://music.apple.com/album/1679598258\n●  Bandcamp : https://kiraramagic.bandcamp.com/album/chocolate-love-feat-ugu\n---------------------------------------------\n★ Follow - Kirara Magic\n● Soundcloud : https://soundcloud.com/kiraramagic\n● Youtube : https://www.youtube.com/c/kiraramagic\n● Twitter : https://twitter.com/kirara_magic\n● Web : https://www.kiraramagic.com/\n\n★ Follow - うぐ(ugu)\n● Youtube : https://www.youtube.com/@ugu\n● Twitter : https://twitter.com/ugusagi\n● Web : https://ugusagi.wixsite.com/rabbit-harmony\n---------------------------------------------\n🎨 Wallpaper By (Yaruwashi) : https://www.pixiv.net/en/artworks/105429184\n● Pixiv : https://www.pixiv.net/en/users/33143468\n● Twitter : https://twitter.com/yaruwashii\n---------------------------------------------\n💌 If you would like to submit a song or have any questions , Please email me  (kmusicsweet@gmail.com)\n\n#kmusicsweet\n#kiraramagic"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "20451",
+                "likeCount": "543",
+                "favoriteCount": "0",
+                "commentCount": "20"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

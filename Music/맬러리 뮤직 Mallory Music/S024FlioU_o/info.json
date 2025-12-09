@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "nbDOiYLwYpNVGHHbeN5rW14O1iw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "T5zJe5lYBM7_TijP9SCYknin7D8",
+            "id": "S024FlioU_o",
+            "snippet": {
+                "publishedAt": "2020-08-09T12:49:36Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "마음 속에 떠 있는 하얗고 뭉실뭉실한 구름",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S024FlioU_o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S024FlioU_o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S024FlioU_o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/S024FlioU_o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/S024FlioU_o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "몽글몽글",
+                    "감성 팝",
+                    "팝송",
+                    "구름",
+                    "alternative best songs",
+                    "new alternative songs",
+                    "뭉실뭉실",
+                    "on a cloud",
+                    "chill alternative"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "마음 속에 떠 있는 하얗고 뭉실뭉실한 구름",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT24M37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "77527",
+                "likeCount": "1604",
+                "favoriteCount": "0",
+                "commentCount": "110"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

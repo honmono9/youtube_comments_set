@@ -1,0 +1,103 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "z4wsditX67DbNT-sc3spJ-M4jSY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Kqi1FoheyoCnV46PNbT9gBk35V8",
+            "id": "B34bPF4QyAM",
+            "snippet": {
+                "publishedAt": "2025-12-02T15:39:55Z",
+                "channelId": "UCEbRSmzD8xASRlYq2OLmCrg",
+                "title": "[4K/1열 직캠🎥] 19호 가수 '먼지가 되어'♪ 싱어게인4 (singagain4)",
+                "description": "[4K/1열 직캠🎥] 19호 가수 '먼지가 되어'♪ 싱어게인4 (singagain4)\n\n19호 - 먼지가 되어♪\n\n#싱어게인4 #싱어게인 #직캠 #19호가수",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B34bPF4QyAM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B34bPF4QyAM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B34bPF4QyAM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/B34bPF4QyAM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/B34bPF4QyAM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JTBC Music",
+                "tags": [
+                    "싱어게인4",
+                    "무명가수전",
+                    "싱어게인4_1열직캠",
+                    "싱어게인4_8회1열직캠",
+                    "태연",
+                    "코드쿤스트",
+                    "규현",
+                    "이해리",
+                    "이승기",
+                    "임재범",
+                    "김이나",
+                    "백지영",
+                    "윤종신",
+                    "19호",
+                    "19호가수",
+                    "싱어게인4_19호",
+                    "JTBC음악예능",
+                    "무명가수",
+                    "가수",
+                    "singagain4",
+                    "TAEYEON",
+                    "CODE KUNST",
+                    "KYUHYUN",
+                    "Lee Hae Ri",
+                    "Lee Seung Gi",
+                    "Yim Jae-beum",
+                    "Kim Eana",
+                    "Baek Z Young",
+                    "Yoon Jongshin"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[4K/1열 직캠🎥] 19호 가수 '먼지가 되어'♪ 싱어게인4 (singagain4)",
+                    "description": "[4K/1열 직캠🎥] 19호 가수 '먼지가 되어'♪ 싱어게인4 (singagain4)\n\n19호 - 먼지가 되어♪\n\n#싱어게인4 #싱어게인 #직캠 #19호가수"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "16270",
+                "likeCount": "351",
+                "favoriteCount": "0",
+                "commentCount": "62"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

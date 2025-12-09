@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "8aBukC1MsPya-nr7iNpjtHMdfZU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "aS1pfCeRBN4nth-BLvTePhJqwH8",
+            "id": "iN5JB8CTMps",
+            "snippet": {
+                "publishedAt": "2017-10-25T05:15:02Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "ENCORE Camerata plays Tchaikovsky 'Serenade'",
+                "description": "July 22, 2017 @ ENCORE Chamber Music\n2017 Season 'A Midsummer Night's Dream'\nSummer Academy Students and Faculty",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iN5JB8CTMps/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iN5JB8CTMps/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iN5JB8CTMps/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iN5JB8CTMps/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iN5JB8CTMps/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "ENCORE Camerata plays Tchaikovsky 'Serenade'",
+                    "description": "July 22, 2017 @ ENCORE Chamber Music\n2017 Season 'A Midsummer Night's Dream'\nSummer Academy Students and Faculty"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M5S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "678",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

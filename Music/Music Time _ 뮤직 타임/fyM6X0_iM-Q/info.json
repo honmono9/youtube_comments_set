@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "QMd-fynFeWSfrWQPTFH0J6zKFCI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "9vrcUKJjHGp7hFHE7K9_jN-gQns",
+            "id": "fyM6X0_iM-Q",
+            "snippet": {
+                "publishedAt": "2025-12-09T07:00:41Z",
+                "channelId": "UCYA3gLE34set7Xn_FVU8D0Q",
+                "title": "amin (에이민) - 모를거예요 (You Don't Know) [가사]",
+                "description": "amin (에이민) - 모를거예요 (You Don't Know) [가사]\n_\n아티스트:에이민\n유형:싱글\n장르:발라드, 인디\n스타일:발라드, 인디 팝\n발매일:2025.12.07\n유통사:지니뮤직, Stone Music Entertainment\n기획사:AMIN\n_\n#amin #에이민 #모를거예요",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fyM6X0_iM-Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fyM6X0_iM-Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fyM6X0_iM-Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fyM6X0_iM-Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fyM6X0_iM-Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Time | 뮤직 타임",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "amin (에이민) - 모를거예요 (You Don't Know) [가사]",
+                    "description": "amin (에이민) - 모를거예요 (You Don't Know) [가사]\n_\n아티스트:에이민\n유형:싱글\n장르:발라드, 인디\n스타일:발라드, 인디 팝\n발매일:2025.12.07\n유통사:지니뮤직, Stone Music Entertainment\n기획사:AMIN\n_\n#amin #에이민 #모를거예요"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "91",
+                "likeCount": "13",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

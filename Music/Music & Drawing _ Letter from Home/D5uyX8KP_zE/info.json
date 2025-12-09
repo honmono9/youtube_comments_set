@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Oblo2Xe1CQ644gJbZFBka2Rw-lY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "DQK_tDTHg3L4bOJGQCW4wSuptpI",
+            "id": "D5uyX8KP_zE",
+            "snippet": {
+                "publishedAt": "2025-09-17T10:00:07Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Nostalgic Autumn in Paris… Saxophone Jazz & Falling Leaves",
+                "description": "The autumn we once knew has returned… drifting as the fallen leaves of Paris,\nand flowing gently like jazz.\nThis 1-hour vintage saxophone jazz playlist brings you the nostalgic sound of 1950s oldies,\nperfect for study, work, relaxation, or cozy autumn nights.\n\n🎷 Perfect for:\n– Relax & study\n– Work & concentration\n– Café ambience\n– Nostalgic autumn evenings\n\n#SaxophoneJazz #VintageJazz #OldiesJazz #ParisJazz #Nightjazz #AutumnJazz #1950sJazz #SmoothJazz #RelaxingJazz #StudyJazz #WorkJazz #CaféJazz #RomanticJazz #InstrumentalJazz #JazzPlaylist #NostalgicJazz #1HourJazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/D5uyX8KP_zE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/D5uyX8KP_zE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/D5uyX8KP_zE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/D5uyX8KP_zE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/D5uyX8KP_zE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "Saxophone jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "guitar jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "rain jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "autumn jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Nostalgic Autumn in Paris… Saxophone Jazz & Falling Leaves",
+                    "description": "The autumn we once knew has returned… drifting as the fallen leaves of Paris,\nand flowing gently like jazz.\nThis 1-hour vintage saxophone jazz playlist brings you the nostalgic sound of 1950s oldies,\nperfect for study, work, relaxation, or cozy autumn nights.\n\n🎷 Perfect for:\n– Relax & study\n– Work & concentration\n– Café ambience\n– Nostalgic autumn evenings\n\n#SaxophoneJazz #VintageJazz #OldiesJazz #ParisJazz #Nightjazz #AutumnJazz #1950sJazz #SmoothJazz #RelaxingJazz #StudyJazz #WorkJazz #CaféJazz #RomanticJazz #InstrumentalJazz #JazzPlaylist #NostalgicJazz #1HourJazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4222",
+                "likeCount": "78",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

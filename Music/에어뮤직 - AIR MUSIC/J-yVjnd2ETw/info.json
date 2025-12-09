@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Swnh2kvW0GfIW5znyjleQpadABM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "6pijydzi37nM_AZsIpnihASsJ94",
+            "id": "J-yVjnd2ETw",
+            "snippet": {
+                "publishedAt": "2024-11-20T03:00:21Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "[Lyric Video] 범준 - 꿈이라고 해도",
+                "description": "[Lyric Video] 범준 - 꿈이라고 해도\n\n[Credits]\nexecutive producer 공기남\nLyrics by 범준\nComposed by 범준, 고주한\nArranged by 고주한\nVocal by 범준\nChorus 범준\nPiano 최성지\nGuitar 고주한\nBass 고주한\nDrum 고주한\nMidi Programing 고주한\nRecorded by fovitz @AirMusic Studio\nMixed by fovitz @AirMusic Studio\nMastered by 권남우 @821 Sound\nAlbum artwork by 스갱@sugang.art\nManagement Airmusic\nTeam leader 박지호 @melanoalbinc\nDistributed by Wanermusic_Korea",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J-yVjnd2ETw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J-yVjnd2ETw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J-yVjnd2ETw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/J-yVjnd2ETw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/J-yVjnd2ETw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Lyric Video] 범준 - 꿈이라고 해도",
+                    "description": "[Lyric Video] 범준 - 꿈이라고 해도\n\n[Credits]\nexecutive producer 공기남\nLyrics by 범준\nComposed by 범준, 고주한\nArranged by 고주한\nVocal by 범준\nChorus 범준\nPiano 최성지\nGuitar 고주한\nBass 고주한\nDrum 고주한\nMidi Programing 고주한\nRecorded by fovitz @AirMusic Studio\nMixed by fovitz @AirMusic Studio\nMastered by 권남우 @821 Sound\nAlbum artwork by 스갱@sugang.art\nManagement Airmusic\nTeam leader 박지호 @melanoalbinc\nDistributed by Wanermusic_Korea"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1044",
+                "likeCount": "35",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

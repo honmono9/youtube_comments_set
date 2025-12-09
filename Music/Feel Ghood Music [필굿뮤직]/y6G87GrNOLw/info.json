@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "1yaChj-LDRE7JjJuXYEPRP86tAs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "NmTekv0RM5nZPmX6_ZfjaTo1O_U",
+            "id": "y6G87GrNOLw",
+            "snippet": {
+                "publishedAt": "2022-08-07T09:06:30Z",
+                "channelId": "UC8gRco988IELoTNTl4OBd2w",
+                "title": "Tiger JK (타이거 JK) - 'POV' M/V Teaser 3",
+                "description": "2022.08.09 12PM KST\n\nTigerJK (타이거 JK) \nPOV\n\n@drunkentigerjk\n⁣⁣@feelghoodmusicofficial \n#TigerJK #타이거JK #POV\n#필굿뮤직 #FeelghoodMusic\n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4\n\n - Website : http://www.feelghood.com/\n \n - Facebook : https://www.facebook.com/Feelghood",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y6G87GrNOLw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y6G87GrNOLw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y6G87GrNOLw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/y6G87GrNOLw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/y6G87GrNOLw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Feel Ghood Music [필굿뮤직]",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Tiger JK (타이거 JK) - 'POV' M/V Teaser 3",
+                    "description": "2022.08.09 12PM KST\n\nTigerJK (타이거 JK) \nPOV\n\n@drunkentigerjk\n⁣⁣@feelghoodmusicofficial \n#TigerJK #타이거JK #POV\n#필굿뮤직 #FeelghoodMusic\n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4\n\n - Website : http://www.feelghood.com/\n \n - Facebook : https://www.facebook.com/Feelghood"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT25S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4700",
+                "likeCount": "277",
+                "favoriteCount": "0",
+                "commentCount": "61"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

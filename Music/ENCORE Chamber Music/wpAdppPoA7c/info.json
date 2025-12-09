@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "c4c_Sq0k7xoRm7bQdrwSK2WgVkA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Sa6zh9yG-fjYyZiDl9-InUEqZQQ",
+            "id": "wpAdppPoA7c",
+            "snippet": {
+                "publishedAt": "2023-04-13T22:53:13Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "PHANTASMAGORIA (2022) by Andrew Rindflesich",
+                "description": "Commissioned by ENCORE Chamber Music Institute\n\nPerforming Musicians: \nJonathan Ong, violin (Verona String Quartet)\nDorothy Ro, violin (Verona String Quartet)\nJinjoo Cho, violin\nBrendan Shea, violin\nAbigail Rojansky, viola (Verona String Quartet)\nEric Wong, viola\nMax Geissler, cello\nTanya Ell, cello",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wpAdppPoA7c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wpAdppPoA7c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wpAdppPoA7c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wpAdppPoA7c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wpAdppPoA7c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "PHANTASMAGORIA (2022) by Andrew Rindflesich",
+                    "description": "Commissioned by ENCORE Chamber Music Institute\n\nPerforming Musicians: \nJonathan Ong, violin (Verona String Quartet)\nDorothy Ro, violin (Verona String Quartet)\nJinjoo Cho, violin\nBrendan Shea, violin\nAbigail Rojansky, viola (Verona String Quartet)\nEric Wong, viola\nMax Geissler, cello\nTanya Ell, cello"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT21M30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "305",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

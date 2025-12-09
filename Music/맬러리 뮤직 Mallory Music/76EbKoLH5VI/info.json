@@ -1,0 +1,73 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "e-l--ZONHWlBwvPgTUAcxl3Cpq4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ChjujgWoqlF5NIwYv6uP-P14u9U",
+            "id": "76EbKoLH5VI",
+            "snippet": {
+                "publishedAt": "2024-12-05T10:07:41Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "따뜻한 겨울나기를 위한 크리스마스 오르골",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/76EbKoLH5VI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/76EbKoLH5VI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/76EbKoLH5VI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/76EbKoLH5VI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "따뜻한 겨울나기를 위한 크리스마스 오르골",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT29M44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5900",
+                "likeCount": "350",
+                "favoriteCount": "0",
+                "commentCount": "98"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

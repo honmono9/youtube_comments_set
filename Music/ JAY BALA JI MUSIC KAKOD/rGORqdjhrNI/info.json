@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "oZu-qaDZ9MSgR-IYqUrN9vgNcJw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "BuyJJ08zcDatLGtJepqiY7h5dvQ",
+            "id": "rGORqdjhrNI",
+            "snippet": {
+                "publishedAt": "2025-02-25T19:03:10Z",
+                "channelId": "UC5oWa6pisfCuXtGmPWhPNMg",
+                "title": "ककोड़ का बहुत अच्छा प्रोग्राम मसानिया भैरू जी के दरबार में",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rGORqdjhrNI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rGORqdjhrNI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rGORqdjhrNI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rGORqdjhrNI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rGORqdjhrNI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": " JAY BALA JI MUSIC KAKOD.",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "hi",
+                "localized": {
+                    "title": "ककोड़ का बहुत अच्छा प्रोग्राम मसानिया भैरू जी के दरबार में",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "contentDetails": {
+                "duration": "PT8M22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "118",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "t5ZZIblxHM6VkCo7Jtw5t3Z2cIg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "NePuGMbC_sIWIAHytgnVkHIcpR8",
+            "id": "yemGzhJXTxc",
+            "snippet": {
+                "publishedAt": "2025-10-29T15:10:39Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "I Will Sing | Michael Engelhardt",
+                "description": "I Will Sing composed by Michael Engelhardt for SATB Choirs with piano and optional percussion (parts included)\n\nhttps://www.giamusic.com/store/resour...\n\nWhat will I do with the portion given to me? I will sing. This fantastic work by Michael Engelhardt will be a great addition to honor choirs, festivals, and more. Gospel style, but with an ecumenical text that challenges each of us to make the most of the lives we've been given.\n\nI Will Sing\n\nWe’ve all been given\nour little corner of space and time\nwith the permission \nto do with it as we see fit for a while.\nSo begs the question,\nwhat will I do with the portion given to me?\nThis one possession so pure and precious.\nDarkness and fear abound,\nbut this song keeps calling out\nfrom deep within me.\n\nWith all of my soul, I will sing.\nMy heart ever steadfast, this melody will bring.\nIt may or may not resonate, but here’s the thing:\nEven so, with all of my soul, I will sing.\n\nIt’s not that easy. \nGreat are the doubts from within and without.\nThey won’t defeat me,\nnot if I’m completely\nstanding on higher ground,\nconfident in the sound\nthat lives within me.\n\nI will sing forevermore!\nI will sing with all my heart and my soul!\nI have decided that with this one life, I will sing!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yemGzhJXTxc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yemGzhJXTxc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yemGzhJXTxc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yemGzhJXTxc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yemGzhJXTxc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "I Will Sing | Michael Engelhardt",
+                    "description": "I Will Sing composed by Michael Engelhardt for SATB Choirs with piano and optional percussion (parts included)\n\nhttps://www.giamusic.com/store/resour...\n\nWhat will I do with the portion given to me? I will sing. This fantastic work by Michael Engelhardt will be a great addition to honor choirs, festivals, and more. Gospel style, but with an ecumenical text that challenges each of us to make the most of the lives we've been given.\n\nI Will Sing\n\nWe’ve all been given\nour little corner of space and time\nwith the permission \nto do with it as we see fit for a while.\nSo begs the question,\nwhat will I do with the portion given to me?\nThis one possession so pure and precious.\nDarkness and fear abound,\nbut this song keeps calling out\nfrom deep within me.\n\nWith all of my soul, I will sing.\nMy heart ever steadfast, this melody will bring.\nIt may or may not resonate, but here’s the thing:\nEven so, with all of my soul, I will sing.\n\nIt’s not that easy. \nGreat are the doubts from within and without.\nThey won’t defeat me,\nnot if I’m completely\nstanding on higher ground,\nconfident in the sound\nthat lives within me.\n\nI will sing forevermore!\nI will sing with all my heart and my soul!\nI have decided that with this one life, I will sing!"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT5M34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "145",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

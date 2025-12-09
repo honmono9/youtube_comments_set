@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "HWPRvEqm0YKh4s3XF1WjH5LlYp4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "RvGvy1DvFtTHC8P15DrxeM4yA-s",
+            "id": "dbtUsuQF5HU",
+            "snippet": {
+                "publishedAt": "2025-07-23T03:03:24Z",
+                "channelId": "UC5oWa6pisfCuXtGmPWhPNMg",
+                "title": "।। ककोड़ की बनी पुजारियों छ घाटी वालो भेरू जी महाराज गायक आसाराम मेहरा गायक खुशीराम गुजर ककोड़ वाले",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dbtUsuQF5HU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dbtUsuQF5HU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dbtUsuQF5HU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dbtUsuQF5HU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dbtUsuQF5HU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": " JAY BALA JI MUSIC KAKOD.",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "hi",
+                "localized": {
+                    "title": "।। ककोड़ की बनी पुजारियों छ घाटी वालो भेरू जी महाराज गायक आसाराम मेहरा गायक खुशीराम गुजर ककोड़ वाले",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "contentDetails": {
+                "duration": "PT13M17S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "171",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

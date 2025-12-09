@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "j7HAIUWGoqneCz8OcBG2XQpqccU",
+        "id": "UgzLZCAepw3R2Y4iC1d4AaABAg",
+        "snippet": {
+            "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+            "videoId": "569GbFMSISA",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "puGZDmYPCihfsHH5K15G0dm0mxg",
+                "id": "UgzLZCAepw3R2Y4iC1d4AaABAg",
+                "snippet": {
+                    "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+                    "videoId": "569GbFMSISA",
+                    "textDisplay": "Tesekürler kerkeze bu tepe pulu tepe sevdiğim  ben eskitmez  işte bitene ❤❤❤❤❤  adı bende kalsın",
+                    "textOriginal": "Tesekürler kerkeze bu tepe pulu tepe sevdiğim  ben eskitmez  işte bitene ❤❤❤❤❤  adı bende kalsın",
+                    "authorDisplayName": "@OrhanArslan-e5b",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/n2I6r_p2IS_jQMafsWIrTfrtlouSMZEYzV_dSuSbURbbd5k_uizGT887UUaCwzqDqx8f0xQ3jw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@OrhanArslan-e5b",
+                    "authorChannelId": {
+                        "value": "UCg5wsepIHglZNzM7YZ5Gpgg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-09-12T19:15:54Z",
+                    "updatedAt": "2025-09-12T19:15:54Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "XV7Eh2tnXcrgFJzEw7MN92D9Tlo",
+        "id": "UgzDytFf4CLsa4yKY6Z4AaABAg",
+        "snippet": {
+            "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+            "videoId": "569GbFMSISA",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "OnO_lieBFFqd1tK9K3wgqhQk8dk",
+                "id": "UgzDytFf4CLsa4yKY6Z4AaABAg",
+                "snippet": {
+                    "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+                    "videoId": "569GbFMSISA",
+                    "textDisplay": "Giriş mükemmel hocam teşekkürler 🙏",
+                    "textOriginal": "Giriş mükemmel hocam teşekkürler 🙏",
+                    "authorDisplayName": "@osmanozkan1598",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nzw3YhrPxVke_qoQ7eFtE0l_a9w2bLwN-qDa2NnHSKNAQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@osmanozkan1598",
+                    "authorChannelId": {
+                        "value": "UCAkfCoatTZr2RP5ITARc9Ow"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-09-12T16:19:53Z",
+                    "updatedAt": "2025-09-12T16:19:53Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 3,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,116 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "TmnQmim9u0uIeISKFSibqYDXI8c",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "iNan-I0S8jP6BZHzWaoQbtLoe6s",
+            "id": "foPdkYYV3Qw",
+            "snippet": {
+                "publishedAt": "2020-02-17T09:33:43Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "한글 자막 MV | Tate McRae - stupid",
+                "description": "#테이트맥레이 #TateMcRae #stupid\n\n틱톡에서 인기몰이 중인 그 곡 🔥\n\"주중하고 주말에만, 오전하고 오후에만 생각해...\"\n\n\n🎧 싱글 듣기: https://bit.ly/2Hr228k\n\n🔗 소뮤코 공식 채널 팔로우\n▶ YouTube: https://www.youtube.com/c/SonymusicCoKr\n▶ Instagram: https://www.instagram.com/sonymusickorea \n▶ Facebook: https://www.facebook.com/sonymusickorea\n▶ Twitter: https://twitter.com/SonyMusicKr_POP",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/foPdkYYV3Qw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/foPdkYYV3Qw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/foPdkYYV3Qw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/foPdkYYV3Qw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/foPdkYYV3Qw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "tags": [
+                    "#AudreyMika",
+                    "#팝송추천",
+                    "#플레이리스트",
+                    "#팝송",
+                    "#커버",
+                    "#팝송커버",
+                    "#빌리아일리시",
+                    "#아리아나그란데",
+                    "#BillieEillish",
+                    "#ArianaGrande",
+                    "#xanny",
+                    "#thankunext",
+                    "#badguy",
+                    "#GRAMMYs",
+                    "#RCA",
+                    "#한글자막",
+                    "#가사해석",
+                    "#SonyMusicKorea",
+                    "#UniversalMusicKorea",
+                    "#WarnerMusicKorea",
+                    "#한글가사",
+                    "#가사",
+                    "#음악",
+                    "#음악추천",
+                    "#Playlist",
+                    "#YUGottaBLikeThat",
+                    "#everythingiwanted",
+                    "#trampoline",
+                    "#shaed",
+                    "#wishyouweregay",
+                    "#jeremyzucker",
+                    "#7rings",
+                    "#beauty",
+                    "#뷰티",
+                    "#여드름",
+                    "#스킨케어",
+                    "#메이크업",
+                    "#쿨톤",
+                    "#웜톤",
+                    "#TateMcRae",
+                    "#테이트맥레이",
+                    "#stupid"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "한글 자막 MV | Tate McRae - stupid",
+                    "description": "#테이트맥레이 #TateMcRae #stupid\n\n틱톡에서 인기몰이 중인 그 곡 🔥\n\"주중하고 주말에만, 오전하고 오후에만 생각해...\"\n\n\n🎧 싱글 듣기: https://bit.ly/2Hr228k\n\n🔗 소뮤코 공식 채널 팔로우\n▶ YouTube: https://www.youtube.com/c/SonymusicCoKr\n▶ Instagram: https://www.instagram.com/sonymusickorea \n▶ Facebook: https://www.facebook.com/sonymusickorea\n▶ Twitter: https://twitter.com/SonyMusicKr_POP"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "10397",
+                "likeCount": "218",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

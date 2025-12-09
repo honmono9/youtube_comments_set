@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "y7nxVCZWGpA6f1M7-RkY9daslxM",
+        "id": "Ugwu87WCRNU5-bf46Yh4AaABAg",
+        "snippet": {
+            "channelId": "UC3fPnB3ds2xBY1PTtgkCCYw",
+            "videoId": "Y5tGYDUkjD8",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "SoUg5xO1ywflzdAFw6hLsrMvS0U",
+                "id": "Ugwu87WCRNU5-bf46Yh4AaABAg",
+                "snippet": {
+                    "channelId": "UC3fPnB3ds2xBY1PTtgkCCYw",
+                    "videoId": "Y5tGYDUkjD8",
+                    "textDisplay": "👏🏻😄",
+                    "textOriginal": "👏🏻😄",
+                    "authorDisplayName": "@러블리핑크Dy",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/9WCU1Rd8DzwODk1HUq1_tKPDZXV9VURViBhSfdwsXgXhg8WuJgiJWjrkJR8wEpV03cQM2c-N=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EB%9F%AC%EB%B8%94%EB%A6%AC%ED%95%91%ED%81%ACDy",
+                    "authorChannelId": {
+                        "value": "UCDef5YFadQQHE5-969s3XFQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-06T06:21:23Z",
+                    "updatedAt": "2025-12-06T06:21:23Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "km8oTvp1Zc4VZM0TiuZ21diF2p8",
+        "id": "UgxxBLzemQ0AcDB4SoV4AaABAg",
+        "snippet": {
+            "channelId": "UC3fPnB3ds2xBY1PTtgkCCYw",
+            "videoId": "Y5tGYDUkjD8",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "5wknf1k_80DrQodHmmdbKDFtzNc",
+                "id": "UgxxBLzemQ0AcDB4SoV4AaABAg",
+                "snippet": {
+                    "channelId": "UC3fPnB3ds2xBY1PTtgkCCYw",
+                    "videoId": "Y5tGYDUkjD8",
+                    "textDisplay": "똑똑해요!!",
+                    "textOriginal": "똑똑해요!!",
+                    "authorDisplayName": "@scarletkim93",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/e37KS36ZtugJVz3LD92W6mrHNs6upr_WqABag6kg6GzTaeTiQh0mDS5aqnaIUynxITeKSVsqKw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@scarletkim93",
+                    "authorChannelId": {
+                        "value": "UCPq-7DyQZkxqs0d1F6Lj9UA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-12-05T11:22:54Z",
+                    "updatedAt": "2025-12-05T11:22:54Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

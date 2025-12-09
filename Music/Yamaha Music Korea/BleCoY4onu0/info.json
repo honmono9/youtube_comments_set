@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "dHfbgg8INV-C_MXocM2waWn2mlM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "NbZWcUApONQ7dwzSNDj5q3TGLVs",
+            "id": "BleCoY4onu0",
+            "snippet": {
+                "publishedAt": "2024-12-12T00:45:00Z",
+                "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                "title": "[야마하 Pro-Audio] 소프트 웨어 VST Rack V2.0 Update 소식 안내🌐 - 1편",
+                "description": "소프트 웨어 VST Rack V2.0 Update 소식 안내🌐 - 1편\n\n야마하와 Steinberg의 플러그인들과 타사 플러그인들까지, \n야마하의 다양한 Professinal Audio 시스템에서 사용할 수 있게 하는\n VST Rack의 V2.0가 출시되었습니다.\n\n VST Rack V2.0 업데이트의 2가지 Point💡\n☑️Pro 및 Elements 버전에 추가된 플러그인\n☑️변경될 라이선스 이용 방식에 대한 안내 (eLicenser→Steinberg Licensing)\n\n이미 VST Rack을 사용하고 있는 유저분들이라면 꼭 참고해야 할\n이번 업데이트에 대해서 영상으로 알아보시기 바랍니다🎥\n\n※DM7, DM3, RUio16-D에 VST Rack이 번들로 포함되어있습니다.\n\n🔗VST Rack 더 자세히 보기 : https://yamaha.io/4gqTH3g\n\n#야마하 #야마하뮤직코리아\n#Yamaha #PA #야마하PA #RUio16D #DM3\n#DM7 #Dante #오디오인터페이스 #AudioInterface\n#VSTRACK #Steinberg #프로오디오 #야마하프로오디오",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BleCoY4onu0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BleCoY4onu0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BleCoY4onu0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BleCoY4onu0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BleCoY4onu0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yamaha Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[야마하 Pro-Audio] 소프트 웨어 VST Rack V2.0 Update 소식 안내🌐 - 1편",
+                    "description": "소프트 웨어 VST Rack V2.0 Update 소식 안내🌐 - 1편\n\n야마하와 Steinberg의 플러그인들과 타사 플러그인들까지, \n야마하의 다양한 Professinal Audio 시스템에서 사용할 수 있게 하는\n VST Rack의 V2.0가 출시되었습니다.\n\n VST Rack V2.0 업데이트의 2가지 Point💡\n☑️Pro 및 Elements 버전에 추가된 플러그인\n☑️변경될 라이선스 이용 방식에 대한 안내 (eLicenser→Steinberg Licensing)\n\n이미 VST Rack을 사용하고 있는 유저분들이라면 꼭 참고해야 할\n이번 업데이트에 대해서 영상으로 알아보시기 바랍니다🎥\n\n※DM7, DM3, RUio16-D에 VST Rack이 번들로 포함되어있습니다.\n\n🔗VST Rack 더 자세히 보기 : https://yamaha.io/4gqTH3g\n\n#야마하 #야마하뮤직코리아\n#Yamaha #PA #야마하PA #RUio16D #DM3\n#DM7 #Dante #오디오인터페이스 #AudioInterface\n#VSTRACK #Steinberg #프로오디오 #야마하프로오디오"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8M3S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "693",
+                "likeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

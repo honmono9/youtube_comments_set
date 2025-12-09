@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "3wUCHgmD6OJYbTm6bO0lBGUZlho",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "nVq_YjnCuIUbKHSkLN_65aZkhdY",
+            "id": "Bm-U2vn0OYM",
+            "snippet": {
+                "publishedAt": "2025-09-03T13:00:33Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Through the Shade (SATB) | Blake Richter",
+                "description": "New composition for SATB choir and piano. During the holiday season, we have so many cheerful songs to sing. But what about those for whom the holiday season is difficult? Composer Blake Richter uses his own experience of loss to create an incredibly meaningful work that reminds us that hope and love \"will guide us through the shade.\" \n\nAlso available in SA voicing. \n\nPurchase the music: https://giamusic.com/resource/though-the-shade-satb-printed-music-ww2113",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Bm-U2vn0OYM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Bm-U2vn0OYM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Bm-U2vn0OYM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Bm-U2vn0OYM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Bm-U2vn0OYM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Through the Shade (SATB) | Blake Richter",
+                    "description": "New composition for SATB choir and piano. During the holiday season, we have so many cheerful songs to sing. But what about those for whom the holiday season is difficult? Composer Blake Richter uses his own experience of loss to create an incredibly meaningful work that reminds us that hope and love \"will guide us through the shade.\" \n\nAlso available in SA voicing. \n\nPurchase the music: https://giamusic.com/resource/though-the-shade-satb-printed-music-ww2113"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT5M27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "898",
+                "likeCount": "16",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

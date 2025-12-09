@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "kOymspZyjcZl5Ngsbo14P55LPOM",
+        "id": "UgzNl0DhFYmkYqrz1DF4AaABAg",
+        "snippet": {
+            "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+            "videoId": "ybkO9lVUnNw",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "SfHHWTUyRa2HSIRt7LtMw3CEgrQ",
+                "id": "UgzNl0DhFYmkYqrz1DF4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                    "videoId": "ybkO9lVUnNw",
+                    "textDisplay": "Idealnie pasuje do nastroju, dziś u mnie deszczowo ☔☺️",
+                    "textOriginal": "Idealnie pasuje do nastroju, dziś u mnie deszczowo ☔☺️",
+                    "authorDisplayName": "@aloryt",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mBDPTjSST3uzjDYUH-oMCrtfhSMTHSxruu8RWiGuTfPA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@aloryt",
+                    "authorChannelId": {
+                        "value": "UCe24vR5n8ZcBvSTS-vIX89g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-09-14T17:04:28Z",
+                    "updatedAt": "2025-09-14T17:04:28Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

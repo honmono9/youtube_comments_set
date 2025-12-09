@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "j6qG4VfG-Oo02tBBJkWr8C3x7sA",
+        "id": "UgwjEjNX1VJokISQKPl4AaABAg",
+        "snippet": {
+            "channelId": "UCk--BIdDhezTY294iDOwunQ",
+            "videoId": "EW9c5HoATTE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "jeZLePAgFdPyfaV3b7wRTs-DvsA",
+                "id": "UgwjEjNX1VJokISQKPl4AaABAg",
+                "snippet": {
+                    "channelId": "UCk--BIdDhezTY294iDOwunQ",
+                    "videoId": "EW9c5HoATTE",
+                    "textDisplay": "내부를 차차 관리해서 바꿔나간 테세우스의 배 같은거가 아니라 설마 진짜 내부까지 싹 다 통채로 근본력 넘치는 오리지널 그 자체인건가요...??",
+                    "textOriginal": "내부를 차차 관리해서 바꿔나간 테세우스의 배 같은거가 아니라 설마 진짜 내부까지 싹 다 통채로 근본력 넘치는 오리지널 그 자체인건가요...??",
+                    "authorDisplayName": "@DRD-coltd",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/yzfAMrtbRJce4GCLmNA6-VLn0na0gJpu271c00mnejz6iYCQkHsjw9uTOmsQ-2wgdbMcOBYQDpg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@DRD-coltd",
+                    "authorChannelId": {
+                        "value": "UC0J0kzaw4PfMzNAhP74JA1Q"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2024-11-12T11:02:33Z",
+                    "updatedAt": "2024-11-12T11:02:33Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

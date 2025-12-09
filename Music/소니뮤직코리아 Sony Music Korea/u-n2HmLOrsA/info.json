@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "7dhWZZT18142Kb3vXlNyftnOEZc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "tAIV1940H3vpBFHjcsIfCUaudnI",
+            "id": "u-n2HmLOrsA",
+            "snippet": {
+                "publishedAt": "2023-03-13T08:19:18Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "해리 스타일스 내한 D-7 기념! 원 디렉션 추억의 명곡도 함께 듣기🤩",
+                "description": "💟One Direction - What Makes You Beautiful \n\n#원디렉션 #OneDirection #WhatMakesYouBeautiful #WMYB",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u-n2HmLOrsA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u-n2HmLOrsA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u-n2HmLOrsA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/u-n2HmLOrsA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/u-n2HmLOrsA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "tags": [
+                    "원 디렉션",
+                    "One Direction",
+                    "What Makes You Beautiful",
+                    "WMYB",
+                    "해리 스타일스",
+                    "Harry Styles",
+                    "내한",
+                    "해리 스타일스 내한",
+                    "라이브",
+                    "live",
+                    "POP",
+                    "팝송",
+                    "팝송 추천",
+                    "음악 추천",
+                    "노래추천"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "해리 스타일스 내한 D-7 기념! 원 디렉션 추억의 명곡도 함께 듣기🤩",
+                    "description": "💟One Direction - What Makes You Beautiful \n\n#원디렉션 #OneDirection #WhatMakesYouBeautiful #WMYB"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT32S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "710729",
+                "likeCount": "21408",
+                "favoriteCount": "0",
+                "commentCount": "127"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

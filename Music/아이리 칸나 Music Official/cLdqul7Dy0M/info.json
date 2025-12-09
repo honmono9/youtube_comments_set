@@ -1,0 +1,93 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Rf8XEluEk6hoxx6CxOKHwgSgKKA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ZGB7407iw0Q0lzI0-5O9sd5Su80",
+            "id": "cLdqul7Dy0M",
+            "snippet": {
+                "publishedAt": "2024-01-25T07:00:13Z",
+                "channelId": "UC6YnTqZidFg4WUiXpiCtSSQ",
+                "title": "언제나 벚꽃이 흐드러질 때면 널 만나러 갈테니까🌸  | Airi Kanna - 벚꽃만월(SPYAIR)/3D live",
+                "description": "#아이리칸나 #藍璃かんな #Airi_Kanna #벚꽃만월 #은혼 #銀魂 #サクラミツツキ #Sakuramitsutsuki  #spyair #stellive #shorts",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cLdqul7Dy0M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cLdqul7Dy0M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cLdqul7Dy0M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cLdqul7Dy0M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cLdqul7Dy0M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "아이리 칸나 Music Official",
+                "tags": [
+                    "#아이리칸나",
+                    "칸나 노래",
+                    "버튜버",
+                    "스텔라이브",
+                    "강지",
+                    "airikanna",
+                    "airi kanna",
+                    "kanna",
+                    "칸나",
+                    "아이리칸나",
+                    "ステライブ",
+                    "벚꽃만월",
+                    "칸나벚꽃만월",
+                    "스파이에어",
+                    "spyair",
+                    "サクラミツツキ",
+                    "Sakuramitsutsuki",
+                    "Gintama",
+                    "銀魂"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "언제나 벚꽃이 흐드러질 때면 널 만나러 갈테니까🌸  | Airi Kanna - 벚꽃만월(SPYAIR)/3D live",
+                    "description": "#아이리칸나 #藍璃かんな #Airi_Kanna #벚꽃만월 #은혼 #銀魂 #サクラミツツキ #Sakuramitsutsuki  #spyair #stellive #shorts"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT1M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "201395",
+                "likeCount": "13009",
+                "favoriteCount": "0",
+                "commentCount": "387"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

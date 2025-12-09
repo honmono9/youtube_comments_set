@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "SDp_apCzAyKVW3f7HtR57MomQjY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "lN4RXmMekdNStiDzyRLvJkPcOLo",
+            "id": "eAwfK6SyAsA",
+            "snippet": {
+                "publishedAt": "2025-11-07T15:52:07Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Tool - Parabola (Blues Rock AI Cover)",
+                "description": "Parabola by Tool twisted into some gritty Blues Rock!\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nWe barely remember who or what came before this precious moment\nWe are choosing to be here right now\nHold on, stay inside...\n\nThis holy reality, this holy experience\nChoosing to be here in...\nThis body, this body holding me\nBe my reminder here that I am not alone in...\nThis body, this body holding me, feeling eternal\nAll this pain is an illusion\n\nAlive!\n\nIn this holy reality, in this holy experience\nChoosing to be here in...\nThis body, this body holding me\nBe my reminder here that I am not alone in...\nThis body, this body holding me, feeling eternal\nAll this pain is an illusion\n\nTwirling round with this familiar parable\nSpinning, weaving round each new experience\nRecognize this as a holy gift and celebrate this chance to be alive and breathing\nA chance to be alive and breathing\n\nThis body holding me reminds me of my own mortality\nEmbrace this moment, remember, we are eternal\nAll this pain is an illusion",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eAwfK6SyAsA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eAwfK6SyAsA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eAwfK6SyAsA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eAwfK6SyAsA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eAwfK6SyAsA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Tool - Parabola (Blues Rock AI Cover)",
+                    "description": "Parabola by Tool twisted into some gritty Blues Rock!\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nWe barely remember who or what came before this precious moment\nWe are choosing to be here right now\nHold on, stay inside...\n\nThis holy reality, this holy experience\nChoosing to be here in...\nThis body, this body holding me\nBe my reminder here that I am not alone in...\nThis body, this body holding me, feeling eternal\nAll this pain is an illusion\n\nAlive!\n\nIn this holy reality, in this holy experience\nChoosing to be here in...\nThis body, this body holding me\nBe my reminder here that I am not alone in...\nThis body, this body holding me, feeling eternal\nAll this pain is an illusion\n\nTwirling round with this familiar parable\nSpinning, weaving round each new experience\nRecognize this as a holy gift and celebrate this chance to be alive and breathing\nA chance to be alive and breathing\n\nThis body holding me reminds me of my own mortality\nEmbrace this moment, remember, we are eternal\nAll this pain is an illusion"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5992",
+                "likeCount": "234",
+                "favoriteCount": "0",
+                "commentCount": "32"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "vJxMWyAzExf_RIMYj4y8RpdsHvg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "hvceEcxgRYyCK90G7634cu9YTmE",
+            "id": "jN2fadwkxVU",
+            "snippet": {
+                "publishedAt": "2025-12-04T03:00:57Z",
+                "channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
+                "title": "yawn - 마지막의 마지막 (Last of last) MV",
+                "description": "yawn - 마지막의 마지막 (Last of last) MV\n\n가끔 우리의 그때가 생각난다.\n우리는 이제 막 어른이 되어서\n몹시 하찮은 걱정들에 불안을 품은 채\n애틋한 듯 어렸지만, 무엇보다 즐거웠던\n그 순간을 추억하며\n\n[Credits]\nLyrics by yawn\nComposed by yawn\nArranged by 강현준, yawn\n\nGuitars by 강현준\nKeys by 강현준, 박유찬, yawn\nDrums by 강현준, yawn\nBass by 윤준호\n\nRecorded at Paracosm sound\nMixed by 김상일\nMastered by 권남우 @821 SOUND\n\nPhotograph by 조재웅\nPhotoshop design by 조재웅\n\n#yawn #마지막의마지막 #Lastoflast",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jN2fadwkxVU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jN2fadwkxVU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jN2fadwkxVU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jN2fadwkxVU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jN2fadwkxVU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Stone Music Entertainment",
+                "tags": [
+                    "K-CULTURE",
+                    "korean Music",
+                    "MV",
+                    "Music Video",
+                    "K-Pop",
+                    "Kpop",
+                    "뮤비",
+                    "뮤직비디오",
+                    "Stone Music Entertainment"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "yawn - 마지막의 마지막 (Last of last) MV",
+                    "description": "yawn - 마지막의 마지막 (Last of last) MV\n\n가끔 우리의 그때가 생각난다.\n우리는 이제 막 어른이 되어서\n몹시 하찮은 걱정들에 불안을 품은 채\n애틋한 듯 어렸지만, 무엇보다 즐거웠던\n그 순간을 추억하며\n\n[Credits]\nLyrics by yawn\nComposed by yawn\nArranged by 강현준, yawn\n\nGuitars by 강현준\nKeys by 강현준, 박유찬, yawn\nDrums by 강현준, yawn\nBass by 윤준호\n\nRecorded at Paracosm sound\nMixed by 김상일\nMastered by 권남우 @821 SOUND\n\nPhotograph by 조재웅\nPhotoshop design by 조재웅\n\n#yawn #마지막의마지막 #Lastoflast"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2487",
+                "likeCount": "209",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

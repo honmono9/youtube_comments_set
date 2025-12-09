@@ -1,0 +1,97 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "N0dtBpUAA9uQYy7SNWtkQ8Bkc3I",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "M8eH_SXWXhPw4KzBR6-ssM3Gf1c",
+            "id": "OghUvhg-HrQ",
+            "snippet": {
+                "publishedAt": "2024-02-07T06:00:09Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[Playlist] 오늘도 수고한 나에게 | 퇴근길 플레이리스트",
+                "description": "#playlist #퇴근 #응원\n-\n\n서울뮤직 오피셜: https://www.youtube.com/@SEOULMUSIC\n서울뮤직 인스타: https://www.instagram.com/seoulmusic.official/\n뉴릴리즈 : https://url.kr/74qx8g\n믹스테이프: https://url.kr/ps2j8z\n\n-\n\n#playlist #플레이리스트\n#kpop #idol #indie #ballad #rock #hiphop #rnb \n#케이팝 #아이돌 #인디 #발라드 #락 #힙합 #알앤비\n#mood #무드 #감성 #위로 #잔잔\n#퇴근길 #응원 #화이팅 #할수있다 #퇴근최고",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OghUvhg-HrQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OghUvhg-HrQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OghUvhg-HrQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OghUvhg-HrQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OghUvhg-HrQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "tags": [
+                    "#playlist",
+                    "#플레이리스트 #kpop",
+                    "#idol",
+                    "#indie",
+                    "#ballad",
+                    "#rock",
+                    "#hiphop",
+                    "#rnb",
+                    "#케이팝",
+                    "#아이돌",
+                    "#인디",
+                    "#발라드",
+                    "#락",
+                    "#힙합",
+                    "#알앤비 #mood",
+                    "#무드",
+                    "#감성",
+                    "#위로",
+                    "#잔잔 #퇴근길",
+                    "#응원",
+                    "#화이팅",
+                    "#할수있다",
+                    "#퇴근최고"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Playlist] 오늘도 수고한 나에게 | 퇴근길 플레이리스트",
+                    "description": "#playlist #퇴근 #응원\n-\n\n서울뮤직 오피셜: https://www.youtube.com/@SEOULMUSIC\n서울뮤직 인스타: https://www.instagram.com/seoulmusic.official/\n뉴릴리즈 : https://url.kr/74qx8g\n믹스테이프: https://url.kr/ps2j8z\n\n-\n\n#playlist #플레이리스트\n#kpop #idol #indie #ballad #rock #hiphop #rnb \n#케이팝 #아이돌 #인디 #발라드 #락 #힙합 #알앤비\n#mood #무드 #감성 #위로 #잔잔\n#퇴근길 #응원 #화이팅 #할수있다 #퇴근최고"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1H9M4S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1934",
+                "likeCount": "33",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

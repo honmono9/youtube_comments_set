@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "jPV41EthUi-xqou_qRSK6Z-736c",
+        "id": "UgwaUIEmDR7wl7iv0gJ4AaABAg",
+        "snippet": {
+            "channelId": "UCFenHjfqkwDFalw73fHvjww",
+            "videoId": "kqO8XFNoprg",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "1xBUunNQb7jlePP3ElhpTCXBw0c",
+                "id": "UgwaUIEmDR7wl7iv0gJ4AaABAg",
+                "snippet": {
+                    "channelId": "UCFenHjfqkwDFalw73fHvjww",
+                    "videoId": "kqO8XFNoprg",
+                    "textDisplay": "Ráno☕️🌿kafe a relax,👏krásné Mj",
+                    "textOriginal": "Ráno☕️🌿kafe a relax,👏krásné Mj",
+                    "authorDisplayName": "@sonacapkova",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/nSPuYGvfMc6YkG4ESRfDZnLwy1Pj3DMHNebRR4k-Gvvx4Q9AysAMNoNhfbdQatqEN0u-bpKoAg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@sonacapkova",
+                    "authorChannelId": {
+                        "value": "UCpl89mXN5HKnG4I66oHyyvg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-26T20:08:24Z",
+                    "updatedAt": "2025-11-26T20:08:24Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

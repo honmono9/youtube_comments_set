@@ -1,0 +1,108 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "V2COC4X4_s6xz-h41EmgkKQGHQ0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "h7XIT1xK-hBrCWOBV-L7BDt0tWE",
+            "id": "1xgw19r-Twk",
+            "snippet": {
+                "publishedAt": "2025-09-16T09:47:17Z",
+                "channelId": "UCsfYd7AVFk_ASiMudok6_sQ",
+                "title": "Take the 'A' Train",
+                "description": "청주에서 연주한 Take the \"a\" Train 입니다!\n\n클라리넷 서효상\n기타 송민섭\n바이올린 유호정\n베이스 최준혁 \n\n땡큐! \n\nContact - Chjh1234@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1xgw19r-Twk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1xgw19r-Twk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1xgw19r-Twk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1xgw19r-Twk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1xgw19r-Twk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jazz Music Korea",
+                "tags": [
+                    "재즈",
+                    "재즈밴드",
+                    "재즈공연",
+                    "재즈밴드굿펠리스",
+                    "굿펠리스",
+                    "재즈밴드섭외",
+                    "재즈음악",
+                    "재즈뮤직코리아",
+                    "공연",
+                    "공연섭외",
+                    "재즈베이스",
+                    "콘트라베이스",
+                    "콘트라베이스최준혁",
+                    "재즈베이스최준혁",
+                    "워킹베이스",
+                    "jazz",
+                    "jazzband",
+                    "jazzmusic",
+                    "jazzmusickorea",
+                    "goodfellis",
+                    "uprightbass",
+                    "jazzbass",
+                    "choijunhyuk",
+                    "비브라폰",
+                    "livejazz",
+                    "jazzbandgoodfellis",
+                    "autumn leaves",
+                    "버스킹",
+                    "어텀리브스",
+                    "즉흥연주",
+                    "피렌체",
+                    "여행",
+                    "이태리",
+                    "italy"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Take the 'A' Train",
+                    "description": "청주에서 연주한 Take the \"a\" Train 입니다!\n\n클라리넷 서효상\n기타 송민섭\n바이올린 유호정\n베이스 최준혁 \n\n땡큐! \n\nContact - Chjh1234@gmail.com"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2573",
+                "likeCount": "99",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "jw_DhJnxaREaxRn-CF4gXnt5_zs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "TArxzRCHjAjgQK6jx_gUHCntDZ0",
+            "id": "7F4ZCtB0spY",
+            "snippet": {
+                "publishedAt": "2025-11-05T17:06:36Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Radiohead - Nude | 1950s Jazz AI Cover",
+                "description": "Nude by Radiohead twisted into 1950s Jazz\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nDon't get any big ideas\nThey're not gonna happen\n\nYou paint yourself white\nAnd fill up with noise\nBut there'll be something missing\n\nNow that you've found it, it's gone\nNow that you feel it, you don't\nYou've gone off the rails\n\nSo don't get any big ideas\nThey're not gonna happen\n\nYou'll go to hell\nFor what your dirty mind is thinking",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7F4ZCtB0spY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7F4ZCtB0spY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7F4ZCtB0spY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7F4ZCtB0spY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7F4ZCtB0spY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Radiohead - Nude | 1950s Jazz AI Cover",
+                    "description": "Nude by Radiohead twisted into 1950s Jazz\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nDon't get any big ideas\nThey're not gonna happen\n\nYou paint yourself white\nAnd fill up with noise\nBut there'll be something missing\n\nNow that you've found it, it's gone\nNow that you feel it, you don't\nYou've gone off the rails\n\nSo don't get any big ideas\nThey're not gonna happen\n\nYou'll go to hell\nFor what your dirty mind is thinking"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M49S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "677",
+                "likeCount": "34",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

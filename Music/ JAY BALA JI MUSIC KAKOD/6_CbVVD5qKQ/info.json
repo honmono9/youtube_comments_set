@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "YoIfaaBNCoT0IpWbYIhJXm6enl0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "zsE7Wz7z-YeII4cB0vQVW84GICE",
+            "id": "6_CbVVD5qKQ",
+            "snippet": {
+                "publishedAt": "2025-06-30T19:43:47Z",
+                "channelId": "UC5oWa6pisfCuXtGmPWhPNMg",
+                "title": "।। भोमिया जी का चौक में। निमड़ी की छाया बेट बालो देव दियो कोन ।। सिंगर खुशीराम गुजर,राजेश प्रजापत",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6_CbVVD5qKQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6_CbVVD5qKQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6_CbVVD5qKQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6_CbVVD5qKQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6_CbVVD5qKQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": " JAY BALA JI MUSIC KAKOD.",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "hi",
+                "localized": {
+                    "title": "।। भोमिया जी का चौक में। निमड़ी की छाया बेट बालो देव दियो कोन ।। सिंगर खुशीराम गुजर,राजेश प्रजापत",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "contentDetails": {
+                "duration": "PT10M19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "656",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

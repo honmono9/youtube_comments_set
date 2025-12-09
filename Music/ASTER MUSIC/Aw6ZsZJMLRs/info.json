@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "WjLK71Nc5-EcLLaqbv_uIjfu170",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "RFVhIDZM8VdVZ_smuNiVyK6DNk8",
+            "id": "Aw6ZsZJMLRs",
+            "snippet": {
+                "publishedAt": "2025-11-13T09:00:17Z",
+                "channelId": "UC3fPnB3ds2xBY1PTtgkCCYw",
+                "title": "음식은 거들 뿐이라는 '이 곳'",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Aw6ZsZJMLRs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Aw6ZsZJMLRs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Aw6ZsZJMLRs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Aw6ZsZJMLRs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Aw6ZsZJMLRs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ASTER MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "음식은 거들 뿐이라는 '이 곳'",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "14118",
+                "likeCount": "149",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

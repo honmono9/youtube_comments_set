@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "15xKMKu4WIatp3eg0DjFqX-Lnvk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Mr2L-9vABV4jTuGaDiBUiOdDv2M",
+            "id": "bVfkSbTuAJo",
+            "snippet": {
+                "publishedAt": "2025-08-30T14:30:06Z",
+                "channelId": "UClbjf4pXBzXVk3ImyeBa__w",
+                "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 돌려돌려돌림판이젠나의보너스타임보니하니본의아니게이뤄져버린나의삶",
+                "description": "잠깐 들렸어요",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bVfkSbTuAJo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bVfkSbTuAJo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bVfkSbTuAJo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "뮤플비 Music Plus Movie",
+                "tags": [
+                    "팝송",
+                    "영화",
+                    "팝송가사해석",
+                    "가사해석",
+                    "염따",
+                    "기리보이",
+                    "머쉬배놈",
+                    "돌림판",
+                    "얼",
+                    "힙합",
+                    "힙합플리",
+                    "머쉬베놈",
+                    "신빠람잉박사",
+                    "플레이리스트",
+                    "신나는 플레이리스트",
+                    "쇼미12",
+                    "쇼미11",
+                    "쇼미"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 돌려돌려돌림판이젠나의보너스타임보니하니본의아니게이뤄져버린나의삶",
+                    "description": "잠깐 들렸어요"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT28M18S",
+                "dimension": "2d",
+                "definition": "sd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "84791",
+                "likeCount": "2618",
+                "favoriteCount": "0",
+                "commentCount": "95"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

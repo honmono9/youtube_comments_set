@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "-yA75EU1XR5G4ZPLMzxiHal-GbU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "a2seoT7pyuEhk8VVsiaDw5WGrDg",
+            "id": "uVfbf50QM_g",
+            "snippet": {
+                "publishedAt": "2017-11-23T09:00:03Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "한해 (HANHAE) '보는 눈 (Eyes) (Feat. 하니 (EXID))' TEASER",
+                "description": "#한해 (#HANHAE) '#보는눈 (#Eyes) (Feat. #하니 (#EXID))' TEASER\n\n한해 '보는 눈' 2017.11.24 6PM RELEASE\n\n\n한해(HANHAE) Official @\nhttps://www.instagram.com/hanhae1990/\nhttps://www.facebook.com/hanhae2016/\nhttps://twitter.com/hanhae90\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music\n\n\n#브랜뉴뮤직 #BRANDNEWMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uVfbf50QM_g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uVfbf50QM_g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uVfbf50QM_g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uVfbf50QM_g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uVfbf50QM_g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "tags": [
+                    "한해",
+                    "HANHAE",
+                    "보는 눈",
+                    "하니",
+                    "EXID"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "한해 (HANHAE) '보는 눈 (Eyes) (Feat. 하니 (EXID))' TEASER",
+                    "description": "#한해 (#HANHAE) '#보는눈 (#Eyes) (Feat. #하니 (#EXID))' TEASER\n\n한해 '보는 눈' 2017.11.24 6PM RELEASE\n\n\n한해(HANHAE) Official @\nhttps://www.instagram.com/hanhae1990/\nhttps://www.facebook.com/hanhae2016/\nhttps://twitter.com/hanhae90\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music\n\n\n#브랜뉴뮤직 #BRANDNEWMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "10718",
+                "likeCount": "327",
+                "favoriteCount": "0",
+                "commentCount": "17"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

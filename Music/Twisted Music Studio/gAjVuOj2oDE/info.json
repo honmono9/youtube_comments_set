@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "YzZtIpyoo83_Z5V1o4DMKFmSIQo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "3rjE8GK4ziuuPwjeen1KcgWOtnM",
+            "id": "gAjVuOj2oDE",
+            "snippet": {
+                "publishedAt": "2025-10-31T16:35:56Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "The Smashing Pumpkins - 1979 | Soul/Funk AI Cover",
+                "description": "1979 by The Smashing Pumpkins twisted into some groovy Funk music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nShakedown 1979\nCool kids never have the time\nOn a live wire right up off the street\nYou and I should meet\n\nJune bug skipping like a stone\nWith the headlights pointed at the dawn\nWe were sure we'd never see an end to it all\n\nAnd I don't even care\nTo shake these zipper blues\nAnd we don't know\nJust where our bones will rest\nTo dust I guess\nForgotten and absorbed into the earth\nBelow\n\nDouble-cross the vacant and the bored\nThey're not sure just what we have in store\nMorphine city slipping dues, down to see\n\nThat we don't even care\nAs restless as we are\nWe feel the pull\nIn the land of a thousand guilts\nAnd poured cement\n\nLamented and assured\nTo the lights and towns below\nFaster than the speed of sound\nFaster than we thought we'd go\nBeneath the sound of hope\n\nJustine never knew the rules\nHung down with the freaks and ghouls\nNo apologies ever need be made\nI know you better than you fake it, to see\n\nThat we don't even care\nTo shake these zipper blues\nAnd we don't know\nJust where our bones will rest\nTo dust I guess\nForgotten and absorbed into the earth\nBelow\n\nThe street heats the urgency of now\nAs you see there's no one around",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gAjVuOj2oDE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gAjVuOj2oDE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gAjVuOj2oDE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gAjVuOj2oDE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gAjVuOj2oDE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "The Smashing Pumpkins - 1979 | Soul/Funk AI Cover",
+                    "description": "1979 by The Smashing Pumpkins twisted into some groovy Funk music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nShakedown 1979\nCool kids never have the time\nOn a live wire right up off the street\nYou and I should meet\n\nJune bug skipping like a stone\nWith the headlights pointed at the dawn\nWe were sure we'd never see an end to it all\n\nAnd I don't even care\nTo shake these zipper blues\nAnd we don't know\nJust where our bones will rest\nTo dust I guess\nForgotten and absorbed into the earth\nBelow\n\nDouble-cross the vacant and the bored\nThey're not sure just what we have in store\nMorphine city slipping dues, down to see\n\nThat we don't even care\nAs restless as we are\nWe feel the pull\nIn the land of a thousand guilts\nAnd poured cement\n\nLamented and assured\nTo the lights and towns below\nFaster than the speed of sound\nFaster than we thought we'd go\nBeneath the sound of hope\n\nJustine never knew the rules\nHung down with the freaks and ghouls\nNo apologies ever need be made\nI know you better than you fake it, to see\n\nThat we don't even care\nTo shake these zipper blues\nAnd we don't know\nJust where our bones will rest\nTo dust I guess\nForgotten and absorbed into the earth\nBelow\n\nThe street heats the urgency of now\nAs you see there's no one around"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5451",
+                "likeCount": "200",
+                "favoriteCount": "0",
+                "commentCount": "16"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

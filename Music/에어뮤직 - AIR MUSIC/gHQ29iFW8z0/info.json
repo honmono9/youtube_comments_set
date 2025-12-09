@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "fH5-ybMe09GauXYULLjEcZhsCf0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "mhOVb-0z1FAzDWzJXTkluOMD1kE",
+            "id": "gHQ29iFW8z0",
+            "snippet": {
+                "publishedAt": "2025-11-12T09:01:08Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "공기남 - 그대를 사랑한다는 건 [Audio]",
+                "description": "공기남 - 그대를 사랑한다는 건 (Airman - You're my moonlight)\n\n사랑이란 감정이 점점 멀게 느껴지던 어느 날, 운명처럼 찾아온 너.\n그 순간의 설렘을 음악에 담았다.\n\n다시 사랑을 믿고 싶은 모든 사람에게 전한다.\n\n\nTrack list.\n01. 그대를 사랑한다는 건 (작사: 공기남 / 작곡: 공기남 / 편곡: 공기남)\n02. 그대를 사랑한다는 건 (Inst.) (작곡: 공기남 / 편곡: 공기남)\n\n[Credits]\nExecutive producer 공기남\nLyrics by 공기남 \nComposed by 공기남\nArranged by 공기남\nVocal by 공기남 \nPiano by 공기남 \nGuitar by YOUNG, 양혁 \nMidi Programing by 공기남\nRecorded by fovitz @AirMusic Studio\nMixed by 노양수\nMastered by 권남우\nAlbum artwork by @Augus7\nManagement Airmusic\nTeam leader 박지호 @melanoalbinc\nDistributed by Wanermusic_Korea\n\n#공기남 #그대를사랑한다는건 #Youaremymoonlight #Music #kpop",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gHQ29iFW8z0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gHQ29iFW8z0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gHQ29iFW8z0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gHQ29iFW8z0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gHQ29iFW8z0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "공기남 - 그대를 사랑한다는 건 [Audio]",
+                    "description": "공기남 - 그대를 사랑한다는 건 (Airman - You're my moonlight)\n\n사랑이란 감정이 점점 멀게 느껴지던 어느 날, 운명처럼 찾아온 너.\n그 순간의 설렘을 음악에 담았다.\n\n다시 사랑을 믿고 싶은 모든 사람에게 전한다.\n\n\nTrack list.\n01. 그대를 사랑한다는 건 (작사: 공기남 / 작곡: 공기남 / 편곡: 공기남)\n02. 그대를 사랑한다는 건 (Inst.) (작곡: 공기남 / 편곡: 공기남)\n\n[Credits]\nExecutive producer 공기남\nLyrics by 공기남 \nComposed by 공기남\nArranged by 공기남\nVocal by 공기남 \nPiano by 공기남 \nGuitar by YOUNG, 양혁 \nMidi Programing by 공기남\nRecorded by fovitz @AirMusic Studio\nMixed by 노양수\nMastered by 권남우\nAlbum artwork by @Augus7\nManagement Airmusic\nTeam leader 박지호 @melanoalbinc\nDistributed by Wanermusic_Korea\n\n#공기남 #그대를사랑한다는건 #Youaremymoonlight #Music #kpop"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1135",
+                "likeCount": "23",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

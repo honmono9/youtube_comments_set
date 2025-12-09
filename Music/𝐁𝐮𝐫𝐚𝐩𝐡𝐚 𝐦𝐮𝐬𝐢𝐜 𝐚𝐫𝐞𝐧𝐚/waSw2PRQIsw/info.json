@@ -1,0 +1,75 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "nL9yDj11ldnmePUhaJagWwDMoPI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "73XdDaCnCzo4YITs6jinTcpPK_Y",
+            "id": "waSw2PRQIsw",
+            "snippet": {
+                "publishedAt": "2025-10-29T05:36:28Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "ฝนสีเทา -[ Silver Rain]  Teaser trailer #mv   #music #lovesong",
+                "description": "ฝนสีเทาไม่อาจลบความทรงจำ — มันเพียงทำให้ทุกอย่างชัดเจนกว่าที่เคย”",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/waSw2PRQIsw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/waSw2PRQIsw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/waSw2PRQIsw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/waSw2PRQIsw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/waSw2PRQIsw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "tags": [
+                    "@BMAarena"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "ฝนสีเทา -[ Silver Rain]  Teaser trailer #mv   #music #lovesong",
+                    "description": "ฝนสีเทาไม่อาจลบความทรงจำ — มันเพียงทำให้ทุกอย่างชัดเจนกว่าที่เคย”"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT1M4S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "16551",
+                "likeCount": "50",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

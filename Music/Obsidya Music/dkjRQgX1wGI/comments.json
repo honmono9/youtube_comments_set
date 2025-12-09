@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "4E00XPrSaX4tT9ULnu0IudrFqss",
+        "id": "UgxITipEO0WjuiOoO8p4AaABAg",
+        "snippet": {
+            "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+            "videoId": "dkjRQgX1wGI",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "c2YF0KF_TCMwgBBOClv80Mek87M",
+                "id": "UgxITipEO0WjuiOoO8p4AaABAg",
+                "snippet": {
+                    "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+                    "videoId": "dkjRQgX1wGI",
+                    "textDisplay": "✨🎧",
+                    "textOriginal": "✨🎧",
+                    "authorDisplayName": "@vibemoments0",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/Ybeq-ybd9Q_LNyc_GCVXg3yHOSGnKiMXVL5hjLYnKkf8asGfcNHoXYj6m_3gHb2UK4ymfGxfQgM=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@vibemoments0",
+                    "authorChannelId": {
+                        "value": "UC-zGJs0KM7ylRw4dG5isAiQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-19T19:48:49Z",
+                    "updatedAt": "2025-11-19T19:48:49Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "1GspFqm87ERN0TGZO6DxSNEa-tY",
+        "id": "UgxLFW5N0uP-Qv7y6q94AaABAg",
+        "snippet": {
+            "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+            "videoId": "dkjRQgX1wGI",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "rtRrb69iWLaYAwUmq8V0sFQmu3E",
+                "id": "UgxLFW5N0uP-Qv7y6q94AaABAg",
+                "snippet": {
+                    "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+                    "videoId": "dkjRQgX1wGI",
+                    "textDisplay": "Zaten doğuştan yaralıyım, yok olmak, Hakka kavuşmak istiyorum😢😢😢😢😢😢😢😢😢",
+                    "textOriginal": "Zaten doğuştan yaralıyım, yok olmak, Hakka kavuşmak istiyorum😢😢😢😢😢😢😢😢😢",
+                    "authorDisplayName": "@FerideKirdag",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nEK1kbF7CC8jzmxy5AOsGznV0V8U7waLwCm7EBugLuJA6Zhn2wYaW4DejMrvW3aNbXFg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@FerideKirdag",
+                    "authorChannelId": {
+                        "value": "UCFF-x4IY4zrg1olXIQ9lkFA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 3,
+                    "publishedAt": "2025-11-19T19:47:39Z",
+                    "updatedAt": "2025-11-19T19:47:39Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 5,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "ifU5HigvssTlwjzvFQd99oU0SO4",
+        "id": "Ugxlackd41kCIydFKaB4AaABAg",
+        "snippet": {
+            "channelId": "UCATxSCJz65QdZ5GpfXnPOpQ",
+            "videoId": "Vg1cykOy4L4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "-Rd7ADT04HxB8nusWdUdK5lpOsc",
+                "id": "Ugxlackd41kCIydFKaB4AaABAg",
+                "snippet": {
+                    "channelId": "UCATxSCJz65QdZ5GpfXnPOpQ",
+                    "videoId": "Vg1cykOy4L4",
+                    "textDisplay": "😂",
+                    "textOriginal": "😂",
+                    "authorDisplayName": "@ปราโมทย์แผ่นผา",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kb8d9MQcHiggmCBAHVEPHRB94fVm1iFLop1vtYP3Gy7YGzDIs=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B9%82%E0%B8%A1%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%9C%E0%B8%B2",
+                    "authorChannelId": {
+                        "value": "UCj-jtK_j4p4jzbXfW0XMBoA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-08-21T10:22:07Z",
+                    "updatedAt": "2025-08-21T10:22:07Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

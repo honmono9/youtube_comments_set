@@ -1,0 +1,95 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "wd0oOY_GxtCoSObaegcvkEqM4SQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "nToHkILtaDhMu4PFLc9RoxojjCw",
+            "id": "3A8ELNI3Ahc",
+            "snippet": {
+                "publishedAt": "2022-05-27T11:20:09Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "🌞올 여름을 책임질🌞 #캘빈해리스 #두아리파 #영서그 #Potion #Shorts",
+                "description": "🌞#캘빈해리스\n신곡 #Potion 으로 돌아온 #캘빈해리스 \n\n🎧Calvin Harris, Dua Lipa, Young Thug - Potion 음원 듣기\n: https://smek.lnk.to/Potion\n\n#CalvinHarris #캘빈해리스 #DuaLipa #두아리파 #YoungThug #영서그 #Potion #FunkWavBounceVol2 #콜라보 #여름노래 #썸머송 #여름추천곡",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3A8ELNI3Ahc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3A8ELNI3Ahc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3A8ELNI3Ahc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3A8ELNI3Ahc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3A8ELNI3Ahc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "tags": [
+                    "캘빈 해리스",
+                    "Calvin Harris",
+                    "두아 리파",
+                    "Dua Lipa",
+                    "영 서그",
+                    "Young Thug",
+                    "Potion",
+                    "FunkWavBounceVol2",
+                    "콜라보",
+                    "여름노래",
+                    "썸머송",
+                    "여름추천곡",
+                    "POP",
+                    "신곡추천",
+                    "추천신곡",
+                    "팝송추천",
+                    "여름띵곡",
+                    "내적댄스",
+                    "특급 콜라보",
+                    "믿듣조합",
+                    "펑키"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🌞올 여름을 책임질🌞 #캘빈해리스 #두아리파 #영서그 #Potion #Shorts",
+                    "description": "🌞#캘빈해리스\n신곡 #Potion 으로 돌아온 #캘빈해리스 \n\n🎧Calvin Harris, Dua Lipa, Young Thug - Potion 음원 듣기\n: https://smek.lnk.to/Potion\n\n#CalvinHarris #캘빈해리스 #DuaLipa #두아리파 #YoungThug #영서그 #Potion #FunkWavBounceVol2 #콜라보 #여름노래 #썸머송 #여름추천곡"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT38S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1141",
+                "likeCount": "41",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

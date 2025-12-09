@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "_BemB-kOn1ITwZkv22cPHbBQncY",
+        "id": "UgyGdPCa13RkE4Oo8WN4AaABAg",
+        "snippet": {
+            "channelId": "UCo62tODW4YnxtszbusXyX-w",
+            "videoId": "_gomT-d72v0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "dO2gYtGv_vE3pV9RIr9YFrhH7v0",
+                "id": "UgyGdPCa13RkE4Oo8WN4AaABAg",
+                "snippet": {
+                    "channelId": "UCo62tODW4YnxtszbusXyX-w",
+                    "videoId": "_gomT-d72v0",
+                    "textDisplay": "It’s amazing how dogs can bring calmness without saying a single word. The way they breathe, sleep, and simply exist reminds me that peace is found in the simplest moments. Thank you for capturing this so beautifully. 🌙",
+                    "textOriginal": "It’s amazing how dogs can bring calmness without saying a single word. The way they breathe, sleep, and simply exist reminds me that peace is found in the simplest moments. Thank you for capturing this so beautifully. 🌙",
+                    "authorDisplayName": "@DogZen_123",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/utb7H3iqSdmkaPTdEhWwN6fGzlLtb672XzSTqgk4mxb0YUWtPjmGXACg2a5tovJnxTGhT9KNVUU=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@DogZen_123",
+                    "authorChannelId": {
+                        "value": "UCnYYT66HCsuNSAeiAe-Qs2w"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-11-07T15:18:35Z",
+                    "updatedAt": "2025-11-07T15:18:35Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "IrRUZuTitwO6oSq6OebkbcN-Qn0",
+        "id": "UgyTfWBlBp9_sFdPTC54AaABAg",
+        "snippet": {
+            "channelId": "UCo62tODW4YnxtszbusXyX-w",
+            "videoId": "_gomT-d72v0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "NtMc7EGZpBRTNZPu8ImiqIvScyM",
+                "id": "UgyTfWBlBp9_sFdPTC54AaABAg",
+                "snippet": {
+                    "channelId": "UCo62tODW4YnxtszbusXyX-w",
+                    "videoId": "_gomT-d72v0",
+                    "textDisplay": "This song is so lovely! My dogs love, relax and sleep tight listening to the channel. Thank you so much for these wonderful songs. ❤❤❤",
+                    "textOriginal": "This song is so lovely! My dogs love, relax and sleep tight listening to the channel. Thank you so much for these wonderful songs. ❤❤❤",
+                    "authorDisplayName": "@carmenluizademoura",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/K2UY6s_hPhuPrNNgiSibBS_1ejgNdXxYesMzbhB3MK_1VStr0x9Nq86Mh1o88YaLSCQxR80v=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@carmenluizademoura",
+                    "authorChannelId": {
+                        "value": "UCIyS8TgVtAk9Rjm-yl9cKVQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-10-26T03:17:10Z",
+                    "updatedAt": "2025-10-26T03:17:10Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

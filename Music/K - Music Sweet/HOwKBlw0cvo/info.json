@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "OmxDwoZOWrh0oflsLMDTZ47sRoU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "MaOXwn9he_cW1Tntn5Qq5ndfJKg",
+            "id": "HOwKBlw0cvo",
+            "snippet": {
+                "publishedAt": "2024-11-23T07:14:00Z",
+                "channelId": "UCYTNxR2Z4ryz88WRWiaPCdg",
+                "title": "Meowaii - Let's go (レット・ゴー)",
+                "description": "Meowaii - Let's go (レット・ゴー)\n\n🔊 If you find it interesting, Please Like Subscribe and Click on the notification bell 🔔 So you don't miss new videos :3\n⚡ Stream On Spotify : \n👉 Submit Demo : \n💁 Support - Copyright : \n____________________________________\n☆ Follow - Meowaii \n→ Soundcloud : Meowaii \n→ Youtube : Meowaii \n→ Twitter : Meowaii \n\n➥ Please Share this Mix on Social sites ( Tik Tok, Facebook, Twitter, Thread etc. ) to more person could listen it !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HOwKBlw0cvo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HOwKBlw0cvo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HOwKBlw0cvo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HOwKBlw0cvo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HOwKBlw0cvo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "K - Music Sweet",
+                "tags": [
+                    "KMS",
+                    "K Sweet Music",
+                    "J-Pop",
+                    "Japan Music",
+                    "Kawaii Music",
+                    "Cute Music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Meowaii - Let's go (レット・ゴー)",
+                    "description": "Meowaii - Let's go (レット・ゴー)\n\n🔊 If you find it interesting, Please Like Subscribe and Click on the notification bell 🔔 So you don't miss new videos :3\n⚡ Stream On Spotify : \n👉 Submit Demo : \n💁 Support - Copyright : \n____________________________________\n☆ Follow - Meowaii \n→ Soundcloud : Meowaii \n→ Youtube : Meowaii \n→ Twitter : Meowaii \n\n➥ Please Share this Mix on Social sites ( Tik Tok, Facebook, Twitter, Thread etc. ) to more person could listen it !"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2M53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5020",
+                "likeCount": "180",
+                "favoriteCount": "0",
+                "commentCount": "17"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

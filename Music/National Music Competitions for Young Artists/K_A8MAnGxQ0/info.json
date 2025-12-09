@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "pgju7jfRN71LJZCvo1Rkvfi6ut4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "w1N6QJg_jPVSPUepuNhSY0h8-jQ",
+            "id": "K_A8MAnGxQ0",
+            "snippet": {
+                "publishedAt": "2025-12-09T02:30:17Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "Ambahonon sa Kagab-ihon - Kris Gonzales (1st Prize Winner) | NAMCYA 2025 Senior Voice A",
+                "description": "Kris John Paul Santos Gonzales, NCR\n1st Prize Winner of Senior Voice A Category\nNAMCYA 2025 FINALS\n\nNational Finals Performance \nAmbahonon sa Kagab-ihon- Music by Mark Wilson Estrada; Poem by Ariston Em. Echevarria\n\nNovember 18, 2025 \nManila Pianos, Makati City",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K_A8MAnGxQ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K_A8MAnGxQ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K_A8MAnGxQ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K_A8MAnGxQ0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K_A8MAnGxQ0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "fil",
+                "localized": {
+                    "title": "Ambahonon sa Kagab-ihon - Kris Gonzales (1st Prize Winner) | NAMCYA 2025 Senior Voice A",
+                    "description": "Kris John Paul Santos Gonzales, NCR\n1st Prize Winner of Senior Voice A Category\nNAMCYA 2025 FINALS\n\nNational Finals Performance \nAmbahonon sa Kagab-ihon- Music by Mark Wilson Estrada; Poem by Ariston Em. Echevarria\n\nNovember 18, 2025 \nManila Pianos, Makati City"
+                },
+                "defaultAudioLanguage": "und"
+            },
+            "contentDetails": {
+                "duration": "PT6M3S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1",
+                "likeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

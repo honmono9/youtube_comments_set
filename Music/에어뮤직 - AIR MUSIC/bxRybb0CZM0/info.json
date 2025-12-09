@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "h8kIN7KuaKI6M4bnE-_kq_41XjY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Mo_uYOVnpuNGvAWEVPuiienxceU",
+            "id": "bxRybb0CZM0",
+            "snippet": {
+                "publishedAt": "2025-08-05T09:00:52Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "공기남 - Fade into you (Feat. Akita, 강서) [Audio]",
+                "description": "끊임없이 음악을 걸어 온 시간들 속에서\n문득 떠오른 ‘처음’의 감정들.\n\n음악을 처음 세상에 내보이던 순간 —\n계산 없이 쏟아냈던 감정들,\n순수하고 떨렸던 그때의 마음.\n\n그 시절의 감성이 지금의 공기남을 만들었다는 사실을 되새기며,\n‘더 잘하려는 마음’보다 ‘그때의 나다운 마음’에 집중하고자 했다.\n\n싱어송라이터 공기남이 써 내려간 \n감정의 흐름, 그 마지막 문장.\nFreshman Series 정규 4집 〈Fade into You〉\n\n03. Fade into you (Feat. Akita, 강서) (작사 : 공기남 / 작곡 : 공기남 / 편곡 : 공기남, 양혁, TAN) [Title]\n\n[Credits]\nExecutive producer 공기남\nLyrics by 공기남\nComposed by 공기남\nArranged by 공기남, 양혁, TAN\nVocal by Akita, 강서\nChorus by 공기남, 양혁\nPiano by 공기남\nGuitar by 양혁\nBass by TAN\nDrum by 공기남, 양혁, TAN\nMidi Programing by 공기남, 양혁, TAN\nRecorded by fovitz @AirMusic Studio\nMixed by fovitz @AirMusic Studio\nMastered by 권남우 @821 Sound\nAlbum artwork by ROGCCON @rogccon\nManagement Airmusic\nTeam leader 박지호 @melanoalbinc\nDistributed by Wanermusic_Korea",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bxRybb0CZM0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bxRybb0CZM0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bxRybb0CZM0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bxRybb0CZM0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bxRybb0CZM0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "공기남 - Fade into you (Feat. Akita, 강서) [Audio]",
+                    "description": "끊임없이 음악을 걸어 온 시간들 속에서\n문득 떠오른 ‘처음’의 감정들.\n\n음악을 처음 세상에 내보이던 순간 —\n계산 없이 쏟아냈던 감정들,\n순수하고 떨렸던 그때의 마음.\n\n그 시절의 감성이 지금의 공기남을 만들었다는 사실을 되새기며,\n‘더 잘하려는 마음’보다 ‘그때의 나다운 마음’에 집중하고자 했다.\n\n싱어송라이터 공기남이 써 내려간 \n감정의 흐름, 그 마지막 문장.\nFreshman Series 정규 4집 〈Fade into You〉\n\n03. Fade into you (Feat. Akita, 강서) (작사 : 공기남 / 작곡 : 공기남 / 편곡 : 공기남, 양혁, TAN) [Title]\n\n[Credits]\nExecutive producer 공기남\nLyrics by 공기남\nComposed by 공기남\nArranged by 공기남, 양혁, TAN\nVocal by Akita, 강서\nChorus by 공기남, 양혁\nPiano by 공기남\nGuitar by 양혁\nBass by TAN\nDrum by 공기남, 양혁, TAN\nMidi Programing by 공기남, 양혁, TAN\nRecorded by fovitz @AirMusic Studio\nMixed by fovitz @AirMusic Studio\nMastered by 권남우 @821 Sound\nAlbum artwork by ROGCCON @rogccon\nManagement Airmusic\nTeam leader 박지호 @melanoalbinc\nDistributed by Wanermusic_Korea"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6746",
+                "likeCount": "53",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

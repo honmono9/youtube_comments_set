@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "5kWASdAcmBU1qS7ab5A0jwzSmyE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "TM4FMW1h1Ro89GuUO8aOO8EwoD0",
+            "id": "2O4jS4ju7sI",
+            "snippet": {
+                "publishedAt": "2025-12-08T09:30:04Z",
+                "channelId": "UC6TJkBRLMFJ-9c7pXehoZwg",
+                "title": "심아론 DS [자발적 아싸]",
+                "description": "심아론 DS [자발적 아싸]\n\n2025.12.15 6PM (KST) \n\nMore Information Here:\n@심아론\nInstagram: https://www.instagram.com/aronxim/\n\n@H1GHRMUSIC\nInstagram: https://www.instagram.com/h1ghrmusic\nFacebook: https://www.facebook.com/H1GHRMUSICOFFICIAL\n\n#심아론 #simaron\n#황세현 #h3hyeon\n#자발적아싸 #SoloLife\n#H1GHRMUSIC #하이어뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2O4jS4ju7sI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2O4jS4ju7sI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2O4jS4ju7sI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2O4jS4ju7sI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2O4jS4ju7sI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "H1GHR MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "심아론 DS [자발적 아싸]",
+                    "description": "심아론 DS [자발적 아싸]\n\n2025.12.15 6PM (KST) \n\nMore Information Here:\n@심아론\nInstagram: https://www.instagram.com/aronxim/\n\n@H1GHRMUSIC\nInstagram: https://www.instagram.com/h1ghrmusic\nFacebook: https://www.facebook.com/H1GHRMUSICOFFICIAL\n\n#심아론 #simaron\n#황세현 #h3hyeon\n#자발적아싸 #SoloLife\n#H1GHRMUSIC #하이어뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5644",
+                "likeCount": "66",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

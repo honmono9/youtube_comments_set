@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "uFyqo6Ek-o7r9ND_PLD8n_cMG4Q",
+        "id": "UgzyuFOwWr7Ur1f0kDl4AaABAg",
+        "snippet": {
+            "channelId": "UCXj1cdrw4nVpiqi3ffc-ZCw",
+            "videoId": "k4m9RTxD1wo",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "abju2ddFwHRnFo9M41Jng-Vd6rE",
+                "id": "UgzyuFOwWr7Ur1f0kDl4AaABAg",
+                "snippet": {
+                    "channelId": "UCXj1cdrw4nVpiqi3ffc-ZCw",
+                    "videoId": "k4m9RTxD1wo",
+                    "textDisplay": "👌",
+                    "textOriginal": "👌",
+                    "authorDisplayName": "@lavenganza",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/4ZN6pdMYQDpZIGx4XJJsMaXAN1--UlbIboAFS_DCJmhPwDp5xzs6-shJEHIFFPGZ3R-HwaGA6YE=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@lavenganza",
+                    "authorChannelId": {
+                        "value": "UCzpYBkIhqv4TElqsUmF0cew"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2024-04-27T22:32:28Z",
+                    "updatedAt": "2024-04-27T22:32:28Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

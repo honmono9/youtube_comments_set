@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "FN8xNHvgJYXGWV6Oz7w6L94weyY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "gcaSBwQBKpiY8ALu6sdHW7xYKLs",
+            "id": "_lUL8_RaEhY",
+            "snippet": {
+                "publishedAt": "2022-07-23T15:16:04Z",
+                "channelId": "UCwdmcaOcWQ7PW8_wuaB8Cjw",
+                "title": "DJ Robin & Schürze - Layla (Pornobass X BassUp! Remix)",
+                "description": "Folge mir:  \n\n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music\n\nDisclaimer: All rights and credits go to the original owners, producers and other involved acts.\n\nProd. by DJ Nick \nMaster by Sebastian Spencer",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_lUL8_RaEhY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_lUL8_RaEhY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_lUL8_RaEhY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_lUL8_RaEhY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_lUL8_RaEhY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sebastian Spencer Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "DJ Robin & Schürze - Layla (Pornobass X BassUp! Remix)",
+                    "description": "Folge mir:  \n\n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music\n\nDisclaimer: All rights and credits go to the original owners, producers and other involved acts.\n\nProd. by DJ Nick \nMaster by Sebastian Spencer"
+                },
+                "defaultAudioLanguage": "de"
+            },
+            "contentDetails": {
+                "duration": "PT3M37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "27277",
+                "likeCount": "430",
+                "favoriteCount": "0",
+                "commentCount": "11"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

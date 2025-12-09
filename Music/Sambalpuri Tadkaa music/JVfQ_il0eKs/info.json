@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "OaQzAo1EA3B86tEJV-wt81BpcLo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Dx6dZYyBtzOPkxrUDD_j8GAm6NQ",
+            "id": "JVfQ_il0eKs",
+            "snippet": {
+                "publishedAt": "2025-12-05T20:44:39Z",
+                "channelId": "UCLh2cJvOdqow-6ADuQVdy_w",
+                "title": "new upcoming sambalpuri song !! fagun jan 0.2 !!Pradyum kumar !!bobby jain",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JVfQ_il0eKs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JVfQ_il0eKs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JVfQ_il0eKs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JVfQ_il0eKs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JVfQ_il0eKs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sambalpuri Tadkaa music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "new upcoming sambalpuri song !! fagun jan 0.2 !!Pradyum kumar !!bobby jain",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "or"
+            },
+            "contentDetails": {
+                "duration": "PT26S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1372",
+                "likeCount": "17",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

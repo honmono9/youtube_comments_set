@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "MUxO-Pv7zQrpd510zPlqr4a0SUk",
+        "id": "UgxCyafU_33vxC7sL6Z4AaABAg",
+        "snippet": {
+            "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+            "videoId": "lkuOGSnY53w",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "64mOROX-QseRcYv_ec5Xp-OONZg",
+                "id": "UgxCyafU_33vxC7sL6Z4AaABAg",
+                "snippet": {
+                    "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+                    "videoId": "lkuOGSnY53w",
+                    "textDisplay": "Ilahi",
+                    "textOriginal": "Ilahi",
+                    "authorDisplayName": "@SemraÖrs-h9n",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nlK0XZCHPihWVQ4ZXtf5b8YpsaViKGdlcNQOujPdbuOV75OJmCMvjy0UMhDlldDDfeTw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@Semra%C3%96rs-h9n",
+                    "authorChannelId": {
+                        "value": "UCjoP_KRwJWN4YcCksEz5d5w"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-09-04T06:45:24Z",
+                    "updatedAt": "2025-09-04T06:45:24Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

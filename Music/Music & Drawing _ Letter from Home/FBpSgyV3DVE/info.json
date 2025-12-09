@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "fkJijZgX6IaizWAvaV_e3D_UJV0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "BqClYsJY2XQMBhwrvv8hPcNzH_I",
+            "id": "FBpSgyV3DVE",
+            "snippet": {
+                "publishedAt": "2025-08-27T22:45:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Vintage Bossa Nova Saxophone Jazz | An Unforgettable Late Summer Picnic",
+                "description": "Feel the charm of late summer with an unforgettable picnic.\nSmooth melodies of vintage Bossa Nova saxophone jazz bring warmth, romance, and nostalgia.\nPerfect for relaxing evenings, study, or peaceful moments.\n\n#BossaNova #jazz #saxophonejazz #saxophonemusic #bossanovajazz #relaxingjazz #jazzinstrumental #jazzmusic #AfternoonJazz #SmoothJazz #RomancePlaylist #1950sOldies #RomanticSaxophoneMusic #NostalgicJazz #autumnjazz #nightjazz #nightmusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FBpSgyV3DVE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FBpSgyV3DVE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FBpSgyV3DVE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FBpSgyV3DVE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FBpSgyV3DVE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "vintage jazz",
+                    "relaxing jazz",
+                    "afternoon jazz",
+                    "saxophone jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Vintage Bossa Nova Saxophone Jazz | An Unforgettable Late Summer Picnic",
+                    "description": "Feel the charm of late summer with an unforgettable picnic.\nSmooth melodies of vintage Bossa Nova saxophone jazz bring warmth, romance, and nostalgia.\nPerfect for relaxing evenings, study, or peaceful moments.\n\n#BossaNova #jazz #saxophonejazz #saxophonemusic #bossanovajazz #relaxingjazz #jazzinstrumental #jazzmusic #AfternoonJazz #SmoothJazz #RomancePlaylist #1950sOldies #RomanticSaxophoneMusic #NostalgicJazz #autumnjazz #nightjazz #nightmusic"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "432",
+                "likeCount": "32",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

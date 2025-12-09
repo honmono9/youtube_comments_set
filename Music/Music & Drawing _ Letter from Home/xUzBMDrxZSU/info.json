@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ahhOYQANGCzpQbe6KbDPtM-z81E",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Cd4oV8KNVMLLo-Ogs0i3sp1jO7E",
+            "id": "xUzBMDrxZSU",
+            "snippet": {
+                "publishedAt": "2025-09-05T10:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Rainy Night Jazz Under the Umbrella | Smooth Vintage Piano & Saxophone Jazz",
+                "description": "Experience the magic of 1950s oldies jazz tonight – smooth piano trio and romantic saxophone melodies that bring the rainy night of New York to life. Perfect for relaxing, studying, or enjoying a cozy evening.\n\n#relaxingjazz #jazz #instrumentalmusic #1950sjazz #oldiesjazz #smoothjazz #vintagejazz #saxophonejazz #relaxingjazz #jazzplaylist #jazzforstudying #romanticjazz #musicjazz #rainyjazz #nightjazz #NewYorkjazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xUzBMDrxZSU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xUzBMDrxZSU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xUzBMDrxZSU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xUzBMDrxZSU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xUzBMDrxZSU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "rain jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "saxophone jazz",
+                    "jazz music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Rainy Night Jazz Under the Umbrella | Smooth Vintage Piano & Saxophone Jazz",
+                    "description": "Experience the magic of 1950s oldies jazz tonight – smooth piano trio and romantic saxophone melodies that bring the rainy night of New York to life. Perfect for relaxing, studying, or enjoying a cozy evening.\n\n#relaxingjazz #jazz #instrumentalmusic #1950sjazz #oldiesjazz #smoothjazz #vintagejazz #saxophonejazz #relaxingjazz #jazzplaylist #jazzforstudying #romanticjazz #musicjazz #rainyjazz #nightjazz #NewYorkjazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2340",
+                "likeCount": "53",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "HmHaBrvJoIsMq74aEr0RIGCZ9I0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "O4Ft0h2B-4jStp_lp0fAhHzqVbI",
+            "id": "deTZSrazEMg",
+            "snippet": {
+                "publishedAt": "2025-11-03T01:44:51Z",
+                "channelId": "UCfrWVh-4M98j1WtDIR9IVNg",
+                "title": "BOSES NG TAMBAY||RAP AND REGGAE REMIX||@MUSICFRANZ @Rabzmusics @MusicprinceFR ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/deTZSrazEMg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/deTZSrazEMg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/deTZSrazEMg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/deTZSrazEMg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/deTZSrazEMg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MUSIC FRANZ ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "BOSES NG TAMBAY||RAP AND REGGAE REMIX||@MUSICFRANZ @Rabzmusics @MusicprinceFR ",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT22M25S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "408",
+                "likeCount": "21",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

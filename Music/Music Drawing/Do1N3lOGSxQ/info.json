@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "MGNlaLKv6ByhAqYjFQIf9tutJt4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "H_m0XWWfB1Qggdo20WqqIDTVeOU",
+            "id": "Do1N3lOGSxQ",
+            "snippet": {
+                "publishedAt": "2024-02-16T11:45:02Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"당신의 하루는 어땠나요?\" 마음을 위로하는 수면음악",
+                "description": "당신의 오늘 하루는 어땠나요?\n복잡한 생각들로..\n아픈 이야기들로.. 힘들진 않았나요?\n\n오늘 밤은 모두 다 잊고\n당신의 밤이 평안하길 바랄게요~\n\n잘자요! :)\n\n\n🎵곡 제목                      \n01.너를 위해\n02.꿈 이야기\n\n그림 - Illustrator 700\nArtwork by@700_illust\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#잠잘때듣는음악 #수면유도음악 #편안한음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Do1N3lOGSxQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Do1N3lOGSxQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Do1N3lOGSxQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Do1N3lOGSxQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Do1N3lOGSxQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "잠오는음악",
+                    "자기전에듣는음악",
+                    "편안한음악",
+                    "잠잘때듣는음악",
+                    "불면증음악",
+                    "RelaxMusic",
+                    "Relaxingmusic",
+                    "SleepMusic",
+                    "SleepingMusic",
+                    "피아노음악",
+                    "PianoMusic"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"당신의 하루는 어땠나요?\" 마음을 위로하는 수면음악",
+                    "description": "당신의 오늘 하루는 어땠나요?\n복잡한 생각들로..\n아픈 이야기들로.. 힘들진 않았나요?\n\n오늘 밤은 모두 다 잊고\n당신의 밤이 평안하길 바랄게요~\n\n잘자요! :)\n\n\n🎵곡 제목                      \n01.너를 위해\n02.꿈 이야기\n\n그림 - Illustrator 700\nArtwork by@700_illust\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#잠잘때듣는음악 #수면유도음악 #편안한음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9H28M30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "200944",
+                "likeCount": "3386",
+                "favoriteCount": "0",
+                "commentCount": "154"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

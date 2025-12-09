@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "G4tAbZMtjsg-Znbqr5OKkfYAcVg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "82K9hQUZSu2Fdu2So8YAyEzOeew",
+            "id": "G2rpkxSEFrw",
+            "snippet": {
+                "publishedAt": "2020-10-24T09:00:07Z",
+                "channelId": "UC8gRco988IELoTNTl4OBd2w",
+                "title": "Bizzy (비지) - '걷자 (WALKIE TALKIE) (Feat. Tiger JK, 정인)' Official M/V Teaser 1",
+                "description": "비지 - 걷자 Feat.타이거 JK, 정인\nBizzy - WALKIE TALKIEFeat.Tiger JK, Jeong-in\n\nBizzy⁣\n걷자 (WALKIE TALKIE) Feat.Tiger JK,정인\n20.10.27 오후 6시 ⁣\nOUT SOON ⁣\n-⁣\n@bizzionary⁣\n#걷자 #비지 #Bizzy #타이거JK #정인 #Tiger JK #Jeong-in",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G2rpkxSEFrw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G2rpkxSEFrw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G2rpkxSEFrw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/G2rpkxSEFrw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/G2rpkxSEFrw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Feel Ghood Music [필굿뮤직]",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Bizzy (비지) - '걷자 (WALKIE TALKIE) (Feat. Tiger JK, 정인)' Official M/V Teaser 1",
+                    "description": "비지 - 걷자 Feat.타이거 JK, 정인\nBizzy - WALKIE TALKIEFeat.Tiger JK, Jeong-in\n\nBizzy⁣\n걷자 (WALKIE TALKIE) Feat.Tiger JK,정인\n20.10.27 오후 6시 ⁣\nOUT SOON ⁣\n-⁣\n@bizzionary⁣\n#걷자 #비지 #Bizzy #타이거JK #정인 #Tiger JK #Jeong-in"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2610",
+                "likeCount": "143",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

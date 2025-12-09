@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "jFVOHNUTNnHQk4rLYGDjAsN328s",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "jemygvglBdV5siJtyfsDCz2G2hI",
+            "id": "OGfn_5kkAm8",
+            "snippet": {
+                "publishedAt": "2014-07-15T09:30:00Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "태완 (Taewan) 'History (feat. San E)' M/V TEASER",
+                "description": "태완 (Taewan) 'History (feat. San E)' M/V TEASER\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OGfn_5kkAm8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OGfn_5kkAm8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OGfn_5kkAm8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OGfn_5kkAm8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OGfn_5kkAm8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "태완 (Taewan) 'History (feat. San E)' M/V TEASER",
+                    "description": "태완 (Taewan) 'History (feat. San E)' M/V TEASER\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT24S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "7273",
+                "likeCount": "234",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

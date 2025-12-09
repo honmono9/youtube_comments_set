@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Abuxw2Lr4QGmVvJL_pcLgRJw3KQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "D9wVUBrqaFodMaPQu1umAYiwNPM",
+            "id": "Q_rFGq7xF5M",
+            "snippet": {
+                "publishedAt": "2025-10-30T18:06:16Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Green Day - Basket Case | Soul AI Cover",
+                "description": "Basket Case by Green Day twisted into Soul Music!\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nDo you have the time\nTo listen to me whine\nAbout nothing and everything\nAll at once\nI am one of those\nMelodramatic fools\nNeurotic to the bone\nNo doubt about it\n\nSometimes I give myself the creeps\nSometimes my mind plays tricks on me\nIt all keeps adding up\nI think I'm cracking up\nAm I just paranoid?\nAm I just stoned?\n\nI went to a shrink\nTo analyze my dreams\nShe says it's lack of sex\nThat's bringing me down\nI went to a whore\nHe said \"My life's a bore\"\nSo quit my whining cause\nIt's bringing her down\n\nSometimes I give myself the creeps\nSometimes my mind plays tricks on me\nIt all keeps adding up\nI think I'm cracking up\nAm I just paranoid?\nUh, yuh, yuh, ya\n\nGrasping to control\nSo I better hold on\n\nSometimes I give myself the creeps\nSometimes my mind plays tricks on me\nIt all keeps adding up\nI think I'm cracking up\nAm I just paranoid?\nAm I just stoned?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q_rFGq7xF5M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q_rFGq7xF5M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q_rFGq7xF5M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Q_rFGq7xF5M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Q_rFGq7xF5M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Green Day - Basket Case | Soul AI Cover",
+                    "description": "Basket Case by Green Day twisted into Soul Music!\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nDo you have the time\nTo listen to me whine\nAbout nothing and everything\nAll at once\nI am one of those\nMelodramatic fools\nNeurotic to the bone\nNo doubt about it\n\nSometimes I give myself the creeps\nSometimes my mind plays tricks on me\nIt all keeps adding up\nI think I'm cracking up\nAm I just paranoid?\nAm I just stoned?\n\nI went to a shrink\nTo analyze my dreams\nShe says it's lack of sex\nThat's bringing me down\nI went to a whore\nHe said \"My life's a bore\"\nSo quit my whining cause\nIt's bringing her down\n\nSometimes I give myself the creeps\nSometimes my mind plays tricks on me\nIt all keeps adding up\nI think I'm cracking up\nAm I just paranoid?\nUh, yuh, yuh, ya\n\nGrasping to control\nSo I better hold on\n\nSometimes I give myself the creeps\nSometimes my mind plays tricks on me\nIt all keeps adding up\nI think I'm cracking up\nAm I just paranoid?\nAm I just stoned?"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1552",
+                "likeCount": "42",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

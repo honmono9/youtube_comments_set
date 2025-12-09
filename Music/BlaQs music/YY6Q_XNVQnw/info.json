@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "tPWOKkqgDgHqZv0f8oz3qiobgX4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "MGPwg-EwgTpYGvwRyXKXk59D2v8",
+            "id": "YY6Q_XNVQnw",
+            "snippet": {
+                "publishedAt": "2024-03-30T14:34:48Z",
+                "channelId": "UCoAOTBoviujUGWXOWDgfKmw",
+                "title": "BLAQS-follo ft -class-ticha",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YY6Q_XNVQnw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YY6Q_XNVQnw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YY6Q_XNVQnw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YY6Q_XNVQnw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YY6Q_XNVQnw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BlaQs music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "BLAQS-follo ft -class-ticha",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "contentDetails": {
+                "duration": "PT3M23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "271",
+                "likeCount": "43",
+                "favoriteCount": "0",
+                "commentCount": "34"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

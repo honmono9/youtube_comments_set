@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "fYH91sCnIzrFa33hDwiRGVR1heo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "CdWIxAXe8iYI4Z9wPZS7iwQmb1s",
+            "id": "wgA9DwYyxf4",
+            "snippet": {
+                "publishedAt": "2025-07-13T05:30:25Z",
+                "channelId": "UC5oWa6pisfCuXtGmPWhPNMg",
+                "title": "।। गौरा गौरा मुखड़ा की राधा जी लेदू हार नगीना को।। सिंगर रामकेश गुजर पब्लिक मगन हो गई",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wgA9DwYyxf4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wgA9DwYyxf4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wgA9DwYyxf4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wgA9DwYyxf4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wgA9DwYyxf4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": " JAY BALA JI MUSIC KAKOD.",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "hi",
+                "localized": {
+                    "title": "।। गौरा गौरा मुखड़ा की राधा जी लेदू हार नगीना को।। सिंगर रामकेश गुजर पब्लिक मगन हो गई",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "contentDetails": {
+                "duration": "PT9M8S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "70",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

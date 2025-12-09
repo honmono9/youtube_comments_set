@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "d0YqMHYe5B-9xMFqZIZHHD1apNc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "33_fWqv-sWFmppYeVZrE-aaT8uU",
+            "id": "TnhCOAVHZf4",
+            "snippet": {
+                "publishedAt": "2024-11-19T07:00:16Z",
+                "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                "title": "[YAMAHA BUSKING ep.1] 가을밤,,그리고 색소폰…🎷야마하 버스킹 ep.1 with 제이슨 리✨",
+                "description": "가을밤, 야외, 지하철 소리, 그리고 색소폰… 🎷\n제이슨 리와 함께한 야마하 버스킹 ep.1 현장 하이라이트✨\n\n분주한 거리에 색소폰이 울려 퍼지면? \n\n퇴근길을 완벽하게 만들어준 \n색소포니스트 제이슨 리의 환상적인 연주!😎\n\n야마하 색소폰 YAS-82ZA의 풍성한 사운드로\n그날의 감동을 다시 느껴보세요🍁🎼\n \n함께 해주신 모든 관객분들께 진심으로 감사드립니다! \n\n#야마하 #야마하뮤직코리아 #제이슨리 #야마하버스킹\n#색소폰 #야마하색소폰 #색소포니스트 #버스킹\n#건대입구 #커먼그라운드 #Jasonlee\n#에잇볼타운 #YAS82ZA #색소폰연주",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TnhCOAVHZf4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TnhCOAVHZf4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TnhCOAVHZf4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TnhCOAVHZf4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TnhCOAVHZf4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yamaha Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[YAMAHA BUSKING ep.1] 가을밤,,그리고 색소폰…🎷야마하 버스킹 ep.1 with 제이슨 리✨",
+                    "description": "가을밤, 야외, 지하철 소리, 그리고 색소폰… 🎷\n제이슨 리와 함께한 야마하 버스킹 ep.1 현장 하이라이트✨\n\n분주한 거리에 색소폰이 울려 퍼지면? \n\n퇴근길을 완벽하게 만들어준 \n색소포니스트 제이슨 리의 환상적인 연주!😎\n\n야마하 색소폰 YAS-82ZA의 풍성한 사운드로\n그날의 감동을 다시 느껴보세요🍁🎼\n \n함께 해주신 모든 관객분들께 진심으로 감사드립니다! \n\n#야마하 #야마하뮤직코리아 #제이슨리 #야마하버스킹\n#색소폰 #야마하색소폰 #색소포니스트 #버스킹\n#건대입구 #커먼그라운드 #Jasonlee\n#에잇볼타운 #YAS82ZA #색소폰연주"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT10M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "16726",
+                "likeCount": "77",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

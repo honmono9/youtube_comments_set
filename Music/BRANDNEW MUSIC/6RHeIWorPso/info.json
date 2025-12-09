@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "gVTgycn1OGwdTgXOKsD64sLqGs8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ngWi4JStM8vH5ywcmfX_TNhhXwI",
+            "id": "6RHeIWorPso",
+            "snippet": {
+                "publishedAt": "2014-02-27T08:19:19Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "TROY Trailer Video 'WE TROY' EP. 1 범키(BUMKEY)",
+                "description": "TROY Trailer Video 'WE TROY' EP. 1 범키(BUMKEY)\n\nTROY First Single 'GREEN LIGHT' 2014.03.14 RELEASE\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6RHeIWorPso/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6RHeIWorPso/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6RHeIWorPso/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6RHeIWorPso/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6RHeIWorPso/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "TROY Trailer Video 'WE TROY' EP. 1 범키(BUMKEY)",
+                    "description": "TROY Trailer Video 'WE TROY' EP. 1 범키(BUMKEY)\n\nTROY First Single 'GREEN LIGHT' 2014.03.14 RELEASE\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M49S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6195",
+                "likeCount": "137",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

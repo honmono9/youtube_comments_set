@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "ARJdV9HMSwKF8qjd7EdT6wRssY4",
+        "id": "Ugw68a6eVQFDynLSDbR4AaABAg",
+        "snippet": {
+            "channelId": "UCPxPvjsXfa6UJ30L3NAN-nQ",
+            "videoId": "3y0u30EQhHs",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "WysoHt-ZNXy5Msa8hKPxJn-QuqQ",
+                "id": "Ugw68a6eVQFDynLSDbR4AaABAg",
+                "snippet": {
+                    "channelId": "UCPxPvjsXfa6UJ30L3NAN-nQ",
+                    "videoId": "3y0u30EQhHs",
+                    "textDisplay": "有廣告　騙子",
+                    "textOriginal": "有廣告　騙子",
+                    "authorDisplayName": "@連譽嚴",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/r6OVSf-HUrzCtSItWSVwWPhWG9l-ze0A2q9uwATW9-qaBDc0h5299f4_0k8_BCEV66r5cvWbfA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%E9%80%A3%E8%AD%BD%E5%9A%B4",
+                    "authorChannelId": {
+                        "value": "UC0zpuEQTT3z4qQGRl49GzdQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-10-04T22:23:55Z",
+                    "updatedAt": "2025-10-04T22:23:55Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

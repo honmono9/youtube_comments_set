@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "WmjkZjWt3_94GhhDxic8CUU_sgw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "CLLyEJhgwn-HcFlOahQcC1fXkDs",
+            "id": "YqJKZdPacBY",
+            "snippet": {
+                "publishedAt": "2023-09-14T11:30:14Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"빗소리와 함께, 푹 잠들길 바래\" 마음을 위로하는 수면음악",
+                "description": "창밖으로 떨어지는 빗소리가\n토닥토닥 날 위로 해주는 듯한 밤에..\n\n오늘 하루 힘들었던 일들\n비와 함께 흘려 버리고,\n오늘은 푹 잠들길 바래~!\n\n\n🎵곡 제목                      \n 01.Rainy Day\n 02.자장가\n\n 그림 - Illustrator 700\n Artwork by@700_illust\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #잠오는음악 #잠잘때듣는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YqJKZdPacBY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YqJKZdPacBY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YqJKZdPacBY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YqJKZdPacBY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YqJKZdPacBY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "수면음악",
+                    "수면유도음악",
+                    "잠잘때듣는음악",
+                    "잠오는음악",
+                    "자기전에듣는음악",
+                    "편안한음악",
+                    "SleepingMusic",
+                    "SleepMusic",
+                    "RelaxMusic",
+                    "RelaxingMusic",
+                    "PianoMusic",
+                    "피아노음악",
+                    "ComfortMusic"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"빗소리와 함께, 푹 잠들길 바래\" 마음을 위로하는 수면음악",
+                    "description": "창밖으로 떨어지는 빗소리가\n토닥토닥 날 위로 해주는 듯한 밤에..\n\n오늘 하루 힘들었던 일들\n비와 함께 흘려 버리고,\n오늘은 푹 잠들길 바래~!\n\n\n🎵곡 제목                      \n 01.Rainy Day\n 02.자장가\n\n 그림 - Illustrator 700\n Artwork by@700_illust\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #잠오는음악 #잠잘때듣는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT10H42M11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "316613",
+                "likeCount": "4097",
+                "favoriteCount": "0",
+                "commentCount": "127"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

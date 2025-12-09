@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "vp-MU5ZxAtwi0UuZ7WGKR2K5aWw",
+        "id": "UgysTW-oOF7N0chD4j54AaABAg",
+        "snippet": {
+            "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+            "videoId": "mMURa2UNxpk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "JcTfCJavjU40UbtPEofcpwwPcWc",
+                "id": "UgysTW-oOF7N0chD4j54AaABAg",
+                "snippet": {
+                    "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+                    "videoId": "mMURa2UNxpk",
+                    "textDisplay": "ありがとうございます！",
+                    "textOriginal": "ありがとうございます！",
+                    "authorDisplayName": "@Rose-rf8co",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nda3NuW4HXFz11TFja6elUTDgEB9wuwjLWBcCho3VqWai3G3DxOL09_d1cje349l3kKw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@Rose-rf8co",
+                    "authorChannelId": {
+                        "value": "UCkdd0hgbrL7fU8yxpheDeLQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-06T12:07:27Z",
+                    "updatedAt": "2025-12-06T12:07:27Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

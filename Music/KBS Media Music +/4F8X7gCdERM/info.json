@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "3DEM5Wfb8pRhxRpVS_F_ia31K4g",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "4QrzUiAu4by2k4t9LumLcc4h6Ew",
+            "id": "4F8X7gCdERM",
+            "snippet": {
+                "publishedAt": "2025-09-22T11:49:54Z",
+                "channelId": "UC9LkgSReKybPl-gABo3fbRQ",
+                "title": "[가사비디오 / Lyric Video] 넷소리 걸작 제 1집 - 통일의 노래",
+                "description": "KBS MEDIA에서 새롭게 선보이는 음원들을 구독하고 만나보세요 '◡' ! \n   /   @KBSMEDIAMUSICPLUS\n\n검은 구름 걷히고\n태양이 솟는다\n\n푸른 산천 푸른 마음\n새 봄이오고\n\n새 마을 우리 마을\n다듬어지네\n\n유씨네 새 터전은\n오천만의 영혼\n\n통일의 푸른 희망\n이루어보세\n\n동녘하늘 움트는\n태양을 보아라\n\n푸른 산천 푸른 마음\n새 봄이 오고\n\n너와 나 뭉친 마음\n통일로 간다\n\n유씨네 새 터전은\n오천만의 영혼\n\n겨례에 부푼 희망\n이루어보세\n\n\n\n#KBS미디어뮤직플러스 #KBSMEDIAMUSICPLUS #케이비에스미디어뮤직플러스 \n#넷소리걸작제1집 #통일의노래  #지구레코드",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4F8X7gCdERM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4F8X7gCdERM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4F8X7gCdERM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4F8X7gCdERM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4F8X7gCdERM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS Media Music +",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[가사비디오 / Lyric Video] 넷소리 걸작 제 1집 - 통일의 노래",
+                    "description": "KBS MEDIA에서 새롭게 선보이는 음원들을 구독하고 만나보세요 '◡' ! \n   /   @KBSMEDIAMUSICPLUS\n\n검은 구름 걷히고\n태양이 솟는다\n\n푸른 산천 푸른 마음\n새 봄이오고\n\n새 마을 우리 마을\n다듬어지네\n\n유씨네 새 터전은\n오천만의 영혼\n\n통일의 푸른 희망\n이루어보세\n\n동녘하늘 움트는\n태양을 보아라\n\n푸른 산천 푸른 마음\n새 봄이 오고\n\n너와 나 뭉친 마음\n통일로 간다\n\n유씨네 새 터전은\n오천만의 영혼\n\n겨례에 부푼 희망\n이루어보세\n\n\n\n#KBS미디어뮤직플러스 #KBSMEDIAMUSICPLUS #케이비에스미디어뮤직플러스 \n#넷소리걸작제1집 #통일의노래  #지구레코드"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "85",
+                "likeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

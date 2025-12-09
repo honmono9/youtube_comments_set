@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "_4CU9wFSlNBEiZQYzKqt-XfD7d8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "DF-scWUm-SNeY2Jjou5h0-BdV5Q",
+            "id": "p3SRKmQ2Bac",
+            "snippet": {
+                "publishedAt": "2022-04-19T13:00:32Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Good Mood April - Happy Jazz and Bossa Nova Background Music to Relax",
+                "description": "Have a nice April day by listening to this relaxing playlist of happy jazz and bossa nova music by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #apriljazz #relaxjazz\n\nl049",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p3SRKmQ2Bac/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p3SRKmQ2Bac/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p3SRKmQ2Bac/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/p3SRKmQ2Bac/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/p3SRKmQ2Bac/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "tags": [
+                    "good mood jazz",
+                    "april jazz",
+                    "happy jazz",
+                    "jazz music",
+                    "bossa nova",
+                    "background jazz music",
+                    "jazz to relax",
+                    "positive thoughts jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Good Mood April - Happy Jazz and Bossa Nova Background Music to Relax",
+                    "description": "Have a nice April day by listening to this relaxing playlist of happy jazz and bossa nova music by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #apriljazz #relaxjazz\n\nl049"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "13720",
+                "likeCount": "191",
+                "favoriteCount": "0",
+                "commentCount": "21"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

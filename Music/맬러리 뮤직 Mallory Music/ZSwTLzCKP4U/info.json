@@ -1,0 +1,90 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "oe18hM-9F8gMPEhXzZClAtRhMjc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "bzxtBVTL9ueJk8OD5j1hM0E6bJ8",
+            "id": "ZSwTLzCKP4U",
+            "snippet": {
+                "publishedAt": "2021-10-11T01:45:39Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "깊어가는 가을을 닮은 음악",
+                "description": "- 관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd-0KQd-tQHqCE5suxgjZ2b4\n\n- Photo by Josh Couch\n\n- 맬러리 뮤직 mallory music\nspotify: https://open.spotify.com/user/vu7nka2udi3uow4uwbf1dub4b?si=ITQBaM5yRZKHlX63reNEnw\ninstagram: https://instagram.com/mallory_playlist\n\n- 맬러리 스퀘어 mallory square\nyoutube: https://youtube.com/channel/UC1WpY3Ce68NArZgEVrLnSCQ\n\n*\n오랜만에 찾아뵙게 되었어요.\n공지라도 남겼어야 하는데\n기약없이 기다려주신 구독자 분들도 계셔\n죄송한 마음이 큽니다.\n자주 올 수 있도록 할게요.\n남은 휴일 잘 마무리 하시고 건강 유의하세요.\n감사합니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZSwTLzCKP4U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZSwTLzCKP4U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZSwTLzCKP4U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZSwTLzCKP4U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZSwTLzCKP4U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "가을 팝송",
+                    "가을 노래",
+                    "잔잔한 팝송",
+                    "플레이리스트",
+                    "감성 팝송",
+                    "autumn songs",
+                    "autumn acoustic songs",
+                    "best pop songs",
+                    "playlist",
+                    "팝송 모음"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "깊어가는 가을을 닮은 음악",
+                    "description": "- 관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd-0KQd-tQHqCE5suxgjZ2b4\n\n- Photo by Josh Couch\n\n- 맬러리 뮤직 mallory music\nspotify: https://open.spotify.com/user/vu7nka2udi3uow4uwbf1dub4b?si=ITQBaM5yRZKHlX63reNEnw\ninstagram: https://instagram.com/mallory_playlist\n\n- 맬러리 스퀘어 mallory square\nyoutube: https://youtube.com/channel/UC1WpY3Ce68NArZgEVrLnSCQ\n\n*\n오랜만에 찾아뵙게 되었어요.\n공지라도 남겼어야 하는데\n기약없이 기다려주신 구독자 분들도 계셔\n죄송한 마음이 큽니다.\n자주 올 수 있도록 할게요.\n남은 휴일 잘 마무리 하시고 건강 유의하세요.\n감사합니다."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT28M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "64829",
+                "likeCount": "1646",
+                "favoriteCount": "0",
+                "commentCount": "247"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

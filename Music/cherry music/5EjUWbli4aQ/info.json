@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "MAE-3Cmpi9jbDyyxQk3a1NAPC3Y",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "JNTRbSXNWZfxd9whKbDzL4jewlc",
+            "id": "5EjUWbli4aQ",
+            "snippet": {
+                "publishedAt": "2025-07-27T23:00:05Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "Cafe Playlist ☕ 여름 카페에서 편하게 듣기 좋은 플리 🎶🌿",
+                "description": "시원한 바람이 부는 여름날, 커피 한 잔과 함께 듣기 좋은 음악을 모았습니다.\n잔잔하고 편안한 선율이 여름 카페의 분위기를 더욱 아늑하게 만들어줄 거예요.\n창문을 열고 이 음악과 함께 여유로운 시간을 즐겨보세요.\n\n🎧 이 플레이리스트의 모든 음악 저작권은 체리(CHERRY)에게 있습니다.\n\n📎 해시태그\n#카페플리 #여름감성 #CafePlaylist #SummerVibes #카페음악 #편안한음악 #감성플리 #CherryMusic #여름카페 #음악으로여행",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5EjUWbli4aQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5EjUWbli4aQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5EjUWbli4aQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5EjUWbli4aQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5EjUWbli4aQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Cafe Playlist ☕ 여름 카페에서 편하게 듣기 좋은 플리 🎶🌿",
+                    "description": "시원한 바람이 부는 여름날, 커피 한 잔과 함께 듣기 좋은 음악을 모았습니다.\n잔잔하고 편안한 선율이 여름 카페의 분위기를 더욱 아늑하게 만들어줄 거예요.\n창문을 열고 이 음악과 함께 여유로운 시간을 즐겨보세요.\n\n🎧 이 플레이리스트의 모든 음악 저작권은 체리(CHERRY)에게 있습니다.\n\n📎 해시태그\n#카페플리 #여름감성 #CafePlaylist #SummerVibes #카페음악 #편안한음악 #감성플리 #CherryMusic #여름카페 #음악으로여행"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3H1M48S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "35557",
+                "likeCount": "157",
+                "favoriteCount": "0",
+                "commentCount": "32"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

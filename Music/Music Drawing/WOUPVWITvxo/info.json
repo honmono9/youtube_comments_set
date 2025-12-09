@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "jmVfpQdqa7Udp6yI0ClfB2xKFNs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "bkO5GB0ZIlI6DJEWGwosKlMQjHo",
+            "id": "WOUPVWITvxo",
+            "snippet": {
+                "publishedAt": "2025-03-26T11:45:02Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"위로가 필요한 오늘\" 너를 위한 수면음악 - 달의 마음🌙",
+                "description": "위로가 필요한 그런 날이 있어요.\n지치고 힘들고 우울한 날..\n하지만 그런 날엔 나를 더 많이 이해하고 \n강해지는 시간이 될 수 있어요~\n\n오늘은 힘들었던 나를 다독이고\n위로 해주는 그런 날이 되길 바랄게요 :)\n\n\n🎵곡 제목                      \n01.The moon\n02.별에게\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #위로가되는음악 #잠잘때듣는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WOUPVWITvxo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WOUPVWITvxo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WOUPVWITvxo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WOUPVWITvxo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WOUPVWITvxo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "수면음악",
+                    "위로음악",
+                    "수면유도음악",
+                    "잠잘때듣는음악",
+                    "편안한음악",
+                    "숙면음악",
+                    "SleepMusic",
+                    "SleepingMusic",
+                    "RelaxMusic",
+                    "RelaxingMusic",
+                    "PianoMusic",
+                    "피아노음악",
+                    "불면증음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"위로가 필요한 오늘\" 너를 위한 수면음악 - 달의 마음🌙",
+                    "description": "위로가 필요한 그런 날이 있어요.\n지치고 힘들고 우울한 날..\n하지만 그런 날엔 나를 더 많이 이해하고 \n강해지는 시간이 될 수 있어요~\n\n오늘은 힘들었던 나를 다독이고\n위로 해주는 그런 날이 되길 바랄게요 :)\n\n\n🎵곡 제목                      \n01.The moon\n02.별에게\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #위로가되는음악 #잠잘때듣는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8H50M20S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "103213",
+                "likeCount": "2037",
+                "favoriteCount": "0",
+                "commentCount": "144"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "NYDrffroaDTutL9JoM6Il1B2QlA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "25KNMVa1QbnUOey5wpJ0VIxJnPU",
+            "id": "81EECxGddOg",
+            "snippet": {
+                "publishedAt": "2025-12-08T03:00:15Z",
+                "channelId": "UCLvhr40dgoBcV4XBlOhauNw",
+                "title": "DUE, ELLIA - Desire [Visualizer]",
+                "description": "“Desire” is an emotive house track that captures the intense pull and unspoken longing between two souls — blending dreamy tension with refined, atmospheric production ✨💫\n\nCredit\nExecutive Producer: Ahn Dongwook\nMusic Producer & Director: DUE, ELLIA\nArtwork, Visualizer: WASIDO (Kim Wonjong)\n\nFollow the Artists:  \nDUE - https://www.instagram.com/iam_due_/\nELLIA - https://www.instagram.com/elliarang\n\nFollow NUBREED ENTERTAINMENT:  \nhttps://www.instagram.com/nubreed.ent/  \n\n#due #ellia #desire #nubreedent\n#EDM #pop #house #pophouse #newmusic #release",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/81EECxGddOg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/81EECxGddOg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/81EECxGddOg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/81EECxGddOg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/81EECxGddOg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "워너뮤직코리아 (Warner Music Korea)",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "DUE, ELLIA - Desire [Visualizer]",
+                    "description": "“Desire” is an emotive house track that captures the intense pull and unspoken longing between two souls — blending dreamy tension with refined, atmospheric production ✨💫\n\nCredit\nExecutive Producer: Ahn Dongwook\nMusic Producer & Director: DUE, ELLIA\nArtwork, Visualizer: WASIDO (Kim Wonjong)\n\nFollow the Artists:  \nDUE - https://www.instagram.com/iam_due_/\nELLIA - https://www.instagram.com/elliarang\n\nFollow NUBREED ENTERTAINMENT:  \nhttps://www.instagram.com/nubreed.ent/  \n\n#due #ellia #desire #nubreedent\n#EDM #pop #house #pophouse #newmusic #release"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M20S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1843",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

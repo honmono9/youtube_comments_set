@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "gjTkFd6EQsyZe9IU6899SKlPP-k",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "1JSEjn2f-j4q4SPEDHZS5ARKs8Q",
+            "id": "eE4dE4mqVac",
+            "snippet": {
+                "publishedAt": "2025-09-19T09:01:11Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "He's a Pirate (캐리비안의 해적 OST) ⚓ 피아노 건반 8개로 쉽게 연주하기 🎹",
+                "description": "#캐리비안의해적 #캐리비안의해적ost #hesapirate #piratesofthecaribbean \n#피아노커버 #pianocover #피아노연주 \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eE4dE4mqVac/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eE4dE4mqVac/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eE4dE4mqVac/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eE4dE4mqVac/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eE4dE4mqVac/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "캐리비안의해적",
+                    "캐리비안의 해적 ost",
+                    "pirates of the caribbean",
+                    "he's a pirate",
+                    "해적",
+                    "캐리비안의 해적 피아노"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "He's a Pirate (캐리비안의 해적 OST) ⚓ 피아노 건반 8개로 쉽게 연주하기 🎹",
+                    "description": "#캐리비안의해적 #캐리비안의해적ost #hesapirate #piratesofthecaribbean \n#피아노커버 #pianocover #피아노연주 \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "15677150",
+                "likeCount": "121850",
+                "favoriteCount": "0",
+                "commentCount": "405"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

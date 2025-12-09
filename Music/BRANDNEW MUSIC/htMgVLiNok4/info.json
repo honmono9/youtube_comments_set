@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "R9N0u7IxCdFiIgV0eFJggwcgpWk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "jEaOQMx0HeFarTIb4JoF-RSJ5vY",
+            "id": "htMgVLiNok4",
+            "snippet": {
+                "publishedAt": "2015-08-06T03:00:01Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "[Brandnew Day Vol.7 Bumkey & Friends] 범키 '느껴 (My Everything)'",
+                "description": "오랜 기간 기다려준 아내와 팬들에게 바치는 범키의 첫 번째 라이브 '느껴'\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/htMgVLiNok4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/htMgVLiNok4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/htMgVLiNok4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/htMgVLiNok4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/htMgVLiNok4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Brandnew Day Vol.7 Bumkey & Friends] 범키 '느껴 (My Everything)'",
+                    "description": "오랜 기간 기다려준 아내와 팬들에게 바치는 범키의 첫 번째 라이브 '느껴'\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "8138",
+                "likeCount": "149",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

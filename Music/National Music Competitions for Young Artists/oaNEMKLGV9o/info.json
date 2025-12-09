@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "rfToL6lKDcVOU_Z95Zn2-ESDL0I",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "FxUX3LvjMG7S2CZPDN_HQhOsQEk",
+            "id": "oaNEMKLGV9o",
+            "snippet": {
+                "publishedAt": "2024-06-08T23:05:16Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "Tunong ng Tagumpay",
+                "description": "Concert at the Park: Tunog ng Tagumpay, featuring the Letran Singing Ambassadors \n\nA National Music Competitions for Young Artists (NAMCYA) Foundation, Inc.\n2024 Concert in partnership with the National Commission for Culture and the Arts (NCCA) and the National Parks Development Committee (NPDC).\n\n🎶 Programme:\n\nI. Magdiwang Magpuri\nII. Chitchiritchit\nIII. Kalesa\nIV. Dalaga't binata\nV. Pangarap ko ang ibigin ka\nVI. Allegro Musika\nVII. Isang dugo,isang lahi, isang musika\nVIII. Isang mundo isang awit\nIX. Opm medley\nX. Bayan ko\n\n🔗 Connect with us:\nStay updated on Facebook: https://www.facebook.com/NAMCYAPH?mibextid=LQQJ4d\nFollow us on Instagram: https://www.instagram.com/namcyaph?igsh=N212Z2s5Ym5ibGJ4&utm_source=qr\nKnow more about us on our website: https://www.namcya.com\n\n---\n\n**NO COPYRIGHT INFRINGEMENT INTENDED. FOR ENTERTAINMENT PURPOSES ONLY**\n\nNational Music Competitions for Young Artists (NAMCYA), Pasay City, Philippines.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oaNEMKLGV9o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oaNEMKLGV9o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oaNEMKLGV9o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oaNEMKLGV9o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oaNEMKLGV9o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "fil",
+                "localized": {
+                    "title": "Tunong ng Tagumpay",
+                    "description": "Concert at the Park: Tunog ng Tagumpay, featuring the Letran Singing Ambassadors \n\nA National Music Competitions for Young Artists (NAMCYA) Foundation, Inc.\n2024 Concert in partnership with the National Commission for Culture and the Arts (NCCA) and the National Parks Development Committee (NPDC).\n\n🎶 Programme:\n\nI. Magdiwang Magpuri\nII. Chitchiritchit\nIII. Kalesa\nIV. Dalaga't binata\nV. Pangarap ko ang ibigin ka\nVI. Allegro Musika\nVII. Isang dugo,isang lahi, isang musika\nVIII. Isang mundo isang awit\nIX. Opm medley\nX. Bayan ko\n\n🔗 Connect with us:\nStay updated on Facebook: https://www.facebook.com/NAMCYAPH?mibextid=LQQJ4d\nFollow us on Instagram: https://www.instagram.com/namcyaph?igsh=N212Z2s5Ym5ibGJ4&utm_source=qr\nKnow more about us on our website: https://www.namcya.com\n\n---\n\n**NO COPYRIGHT INFRINGEMENT INTENDED. FOR ENTERTAINMENT PURPOSES ONLY**\n\nNational Music Competitions for Young Artists (NAMCYA), Pasay City, Philippines."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H4M51S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "355",
+                "likeCount": "5",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

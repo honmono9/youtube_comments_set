@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "0utUnWm4V2yxV2VD54jf8LlK3RE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "SZwWs45IuvhQN69HIHwzfop6_fM",
+            "id": "YsGSukJofWI",
+            "snippet": {
+                "publishedAt": "2023-12-02T15:13:44Z",
+                "channelId": "UC6YnTqZidFg4WUiXpiCtSSQ",
+                "title": "Airi Kanna 1st solo Concert [ KANNA ] Teaser",
+                "description": "Airi Kanna 1st solo Concert [ KANNA ]\n\nComming in January \n\n©STELLIVE",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YsGSukJofWI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YsGSukJofWI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YsGSukJofWI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YsGSukJofWI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YsGSukJofWI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "아이리 칸나 Music Official",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Airi Kanna 1st solo Concert [ KANNA ] Teaser",
+                    "description": "Airi Kanna 1st solo Concert [ KANNA ]\n\nComming in January \n\n©STELLIVE"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "42326",
+                "likeCount": "2288",
+                "favoriteCount": "0",
+                "commentCount": "363"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

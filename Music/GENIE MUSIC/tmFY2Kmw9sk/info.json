@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ohmOyRDUMAvhjDULixLJ4E3G4dM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ZFVnU__YO8d-f2Beh_OColRp5Dk",
+            "id": "tmFY2Kmw9sk",
+            "snippet": {
+                "publishedAt": "2025-12-06T03:01:10Z",
+                "channelId": "UCd-OrgPLrnQiQBcq19j5oEQ",
+                "title": "최백호의 깊고 따뜻한 음색으로 표현한 아버지의 마음💗 | 모범택시3 OST",
+                "description": "\"기다려야지 어떻게 너를 너를 두고 가\" \n최백호의 깊고 따뜻한 음색으로 표현한 아버지의 마음💗\n\n사적 복수 대행극 '모범택시3' OST  \n🎧 최백호 (Choi Beck Ho) - 기다려야지 (Still Here Waiting)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tmFY2Kmw9sk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tmFY2Kmw9sk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tmFY2Kmw9sk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tmFY2Kmw9sk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tmFY2Kmw9sk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "GENIE MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "최백호의 깊고 따뜻한 음색으로 표현한 아버지의 마음💗 | 모범택시3 OST",
+                    "description": "\"기다려야지 어떻게 너를 너를 두고 가\" \n최백호의 깊고 따뜻한 음색으로 표현한 아버지의 마음💗\n\n사적 복수 대행극 '모범택시3' OST  \n🎧 최백호 (Choi Beck Ho) - 기다려야지 (Still Here Waiting)"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "20198",
+                "likeCount": "220",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

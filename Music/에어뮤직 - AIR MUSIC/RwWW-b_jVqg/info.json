@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "tLNRAHvfS60se1kZpwNHNRAJcvQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "HkR4MaRNYQVd8mo6tjqW8E6ziOs",
+            "id": "RwWW-b_jVqg",
+            "snippet": {
+                "publishedAt": "2025-03-16T12:00:40Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "[Teaser] 공기남 - 모래성 (Feat. 고남준, 쿠우키)",
+                "description": "[Teaser] 공기남 - 모래성 (Feat. 고남준, 쿠우키)\n2025. 3. 18 12PM",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RwWW-b_jVqg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RwWW-b_jVqg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RwWW-b_jVqg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RwWW-b_jVqg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RwWW-b_jVqg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Teaser] 공기남 - 모래성 (Feat. 고남준, 쿠우키)",
+                    "description": "[Teaser] 공기남 - 모래성 (Feat. 고남준, 쿠우키)\n2025. 3. 18 12PM"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "172",
+                "likeCount": "11",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

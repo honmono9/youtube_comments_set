@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "T-e2gS5wTTaxbBeQXeB0GXYaJcg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "CP-o1QzOxyT5tyaUhCXcKK0tPDo",
+            "id": "e6Om-s3WO-c",
+            "snippet": {
+                "publishedAt": "2025-12-05T09:00:57Z",
+                "channelId": "UCd-OrgPLrnQiQBcq19j5oEQ",
+                "title": "오아! (OAH!) - 10000 Official M/V",
+                "description": "#오아 #OAH #10000 \n오아! (OAH!) - 10000 Official Music Video\n\nWelcome to GENIE MUSIC official YouTube channel🎵\n지니뮤직 공식 유튜브 채널에 오신것을 환영합니다!\n\n✔지금 듣고 계신 음악은 지니 ( http://www.genie.co.kr ) 및 국내 모든 음원사이트에서도  즐기실 수 있습니다.\nThe music you're listening now is available on Spotify, Apple Music, and Youtube Music\n\n✔본 채널의 조회수는 각종 차트 집계에 공식 반영 됩니다.\n Views from this channel will be counted officially for charts.\n\n더욱 더 많은 음악 콘텐츠와 소식을 들으시려면 아래 채널을 방문해주세요😉\nhttps://www.instagram.com/genie_music/\nhttps://www.facebook.com/genieplay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e6Om-s3WO-c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e6Om-s3WO-c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e6Om-s3WO-c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/e6Om-s3WO-c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/e6Om-s3WO-c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "GENIE MUSIC",
+                "tags": [
+                    "지니뮤직",
+                    "Genie Music",
+                    "뮤직비디오",
+                    "Music Video",
+                    "kpop",
+                    "Korean Music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "오아! (OAH!) - 10000 Official M/V",
+                    "description": "#오아 #OAH #10000 \n오아! (OAH!) - 10000 Official Music Video\n\nWelcome to GENIE MUSIC official YouTube channel🎵\n지니뮤직 공식 유튜브 채널에 오신것을 환영합니다!\n\n✔지금 듣고 계신 음악은 지니 ( http://www.genie.co.kr ) 및 국내 모든 음원사이트에서도  즐기실 수 있습니다.\nThe music you're listening now is available on Spotify, Apple Music, and Youtube Music\n\n✔본 채널의 조회수는 각종 차트 집계에 공식 반영 됩니다.\n Views from this channel will be counted officially for charts.\n\n더욱 더 많은 음악 콘텐츠와 소식을 들으시려면 아래 채널을 방문해주세요😉\nhttps://www.instagram.com/genie_music/\nhttps://www.facebook.com/genieplay"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M7S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "683",
+                "likeCount": "36",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

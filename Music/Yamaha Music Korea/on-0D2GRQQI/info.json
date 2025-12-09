@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "CG0HU1N_sIily7lzg3WNhS2jVzI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "voQa8iKQsBZ79vL3NNdBS-db2Ss",
+            "id": "on-0D2GRQQI",
+            "snippet": {
+                "publishedAt": "2025-07-08T05:56:31Z",
+                "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                "title": "예술이 새겨지는 순간📸야마하 색소폰 공장 #비하인드씬",
+                "description": "예술이 새겨지는 순간📸\n야마하 색소폰 공장 #비하인드씬\n\n하나의 색소폰이 악기 그 이상의\n예술 작품으로 태어나는 순간\n\n수십 년간 축적된 열정과 기술, \n정교한 디테일로 탄생하는 야마하 색소폰🎷\n\nDiscover the beauty of craftsmanship! \n\n\n#Yamahasaxophone\n#YamahaMusic \n#MakeWaves \n#BehindTheScenes",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/on-0D2GRQQI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/on-0D2GRQQI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/on-0D2GRQQI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/on-0D2GRQQI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/on-0D2GRQQI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yamaha Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "예술이 새겨지는 순간📸야마하 색소폰 공장 #비하인드씬",
+                    "description": "예술이 새겨지는 순간📸\n야마하 색소폰 공장 #비하인드씬\n\n하나의 색소폰이 악기 그 이상의\n예술 작품으로 태어나는 순간\n\n수십 년간 축적된 열정과 기술, \n정교한 디테일로 탄생하는 야마하 색소폰🎷\n\nDiscover the beauty of craftsmanship! \n\n\n#Yamahasaxophone\n#YamahaMusic \n#MakeWaves \n#BehindTheScenes"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2773",
+                "likeCount": "20",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

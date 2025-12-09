@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "CC2CSP-VgzHU3uzMk5soD75jl6U",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "x-fF21dJnVRUXQx7cpiI6tYZQ1Q",
+            "id": "Rrejg-AF8YQ",
+            "snippet": {
+                "publishedAt": "2025-08-16T09:24:33Z",
+                "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+                "title": "삶에 지친 사람들 찾아와 쉬어가도록...",
+                "description": "#하연이에게 #준하와나 #꿈이있는자유",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Rrejg-AF8YQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Rrejg-AF8YQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Rrejg-AF8YQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Rrejg-AF8YQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Rrejg-AF8YQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HISKINGDOM MUSIC Official",
+                "tags": [
+                    "히스킹덤뮤직",
+                    "찬양",
+                    "꿈이있는자유",
+                    "준하와나",
+                    "하연이에게"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "삶에 지친 사람들 찾아와 쉬어가도록...",
+                    "description": "#하연이에게 #준하와나 #꿈이있는자유"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT56S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2237",
+                "likeCount": "33",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

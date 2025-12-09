@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "_-VyXCQfACKBr6zGrzw9y2YzAfU",
+        "id": "Ugx2Ht5oSLLPjI__6ER4AaABAg",
+        "snippet": {
+            "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+            "videoId": "Ur2tCBCgX8Q",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "OvSJQBzC6LdpJfEHcgsmjTcNyWE",
+                "id": "Ugx2Ht5oSLLPjI__6ER4AaABAg",
+                "snippet": {
+                    "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                    "videoId": "Ur2tCBCgX8Q",
+                    "textDisplay": "obs 정말 중요한 소프트웨어인데 야마하의 지원은 반가운 소식입니다!",
+                    "textOriginal": "obs 정말 중요한 소프트웨어인데 야마하의 지원은 반가운 소식입니다!",
+                    "authorDisplayName": "@giseokkim4051",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lMHMVxzO0EXGkNAbrsEg1K2wiZOurCV6FxrjYazX4J53U=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@giseokkim4051",
+                    "authorChannelId": {
+                        "value": "UCdMCOvwEqNwNfeMoYuYGszg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2024-07-18T06:45:12Z",
+                    "updatedAt": "2024-07-18T06:45:12Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,100 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "5mxdyfDADkLthK-4m8DkyqdnXYs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ecsB8dtJVUm0LVEadhE7SxcSZP0",
+            "id": "y0BNZihvD90",
+            "snippet": {
+                "publishedAt": "2025-12-06T03:07:46Z",
+                "channelId": "UCEbRSmzD8xASRlYq2OLmCrg",
+                "title": "[하이라이트] 좁혀진 관문에 급 높아지는 장벽😨 참가자들을 떨게 만든 〈TOP 10 결정전〉 심사평 | 싱어게인4(singagain4) | JTBC 251202 방송",
+                "description": "[하이라이트] 좁혀진 관문에 급 높아지는 장벽😨 참가자들을 떨게 만든 〈TOP 10 결정전〉 심사평\n\n00:00 28호 가수\n03:50 17호 가수\n07:25 19호 가수\n12:36 61호 가수\n16:20 76호 가수\n19:35 27호 가수\n24:30 55호 가수\n28:26 37호 가수\n\n#싱어게인4 #TOP10결정전 #하이라이트\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/singagain4",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y0BNZihvD90/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y0BNZihvD90/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y0BNZihvD90/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/y0BNZihvD90/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/y0BNZihvD90/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JTBC Music",
+                "tags": [
+                    "싱어게인4",
+                    "싱어게인",
+                    "싱어게인심사평",
+                    "심사평",
+                    "TOP10결정전",
+                    "TOP10결정전심사평",
+                    "싱어게인4_8회하이라이트",
+                    "싱어게인심사평하이라이트",
+                    "28호",
+                    "17호",
+                    "19호",
+                    "61호",
+                    "76호",
+                    "27호",
+                    "55호",
+                    "37호",
+                    "태연",
+                    "코드쿤스트",
+                    "규현",
+                    "이해리",
+                    "이승기",
+                    "임재범",
+                    "김이나",
+                    "백지영",
+                    "윤종신",
+                    "singagain4"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[하이라이트] 좁혀진 관문에 급 높아지는 장벽😨 참가자들을 떨게 만든 〈TOP 10 결정전〉 심사평 | 싱어게인4(singagain4) | JTBC 251202 방송",
+                    "description": "[하이라이트] 좁혀진 관문에 급 높아지는 장벽😨 참가자들을 떨게 만든 〈TOP 10 결정전〉 심사평\n\n00:00 28호 가수\n03:50 17호 가수\n07:25 19호 가수\n12:36 61호 가수\n16:20 76호 가수\n19:35 27호 가수\n24:30 55호 가수\n28:26 37호 가수\n\n#싱어게인4 #TOP10결정전 #하이라이트\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/singagain4"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT34M2S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "45914",
+                "likeCount": "320",
+                "favoriteCount": "0",
+                "commentCount": "49"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

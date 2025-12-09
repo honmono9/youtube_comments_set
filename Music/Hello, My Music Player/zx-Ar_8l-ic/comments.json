@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "aHtLeXP6PEDxuK2I72Vz3QODLTM",
+        "id": "UgwtEda4HHsTjlcFdZp4AaABAg",
+        "snippet": {
+            "channelId": "UCoMDPTbC_7aTEWy0D80oO_Q",
+            "videoId": "zx-Ar_8l-ic",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "5dmO85cWhvitRE1s76i07aqmstI",
+                "id": "UgwtEda4HHsTjlcFdZp4AaABAg",
+                "snippet": {
+                    "channelId": "UCoMDPTbC_7aTEWy0D80oO_Q",
+                    "videoId": "zx-Ar_8l-ic",
+                    "textDisplay": "노래 좋아요❤❤❤",
+                    "textOriginal": "노래 좋아요❤❤❤",
+                    "authorDisplayName": "@구몬꿈",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/gwIfYqKL-Wz6tZRLcWHLlda2kqTnpBVRJJ_lZhUb0kxCLtXRYguv8SW_Jvp4o9K0_SJdU7uPTw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EA%B5%AC%EB%AA%AC%EA%BF%88",
+                    "authorChannelId": {
+                        "value": "UCq67ts0F9yCfgXJnu9Z8M-g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-09-25T17:34:32Z",
+                    "updatedAt": "2025-09-25T17:34:32Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

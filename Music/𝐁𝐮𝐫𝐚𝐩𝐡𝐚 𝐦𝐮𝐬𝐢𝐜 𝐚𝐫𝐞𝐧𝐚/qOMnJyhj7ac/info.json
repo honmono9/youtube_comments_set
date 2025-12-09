@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "TnPP__EyUbGuJWEeQyyLUSSgvDI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "gTdE-IXUm0bJV4r26HrKT5PMTkI",
+            "id": "qOMnJyhj7ac",
+            "snippet": {
+                "publishedAt": "2025-11-05T13:36:57Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "ฝนสีเทา [Silver Rain] | Teaser trailer Mv Official รับฟังเต็มๆ ในเร็วๆนี้ #rock #cinematicrock",
+                "description": "🌧️⚡เสียงฟ้าร้องดัง ท่ามกลางสายฝนสีเทา กับรักที่ไม่เลือนหาย #rockmusic #mvใหม่",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qOMnJyhj7ac/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qOMnJyhj7ac/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qOMnJyhj7ac/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qOMnJyhj7ac/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qOMnJyhj7ac/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "tags": [
+                    "ฝนสีเทา",
+                    "รักสีเทา",
+                    "Burapha Music Arena",
+                    "Rock ballad",
+                    "Cinematic rock ballad",
+                    "Alternative rock"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "ฝนสีเทา [Silver Rain] | Teaser trailer Mv Official รับฟังเต็มๆ ในเร็วๆนี้ #rock #cinematicrock",
+                    "description": "🌧️⚡เสียงฟ้าร้องดัง ท่ามกลางสายฝนสีเทา กับรักที่ไม่เลือนหาย #rockmusic #mvใหม่"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT29S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5694",
+                "likeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

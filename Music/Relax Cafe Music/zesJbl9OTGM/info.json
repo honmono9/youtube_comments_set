@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "e-iTnxtAjF1AonNM_vNeO_SKhKM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "80aQ4InxBrcMyaAj2e8qMsP7VLg",
+            "id": "zesJbl9OTGM",
+            "snippet": {
+                "publishedAt": "2022-07-20T13:00:37Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Starbuck Jazz Music 10 Hours - Relaxing Jazz Piano & Bossa Nova Music for Happy Mood",
+                "description": "Relaxing playlist of strabucks inspired jazz piano and bossa nova music, great for those happy vibes. Music by Richard Freeman\n\n\nInstrumental Jazz and Bossa Nova music by Richard Freeman.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #starbucksjazz #happyjazz jazz \n\nl133",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zesJbl9OTGM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zesJbl9OTGM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zesJbl9OTGM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zesJbl9OTGM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zesJbl9OTGM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "tags": [
+                    "strabucks jazz",
+                    "starbucks music",
+                    "jazz piano",
+                    "bossa nova",
+                    "starbucks bossa nova",
+                    "relaxing starbucks jazz",
+                    "happy starbucks music",
+                    "jazz music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Starbuck Jazz Music 10 Hours - Relaxing Jazz Piano & Bossa Nova Music for Happy Mood",
+                    "description": "Relaxing playlist of strabucks inspired jazz piano and bossa nova music, great for those happy vibes. Music by Richard Freeman\n\n\nInstrumental Jazz and Bossa Nova music by Richard Freeman.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #starbucksjazz #happyjazz jazz \n\nl133"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "10002",
+                "likeCount": "164",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

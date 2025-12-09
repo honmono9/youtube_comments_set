@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "fBPuHkb5UIpGE74k2dkWhPJvkzg",
+        "id": "UgzWxjSqaP0tA-YltkV4AaABAg",
+        "snippet": {
+            "channelId": "UCoMDPTbC_7aTEWy0D80oO_Q",
+            "videoId": "YKsgO-j0YDM",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "rdaSj3qPFj3kJmfsdCDOrjiwRS8",
+                "id": "UgzWxjSqaP0tA-YltkV4AaABAg",
+                "snippet": {
+                    "channelId": "UCoMDPTbC_7aTEWy0D80oO_Q",
+                    "videoId": "YKsgO-j0YDM",
+                    "textDisplay": "노래 좋아요",
+                    "textOriginal": "노래 좋아요",
+                    "authorDisplayName": "@leeyiri1",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mtyIkFD6renJ3sEWh4CgZ4ZUVHtq0Ecfgc5or5mbs=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@leeyiri1",
+                    "authorChannelId": {
+                        "value": "UCYvTc4qbyJ8rGPEzSkyuS2A"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2023-07-14T03:21:33Z",
+                    "updatedAt": "2023-07-14T03:21:33Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

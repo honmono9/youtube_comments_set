@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "4qtrzt-ANXOzwHdnIJHapGzihgE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "MWtLlkP3qHl6u5zRqlzeF_PhJVQ",
+            "id": "0J0PMbZdDfs",
+            "snippet": {
+                "publishedAt": "2025-10-06T09:00:01Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "floryy - I'm so into you [Short Lyric video]",
+                "description": "floryy - I'm so into you [Short Lyric video]\n\n[Credits]\nExecutive producer 공기남\nLyrics by Oat (오트), 해이 (Haey) \nComposed by Oat (오트), 해이 (Haey) \nArranged by Oat (오트), 해이 (Haey), 양혁 \nVocal by floryy \nChorus by 해이(Haey), 양혁 \nPiano by Oat (오트), 해이 (Haey) \nGuitar by 양혁 \nBass by Oat (오트), 해이 (Haey) \nDrum by 오트 (Oat)\nMidi Programing by Oat (오트), 해이 (Haey)\nRecorded by fovitz @AirMusic Studio\nMixed by fovitz @AirMusic Studio\nMastered by fovitz @AirMusic Studio\nAlbum artwork by 전은경 @__alleyway__\nManagement Airmusic\nTeam leader 박지호 @melanoalbinc\nDistributed by Wanermusic_Korea",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0J0PMbZdDfs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0J0PMbZdDfs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0J0PMbZdDfs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0J0PMbZdDfs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0J0PMbZdDfs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "floryy - I'm so into you [Short Lyric video]",
+                    "description": "floryy - I'm so into you [Short Lyric video]\n\n[Credits]\nExecutive producer 공기남\nLyrics by Oat (오트), 해이 (Haey) \nComposed by Oat (오트), 해이 (Haey) \nArranged by Oat (오트), 해이 (Haey), 양혁 \nVocal by floryy \nChorus by 해이(Haey), 양혁 \nPiano by Oat (오트), 해이 (Haey) \nGuitar by 양혁 \nBass by Oat (오트), 해이 (Haey) \nDrum by 오트 (Oat)\nMidi Programing by Oat (오트), 해이 (Haey)\nRecorded by fovitz @AirMusic Studio\nMixed by fovitz @AirMusic Studio\nMastered by fovitz @AirMusic Studio\nAlbum artwork by 전은경 @__alleyway__\nManagement Airmusic\nTeam leader 박지호 @melanoalbinc\nDistributed by Wanermusic_Korea"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT32S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "438",
+                "likeCount": "12",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

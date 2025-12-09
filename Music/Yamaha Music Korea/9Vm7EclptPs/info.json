@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "AobGu4JO5juc7leKxsJBw1ipX54",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "39LOAvzplCIwU9Uh9JnK_HhRcpw",
+            "id": "9Vm7EclptPs",
+            "snippet": {
+                "publishedAt": "2024-05-09T01:13:18Z",
+                "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                "title": "[야마하 Pro-Audio] 최적의 제품과 시스템으로 'Solution'을 제공하는 야마하 프로오디오를 소개합니다🌐",
+                "description": "야마하 프로오디오의 솔루션 페이지가 오픈 되었습니다.\n\n야마하 Pro-Audio 제품군의 목표는 '사운드'가 필요로 하는 모든 장소와 유형에\n최적의 제품과 시스템으로 'Solution'을 제공하는 것을 목표로 하고 있으며\n\n이번에 오픈된 솔루션 페이지에서는 전세계에서 인정받고 있는 \n야마하 Professinal Audio 제품의 실제 사용 및 설치 사례들과 시스템 예시, \n제품 설명 및 개발 철학까지 살펴 보실 수 있습니다.\n\n교회, 투어링&라이브 사운드, 극장과 홀은 물론\n회의 및 컨퍼런스 시스템과 카페나 매장등 상업용 설치 스피커부터\n강의실, 교육기관, 심지어 밴드&뮤지션, 스튜디오를 위한 제품까지 - \n\n솔루션 페이지를 통해 지금 바로 확인해보세요🌐\n\n🔗야마하뮤직코리아 솔루션 페이지 바로가기\n▶https://bit.ly/3UOAWP4\n\n#야마하 #야마하PA #야마하AUDIO #Yamaha #YamahaPA \n#Yamahaprofessinalaudio\n#프로오디오 #라이브 #라이브장비 #디지털믹서 #회의용시스템 #회의용기기\n#버스킹장비 #스튜디오장비 #방송용장비 #인터넷방송 #오디오인터페이스\n#오디오시스템 #음악감상",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9Vm7EclptPs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9Vm7EclptPs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9Vm7EclptPs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9Vm7EclptPs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9Vm7EclptPs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yamaha Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[야마하 Pro-Audio] 최적의 제품과 시스템으로 'Solution'을 제공하는 야마하 프로오디오를 소개합니다🌐",
+                    "description": "야마하 프로오디오의 솔루션 페이지가 오픈 되었습니다.\n\n야마하 Pro-Audio 제품군의 목표는 '사운드'가 필요로 하는 모든 장소와 유형에\n최적의 제품과 시스템으로 'Solution'을 제공하는 것을 목표로 하고 있으며\n\n이번에 오픈된 솔루션 페이지에서는 전세계에서 인정받고 있는 \n야마하 Professinal Audio 제품의 실제 사용 및 설치 사례들과 시스템 예시, \n제품 설명 및 개발 철학까지 살펴 보실 수 있습니다.\n\n교회, 투어링&라이브 사운드, 극장과 홀은 물론\n회의 및 컨퍼런스 시스템과 카페나 매장등 상업용 설치 스피커부터\n강의실, 교육기관, 심지어 밴드&뮤지션, 스튜디오를 위한 제품까지 - \n\n솔루션 페이지를 통해 지금 바로 확인해보세요🌐\n\n🔗야마하뮤직코리아 솔루션 페이지 바로가기\n▶https://bit.ly/3UOAWP4\n\n#야마하 #야마하PA #야마하AUDIO #Yamaha #YamahaPA \n#Yamahaprofessinalaudio\n#프로오디오 #라이브 #라이브장비 #디지털믹서 #회의용시스템 #회의용기기\n#버스킹장비 #스튜디오장비 #방송용장비 #인터넷방송 #오디오인터페이스\n#오디오시스템 #음악감상"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "173",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

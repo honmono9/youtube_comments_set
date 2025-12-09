@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Ej8-nX1fzg7pwDVYWf0UqgeIi-U",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "LWOk33BGOMkXST02CdTnNKVmtZ4",
+            "id": "HIcQ3yqpikA",
+            "snippet": {
+                "publishedAt": "2020-07-18T10:30:01Z",
+                "channelId": "UCYxyYe0yGYIlSaPDvwaO3TA",
+                "title": "Basement Party / REMIX with Budweiser",
+                "description": "#즐겁게넘겨 #버드와이저 #KingOfBeers #Sponsored\r #Budweiser\n\nBasement Party / REMIX with Budweiser\n\n*Spotify\nhttps://open.spotify.com/artist/75yDP...​\n\n*Instagram\n@napkinsmusic\n\n*TikTok\n@napkinsmusic\n\nThank you for watching :^ )\nLove You Guys",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HIcQ3yqpikA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HIcQ3yqpikA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HIcQ3yqpikA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HIcQ3yqpikA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HIcQ3yqpikA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Napkins Music",
+                "tags": [
+                    "버드와이저",
+                    "budweiser",
+                    "beer",
+                    "music",
+                    "맥주",
+                    "napkins",
+                    "napkins music",
+                    "넵킨스",
+                    "냅킨스",
+                    "넵킨스 뮤직",
+                    "냅킨스 뮤직"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Basement Party / REMIX with Budweiser",
+                    "description": "#즐겁게넘겨 #버드와이저 #KingOfBeers #Sponsored\r #Budweiser\n\nBasement Party / REMIX with Budweiser\n\n*Spotify\nhttps://open.spotify.com/artist/75yDP...​\n\n*Instagram\n@napkinsmusic\n\n*TikTok\n@napkinsmusic\n\nThank you for watching :^ )\nLove You Guys"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M9S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "12452",
+                "likeCount": "803",
+                "favoriteCount": "0",
+                "commentCount": "75"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

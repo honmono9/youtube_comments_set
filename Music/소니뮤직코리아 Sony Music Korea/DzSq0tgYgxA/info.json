@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "V2qhZV4-tSMk_T2_95qT6jict-E",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "lsFSRGbW-Nn_f_Eq5AxTvXrKlus",
+            "id": "DzSq0tgYgxA",
+            "snippet": {
+                "publishedAt": "2020-12-18T05:31:45Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "한글 자막 MV | UPTOWN BOYBAND - BAG$",
+                "description": "#UBB #업타운보이밴드 #BAG$\n\n세상 힙한 업타운 보이밴드🔥\n힐링되는 영상에 힙한 멜로디의 BAG$ ✨\n\n🎧 싱글 듣기: https://smek.lnk.to/BAGS\n\n🔗 소뮤코 공식 채널 팔로우\n▶ YouTube: https://www.youtube.com/c/SonymusicCoKr\n▶ Instagram: https://www.instagram.com/sonymusickorea \n▶ Facebook: https://www.facebook.com/sonymusickorea\n▶ Twitter: https://twitter.com/SonyMusicKr_POP",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DzSq0tgYgxA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DzSq0tgYgxA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DzSq0tgYgxA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DzSq0tgYgxA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DzSq0tgYgxA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "한글 자막 MV | UPTOWN BOYBAND - BAG$",
+                    "description": "#UBB #업타운보이밴드 #BAG$\n\n세상 힙한 업타운 보이밴드🔥\n힐링되는 영상에 힙한 멜로디의 BAG$ ✨\n\n🎧 싱글 듣기: https://smek.lnk.to/BAGS\n\n🔗 소뮤코 공식 채널 팔로우\n▶ YouTube: https://www.youtube.com/c/SonymusicCoKr\n▶ Instagram: https://www.instagram.com/sonymusickorea \n▶ Facebook: https://www.facebook.com/sonymusickorea\n▶ Twitter: https://twitter.com/SonyMusicKr_POP"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6996",
+                "likeCount": "167",
+                "favoriteCount": "0",
+                "commentCount": "13"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

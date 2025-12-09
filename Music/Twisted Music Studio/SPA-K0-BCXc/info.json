@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "UVBDQXbBG6Pijp6KGnhB5qo1fpc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "rlVERMjPORJDEJjGdmbp_G3mrkc",
+            "id": "SPA-K0-BCXc",
+            "snippet": {
+                "publishedAt": "2025-10-23T15:30:29Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Stone Temple Pilots - Wicked Garden (Soul AI Cover)",
+                "description": "Wicked Garden by Stone Temple Pilots twisted into Soul music.\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nCan you see like a child?\nCan you see what I want?\nI wanna run through your wicked garden\nHeard that's the place to find you\nCause I'm alive\nSo alive now\nI know the darkness blinds you\n\nCan you see without eyes?\nCan you speak without lies?\nI wanna drink from you naked fountain\nI can drown your sorrows\nI'm gonna burn\nBurn you to life now\nOut of the chains that bind you\n\nCan you see just like a child?\nCan you see just what I want?\nCan I bring you back to life?\nAre you scared of life?\n\nBurn, burn, burn\nBurn your wicked garden down\nBurn, burn, burn\nBurn your wicked garden to the ground\n\nCan you feel pain inside?\nCan you love?\nCan you cry?\nI wanna run through your wicked garden\nHeard that's the place to find you\nBut I'm alive\nSo alive now\nOut of the dark that blinds you\n\nCan you see just like a child?\nCan you see just what I want?\nCan I bring you back to life?\nAre you scared of life?\n\nBurn, burn, burn\nBurn your wicked garden down\nBurn, burn, burn\nBurn your wicked garden to the ground",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SPA-K0-BCXc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SPA-K0-BCXc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SPA-K0-BCXc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SPA-K0-BCXc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SPA-K0-BCXc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Stone Temple Pilots - Wicked Garden (Soul AI Cover)",
+                    "description": "Wicked Garden by Stone Temple Pilots twisted into Soul music.\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nCan you see like a child?\nCan you see what I want?\nI wanna run through your wicked garden\nHeard that's the place to find you\nCause I'm alive\nSo alive now\nI know the darkness blinds you\n\nCan you see without eyes?\nCan you speak without lies?\nI wanna drink from you naked fountain\nI can drown your sorrows\nI'm gonna burn\nBurn you to life now\nOut of the chains that bind you\n\nCan you see just like a child?\nCan you see just what I want?\nCan I bring you back to life?\nAre you scared of life?\n\nBurn, burn, burn\nBurn your wicked garden down\nBurn, burn, burn\nBurn your wicked garden to the ground\n\nCan you feel pain inside?\nCan you love?\nCan you cry?\nI wanna run through your wicked garden\nHeard that's the place to find you\nBut I'm alive\nSo alive now\nOut of the dark that blinds you\n\nCan you see just like a child?\nCan you see just what I want?\nCan I bring you back to life?\nAre you scared of life?\n\nBurn, burn, burn\nBurn your wicked garden down\nBurn, burn, burn\nBurn your wicked garden to the ground"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M52S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4146",
+                "likeCount": "125",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

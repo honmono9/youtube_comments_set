@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "dMirksoDnCAmYW_8GynWjTk9Uzs",
+        "id": "UgwHoXjMoRb-rw4AKZ54AaABAg",
+        "snippet": {
+            "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+            "videoId": "X8vEpmC5Q-M",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "0_T-oBVuWcvmLjJo_KvfNJ6GAjg",
+                "id": "UgwHoXjMoRb-rw4AKZ54AaABAg",
+                "snippet": {
+                    "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                    "videoId": "X8vEpmC5Q-M",
+                    "textDisplay": "😊 와~~~이렇게 좋을 수가🎉",
+                    "textOriginal": "😊 와~~~이렇게 좋을 수가🎉",
+                    "authorDisplayName": "@DuckonKim",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kgo5-MnM8oZR7nY16V-tDL5_A6dKIJoQqTwiqSgTbZYwwthXx2pd4s6k-o2cXayo3jJA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@DuckonKim",
+                    "authorChannelId": {
+                        "value": "UCKq-6am3XtGJ1PTo8_eT_aA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-07-15T11:58:22Z",
+                    "updatedAt": "2025-07-15T11:58:22Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "2IEEpEFZOnzZIivoR3170Tb4aTU",
+        "id": "UgzcpNH1fcGIzWfolk94AaABAg",
+        "snippet": {
+            "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+            "videoId": "X8vEpmC5Q-M",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "sgunT9it7YtRQHu7X8HIS8x1w0A",
+                "id": "UgzcpNH1fcGIzWfolk94AaABAg",
+                "snippet": {
+                    "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                    "videoId": "X8vEpmC5Q-M",
+                    "textDisplay": "Adorável arte visual para essa maravilhosa canção !!! ✨💖👏👏👏",
+                    "textOriginal": "Adorável arte visual para essa maravilhosa canção !!! ✨💖👏👏👏",
+                    "authorDisplayName": "@gilvaneidemendes7577",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/hWj-V4YzzEBJcD6wD7PU6tsq0XiXzvQwNjLNwMzXrgT413Al2vG5k7ouwRpBR7VfjngPFEUO_g=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@gilvaneidemendes7577",
+                    "authorChannelId": {
+                        "value": "UCtIh5e5LWl1d3G_BzAI6fmw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-07-11T18:03:47Z",
+                    "updatedAt": "2025-07-11T18:03:47Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

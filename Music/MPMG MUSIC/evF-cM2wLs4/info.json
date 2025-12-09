@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "n16Z9a6ACZJCmBELtKmgHo7GT8E",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "DYTLoohI5vWxPqn39bu_5DaJ-bs",
+            "id": "evF-cM2wLs4",
+            "snippet": {
+                "publishedAt": "2025-09-05T10:01:16Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "SURL × Lacuna 'KIDS' Live Clip Behind",
+                "description": "지난 9월 3일 발매와 함께 공개되었던 'KIDS' 라이브 클립,\n2024년 8월 'KIDS' 전국투어 가운데 촬영되었던 KOCCA MUSIC STUDIO의 현장 비하인드를 공개합니다🎬\n\nAlongside the release of 'KIDS' on September 3, the live clip was unveiled, and now we’re sharing the behind-the-scenes footage from KOCCA MUSIC STUDIO, filmed during the 2024 'KIDS' nationwide tour 🎬\n\n#SURL #Lacuna #설쿠나 #KIDS",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/evF-cM2wLs4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/evF-cM2wLs4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/evF-cM2wLs4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/evF-cM2wLs4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/evF-cM2wLs4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "SURL × Lacuna 'KIDS' Live Clip Behind",
+                    "description": "지난 9월 3일 발매와 함께 공개되었던 'KIDS' 라이브 클립,\n2024년 8월 'KIDS' 전국투어 가운데 촬영되었던 KOCCA MUSIC STUDIO의 현장 비하인드를 공개합니다🎬\n\nAlongside the release of 'KIDS' on September 3, the live clip was unveiled, and now we’re sharing the behind-the-scenes footage from KOCCA MUSIC STUDIO, filmed during the 2024 'KIDS' nationwide tour 🎬\n\n#SURL #Lacuna #설쿠나 #KIDS"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT6M54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "422",
+                "likeCount": "36",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

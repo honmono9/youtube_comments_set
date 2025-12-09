@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "54gjPF4GLVUTfVX_mHnu_TpQHrc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "C-hQwKozjlrvH6iDFa9NSHgp-7c",
+            "id": "CFbwtMDVFFM",
+            "snippet": {
+                "publishedAt": "2025-10-14T16:53:43Z",
+                "channelId": "UCL_O5w1_yeGyukBIRB_1alw",
+                "title": "Rain relaxing piano music #music  #instrumental #pianomusic #relaxingmusic #musicforsleep #deepsleep",
+                "description": "Help you to sleep and feel more relaxing #music  #instrumental #pianomusic #relaxingmusic #musicforsleep #deepsleep",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CFbwtMDVFFM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CFbwtMDVFFM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CFbwtMDVFFM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CFbwtMDVFFM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CFbwtMDVFFM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Xadiya Music",
+                "tags": [
+                    "Relaxingmusic",
+                    "Chillmusic",
+                    "Rain",
+                    "instrumen",
+                    "chill",
+                    "insomnia",
+                    "deepsleep",
+                    "slowmusic",
+                    "instrumentpiano",
+                    "piano",
+                    "relax",
+                    "calm"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Rain relaxing piano music #music  #instrumental #pianomusic #relaxingmusic #musicforsleep #deepsleep",
+                    "description": "Help you to sleep and feel more relaxing #music  #instrumental #pianomusic #relaxingmusic #musicforsleep #deepsleep"
+                },
+                "defaultAudioLanguage": "id"
+            },
+            "contentDetails": {
+                "duration": "PT1M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "32",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

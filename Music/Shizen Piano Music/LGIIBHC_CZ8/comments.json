@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "tNyW8B5mZu_4WK-ZnzGl5gQnjW4",
+        "id": "UgxI5FNLXQNIENp5DV54AaABAg",
+        "snippet": {
+            "channelId": "UCPxPvjsXfa6UJ30L3NAN-nQ",
+            "videoId": "LGIIBHC_CZ8",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "qbolwz1XiDSjaRNGLGLHhHuW7jc",
+                "id": "UgxI5FNLXQNIENp5DV54AaABAg",
+                "snippet": {
+                    "channelId": "UCPxPvjsXfa6UJ30L3NAN-nQ",
+                    "videoId": "LGIIBHC_CZ8",
+                    "textDisplay": "廣告超多",
+                    "textOriginal": "廣告超多",
+                    "authorDisplayName": "@wenshinlo1659",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ltby6SQZM7LI4YQIlSSv7Tm0SgvB7m6JvsL9h3ALRHsQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@wenshinlo1659",
+                    "authorChannelId": {
+                        "value": "UCPZzcpb-m74nYOXe7mviW0Q"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-10-24T23:06:58Z",
+                    "updatedAt": "2025-10-24T23:06:58Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

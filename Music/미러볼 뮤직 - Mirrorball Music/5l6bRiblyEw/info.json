@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "T7bboAChbnAN3wZYGIq9H_q1_CQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "k_HZ8S9kIgi5LEtB9LwbQMgeAVE",
+            "id": "5l6bRiblyEw",
+            "snippet": {
+                "publishedAt": "2025-12-08T03:00:06Z",
+                "channelId": "UCnhZuoNcL89qNax7YlWvavQ",
+                "title": "[Official Audio] Choi Su bin (최수빈) - It's You",
+                "description": "Artist : 최수빈 (Choi Su bin) \nAlbum Title : It's You \nRelease Date : 2025-12-08 \nGenre : Ballad\n\n#ballad #indie #발라드 #인디\n\n■ Mirrorball Music\nhttp://mirrorballmusic.co.kr/\nhttps://www.facebook.com/mirrorballmusic\nhttps://twitter.com/mirrorballmusic\nhttps://www.instagram.com/mirrorballmusic_official/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5l6bRiblyEw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5l6bRiblyEw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5l6bRiblyEw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5l6bRiblyEw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5l6bRiblyEw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "미러볼 뮤직 - Mirrorball Music",
+                "tags": [
+                    "Indie Music",
+                    "Indie Rock",
+                    "Indie Pop",
+                    "Indie Folk",
+                    "Indie Film",
+                    "Indie",
+                    "Music",
+                    "Rock Music",
+                    "Electronic",
+                    "HipHop",
+                    "Rap",
+                    "Music Video",
+                    "Rock&Roll"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Official Audio] Choi Su bin (최수빈) - It's You",
+                    "description": "Artist : 최수빈 (Choi Su bin) \nAlbum Title : It's You \nRelease Date : 2025-12-08 \nGenre : Ballad\n\n#ballad #indie #발라드 #인디\n\n■ Mirrorball Music\nhttp://mirrorballmusic.co.kr/\nhttps://www.facebook.com/mirrorballmusic\nhttps://twitter.com/mirrorballmusic\nhttps://www.instagram.com/mirrorballmusic_official/"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M17S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "174",
+                "likeCount": "13",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

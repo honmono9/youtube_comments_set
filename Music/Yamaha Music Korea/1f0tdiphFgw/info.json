@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "hBQK9mRAwEDOtOfulilN5HFG_3c",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "n-WJSnOwdV87TSppyZvKvnXcvAI",
+            "id": "1f0tdiphFgw",
+            "snippet": {
+                "publishedAt": "2024-08-19T04:34:59Z",
+                "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                "title": "[Yamaha & Artist] 톡식 Jungwoo Kim & Jeff Lee 라이브 연주 '410' | 톡식(TOXIC) 정우, Jeff Lee with PACP🎸",
+                "description": "톡식(TOXIC)의 보컬리스트이자 기타리스트 김정우(Jungwoo Kim),\n김바다 밴드의 기타리스트 이성복(Jeff Lee) with PACP\n\n퍼시피카 프로페셔널만의 매력이 가득 담긴 \n라이브 퍼포먼스, 지금 바로 감상해보세요🎸🎶\n\nSong '410' written and produced by Jungwoo Kim & Jeff Lee\nVideo filmed and produced by Namjong Kim\n\n📸야마하 아티스트 김정우 인터뷰\n▶https://bit.ly/4drDZDT \n\n🔗THR 유저 프리셋 받아보기\n▶https://bit.ly/4cC28Gu\n\n#야마하 #야마하뮤직코리아 #밴드톡식 \n#톡식 #톡식김정우 #TOXIC #정우 \n#Jefflee #410 #THR #PACIFICA #PACP \n#야마하퍼시피카 #야마하기타 #기타 \n#기타연주 #라이브클립 #퍼시피카 #퍼시피카프로페셔널\n#기타앰프 #일렉기타",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1f0tdiphFgw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1f0tdiphFgw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1f0tdiphFgw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1f0tdiphFgw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1f0tdiphFgw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yamaha Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Yamaha & Artist] 톡식 Jungwoo Kim & Jeff Lee 라이브 연주 '410' | 톡식(TOXIC) 정우, Jeff Lee with PACP🎸",
+                    "description": "톡식(TOXIC)의 보컬리스트이자 기타리스트 김정우(Jungwoo Kim),\n김바다 밴드의 기타리스트 이성복(Jeff Lee) with PACP\n\n퍼시피카 프로페셔널만의 매력이 가득 담긴 \n라이브 퍼포먼스, 지금 바로 감상해보세요🎸🎶\n\nSong '410' written and produced by Jungwoo Kim & Jeff Lee\nVideo filmed and produced by Namjong Kim\n\n📸야마하 아티스트 김정우 인터뷰\n▶https://bit.ly/4drDZDT \n\n🔗THR 유저 프리셋 받아보기\n▶https://bit.ly/4cC28Gu\n\n#야마하 #야마하뮤직코리아 #밴드톡식 \n#톡식 #톡식김정우 #TOXIC #정우 \n#Jefflee #410 #THR #PACIFICA #PACP \n#야마하퍼시피카 #야마하기타 #기타 \n#기타연주 #라이브클립 #퍼시피카 #퍼시피카프로페셔널\n#기타앰프 #일렉기타"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "21925",
+                "likeCount": "40",
+                "favoriteCount": "0",
+                "commentCount": "11"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

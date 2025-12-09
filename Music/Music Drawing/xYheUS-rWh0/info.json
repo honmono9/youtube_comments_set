@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "vsp26GoysoL2RBEdmKEHr6ggkSI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "IJLo5LHrx197rnmIJ6y320lMjvQ",
+            "id": "xYheUS-rWh0",
+            "snippet": {
+                "publishedAt": "2024-04-08T11:30:27Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"토닥토닥, 오늘도 굿나잇!\" 당신을 위한 수면음악",
+                "description": "포근하게 안아 주던\n그 품 안에서 잠들던 밤..\n따뜻한 숨결과 함께\n스르르 잠에 빠지던 밤..\n\n오늘도 그렇게\n따뜻하고 포근한 밤이 되길 바랄게~\n\n오늘도 굿나잇! ^^\n\n\n🎵곡명                        \n \"굿나잇\"\n \"꿈 여행\"\n\n\n#잠잘때듣는음악 #잠오는음악 #수면유도음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xYheUS-rWh0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xYheUS-rWh0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xYheUS-rWh0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xYheUS-rWh0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xYheUS-rWh0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "수면음악",
+                    "수면유도음악",
+                    "잠잘때듣는음악",
+                    "잠오는음악",
+                    "자기전에듣는음악",
+                    "숙면음악",
+                    "SleepMusic",
+                    "SleepingMusic",
+                    "RelaxMusic",
+                    "RelaxingMusic",
+                    "불면증음악",
+                    "불면증에좋은음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"토닥토닥, 오늘도 굿나잇!\" 당신을 위한 수면음악",
+                    "description": "포근하게 안아 주던\n그 품 안에서 잠들던 밤..\n따뜻한 숨결과 함께\n스르르 잠에 빠지던 밤..\n\n오늘도 그렇게\n따뜻하고 포근한 밤이 되길 바랄게~\n\n오늘도 굿나잇! ^^\n\n\n🎵곡명                        \n \"굿나잇\"\n \"꿈 여행\"\n\n\n#잠잘때듣는음악 #잠오는음악 #수면유도음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8H43M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "201928",
+                "likeCount": "3438",
+                "favoriteCount": "0",
+                "commentCount": "130"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

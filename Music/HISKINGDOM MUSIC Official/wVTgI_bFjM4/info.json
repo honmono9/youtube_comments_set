@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "E_dghiLrl6b2bAbOW4Oe51KPOP0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "7w5sfDFQfmZp2mrQO0jgc--WUjw",
+            "id": "wVTgI_bFjM4",
+            "snippet": {
+                "publishedAt": "2025-08-26T10:45:06Z",
+                "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+                "title": "준 사람은 없고 받은 사람만 있는 상황",
+                "description": "혹시 누가 주셨나요?\n\n@임-j5x",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wVTgI_bFjM4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wVTgI_bFjM4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wVTgI_bFjM4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wVTgI_bFjM4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wVTgI_bFjM4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HISKINGDOM MUSIC Official",
+                "tags": [
+                    "찬양사역자",
+                    "찬양",
+                    "ccm",
+                    "히스킹덤뮤직",
+                    "수하물 꿀팁",
+                    "개그",
+                    "유머",
+                    "재미",
+                    "브이로그",
+                    "가수",
+                    "가수 브이로그",
+                    "뉴질랜드",
+                    "플러팅"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "준 사람은 없고 받은 사람만 있는 상황",
+                    "description": "혹시 누가 주셨나요?\n\n@임-j5x"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6852",
+                "likeCount": "69",
+                "favoriteCount": "0",
+                "commentCount": "13"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

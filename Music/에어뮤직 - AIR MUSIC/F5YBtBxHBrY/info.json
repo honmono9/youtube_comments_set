@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "z-8nssX7IE_0U787yQTMaeWnNEE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "WooUveMm2aGORPCCXtHTd5fFYmU",
+            "id": "F5YBtBxHBrY",
+            "snippet": {
+                "publishedAt": "2025-10-14T10:00:26Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "공기남 - 어디든 좋아 (Feat.  Akita) [Live clip]",
+                "description": "공기남 - 어디든 좋아 (Feat.  Akita) [Live clip]\n\n유튜브 뮤직 조회수 30만 달성 기념\nAkita의 공기남 - 어디든 좋아 Live clip을 준비해보았습니다.\n앞으로도 많이 사랑해주세요:)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F5YBtBxHBrY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F5YBtBxHBrY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F5YBtBxHBrY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/F5YBtBxHBrY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/F5YBtBxHBrY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "공기남 - 어디든 좋아 (Feat.  Akita) [Live clip]",
+                    "description": "공기남 - 어디든 좋아 (Feat.  Akita) [Live clip]\n\n유튜브 뮤직 조회수 30만 달성 기념\nAkita의 공기남 - 어디든 좋아 Live clip을 준비해보았습니다.\n앞으로도 많이 사랑해주세요:)"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1905",
+                "likeCount": "19",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

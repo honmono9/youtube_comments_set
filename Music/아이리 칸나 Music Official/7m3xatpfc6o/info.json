@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "PdmHNaruJIsB3k-5ZPekAB2yeKs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "63AYhbCIYgQraqpHAYFNjM3HlQk",
+            "id": "7m3xatpfc6o",
+            "snippet": {
+                "publishedAt": "2024-04-18T13:50:27Z",
+                "channelId": "UC6YnTqZidFg4WUiXpiCtSSQ",
+                "title": "君と話したくて配信付けちゃった、、💗",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7m3xatpfc6o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7m3xatpfc6o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7m3xatpfc6o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7m3xatpfc6o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7m3xatpfc6o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "아이리 칸나 Music Official",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "君と話したくて配信付けちゃった、、💗",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT1H15M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "65368",
+                "likeCount": "1621",
+                "favoriteCount": "0",
+                "commentCount": "31"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

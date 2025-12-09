@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "dm5r9xRtHETUMcb1RbAeyyE5P_c",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "IkfNv_WuG9qBkYuW4oPWyrQsg6I",
+            "id": "8Wj-THxp_xo",
+            "snippet": {
+                "publishedAt": "2025-12-05T09:56:10Z",
+                "channelId": "UCYA3gLE34set7Xn_FVU8D0Q",
+                "title": "Sukwon Yoon (윤석원) - 아기로보트 (Little Robot) [가사]",
+                "description": "Sukwon Yoon (윤석원) - 아기로보트 (Little Robot) [가사]\n_\n아티스트:윤석원\n유형:싱글\n장르:인디, 락/메탈\n스타일:인디 락\n발매일:2025.12.05\n유통사:지니뮤직, Stone Music Entertainment\n기획사:(주)문화인\n_\n#SukwonYoon #윤석원 #아기로보트",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Wj-THxp_xo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Wj-THxp_xo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Wj-THxp_xo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8Wj-THxp_xo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8Wj-THxp_xo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Time | 뮤직 타임",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Sukwon Yoon (윤석원) - 아기로보트 (Little Robot) [가사]",
+                    "description": "Sukwon Yoon (윤석원) - 아기로보트 (Little Robot) [가사]\n_\n아티스트:윤석원\n유형:싱글\n장르:인디, 락/메탈\n스타일:인디 락\n발매일:2025.12.05\n유통사:지니뮤직, Stone Music Entertainment\n기획사:(주)문화인\n_\n#SukwonYoon #윤석원 #아기로보트"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "746",
+                "likeCount": "34",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

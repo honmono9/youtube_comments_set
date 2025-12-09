@@ -1,0 +1,93 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "9MR6fWRTz0yvFKSrHmgxAzVgil4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "a_pA9l9gxQ1Ikby25whmxpbCfSA",
+            "id": "OUxL4NXPAhM",
+            "snippet": {
+                "publishedAt": "2024-09-02T10:00:33Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "공기남 -  Better(live) ｜Airman - Better(live)",
+                "description": "공기남 -  Better(live) ｜Airman - Better(live)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OUxL4NXPAhM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OUxL4NXPAhM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OUxL4NXPAhM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OUxL4NXPAhM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OUxL4NXPAhM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "tags": [
+                    "airman",
+                    "airmusic",
+                    "better",
+                    "인디",
+                    "신곡",
+                    "알앤비",
+                    "음악",
+                    "인디음악",
+                    "신나는",
+                    "밝은",
+                    "경쾌한",
+                    "기분좋아지는",
+                    "공기남배러",
+                    "공기남better",
+                    "1ho",
+                    "범준",
+                    "인기가요",
+                    "케이팝",
+                    "kpop"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "공기남 -  Better(live) ｜Airman - Better(live)",
+                    "description": "공기남 -  Better(live) ｜Airman - Better(live)"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M20S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "746",
+                "likeCount": "38",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "R3lVwPaYaXtcLXwp4mLwpUfmWWo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "4_BLbCFVmlxJWDXQUz_WTCy8zpg",
+            "id": "1YU0369kL6Y",
+            "snippet": {
+                "publishedAt": "2023-03-23T18:22:48Z",
+                "channelId": "UCwdmcaOcWQ7PW8_wuaB8Cjw",
+                "title": "SEBASTIAN SPENCER X SARAH - DANCING IN THE DARK",
+                "description": "Ab 13.04.2023 überall erhältlich!\n\nFolge mir:  \n@Instagram:\nhttps://www.instagram.com/sebastianspencermusic/\n\n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1YU0369kL6Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1YU0369kL6Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1YU0369kL6Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1YU0369kL6Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1YU0369kL6Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sebastian Spencer Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "de",
+                "localized": {
+                    "title": "SEBASTIAN SPENCER X SARAH - DANCING IN THE DARK",
+                    "description": "Ab 13.04.2023 überall erhältlich!\n\nFolge mir:  \n@Instagram:\nhttps://www.instagram.com/sebastianspencermusic/\n\n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music"
+                },
+                "defaultAudioLanguage": "de"
+            },
+            "contentDetails": {
+                "duration": "PT3M33S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3792",
+                "likeCount": "81",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

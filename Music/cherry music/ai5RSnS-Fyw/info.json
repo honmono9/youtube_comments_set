@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "tukOFjQ87HFoUmbz_nM4bjd3s9o",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Vd6GOMg1UBDQiryyxDnXyI_QBIw",
+            "id": "ai5RSnS-Fyw",
+            "snippet": {
+                "publishedAt": "2025-08-10T23:00:03Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "Cafe Playlist ☕ 여름 카페에서 듣기 좋은 시간 가는 줄 모르는 플레이리스트 🎶☕",
+                "description": "📌 설명\n여름 카페에 앉아 커피 한 모금, 음악이 흐르면\n어느새 시간 가는 줄도 모르고 머물게 돼요.\n공부할 때, 일할 때, 그냥 쉬고 싶을 때…\n그냥 틀어두고 함께 여유 즐겨요 ☕🎶\n\n📌 저작권 안내\nⓒ 2025 체리뮤직 All Rights Reserved.\n\n00:00 My Paradise  \n02:48 Couldn't Steal  \n05:38 My Wave  \n09:07 Hold of Me  \n13:19 A Midnight  \n16:53 Passing Through  \n20:20 Honest Gaze  \n24:35 The Way You  \n28:24 Even On the Days  \n32:01 Decision  \n34:45 Coffee Steam  \n37:59 Way We Start  \n40:16 Meets the Blue  \n43:46 Heavy Coat  \n48:56 Filling Up  \n52:43 Background  \n56:29 Be the Bad  \n59:34 Across the Floor  \n1:02:53 All Song Repeat\n\n📌 해시태그\n#CafePlaylist #여름카페 #카페플레이리스트 #시간가는줄모르는 #공부할때듣기좋은노래 #작업할때듣기좋은노래 #여름음악 #카페음악 #감성플리 #체리뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ai5RSnS-Fyw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ai5RSnS-Fyw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ai5RSnS-Fyw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ai5RSnS-Fyw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ai5RSnS-Fyw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Cafe Playlist ☕ 여름 카페에서 듣기 좋은 시간 가는 줄 모르는 플레이리스트 🎶☕",
+                    "description": "📌 설명\n여름 카페에 앉아 커피 한 모금, 음악이 흐르면\n어느새 시간 가는 줄도 모르고 머물게 돼요.\n공부할 때, 일할 때, 그냥 쉬고 싶을 때…\n그냥 틀어두고 함께 여유 즐겨요 ☕🎶\n\n📌 저작권 안내\nⓒ 2025 체리뮤직 All Rights Reserved.\n\n00:00 My Paradise  \n02:48 Couldn't Steal  \n05:38 My Wave  \n09:07 Hold of Me  \n13:19 A Midnight  \n16:53 Passing Through  \n20:20 Honest Gaze  \n24:35 The Way You  \n28:24 Even On the Days  \n32:01 Decision  \n34:45 Coffee Steam  \n37:59 Way We Start  \n40:16 Meets the Blue  \n43:46 Heavy Coat  \n48:56 Filling Up  \n52:43 Background  \n56:29 Be the Bad  \n59:34 Across the Floor  \n1:02:53 All Song Repeat\n\n📌 해시태그\n#CafePlaylist #여름카페 #카페플레이리스트 #시간가는줄모르는 #공부할때듣기좋은노래 #작업할때듣기좋은노래 #여름음악 #카페음악 #감성플리 #체리뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3H8M41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "40652",
+                "likeCount": "241",
+                "favoriteCount": "0",
+                "commentCount": "31"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

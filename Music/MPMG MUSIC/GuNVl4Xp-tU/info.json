@@ -1,0 +1,93 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "uD-bP6ivAeInzFWIaJGAL-jnaZg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "n7zg45amhLA5yA2dq7nKgg5fR5I",
+            "id": "GuNVl4Xp-tU",
+            "snippet": {
+                "publishedAt": "2021-06-20T05:00:11Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "[PLAYLIST] 비나이다 🙏 나이키 드로우 당첨 기다리면서 듣는 노래 👟",
+                "description": "이번엔 되겠지..! 이거 되면 신을까? 팔까? ㅎㅎ\n드로우 당첨의 기운을 이 플레이리스트에서 받아가세요!\n(진짜 듣고 당첨되면 댓글 남기기 🙊)\n\n🎧 PLAYLIST\n00:00 솔루션스 - Can't Wait\n03:30 데이브레이크 - 들었다 놨다\n07:30 소란 - AAA (Feat. 릴보이) \n11:23 구만 - Dance Rather Than Love\n14:36 솔루션스 - Ticket to the Moon \n19:01 Lacuna - TOOOOOO\n23:06 SURL - Don't Say No (Feat. 박재범)\n\n👟HAPPY ROBOT RECORDS 👟\nhttp://happyrobot.co.kr \nhttps://www.instagram.com/happy_robot_records/ \nhttps://www.facebook.com/HappyRobotRecords \n\n#해피로봇레코드 #플레이리스트 #PLAYLIST #나이키 #THEDRAW",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GuNVl4Xp-tU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GuNVl4Xp-tU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GuNVl4Xp-tU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GuNVl4Xp-tU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GuNVl4Xp-tU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "tags": [
+                    "해피로봇레코드",
+                    "플레이리스트",
+                    "playlist",
+                    "나이키",
+                    "더드로우",
+                    "솔루션스",
+                    "THE SOLUTIONS",
+                    "데이브레이크",
+                    "소란",
+                    "daybreak",
+                    "soran",
+                    "구만",
+                    "라쿠나",
+                    "Lacuna",
+                    "SURL",
+                    "설",
+                    "해피로봇",
+                    "음악",
+                    "music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[PLAYLIST] 비나이다 🙏 나이키 드로우 당첨 기다리면서 듣는 노래 👟",
+                    "description": "이번엔 되겠지..! 이거 되면 신을까? 팔까? ㅎㅎ\n드로우 당첨의 기운을 이 플레이리스트에서 받아가세요!\n(진짜 듣고 당첨되면 댓글 남기기 🙊)\n\n🎧 PLAYLIST\n00:00 솔루션스 - Can't Wait\n03:30 데이브레이크 - 들었다 놨다\n07:30 소란 - AAA (Feat. 릴보이) \n11:23 구만 - Dance Rather Than Love\n14:36 솔루션스 - Ticket to the Moon \n19:01 Lacuna - TOOOOOO\n23:06 SURL - Don't Say No (Feat. 박재범)\n\n👟HAPPY ROBOT RECORDS 👟\nhttp://happyrobot.co.kr \nhttps://www.instagram.com/happy_robot_records/ \nhttps://www.facebook.com/HappyRobotRecords \n\n#해피로봇레코드 #플레이리스트 #PLAYLIST #나이키 #THEDRAW"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT26M47S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1657",
+                "likeCount": "39",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

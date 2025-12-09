@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "5jmQXkvztsLMnMYnjZ9Uk_fGwfI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "zuP345kHPdb5X1MHpKkNqh0EDko",
+            "id": "cWlTpcsIHOk",
+            "snippet": {
+                "publishedAt": "2025-10-12T04:00:46Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "니가 좋아하는 연주곡은 뭐야? 🎹",
+                "description": "#피아노커버 #pianocover #피아노연주 #음악퀴즈 #클래식음악 #뉴에이지 #ccm #기독교음악 #애니메이션 #애니ost #재즈 #재즈뮤직\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cWlTpcsIHOk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cWlTpcsIHOk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cWlTpcsIHOk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cWlTpcsIHOk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cWlTpcsIHOk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "피아노",
+                    "피아노 연주",
+                    "piano",
+                    "피아노 악보",
+                    "piano cover",
+                    "재즈",
+                    "ccm",
+                    "클래식음악",
+                    "뉴에이지",
+                    "피아노 연주곡 종류",
+                    "피아노 연주곡"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "니가 좋아하는 연주곡은 뭐야? 🎹",
+                    "description": "#피아노커버 #pianocover #피아노연주 #음악퀴즈 #클래식음악 #뉴에이지 #ccm #기독교음악 #애니메이션 #애니ost #재즈 #재즈뮤직\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT55S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "20751",
+                "likeCount": "160",
+                "favoriteCount": "0",
+                "commentCount": "19"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

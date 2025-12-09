@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "xAExAz64Xnav4Bz9UW5flQrS3AM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "d7qQfm3n-w5sMGPyOf4_PlZS2zI",
+            "id": "lkHgejIYFCA",
+            "snippet": {
+                "publishedAt": "2025-11-14T14:01:22Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Spes (Hope) | Mia Makaroff",
+                "description": "Spes (Hope) composed by Mia Makaroff for unaccompanied SSAA choirs.\n\nhttps://www.giamusic.com/store/resour...\n\nSpes is a joyous unaccompanied work for more advanced treble choirs. The composer has combined two texts about hope - one in Sami (a language from northern Scandinavia) and the other in Latin from Ecclesiastes - to create a work that uplifts. Challenging but incredibly fun, this would make a great concert opener or program center and would be perfect for honor choirs and festivals.\n\nSpes (Hope)\n\nWho is like the wise?\nWho knows the explanation of things?\n\nI belong to the wind,\nbut I live,\nmaybe that is the meaning of life.\nI live here and now…\nI won’t be alive tomorrow.    \nThat is the way – and so what.\n\nAs no one has power\nover the wind to contain it,\nso no one has power  \nover the time of their death.\n\nA person’s wisdom brightens their face\nand changes its hard appearance.\n\n#WaltonMusic #Choir #Choral",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lkHgejIYFCA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lkHgejIYFCA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lkHgejIYFCA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lkHgejIYFCA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lkHgejIYFCA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Spes (Hope) | Mia Makaroff",
+                    "description": "Spes (Hope) composed by Mia Makaroff for unaccompanied SSAA choirs.\n\nhttps://www.giamusic.com/store/resour...\n\nSpes is a joyous unaccompanied work for more advanced treble choirs. The composer has combined two texts about hope - one in Sami (a language from northern Scandinavia) and the other in Latin from Ecclesiastes - to create a work that uplifts. Challenging but incredibly fun, this would make a great concert opener or program center and would be perfect for honor choirs and festivals.\n\nSpes (Hope)\n\nWho is like the wise?\nWho knows the explanation of things?\n\nI belong to the wind,\nbut I live,\nmaybe that is the meaning of life.\nI live here and now…\nI won’t be alive tomorrow.    \nThat is the way – and so what.\n\nAs no one has power\nover the wind to contain it,\nso no one has power  \nover the time of their death.\n\nA person’s wisdom brightens their face\nand changes its hard appearance.\n\n#WaltonMusic #Choir #Choral"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "80",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

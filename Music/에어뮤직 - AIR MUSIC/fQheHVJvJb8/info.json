@@ -1,0 +1,94 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "mNMh0SPfy4ufjuKzL0hmi1RdfKo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "X1uE1ErEEjT8QxnNY0lbEQXQLMY",
+            "id": "fQheHVJvJb8",
+            "snippet": {
+                "publishedAt": "2024-07-28T12:00:43Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "공기남 - Merry go round (Vocal. 범준)",
+                "description": "범준 인스타그램 : petitbumdeng\n범준 틱톡 : petitbumdeng",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fQheHVJvJb8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fQheHVJvJb8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fQheHVJvJb8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fQheHVJvJb8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fQheHVJvJb8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "tags": [
+                    "에어뮤직",
+                    "에어맨",
+                    "공기남",
+                    "airmusic",
+                    "airman",
+                    "merrygoround",
+                    "범준",
+                    "듣기좋은",
+                    "음색",
+                    "음색깡패",
+                    "커버",
+                    "보컬",
+                    "메리고라운드",
+                    "잔잔한",
+                    "알앤비",
+                    "인디",
+                    "음악",
+                    "인디음악",
+                    "케이팝",
+                    "kpop"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "공기남 - Merry go round (Vocal. 범준)",
+                    "description": "범준 인스타그램 : petitbumdeng\n범준 틱톡 : petitbumdeng"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M4S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "415",
+                "likeCount": "22",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

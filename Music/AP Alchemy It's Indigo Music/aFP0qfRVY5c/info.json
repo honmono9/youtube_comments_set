@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "M0dgQ5QlErpjSb5gzGy-r18sdO0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "w1rReKnPkYkj5J2TE7KmCumrmYw",
+            "id": "aFP0qfRVY5c",
+            "snippet": {
+                "publishedAt": "2023-08-25T09:00:00Z",
+                "channelId": "UCE4IM82TdhmOl4Qtn8nsaGQ",
+                "title": "[Teaser] NO:EL 'TRIPONOEL' Documentary film",
+                "description": "#NOEL #노엘\n#TRIPONOEL #Documentary\n\n'TRIPONOEL' Documentary film \n23.08.28.MON 6PM (KST)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aFP0qfRVY5c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aFP0qfRVY5c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aFP0qfRVY5c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aFP0qfRVY5c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aFP0qfRVY5c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AP Alchemy It's Indigo Music",
+                "tags": [
+                    "NOEL",
+                    "TRIPONOEL",
+                    "Documentary",
+                    "다큐멘터리",
+                    "indigomusic",
+                    "인디고뮤직"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[Teaser] NO:EL 'TRIPONOEL' Documentary film",
+                    "description": "#NOEL #노엘\n#TRIPONOEL #Documentary\n\n'TRIPONOEL' Documentary film \n23.08.28.MON 6PM (KST)"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2222",
+                "likeCount": "88",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

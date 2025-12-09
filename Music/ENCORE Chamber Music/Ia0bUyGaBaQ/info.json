@@ -1,0 +1,71 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "R1Knf-y6w1-BobtfdF6lP2VxdZ0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "mS0yQ1kXv_VWdPhF8AJ9yle5b20",
+            "id": "Ia0bUyGaBaQ",
+            "snippet": {
+                "publishedAt": "2021-07-18T12:56:25Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "2021 Summer Academy Blooming Artists Concert #2",
+                "description": "Cheer on the students of ENCORE's 2021 Online Academy as they perform their solo repertoire!\n\nElle Cho - Camille Saint Saens (1835-1921): Violin Concerto No. 3, I. Allegro non troppo. Milana Pavchinskaya, piano.\n\nNathan Lau - Felix Mendelssohn (1809 - 1847): Violin Concerto in E minor, Op. 64, I. Allegro molto appassionato. Geoffrey Conquer, piano.\n\nSeoyun Oh - Johannes Brahms (1833 - 1897): Viola Sonata Op.120 No. 2 E flat Major, I. Allegro amabile. Jungeun Choi, Piano.\n\nCaroline Cornell - J.S. Bach (1685-1750): Violin Sonata No. 1 in G minor, II. Fuga.\n\nAmina Knapp - J.S. Bach: Violin Sonata no. 1 in G minor, III. Siciliana.\n\nJacqueline Rodenbeck - J. S. Bach: Violin Sonata No. 2 in A minor, II. Fuga.\n\nChloe Schwartz - J.S. Bach: Violin Sonata No. 2 in A Minor, III. Andante.\n\nYu-Ming (Andrew) Ma - Eugène Ysaÿe (1858-1931): Violin Sonata No. 3 in D minor, Ballade.\n\nYeram Lee - Robert Schumann (1810-1856): Märchenbilder, op. 113, I. Nicht schnell, II. Lebhaft, III. Rasch. Soo Mi Yim, piano.\n\nAdrian Jackson - Max Reger (1873-1916): Suite No. 1 in G minor for Solo Viola, I. Molto Sostenuto.\n\nCelia Morin - Felix Mendelssohn (1809 - 1847): Violin Concerto in E minor, Op. 64, III. Allegretto non troppo – Allegro molto vivace. Sylvia Bruns, piano.\n\nKiarra Saito-Beckman - Eugène Ysaÿe: Sonata for Solo Violin, Op. 27, No. 2 \"Jacques Thibaud\", I. Obsession – Prelude: Poco vivace, II. Malinconia – Poco lento, III. Danse des ombres – Sarabande (Lento), IV. Les Furies – Allegro furioso.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ia0bUyGaBaQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ia0bUyGaBaQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ia0bUyGaBaQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ia0bUyGaBaQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ia0bUyGaBaQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "2021 Summer Academy Blooming Artists Concert #2",
+                    "description": "Cheer on the students of ENCORE's 2021 Online Academy as they perform their solo repertoire!\n\nElle Cho - Camille Saint Saens (1835-1921): Violin Concerto No. 3, I. Allegro non troppo. Milana Pavchinskaya, piano.\n\nNathan Lau - Felix Mendelssohn (1809 - 1847): Violin Concerto in E minor, Op. 64, I. Allegro molto appassionato. Geoffrey Conquer, piano.\n\nSeoyun Oh - Johannes Brahms (1833 - 1897): Viola Sonata Op.120 No. 2 E flat Major, I. Allegro amabile. Jungeun Choi, Piano.\n\nCaroline Cornell - J.S. Bach (1685-1750): Violin Sonata No. 1 in G minor, II. Fuga.\n\nAmina Knapp - J.S. Bach: Violin Sonata no. 1 in G minor, III. Siciliana.\n\nJacqueline Rodenbeck - J. S. Bach: Violin Sonata No. 2 in A minor, II. Fuga.\n\nChloe Schwartz - J.S. Bach: Violin Sonata No. 2 in A Minor, III. Andante.\n\nYu-Ming (Andrew) Ma - Eugène Ysaÿe (1858-1931): Violin Sonata No. 3 in D minor, Ballade.\n\nYeram Lee - Robert Schumann (1810-1856): Märchenbilder, op. 113, I. Nicht schnell, II. Lebhaft, III. Rasch. Soo Mi Yim, piano.\n\nAdrian Jackson - Max Reger (1873-1916): Suite No. 1 in G minor for Solo Viola, I. Molto Sostenuto.\n\nCelia Morin - Felix Mendelssohn (1809 - 1847): Violin Concerto in E minor, Op. 64, III. Allegretto non troppo – Allegro molto vivace. Sylvia Bruns, piano.\n\nKiarra Saito-Beckman - Eugène Ysaÿe: Sonata for Solo Violin, Op. 27, No. 2 \"Jacques Thibaud\", I. Obsession – Prelude: Poco vivace, II. Malinconia – Poco lento, III. Danse des ombres – Sarabande (Lento), IV. Les Furies – Allegro furioso."
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT1H52M9S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "923",
+                "likeCount": "7",
+                "favoriteCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

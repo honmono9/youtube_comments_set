@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "J6Oyt4AttN_dq_md-qwu8IRIEmc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "mrKNy_birdbQTtidPXZTbRY8nYI",
+            "id": "tYYEqZ5asTM",
+            "snippet": {
+                "publishedAt": "2022-07-31T03:00:21Z",
+                "channelId": "UCE4IM82TdhmOl4Qtn8nsaGQ",
+                "title": "[Official T/S] 키드밀리 (Kid Milli) - BENZO",
+                "description": "D-1\n2022.08.01 6PM (KST)\n\n키드밀리 (Kid Milli) 더블 싱글 [BENZO]\n\n*Track List\n01 Sariru (Feat. ron)\n02 BENZO\n\n- - - - -\n\n[Official Channel]\n키드밀리 (Kid Milli)) : https://www.instagram.com/kidcozyboy/\n인디고뮤직 (Indigo Music) : https://www.instagram.com/indigomusic_official/\nhttp://indigomusic3.com\n\n- - - - -\n\n#키드밀리 #KidMilli #벤조 #BENZO\n#론 #ron #싸리루 #Sariru\n#인디고뮤직 #indigomusic \n\n- - - - -\n\nⓒ Indigo Music Corp.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tYYEqZ5asTM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tYYEqZ5asTM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tYYEqZ5asTM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tYYEqZ5asTM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tYYEqZ5asTM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AP Alchemy It's Indigo Music",
+                "tags": [
+                    "키드밀리",
+                    "Kid Milli",
+                    "킫밀",
+                    "KM",
+                    "최원재",
+                    "벤조",
+                    "BENZO",
+                    "싸리루",
+                    "Sariru",
+                    "인디고뮤직",
+                    "Indigo Music",
+                    "IM",
+                    "인디고"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Official T/S] 키드밀리 (Kid Milli) - BENZO",
+                    "description": "D-1\n2022.08.01 6PM (KST)\n\n키드밀리 (Kid Milli) 더블 싱글 [BENZO]\n\n*Track List\n01 Sariru (Feat. ron)\n02 BENZO\n\n- - - - -\n\n[Official Channel]\n키드밀리 (Kid Milli)) : https://www.instagram.com/kidcozyboy/\n인디고뮤직 (Indigo Music) : https://www.instagram.com/indigomusic_official/\nhttp://indigomusic3.com\n\n- - - - -\n\n#키드밀리 #KidMilli #벤조 #BENZO\n#론 #ron #싸리루 #Sariru\n#인디고뮤직 #indigomusic \n\n- - - - -\n\nⓒ Indigo Music Corp."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9244",
+                "likeCount": "348",
+                "favoriteCount": "0",
+                "commentCount": "39"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

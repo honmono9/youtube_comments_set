@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "x-JI4dBMQ7W0Bga-TaZUAxi2uMM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "YsDWdLlRxp46eFnuED3lP4UfxnQ",
+            "id": "eEUUHEzcxAM",
+            "snippet": {
+                "publishedAt": "2020-05-01T21:15:07Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "Finger Swagger Episode 2 - 20min Spiccato Workout",
+                "description": "ENCORE Chamber Music's Artistic Director Jinjoo Cho is back with #FingerSwagger Episode 2 with a routine of spiccato exercises! Is your off-string bow stroke even? If not? This is the training video for you ;)\n\n***Subscribe to the channel, and leave comments about what you'd like to see next***\n\nFeatured Exercises:\n- Schradieck Bk.3, Exercise 8\n- Schradieck Bk.3, Exercise 9\n\n___\nWebsite: http://www.encorechambermusic.org \nFacebook: http://www.facebook.com/encorechambermusic \nInstagram: http://www.instagram.com/encorechambermusic \nTwitter: https://twitter.com/encorechmbrmusc\n\n___\nENCORE Chamber Music is an arts leadership and education organization, founded in 2015 by world-renowned violin soloist Jinjoo Cho on the principle that the future of classical music depends on a comprehensive, multi-disciplinary approach to its pedagogy. Over the past four years ENCORE has hosted intensive summer training programs for 227 talented young violinists, violists and cellists ages 13 to 26 at the Gilmour Academy in Gates Mills, Ohio.\n\nENCORE Chamber Music’s mission is to bring the world’s most exceptional musicians to Cleveland to inspire, educate, and innovate the art of engagement in music. Our goal is to build a premier international summer festival and year-round community residency programs. We seek to contribute to our Cleveland community by performing music of the highest caliber, by engaging our audiences in larger cultural conversations, and by educating the next generation of artist-citizens to become dedicated and conscientious leaders in the field of classical music.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eEUUHEzcxAM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eEUUHEzcxAM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eEUUHEzcxAM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eEUUHEzcxAM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eEUUHEzcxAM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Finger Swagger Episode 2 - 20min Spiccato Workout",
+                    "description": "ENCORE Chamber Music's Artistic Director Jinjoo Cho is back with #FingerSwagger Episode 2 with a routine of spiccato exercises! Is your off-string bow stroke even? If not? This is the training video for you ;)\n\n***Subscribe to the channel, and leave comments about what you'd like to see next***\n\nFeatured Exercises:\n- Schradieck Bk.3, Exercise 8\n- Schradieck Bk.3, Exercise 9\n\n___\nWebsite: http://www.encorechambermusic.org \nFacebook: http://www.facebook.com/encorechambermusic \nInstagram: http://www.instagram.com/encorechambermusic \nTwitter: https://twitter.com/encorechmbrmusc\n\n___\nENCORE Chamber Music is an arts leadership and education organization, founded in 2015 by world-renowned violin soloist Jinjoo Cho on the principle that the future of classical music depends on a comprehensive, multi-disciplinary approach to its pedagogy. Over the past four years ENCORE has hosted intensive summer training programs for 227 talented young violinists, violists and cellists ages 13 to 26 at the Gilmour Academy in Gates Mills, Ohio.\n\nENCORE Chamber Music’s mission is to bring the world’s most exceptional musicians to Cleveland to inspire, educate, and innovate the art of engagement in music. Our goal is to build a premier international summer festival and year-round community residency programs. We seek to contribute to our Cleveland community by performing music of the highest caliber, by engaging our audiences in larger cultural conversations, and by educating the next generation of artist-citizens to become dedicated and conscientious leaders in the field of classical music."
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT23M14S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3507",
+                "likeCount": "158",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "b01r_3sV8zDZ3zlyege6_ZVH8e4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "88CFiZKHgwJE4D6U3g9Sj_3r5r8",
+            "id": "bh-G33kaPgg",
+            "snippet": {
+                "publishedAt": "2024-10-16T11:45:04Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"오늘 많이 힘들었지?\" 마음을 위로하는 수면음악",
+                "description": "스스로를 위해\n누군가를 위해\n오늘도 열심히 달려온 너에게..\n너무 수고했어~\n너무 고생했어~\n오늘은 편히 쉬어가길 바랄게! ^^\n\n\n🎵곡 제목                      \n01.수고했어\n02.Today\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #편안한음악 #위로가되는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bh-G33kaPgg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bh-G33kaPgg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bh-G33kaPgg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bh-G33kaPgg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bh-G33kaPgg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "수면음악",
+                    "SleepingMusic",
+                    "SleepMusic",
+                    "RelaxMusic",
+                    "RelaxingMusic",
+                    "수면유도음악",
+                    "잠잘때듣는음악",
+                    "편안한음악",
+                    "숙면음악",
+                    "자기전에듣는음악",
+                    "잠오는음악",
+                    "불면증음악",
+                    "위로음악",
+                    "위로가되는음악",
+                    "ComfortingMusic"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"오늘 많이 힘들었지?\" 마음을 위로하는 수면음악",
+                    "description": "스스로를 위해\n누군가를 위해\n오늘도 열심히 달려온 너에게..\n너무 수고했어~\n너무 고생했어~\n오늘은 편히 쉬어가길 바랄게! ^^\n\n\n🎵곡 제목                      \n01.수고했어\n02.Today\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #편안한음악 #위로가되는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9H42M57S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "625760",
+                "likeCount": "14337",
+                "favoriteCount": "0",
+                "commentCount": "368"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

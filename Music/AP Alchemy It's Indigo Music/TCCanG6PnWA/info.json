@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "1Oj-hzcDR2LuonABOgCnI33YYtg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "mjsid922KY8_cQtfjPCgESPwCrA",
+            "id": "TCCanG6PnWA",
+            "snippet": {
+                "publishedAt": "2023-12-03T09:00:17Z",
+                "channelId": "UCE4IM82TdhmOl4Qtn8nsaGQ",
+                "title": "[Teaser] NO:EL - Behind the scene+Pain Killer (Feat. Yescoba)",
+                "description": "#노엘 #MV #Teaser\n#NOEL\n#23FW\n\nNO:EL - Behind the scene + Pain Killer (Feat. Yescoba) MV Teaser\n\n[NO:EL]\n\nSpotify\nhttps://han.gl/ajYVtB\n\nApple Music\nhttps://han.gl/zeXBgW",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TCCanG6PnWA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TCCanG6PnWA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TCCanG6PnWA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TCCanG6PnWA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TCCanG6PnWA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AP Alchemy It's Indigo Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[Teaser] NO:EL - Behind the scene+Pain Killer (Feat. Yescoba)",
+                    "description": "#노엘 #MV #Teaser\n#NOEL\n#23FW\n\nNO:EL - Behind the scene + Pain Killer (Feat. Yescoba) MV Teaser\n\n[NO:EL]\n\nSpotify\nhttps://han.gl/ajYVtB\n\nApple Music\nhttps://han.gl/zeXBgW"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT14S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1305",
+                "likeCount": "41",
+                "favoriteCount": "0",
+                "commentCount": "11"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

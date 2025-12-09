@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "XcZrkkaXjiQh4p6erqguhQE_5WU",
+        "id": "Ugxgax7FQDtrQDmXZ854AaABAg",
+        "snippet": {
+            "channelId": "UCATxSCJz65QdZ5GpfXnPOpQ",
+            "videoId": "DbVJ_kvEt4c",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "jSwQ7njhWURswKM7N4q6-B0ZwSc",
+                "id": "Ugxgax7FQDtrQDmXZ854AaABAg",
+                "snippet": {
+                    "channelId": "UCATxSCJz65QdZ5GpfXnPOpQ",
+                    "videoId": "DbVJ_kvEt4c",
+                    "textDisplay": ",💜💜👍🏻👍🏻👍🏻",
+                    "textOriginal": ",💜💜👍🏻👍🏻👍🏻",
+                    "authorDisplayName": "@PingKTPSK",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m3yXqFZagBrQ8UqY2Y4ULbPF4y_9Bz_bwdblWWz9qZ2Q=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@PingKTPSK",
+                    "authorChannelId": {
+                        "value": "UCUEoCeQ2KYFGlkfRbOTAdcg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2024-09-02T14:50:41Z",
+                    "updatedAt": "2024-09-02T14:50:41Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

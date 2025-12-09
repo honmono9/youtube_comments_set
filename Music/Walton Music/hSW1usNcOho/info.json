@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "9AsSSTgsWrpZHJpVmg-4-tJQags",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ApAkkZdw1KwM08i9V_FSX_NNnjE",
+            "id": "hSW1usNcOho",
+            "snippet": {
+                "publishedAt": "2025-09-19T13:01:24Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "I Saw What I Saw | arr. Susan LaBarr",
+                "description": "I Saw What I Saw arranged for SSA voices with piano and optional cello by Susan LaBarr. \n\n\"Your courage asks me what I'm afraid of and what I know of love.\" This piece by singer-songwriter Sara Groves, written after a trip to help people in need in a third-world country, deeply expresses ideas of empathy. Arranged for three-part treble voices with piano and optional cello, this setting is timely for treble choirs of all ages.\n\nPurchase the music: https://giamusic.com/resource/i-saw-what-i-saw-printed-music-ww2126",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hSW1usNcOho/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hSW1usNcOho/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hSW1usNcOho/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hSW1usNcOho/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hSW1usNcOho/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "I Saw What I Saw | arr. Susan LaBarr",
+                    "description": "I Saw What I Saw arranged for SSA voices with piano and optional cello by Susan LaBarr. \n\n\"Your courage asks me what I'm afraid of and what I know of love.\" This piece by singer-songwriter Sara Groves, written after a trip to help people in need in a third-world country, deeply expresses ideas of empathy. Arranged for three-part treble voices with piano and optional cello, this setting is timely for treble choirs of all ages.\n\nPurchase the music: https://giamusic.com/resource/i-saw-what-i-saw-printed-music-ww2126"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT5M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "304",
+                "likeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

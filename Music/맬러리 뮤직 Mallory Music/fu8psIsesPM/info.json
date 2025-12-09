@@ -1,0 +1,93 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "C05PKPy-t77Wn4_n6Jga6cmbPsQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "GopQGjboC1AXwz5b9lpz8MQuMNU",
+            "id": "fu8psIsesPM",
+            "snippet": {
+                "publishedAt": "2021-01-12T08:07:04Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "무슨 뜻인지 몰라도 듣기 좋은 프랑스 음악",
+                "description": "관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd_2l0QhD9OvabZKgf87XZER\n\nPhoto by Jonathan Borba\n\n- 맬러리 뮤직 Mallory Music\ninstagram: https://instagram.com/mallory_playlist\nspotify: https://open.spotify.com/user/vu7nka2udi3uow4uwbf1dub4b?si=ITQBaM5yRZKHlX63reNEnw\n\n- 맬러리 스퀘어\nyoutube: https://www.youtube.com/channel/UC1WpY3Ce68NArZgEVrLnSCQ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fu8psIsesPM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fu8psIsesPM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fu8psIsesPM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fu8psIsesPM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fu8psIsesPM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "french songs",
+                    "french aesthetic songs",
+                    "new french pop",
+                    "france pop",
+                    "프랑스 음악",
+                    "팝송",
+                    "팝송 모음",
+                    "프랑스 팝",
+                    "플레이리스트",
+                    "playlist",
+                    "france",
+                    "프랑스어",
+                    "샹송",
+                    "aesthetic"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "무슨 뜻인지 몰라도 듣기 좋은 프랑스 음악",
+                    "description": "관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd_2l0QhD9OvabZKgf87XZER\n\nPhoto by Jonathan Borba\n\n- 맬러리 뮤직 Mallory Music\ninstagram: https://instagram.com/mallory_playlist\nspotify: https://open.spotify.com/user/vu7nka2udi3uow4uwbf1dub4b?si=ITQBaM5yRZKHlX63reNEnw\n\n- 맬러리 스퀘어\nyoutube: https://www.youtube.com/channel/UC1WpY3Ce68NArZgEVrLnSCQ"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT27M27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "118839",
+                "likeCount": "2881",
+                "favoriteCount": "0",
+                "commentCount": "111"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

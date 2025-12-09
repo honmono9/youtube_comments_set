@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "7k9txdqsgjqB-RzbBNYte9Y5KTQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "4D79zljJtb51PVeSL65mSMIiOa4",
+            "id": "Z1iiqtznQHk",
+            "snippet": {
+                "publishedAt": "2022-02-05T09:00:12Z",
+                "channelId": "UC2QOMTJ0Gz5vJPMl7KXkWaA",
+                "title": "島谷ひとみ　亜麻色の髪の乙女【ICheck presents SUMMER MADA FES 2021】",
+                "description": "2021年12月26日 東京ドームシティーホールで開催された\n【ICheck presents SUMMER MADA FES 2021】から\n「亜麻色の髪の乙女」のライブ映像をお届けします！\n\n【ICheck presents SUMMER MADA FES 2021】\nTwitter　@mada_fes\nOfficial　http://madafes.com\n\n👁島谷.製作所（Youtubeチャンネル）\nhttps://www.youtube.com/channel/UCo-tnZZgllohoIMgXLOuuBg\n是非こちらもチャンネル登録お願いします！\n\n👁島谷ひとみ公式サイト\nhttps://shimatani.tokyo/\n\n👁島谷ひとみオフィシャルTwitter\nhttps://twitter.com/Shimatani_Staff\n\n👁島谷ひとみオフィシャルInstagram\nhttps://www.instagram.com/shimatani_hitomi_official/\n\n■利用許諾の明示\n島谷ひとみ公式MUsic Youtubeで扱う島谷ひとみならびにミセレイニアス本人の楽曲（歌詞・曲）に関する著作権については著作権者（エイベックスや作詞家・作曲家）から使用許諾をいただきチャンネル運営をしております。\n\n#島谷ひとみ\n#亜麻色の髪の乙女\n#SUMMER MADA FES 2021\n#ICheck",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z1iiqtznQHk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z1iiqtznQHk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z1iiqtznQHk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Z1iiqtznQHk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Z1iiqtznQHk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HITOMI SHIMATANI MUSIC Official Youtube",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "島谷ひとみ　亜麻色の髪の乙女【ICheck presents SUMMER MADA FES 2021】",
+                    "description": "2021年12月26日 東京ドームシティーホールで開催された\n【ICheck presents SUMMER MADA FES 2021】から\n「亜麻色の髪の乙女」のライブ映像をお届けします！\n\n【ICheck presents SUMMER MADA FES 2021】\nTwitter　@mada_fes\nOfficial　http://madafes.com\n\n👁島谷.製作所（Youtubeチャンネル）\nhttps://www.youtube.com/channel/UCo-tnZZgllohoIMgXLOuuBg\n是非こちらもチャンネル登録お願いします！\n\n👁島谷ひとみ公式サイト\nhttps://shimatani.tokyo/\n\n👁島谷ひとみオフィシャルTwitter\nhttps://twitter.com/Shimatani_Staff\n\n👁島谷ひとみオフィシャルInstagram\nhttps://www.instagram.com/shimatani_hitomi_official/\n\n■利用許諾の明示\n島谷ひとみ公式MUsic Youtubeで扱う島谷ひとみならびにミセレイニアス本人の楽曲（歌詞・曲）に関する著作権については著作権者（エイベックスや作詞家・作曲家）から使用許諾をいただきチャンネル運営をしております。\n\n#島谷ひとみ\n#亜麻色の髪の乙女\n#SUMMER MADA FES 2021\n#ICheck"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT4M26S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "17279",
+                "likeCount": "230",
+                "favoriteCount": "0",
+                "commentCount": "18"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

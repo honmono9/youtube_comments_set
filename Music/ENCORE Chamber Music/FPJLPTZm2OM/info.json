@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "4ATngGgTjAWCmxnU5w0SsXXUImY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "QEufT-GFBv-A64EoPA2TXJaS0vU",
+            "id": "FPJLPTZm2OM",
+            "snippet": {
+                "publishedAt": "2019-07-20T22:07:24Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "062119 Borodin String Quartet No. 2 in D major mvt 3",
+                "description": "ENCORE Chamber Music 2019 Season 'La bohème' \nString Quartet Intensive Blooming Artists Concert\n\nAaron Chan, violin\nAstrid Nakamura, violin\nEmily Rekrut-Pressey, viola\nFiona Robson, cello",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FPJLPTZm2OM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FPJLPTZm2OM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FPJLPTZm2OM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FPJLPTZm2OM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FPJLPTZm2OM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "062119 Borodin String Quartet No. 2 in D major mvt 3",
+                    "description": "ENCORE Chamber Music 2019 Season 'La bohème' \nString Quartet Intensive Blooming Artists Concert\n\nAaron Chan, violin\nAstrid Nakamura, violin\nEmily Rekrut-Pressey, viola\nFiona Robson, cello"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT8M3S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "660",
+                "likeCount": "9",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

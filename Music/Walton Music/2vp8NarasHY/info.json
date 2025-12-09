@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "WU_aZbIGRTGaOdUBJtZdoL0K71A",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ufrT282el_QPfDr55MpMNb927tc",
+            "id": "2vp8NarasHY",
+            "snippet": {
+                "publishedAt": "2025-07-30T13:00:06Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Stopping by Woods on a Snowy Evening | Eric Whitacre",
+                "description": "One of Eric Whitacre's most well-known compositions, Sleep, is available now as it was originally composed in 2000, using the Robert Frost poem Stopping By Woods on a Snowy Evening. While the circumstances of Frost's text led to the creation of Whitacre and Silvestri's first beloved collaboration, this new version offers the chance to hear the music in a completely different light.\n\nPurchase the music: https://giamusic.com/resource/stopping-by-woods-on-a-snowy-evening-printed-music-wjms1232\n\n#WaltonMusic #ChoralMusic #MixedChoir #EricWhitacre #RobertFrost",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2vp8NarasHY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2vp8NarasHY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2vp8NarasHY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2vp8NarasHY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2vp8NarasHY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Stopping by Woods on a Snowy Evening | Eric Whitacre",
+                    "description": "One of Eric Whitacre's most well-known compositions, Sleep, is available now as it was originally composed in 2000, using the Robert Frost poem Stopping By Woods on a Snowy Evening. While the circumstances of Frost's text led to the creation of Whitacre and Silvestri's first beloved collaboration, this new version offers the chance to hear the music in a completely different light.\n\nPurchase the music: https://giamusic.com/resource/stopping-by-woods-on-a-snowy-evening-printed-music-wjms1232\n\n#WaltonMusic #ChoralMusic #MixedChoir #EricWhitacre #RobertFrost"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT5M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2561",
+                "likeCount": "63",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

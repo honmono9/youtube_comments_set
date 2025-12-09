@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "g7CcoVaSy8nw1qJQUyckUwwViAw",
+        "id": "Ugw7wpcNxnKCu0kKwPZ4AaABAg",
+        "snippet": {
+            "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+            "videoId": "HjLb2XcVkVE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "9R6x7_YfKvbLWd9XaRDzej3EVLo",
+                "id": "Ugw7wpcNxnKCu0kKwPZ4AaABAg",
+                "snippet": {
+                    "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+                    "videoId": "HjLb2XcVkVE",
+                    "textDisplay": "これらのバッキングは、ロイヤリティフリーでしょうか？　自身のYouTubeで使用公開しても大丈夫？",
+                    "textOriginal": "これらのバッキングは、ロイヤリティフリーでしょうか？　自身のYouTubeで使用公開しても大丈夫？",
+                    "authorDisplayName": "@kuribows2010",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kPjWTITsE1tTQnv1fF-QoVTxBy5AbTIFRTCY0umai0Nsw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@kuribows2010",
+                    "authorChannelId": {
+                        "value": "UC1_tbMheLSN5SYvJ6n55zFQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-07-17T08:09:51Z",
+                    "updatedAt": "2023-07-17T08:09:51Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "BBP6rWSwZpjwuPz8SVxY_f7fkgA",
+        "id": "Ugwzi_3giO9_cD1Nnll4AaABAg",
+        "snippet": {
+            "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+            "videoId": "HjLb2XcVkVE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "aVRwVDRNxSkrn2-guTODY5hs66w",
+                "id": "Ugwzi_3giO9_cD1Nnll4AaABAg",
+                "snippet": {
+                    "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+                    "videoId": "HjLb2XcVkVE",
+                    "textDisplay": "W",
+                    "textOriginal": "W",
+                    "authorDisplayName": "@Helpmehelpplease",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/fuj6Q6ENGGY7eCmFZcjJcKpG9BGKHTpvHcjcIzC30MPDpdCkGG_Ii8Fn-p8hkxBTR547A0RLoIw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@Helpmehelpplease",
+                    "authorChannelId": {
+                        "value": "UCuiq5__JkyAyi4V6PZRl4DA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-06-21T20:37:08Z",
+                    "updatedAt": "2023-06-21T20:37:08Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

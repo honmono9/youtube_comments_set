@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ROw9SASpMAZuygqt4MprvDbHgLQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "FqwOG67xytGYbyRG0e_qtjzxqjY",
+            "id": "_t4gP9NrM9k",
+            "snippet": {
+                "publishedAt": "2024-11-29T02:45:44Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "2024 NAMCYA Junior Voice Category Finals Competition",
+                "description": "2024 NAMCYA: 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐉𝐮𝐧𝐢𝐨𝐫 𝐕𝐨𝐢𝐜𝐞 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲 𝐅𝐢𝐧𝐚𝐥𝐬 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧\n—\nThe 2024 National Music Competitions for Young Artists (NAMCYA): 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐉𝐮𝐧𝐢𝐨𝐫 𝐕𝐨𝐢𝐜𝐞 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲 𝐅𝐢𝐧𝐚𝐥𝐬 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧 is in partnership with the National Commission for Culture and the Arts and the Cultural Center of the Philippines, and in cooperation with The Metropolitan Theater and DepEd Philippines.\n\n#NAMCYA\n#NAMCYA2024\n#SalinlahingMusika\n#GalingNAMCYA\n#NAMCYAatTheMet\n#YoungArtists\n#MusicalExcellence",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_t4gP9NrM9k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_t4gP9NrM9k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_t4gP9NrM9k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_t4gP9NrM9k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_t4gP9NrM9k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "2024 NAMCYA Junior Voice Category Finals Competition",
+                    "description": "2024 NAMCYA: 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐉𝐮𝐧𝐢𝐨𝐫 𝐕𝐨𝐢𝐜𝐞 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲 𝐅𝐢𝐧𝐚𝐥𝐬 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧\n—\nThe 2024 National Music Competitions for Young Artists (NAMCYA): 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐉𝐮𝐧𝐢𝐨𝐫 𝐕𝐨𝐢𝐜𝐞 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲 𝐅𝐢𝐧𝐚𝐥𝐬 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧 is in partnership with the National Commission for Culture and the Arts and the Cultural Center of the Philippines, and in cooperation with The Metropolitan Theater and DepEd Philippines.\n\n#NAMCYA\n#NAMCYA2024\n#SalinlahingMusika\n#GalingNAMCYA\n#NAMCYAatTheMet\n#YoungArtists\n#MusicalExcellence"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2H26M26S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1156",
+                "likeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

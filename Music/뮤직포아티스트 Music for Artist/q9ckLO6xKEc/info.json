@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "0pPoGvBGOajC4RI_wgDCD_pe-qk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "SuYTjqD4Mebkr2FruTThbgEOxho",
+            "id": "q9ckLO6xKEc",
+            "snippet": {
+                "publishedAt": "2025-11-03T13:15:08Z",
+                "channelId": "UCh_8srMF2Q-i1nORhHI8zdw",
+                "title": "[Live] 𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭 이른 추위에 따뜻하게 하루를 시작하는 플레이리스트 | 가사없는 잔잔한 피아노 클래식 | Focus • Study • Relax",
+                "description": "©MusicforArtist All Rights Reserved.\n이 영상에 포함된 모든 이미지, 영상, 음악은 저작권법의 보호를 받습니다. \n사전 서면 허가 없이 복제, 배포, 수정, 캡처, 2차 가공하는 행위는 금지되며, 위반 시 법적 조치를 취할 수 있습니다.\nAll images, videos, and music contained in this content are protected under copyright law. Unauthorized use without prior written consent may result in legal action.\n\n#아침클래식 #아침음악 #가을에듣기좋은음악 #집중음악 #작업음악 #공부음악 #카페음악 #카페플레이리스트 #매장음악 #공방음악 #가을음악 #가을플레이리스트 #피아노연주곡 #피아노음악 #가사없는플레이리스트 #pianomusic #calmmusic #pianoplaylist #MusicforArtist #뮤직포아티스트",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q9ckLO6xKEc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q9ckLO6xKEc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q9ckLO6xKEc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/q9ckLO6xKEc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/q9ckLO6xKEc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뮤직포아티스트 Music for Artist",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Live] 𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭 이른 추위에 따뜻하게 하루를 시작하는 플레이리스트 | 가사없는 잔잔한 피아노 클래식 | Focus • Study • Relax",
+                    "description": "©MusicforArtist All Rights Reserved.\n이 영상에 포함된 모든 이미지, 영상, 음악은 저작권법의 보호를 받습니다. \n사전 서면 허가 없이 복제, 배포, 수정, 캡처, 2차 가공하는 행위는 금지되며, 위반 시 법적 조치를 취할 수 있습니다.\nAll images, videos, and music contained in this content are protected under copyright law. Unauthorized use without prior written consent may result in legal action.\n\n#아침클래식 #아침음악 #가을에듣기좋은음악 #집중음악 #작업음악 #공부음악 #카페음악 #카페플레이리스트 #매장음악 #공방음악 #가을음악 #가을플레이리스트 #피아노연주곡 #피아노음악 #가사없는플레이리스트 #pianomusic #calmmusic #pianoplaylist #MusicforArtist #뮤직포아티스트"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT11H55M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6631",
+                "likeCount": "18",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "AGX1UAdbHxkAo6echf1afx_bRwU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "XeHhKHfMYBOc0y16bh0k2AzmS-M",
+            "id": "fQvzwfGXWJg",
+            "snippet": {
+                "publishedAt": "2023-03-24T09:00:33Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[발매 인사 영상] 주은(JUEUN) 1ST SOLO ALBUM",
+                "description": "#주은 #JUEUN\n#solo  #album \n#aermusic #아에르뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fQvzwfGXWJg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fQvzwfGXWJg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fQvzwfGXWJg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fQvzwfGXWJg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fQvzwfGXWJg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[발매 인사 영상] 주은(JUEUN) 1ST SOLO ALBUM",
+                    "description": "#주은 #JUEUN\n#solo  #album \n#aermusic #아에르뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1701",
+                "likeCount": "167",
+                "favoriteCount": "0",
+                "commentCount": "11"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

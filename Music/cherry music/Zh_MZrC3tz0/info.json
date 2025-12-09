@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "cVY54YwEqzNyObJ6M3gmLwIc32A",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "9j8q0JKDQP_Uhtfq9a2u5R2J_Bs",
+            "id": "Zh_MZrC3tz0",
+            "snippet": {
+                "publishedAt": "2025-10-23T23:15:54Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "Cafe Playlist ☕ 손님들이 제목 물어보는 가을 플리 🍂🎶 | 사장님이 자주 트는 감성 음악",
+                "description": "📌 구독 & 좋아요는 큰 힘이 됩니다 🙏\nCherry Music\n \n🟢 Spotify\n\nhttps://open.spotify.com/artist/2K7ZrQf4vYvuGKWAjD54WW?si=-Ke52_OASUiXCsP-fU3vQw\n\n\n▶️ YouTube Music\n/ https://youtube.com/channel/UCtgK5ZUYqmqOhtbJzc7wRiA?si=pfPQiMmo_0ldvZ_i\n\n\n🍎 Apple Music\n/ https://music.apple.com/kr/artist/cherry/1828855228\n\n\n\n#가을팝송 #가을플레이리스트 #카페음악 #매장음악 #팝송모음 #분위기좋은노래 #공부할때듣기좋은노래 #집중할때듣기좋은노래 #감성팝송 #가을감성 #playlist #autumnplaylist #cafemusic #storemusic #chillpop  #가을플레이리스트 #가을에듣기좋은노래 #인디팝 #가을음악 #카페음악 #매장음악 #공부할때듣기좋은노래 #집중할때듣기좋은노래 #노래모음 #감성플레이리스트 #가을감성 #playlist #indiepop #autumnplaylist #cafemusic #studyplaylist #chillvibes #bgm",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zh_MZrC3tz0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zh_MZrC3tz0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zh_MZrC3tz0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Zh_MZrC3tz0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Zh_MZrC3tz0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Cafe Playlist ☕ 손님들이 제목 물어보는 가을 플리 🍂🎶 | 사장님이 자주 트는 감성 음악",
+                    "description": "📌 구독 & 좋아요는 큰 힘이 됩니다 🙏\nCherry Music\n \n🟢 Spotify\n\nhttps://open.spotify.com/artist/2K7ZrQf4vYvuGKWAjD54WW?si=-Ke52_OASUiXCsP-fU3vQw\n\n\n▶️ YouTube Music\n/ https://youtube.com/channel/UCtgK5ZUYqmqOhtbJzc7wRiA?si=pfPQiMmo_0ldvZ_i\n\n\n🍎 Apple Music\n/ https://music.apple.com/kr/artist/cherry/1828855228\n\n\n\n#가을팝송 #가을플레이리스트 #카페음악 #매장음악 #팝송모음 #분위기좋은노래 #공부할때듣기좋은노래 #집중할때듣기좋은노래 #감성팝송 #가을감성 #playlist #autumnplaylist #cafemusic #storemusic #chillpop  #가을플레이리스트 #가을에듣기좋은노래 #인디팝 #가을음악 #카페음악 #매장음악 #공부할때듣기좋은노래 #집중할때듣기좋은노래 #노래모음 #감성플레이리스트 #가을감성 #playlist #indiepop #autumnplaylist #cafemusic #studyplaylist #chillvibes #bgm"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3H42M55S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "23186",
+                "likeCount": "119",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

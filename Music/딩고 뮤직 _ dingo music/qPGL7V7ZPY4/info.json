@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "OjcK_Zb8dbC2eMGd_nlI1ukhPgM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "nsERM5UM-KY_vjNyvufHZJglH9c",
+            "id": "qPGL7V7ZPY4",
+            "snippet": {
+                "publishedAt": "2025-12-05T09:01:23Z",
+                "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+                "title": "The Deep - I Hate Silence | [TEXTED] | 가사 (Lyrics) | 딩고뮤직 | dingo Music",
+                "description": "📝 ‘I Hate Silence’ 곡 정보\n\nArtist The Deep\n \nLyrics by atlgrandma, The Deep\nComposed by atlgrandma, Spencer Light, The Deep\nArranged by atlgrandma, Spencer Light\n\n▶딩고뮤직 (dingo Music) : http://bit.ly/Dingo__Music\n▶디에프 (df) : http://bit.ly/df_dingo\n▶일소라 (일반인들의 소름돋는 라이브) : http://bit.ly/ilsora\n▶딩고 공식 팬 커뮤니티 (with dingo) : https://withdingo.com \n\ncontact : musicbiz@makeus.com\n\n#TheDeep #IHateSilence \n#TEXTED #텍스티드 \n#딩고뮤직 #DingoMusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qPGL7V7ZPY4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qPGL7V7ZPY4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qPGL7V7ZPY4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qPGL7V7ZPY4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qPGL7V7ZPY4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "딩고 뮤직 / dingo music",
+                "tags": [
+                    "딩고뮤직",
+                    "dingo",
+                    "dingomusic",
+                    "music",
+                    "kpop",
+                    "live",
+                    "멜론",
+                    "세로라이브",
+                    "최신가요",
+                    "top100",
+                    "아이돌",
+                    "라이브",
+                    "음악",
+                    "딩고"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "The Deep - I Hate Silence | [TEXTED] | 가사 (Lyrics) | 딩고뮤직 | dingo Music",
+                    "description": "📝 ‘I Hate Silence’ 곡 정보\n\nArtist The Deep\n \nLyrics by atlgrandma, The Deep\nComposed by atlgrandma, Spencer Light, The Deep\nArranged by atlgrandma, Spencer Light\n\n▶딩고뮤직 (dingo Music) : http://bit.ly/Dingo__Music\n▶디에프 (df) : http://bit.ly/df_dingo\n▶일소라 (일반인들의 소름돋는 라이브) : http://bit.ly/ilsora\n▶딩고 공식 팬 커뮤니티 (with dingo) : https://withdingo.com \n\ncontact : musicbiz@makeus.com\n\n#TheDeep #IHateSilence \n#TEXTED #텍스티드 \n#딩고뮤직 #DingoMusic"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "89580",
+                "likeCount": "205",
+                "favoriteCount": "0",
+                "commentCount": "42"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

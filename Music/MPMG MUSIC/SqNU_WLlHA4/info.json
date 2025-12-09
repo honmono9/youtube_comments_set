@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "bEYVtQ3RQv3HvPQ4TZtXt99D-m4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "bOC5kmUaTQ0nE46Yfj6h7FeK-8M",
+            "id": "SqNU_WLlHA4",
+            "snippet": {
+                "publishedAt": "2025-02-14T23:00:30Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "🌞𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀! #6 | #유다빈밴드 #유다빈",
+                "description": "[𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀!]\n\n여러분의 아침을 열어줄 오늘의 아티스트는\n유다빈밴드의 유다빈님입니다.\n\n다빈님의 아침 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n좋은 아침 되세요!🌞\n\n[00:00] Good Morning my Friends! #6 유다빈\n[02:40] 유다빈의 특급 계란찜 레시피\n[04:24] Good Morning my Friends! #6 유다빈 (계속)\n[06:35] My salad days - 작은 용기와 사랑으로\n[11:37] 윤하 - 포인트 니모\n[15:03] sonakonadore - Hold Tight\n[18:45] 찰리빈웍스 - Testify\n[23:01] Sara Bareilles - Manhattan\n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#GoodMorningmyFriends #유다빈밴드 #유다빈",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SqNU_WLlHA4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SqNU_WLlHA4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SqNU_WLlHA4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SqNU_WLlHA4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SqNU_WLlHA4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🌞𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀! #6 | #유다빈밴드 #유다빈",
+                    "description": "[𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀!]\n\n여러분의 아침을 열어줄 오늘의 아티스트는\n유다빈밴드의 유다빈님입니다.\n\n다빈님의 아침 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n좋은 아침 되세요!🌞\n\n[00:00] Good Morning my Friends! #6 유다빈\n[02:40] 유다빈의 특급 계란찜 레시피\n[04:24] Good Morning my Friends! #6 유다빈 (계속)\n[06:35] My salad days - 작은 용기와 사랑으로\n[11:37] 윤하 - 포인트 니모\n[15:03] sonakonadore - Hold Tight\n[18:45] 찰리빈웍스 - Testify\n[23:01] Sara Bareilles - Manhattan\n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#GoodMorningmyFriends #유다빈밴드 #유다빈"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT27M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1155",
+                "likeCount": "52",
+                "favoriteCount": "0",
+                "commentCount": "15"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

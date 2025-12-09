@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "bP83iqNOtw3oqxgbOAOy8PMR-dQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "UkgkL7XZu5aD7qqPTGcnGi0I1xE",
+            "id": "UUdduNyW-v8",
+            "snippet": {
+                "publishedAt": "2025-09-02T17:00:39Z",
+                "channelId": "UC6TJkBRLMFJ-9c7pXehoZwg",
+                "title": "pH-1 WHWD 2025 WORLD TOUR in North America",
+                "description": "📢 TICKET OPEN ANNOUNCEMENT\nGENERAL TICKET SALES: 2025.09.05 (FRI) 10AM LOCAL TIME\n\n✔ Ticket Link\nwhwdtour.com\n\n📌 More information regarding ticketing will be provided by individual promoters in your city.\n\nMore Information Here:\n\n@pH-1\nInstagram : https://www.instagram.com/ph1boyyy\nTwitter : https://twitter.com/ph1boyyy\n\n@H1GHRMUSIC\nInstagram : https://www.instagram.com/h1ghrmusic\nFacebook : https://www.facebook.com/H1GHRMUSICOFFICIAL\nTwitter:https ://twitter.com/H1GHRMUSIC\nWeibo : https://www.weibo.com/h1ghrmusic\n\n#pH1 #피에이치원 \n#SOAK_IN_BLUE\n#WHAT_HAVE_WE_DONE\n#H1GHRMUSIC #하이어뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UUdduNyW-v8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UUdduNyW-v8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UUdduNyW-v8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UUdduNyW-v8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UUdduNyW-v8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "H1GHR MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "pH-1 WHWD 2025 WORLD TOUR in North America",
+                    "description": "📢 TICKET OPEN ANNOUNCEMENT\nGENERAL TICKET SALES: 2025.09.05 (FRI) 10AM LOCAL TIME\n\n✔ Ticket Link\nwhwdtour.com\n\n📌 More information regarding ticketing will be provided by individual promoters in your city.\n\nMore Information Here:\n\n@pH-1\nInstagram : https://www.instagram.com/ph1boyyy\nTwitter : https://twitter.com/ph1boyyy\n\n@H1GHRMUSIC\nInstagram : https://www.instagram.com/h1ghrmusic\nFacebook : https://www.facebook.com/H1GHRMUSICOFFICIAL\nTwitter:https ://twitter.com/H1GHRMUSIC\nWeibo : https://www.weibo.com/h1ghrmusic\n\n#pH1 #피에이치원 \n#SOAK_IN_BLUE\n#WHAT_HAVE_WE_DONE\n#H1GHRMUSIC #하이어뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2279",
+                "likeCount": "187",
+                "favoriteCount": "0",
+                "commentCount": "15"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

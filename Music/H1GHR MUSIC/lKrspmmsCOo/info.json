@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "vyEotZ6pyH82GyMSkWnKVHCh0No",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "VGXJAAQj4KZFI50etqRuxQlTl0o",
+            "id": "lKrspmmsCOo",
+            "snippet": {
+                "publishedAt": "2025-06-19T09:01:11Z",
+                "channelId": "UC6TJkBRLMFJ-9c7pXehoZwg",
+                "title": "BIG Naughty 'MUSIC (Feat. 이찬혁)' Official MV",
+                "description": "BIG Naughty DS [MUSIC] is out! \nListen and download on your favorite platform : https://lnk.to/BIGNaughty_DS_MUSIC\n\nMore Information Here:\n\n@BIG Naughty\nInstagram: https://www.instagram.com/bignaughtyboi/\nTwitter: https://twitter.com/bignaughtyman \n\n@H1GHRMUSIC\nInstagram: https://www.instagram.com/h1ghrmusic\nFacebook: https://www.facebook.com/H1GHRMUSICOFFICIAL\nTwitter:https://twitter.com/H1GHRMUSIC\nWeibo: https://www.weibo.com/h1ghrmusic\n\n#BIGNaughty #빅나티 #서동현\n#LEECHANHYUK #이찬혁\n#MUSIC \n#H1GHRMUSIC #하이어뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lKrspmmsCOo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lKrspmmsCOo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lKrspmmsCOo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lKrspmmsCOo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lKrspmmsCOo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "H1GHR MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "BIG Naughty 'MUSIC (Feat. 이찬혁)' Official MV",
+                    "description": "BIG Naughty DS [MUSIC] is out! \nListen and download on your favorite platform : https://lnk.to/BIGNaughty_DS_MUSIC\n\nMore Information Here:\n\n@BIG Naughty\nInstagram: https://www.instagram.com/bignaughtyboi/\nTwitter: https://twitter.com/bignaughtyman \n\n@H1GHRMUSIC\nInstagram: https://www.instagram.com/h1ghrmusic\nFacebook: https://www.facebook.com/H1GHRMUSICOFFICIAL\nTwitter:https://twitter.com/H1GHRMUSIC\nWeibo: https://www.weibo.com/h1ghrmusic\n\n#BIGNaughty #빅나티 #서동현\n#LEECHANHYUK #이찬혁\n#MUSIC \n#H1GHRMUSIC #하이어뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1751691",
+                "likeCount": "23873",
+                "favoriteCount": "0",
+                "commentCount": "1120"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

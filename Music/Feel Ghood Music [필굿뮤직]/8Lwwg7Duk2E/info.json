@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "4gGFVqlBJ7QhxEKMozp8Ur-qr0w",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "gYiUCLBKa8HZXyLOc5pDV29dQKY",
+            "id": "8Lwwg7Duk2E",
+            "snippet": {
+                "publishedAt": "2020-09-05T03:00:40Z",
+                "channelId": "UC8gRco988IELoTNTl4OBd2w",
+                "title": "Bizzy (비지) - '아름다운 (ONCE IN MY LIFE)' Official M/V",
+                "description": "Bizzy\n아름다운 (ONCE IN MY LIFE) \nOUT NOW\n\n국내 외 모든 음원 스트리밍 사이트에서 감상 가능합니다. \n-\n@bizzionary\n#아름다운 #비지 #Bizzy #onceinmylife",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Lwwg7Duk2E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Lwwg7Duk2E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Lwwg7Duk2E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8Lwwg7Duk2E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8Lwwg7Duk2E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Feel Ghood Music [필굿뮤직]",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Bizzy (비지) - '아름다운 (ONCE IN MY LIFE)' Official M/V",
+                    "description": "Bizzy\n아름다운 (ONCE IN MY LIFE) \nOUT NOW\n\n국내 외 모든 음원 스트리밍 사이트에서 감상 가능합니다. \n-\n@bizzionary\n#아름다운 #비지 #Bizzy #onceinmylife"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M25S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "8418",
+                "likeCount": "581",
+                "favoriteCount": "0",
+                "commentCount": "64"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

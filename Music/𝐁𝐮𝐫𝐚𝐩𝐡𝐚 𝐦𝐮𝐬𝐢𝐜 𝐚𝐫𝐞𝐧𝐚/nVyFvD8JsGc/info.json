@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "maZM2D8af6n9VQJideEXZKyrFQQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "mi-TSbHE3gW2N6UKWb67wqx7DUs",
+            "id": "nVyFvD8JsGc",
+            "snippet": {
+                "publishedAt": "2025-10-28T10:03:44Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "🤍 Stardust -แรงที่ใส่ไป สุดท้ายก็ลอยไป… เหมือน\"ละอองดาว\"ที่ไม่อาจจับไว้✨ #teaser #music  #เพลงใหม่",
+                "description": "“แรงที่ใส่ไป สุดท้ายก็ลอยไป… เหมือนละอองดาวที่ไม่อาจจับไว้”\nAll I gave… drifts like stardust.” ✨\n\n\n#เพลงร็อกไทย #musiclovers  #เพลงใหม่  #rockthailand",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nVyFvD8JsGc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nVyFvD8JsGc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nVyFvD8JsGc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nVyFvD8JsGc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nVyFvD8JsGc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "🤍 Stardust -แรงที่ใส่ไป สุดท้ายก็ลอยไป… เหมือน\"ละอองดาว\"ที่ไม่อาจจับไว้✨ #teaser #music  #เพลงใหม่",
+                    "description": "“แรงที่ใส่ไป สุดท้ายก็ลอยไป… เหมือนละอองดาวที่ไม่อาจจับไว้”\nAll I gave… drifts like stardust.” ✨\n\n\n#เพลงร็อกไทย #musiclovers  #เพลงใหม่  #rockthailand"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT1M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3952",
+                "likeCount": "13",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

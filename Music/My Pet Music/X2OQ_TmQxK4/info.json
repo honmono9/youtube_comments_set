@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "8Ozd2xkbe_3pIFsUvIb4vFgjS20",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "2oCOAfNAMGWd4kFNDTNmKJ4djKU",
+            "id": "X2OQ_TmQxK4",
+            "snippet": {
+                "publishedAt": "2025-06-10T10:30:31Z",
+                "channelId": "UCo62tODW4YnxtszbusXyX-w",
+                "title": "(자연 숲소리)강아지가 좋아하는 음악🐶편안한 수면 힐링음악🎵분리불안,심리안정 음악",
+                "description": "안녕하세요. My Pet Music 입니다.\n반려견을 편안하게 해주는 숲소리와 잔잔한 음악이예요 \n오늘도 반려견과 함께 행복한 시간 되세요! \n\n \"let's be happy together\"\n\n\n#강아지수면음악 #강아지음악 #강아지가좋아하는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X2OQ_TmQxK4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X2OQ_TmQxK4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X2OQ_TmQxK4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/X2OQ_TmQxK4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/X2OQ_TmQxK4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "My Pet Music",
+                "tags": [
+                    "강아지음악",
+                    "개음악",
+                    "강아지가좋아하는음악",
+                    "개가좋아하는음악",
+                    "DogMusic",
+                    "DogsMusic",
+                    "DogRelaxMusic",
+                    "DogRelaxingMusic",
+                    "DogSleepMusic",
+                    "DogSleepingMusic",
+                    "PetMusic",
+                    "펫뮤직"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "(자연 숲소리)강아지가 좋아하는 음악🐶편안한 수면 힐링음악🎵분리불안,심리안정 음악",
+                    "description": "안녕하세요. My Pet Music 입니다.\n반려견을 편안하게 해주는 숲소리와 잔잔한 음악이예요 \n오늘도 반려견과 함께 행복한 시간 되세요! \n\n \"let's be happy together\"\n\n\n#강아지수면음악 #강아지음악 #강아지가좋아하는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9H41M8S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5231",
+                "likeCount": "54",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

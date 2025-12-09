@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "auCMjvCUNEGpXANEnz9LSNVvH74",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "qJsZqEHvbCSXiv9cIg8jB7lZS1E",
+            "id": "0j6k7xoXpFY",
+            "snippet": {
+                "publishedAt": "2022-11-03T14:00:00Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Smooth November Jazz - Elegant Jazz Piano Music to Relax",
+                "description": "Instrumental Jazz and Bossa Nova music by Richard Freeman.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\nl034",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0j6k7xoXpFY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0j6k7xoXpFY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0j6k7xoXpFY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0j6k7xoXpFY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0j6k7xoXpFY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Smooth November Jazz - Elegant Jazz Piano Music to Relax",
+                    "description": "Instrumental Jazz and Bossa Nova music by Richard Freeman.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\nl034"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "14314",
+                "likeCount": "159",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

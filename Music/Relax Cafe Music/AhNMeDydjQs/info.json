@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "myQEpUEfxyzUm29TCt8BmrAp6OM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "iAGIWkjk_DUiOizWJr7qk64gCPI",
+            "id": "AhNMeDydjQs",
+            "snippet": {
+                "publishedAt": "2022-05-01T13:00:03Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Happy May Jazz - Good Mood Jazz and Bossa Nova Music",
+                "description": "Enjoy sunny may days by listening to this happy jazz and bossa nova music playlist by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #happyjazz #bossanova\n\nl076",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AhNMeDydjQs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AhNMeDydjQs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AhNMeDydjQs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AhNMeDydjQs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AhNMeDydjQs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "tags": [
+                    "happy jazz",
+                    "may jazz",
+                    "jazz music",
+                    "bossa nova",
+                    "good mood jazz",
+                    "spring vibe jazz",
+                    "sunny may days jazz",
+                    "positive thoughts jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Happy May Jazz - Good Mood Jazz and Bossa Nova Music",
+                    "description": "Enjoy sunny may days by listening to this happy jazz and bossa nova music playlist by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #happyjazz #bossanova\n\nl076"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "177015",
+                "likeCount": "1135",
+                "favoriteCount": "0",
+                "commentCount": "27"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "UQ-qY0W32inkuQdixDTcT29Xqsk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "94JLRUyXpAzUye-EgVZ3_WNG7wA",
+            "id": "7Qr5QjntVxE",
+            "snippet": {
+                "publishedAt": "2023-11-27T04:51:24Z",
+                "channelId": "UCsfYd7AVFk_ASiMudok6_sQ",
+                "title": "일본 후쿠오카에서 연주한 아리랑!(Arirang - Arr by Yousarang)",
+                "description": "일본 후쿠오카 재즈클럽 킹피쉬에서 연주한 \n\n아리랑입니다 유사랑씨의 편곡으로 연주되었습니다\n\n즐겁게 감상해주세요!\n\nVocal - 유사랑\nFlute - 신진섭\nDouble Bass - 최준혁\nGuitar - Uchiyama Satoru\nclarinet - Akina hadano\n\n협력및 섭외 \nchjh1234@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7Qr5QjntVxE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7Qr5QjntVxE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7Qr5QjntVxE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7Qr5QjntVxE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7Qr5QjntVxE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jazz Music Korea",
+                "tags": [
+                    "재즈",
+                    "재즈밴드",
+                    "재즈공연",
+                    "재즈밴드굿펠리스",
+                    "굿펠리스",
+                    "재즈밴드섭외",
+                    "재즈음악",
+                    "재즈뮤직코리아",
+                    "공연",
+                    "공연섭외",
+                    "재즈베이스",
+                    "콘트라베이스",
+                    "콘트라베이스최준혁",
+                    "재즈베이스최준혁",
+                    "워킹베이스",
+                    "jazz",
+                    "jazzband",
+                    "jazzmusic",
+                    "jazzmusickorea",
+                    "goodfellis",
+                    "uprightbass",
+                    "jazzbass",
+                    "choijunhyuk",
+                    "비브라폰",
+                    "livejazz",
+                    "jazzbandgoodfellis",
+                    "autumn leaves",
+                    "버스킹",
+                    "어텀리브스",
+                    "즉흥연주",
+                    "피렌체",
+                    "여행",
+                    "이태리",
+                    "italy"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "일본 후쿠오카에서 연주한 아리랑!(Arirang - Arr by Yousarang)",
+                    "description": "일본 후쿠오카 재즈클럽 킹피쉬에서 연주한 \n\n아리랑입니다 유사랑씨의 편곡으로 연주되었습니다\n\n즐겁게 감상해주세요!\n\nVocal - 유사랑\nFlute - 신진섭\nDouble Bass - 최준혁\nGuitar - Uchiyama Satoru\nclarinet - Akina hadano\n\n협력및 섭외 \nchjh1234@gmail.com"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT5M53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1272",
+                "likeCount": "30",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

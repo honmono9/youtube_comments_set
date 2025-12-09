@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "etFrPnETJDWxiQcSU1nJUMy-pEY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "b6cW3LievZrXEV6WGjkwomKU7b4",
+            "id": "am8sHK3a6K0",
+            "snippet": {
+                "publishedAt": "2025-09-28T06:00:02Z",
+                "channelId": "UC9LkgSReKybPl-gABo3fbRQ",
+                "title": "[경음악] 이것이 무그 음악이다 - 오! 임아",
+                "description": "☑ 신청곡은 커뮤니티 댓글로 적어주세요  ▶https://www.youtube.com/@kbsmediamusicplus/community\n\n이것이 무그 음악이다 - 오! 임아\n\n#이것이무그음악이다 #오임아 #지구레코드",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/am8sHK3a6K0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/am8sHK3a6K0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/am8sHK3a6K0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/am8sHK3a6K0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/am8sHK3a6K0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS Media Music +",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[경음악] 이것이 무그 음악이다 - 오! 임아",
+                    "description": "☑ 신청곡은 커뮤니티 댓글로 적어주세요  ▶https://www.youtube.com/@kbsmediamusicplus/community\n\n이것이 무그 음악이다 - 오! 임아\n\n#이것이무그음악이다 #오임아 #지구레코드"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "67",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

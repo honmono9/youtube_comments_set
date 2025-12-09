@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "__tgDpI_6rEPJpKdfCUvvTykT4A",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "AgQ9kiPHT4LJwDZT6HmrUEHNR2E",
+            "id": "ciWJQluMpeg",
+            "snippet": {
+                "publishedAt": "2025-10-05T14:53:25Z",
+                "channelId": "UCL_O5w1_yeGyukBIRB_1alw",
+                "title": "Kpop demon Hunters Characters✨ #kpopdemonhunters #netflixanime #anime #kpopmusic #sajaboys #huntrix",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ciWJQluMpeg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ciWJQluMpeg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ciWJQluMpeg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ciWJQluMpeg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ciWJQluMpeg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Xadiya Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Kpop demon Hunters Characters✨ #kpopdemonhunters #netflixanime #anime #kpopmusic #sajaboys #huntrix",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1006",
+                "likeCount": "11",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

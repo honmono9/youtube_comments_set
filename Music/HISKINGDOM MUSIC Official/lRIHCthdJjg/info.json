@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "iHgftVNDkAT267TlHiYNQQyxQck",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "pfV-Kb2JozrVzz3hq9h0UOohh4c",
+            "id": "lRIHCthdJjg",
+            "snippet": {
+                "publishedAt": "2025-07-18T02:45:04Z",
+                "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+                "title": "주께 오세요!!(주리+조찬미+임성규+김은주)",
+                "description": "주께 오세요!!(주리+조찬미+임성규+김은주)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lRIHCthdJjg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lRIHCthdJjg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lRIHCthdJjg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lRIHCthdJjg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lRIHCthdJjg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HISKINGDOM MUSIC Official",
+                "tags": [
+                    "주께 오세요",
+                    "유효림",
+                    "힐송",
+                    "주리",
+                    "임성규",
+                    "조찬미",
+                    "같이걸어가기",
+                    "오벧",
+                    "김은주",
+                    "히스킹덤뮤직",
+                    "hiskingdom music",
+                    "ccm",
+                    "k-ccm"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "주께 오세요!!(주리+조찬미+임성규+김은주)",
+                    "description": "주께 오세요!!(주리+조찬미+임성규+김은주)"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "803",
+                "likeCount": "26",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

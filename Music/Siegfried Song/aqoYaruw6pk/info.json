@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "tZpRauYrX-wCAs1ltvKchvrteBw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "X6USMNTTC_za0jX0fK_atbLrTLY",
+            "id": "aqoYaruw6pk",
+            "snippet": {
+                "publishedAt": "2018-04-13T12:38:54Z",
+                "channelId": "UCquS6S5yOGk2j5YS6WHj6eA",
+                "title": "Judas Priest - Firepower (Cover)",
+                "description": "I really admire the band since I was kid, they are still mighty and hope they will stay forever.\n\nWe reinterpreted the Sentinel of Judas Priest two years ago with modern approach and I guess people loved our job. \n\nA month ago, I listened to their new album and I liked it very much so I suggested Leo to make something like we did on the Sentinel. And here we are...\n\nBy the way, I would like to introduce to you guys, my new great lead guitarist ‘WEE’, we are going to make lots of cover together so on, maybe twice a month. Hopefully, I can handle my schedule.\n\nHave a nice one, folks. Peace!\n\nSiegfried Song (Symmetric Chaos, South Korea) - Lead Vocals, Harmony Vocals, Video Editing\nLeo Peña (Jotun Studio, Spain) - Rhythm Guitars, Bass, Drum Programming, Mixing, Mastering, Video Editing\n'WEE' SungHun (MuTrickster, South Korea) - Lead Guitars\n\n[Siegfried Song]\nhttps://www.facebook.com/SiegfriedSong...\nhttps://www.facebook.com/SymmetricChaos/\n\n[Leo Peña]\nhttps://www.facebook.com/jotunstudio\nhttps://www.twitter.com/jotunstudio\nhttps://jotunstudio.es\n\n['WEE' SungHun]\nhttps://www.youtube.com/user/weesunghun\nhttps://www.facebook.com/sunghoon.wee.7",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aqoYaruw6pk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aqoYaruw6pk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aqoYaruw6pk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aqoYaruw6pk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aqoYaruw6pk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Siegfried Song",
+                "tags": [
+                    "Siegfried Song",
+                    "Judas Priest",
+                    "Firepower",
+                    "Leo",
+                    "Jotun Studio",
+                    "Spectre Media Group",
+                    "SMG",
+                    "Glenn Fricker"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Judas Priest - Firepower (Cover)",
+                    "description": "I really admire the band since I was kid, they are still mighty and hope they will stay forever.\n\nWe reinterpreted the Sentinel of Judas Priest two years ago with modern approach and I guess people loved our job. \n\nA month ago, I listened to their new album and I liked it very much so I suggested Leo to make something like we did on the Sentinel. And here we are...\n\nBy the way, I would like to introduce to you guys, my new great lead guitarist ‘WEE’, we are going to make lots of cover together so on, maybe twice a month. Hopefully, I can handle my schedule.\n\nHave a nice one, folks. Peace!\n\nSiegfried Song (Symmetric Chaos, South Korea) - Lead Vocals, Harmony Vocals, Video Editing\nLeo Peña (Jotun Studio, Spain) - Rhythm Guitars, Bass, Drum Programming, Mixing, Mastering, Video Editing\n'WEE' SungHun (MuTrickster, South Korea) - Lead Guitars\n\n[Siegfried Song]\nhttps://www.facebook.com/SiegfriedSong...\nhttps://www.facebook.com/SymmetricChaos/\n\n[Leo Peña]\nhttps://www.facebook.com/jotunstudio\nhttps://www.twitter.com/jotunstudio\nhttps://jotunstudio.es\n\n['WEE' SungHun]\nhttps://www.youtube.com/user/weesunghun\nhttps://www.facebook.com/sunghoon.wee.7"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M33S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "69516",
+                "likeCount": "1597",
+                "favoriteCount": "0",
+                "commentCount": "217"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "_-wFDVjNwM0VlPFTUVXUm1cw1LM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "XJbINR-ECDdGHxiKJM3OTBx7cVs",
+            "id": "N7fhza0afU4",
+            "snippet": {
+                "publishedAt": "2024-01-17T10:00:15Z",
+                "channelId": "UC2QOMTJ0Gz5vJPMl7KXkWaA",
+                "title": "未来へのチカラ　タスケが必要なアナタのために",
+                "description": "能登半島地震につきまして\n島谷ひとみさんからメッセージが届きました。\n\n#PEACESTOCK  では『#能登半島地震』への #義援金 を受付中。\n\nりそな銀行（0010）\n池袋支店（760）\n普通 5434781\nﾋﾟｰｽｽﾄﾂｸｼﾞﾂｺｳｲｲﾝｶｲ\n\n未来へのチカラ\nタスケが必要なアナタのために",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N7fhza0afU4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N7fhza0afU4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N7fhza0afU4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/N7fhza0afU4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/N7fhza0afU4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HITOMI SHIMATANI MUSIC Official Youtube",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "未来へのチカラ　タスケが必要なアナタのために",
+                    "description": "能登半島地震につきまして\n島谷ひとみさんからメッセージが届きました。\n\n#PEACESTOCK  では『#能登半島地震』への #義援金 を受付中。\n\nりそな銀行（0010）\n池袋支店（760）\n普通 5434781\nﾋﾟｰｽｽﾄﾂｸｼﾞﾂｺｳｲｲﾝｶｲ\n\n未来へのチカラ\nタスケが必要なアナタのために"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT4M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1246",
+                "likeCount": "108",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

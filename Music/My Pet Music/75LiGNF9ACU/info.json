@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "fgNkA4y2Xn5hqIAy5Oqgd-_7OfQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "G6THrpA3qZNCWd9Yi6UR9DOND-A",
+            "id": "75LiGNF9ACU",
+            "snippet": {
+                "publishedAt": "2024-09-05T21:00:07Z",
+                "channelId": "UCo62tODW4YnxtszbusXyX-w",
+                "title": "강아지를 위한 편안한 음악🐶수면,휴식,힐링음악🎵강아지가 좋아하는 음악",
+                "description": "안녕하세요. 'My Pet Music' 입니다.\n반려동물의 스트레스와 불안을 \n해소하기 위해, 잔잔하고 \n차분한 음악을 만들었어요~\n오늘도 반려동물과 함께 \n편안한 시간 되길 바라요!^^\n\n\n🐶Today's Tip! \nQ.강아지를 집에 혼자 두어야 할때?\n\n혼자 집에 있어도, 편안하고 즐겁다는\n생각을 심어주는 것이 중요하다고 해요.\n\n안정적인 공간을 만들어 주거나,\n아침을 주지 않고, 외출할때 사료를 곳곳에\n뿌려주고, 또 오랜시간 가지고 놀면 좋을\n인형이나,박스 등을 놓아주는 것도 \n좋은 방법이라고 하네요~^^\n\n\"let's be happy together\"\n\n\n#강아지가좋아하는음악 #강아지수면음악 #강아지음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/75LiGNF9ACU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/75LiGNF9ACU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/75LiGNF9ACU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/75LiGNF9ACU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/75LiGNF9ACU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "My Pet Music",
+                "tags": [
+                    "강아지음악",
+                    "개음악",
+                    "반려동물음악",
+                    "강아지수면음악",
+                    "강아지힐링음악",
+                    "개수면음악",
+                    "펫뮤직",
+                    "강아지가좋아하는음악",
+                    "DogMusic",
+                    "DogsMusic",
+                    "PetMusic",
+                    "DogSleepMusic",
+                    "DogRelaxMusic",
+                    "DogSleepingMusic",
+                    "DogRelaxingMusic"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "강아지를 위한 편안한 음악🐶수면,휴식,힐링음악🎵강아지가 좋아하는 음악",
+                    "description": "안녕하세요. 'My Pet Music' 입니다.\n반려동물의 스트레스와 불안을 \n해소하기 위해, 잔잔하고 \n차분한 음악을 만들었어요~\n오늘도 반려동물과 함께 \n편안한 시간 되길 바라요!^^\n\n\n🐶Today's Tip! \nQ.강아지를 집에 혼자 두어야 할때?\n\n혼자 집에 있어도, 편안하고 즐겁다는\n생각을 심어주는 것이 중요하다고 해요.\n\n안정적인 공간을 만들어 주거나,\n아침을 주지 않고, 외출할때 사료를 곳곳에\n뿌려주고, 또 오랜시간 가지고 놀면 좋을\n인형이나,박스 등을 놓아주는 것도 \n좋은 방법이라고 하네요~^^\n\n\"let's be happy together\"\n\n\n#강아지가좋아하는음악 #강아지수면음악 #강아지음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8H46M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "16535",
+                "likeCount": "87",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

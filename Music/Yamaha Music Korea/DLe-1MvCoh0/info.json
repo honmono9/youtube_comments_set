@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "GZp13VPvZU_eNVguwtzTsLEsPXA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "kgAu15W-adGMyeFJNs54Puiht4o",
+            "id": "DLe-1MvCoh0",
+            "snippet": {
+                "publishedAt": "2024-06-21T01:05:37Z",
+                "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                "title": "[야마하 DM3 series] 컴팩트 디지털 믹싱 콘솔 DM3 Series V2 업데이트 출시 #1 What's New",
+                "description": "야마하의 최신 다목적 컴팩트 디지털 믹싱 콘솔인 DM3시리즈가 \n그 명제에 걸맞는 다양한 기능을 추가한 V2 업데이트를 가지고\n더욱 매력적으로 돌아왔습니다🔥\n\n✔Insert기능 추가 \n✔USB 드라이버 관련 옵션 추가\n✔Dante 도메인 관리자 로그인 추가\n✔각종 칼리브레이션 기능 및 레코더 재생관련 기능 추가 등 \n\nDM3에 관심있으셨던 분들이나 이미 사용중인 유저분들이시라면\n놓칠수 없는 이번 업데이트 내역에 대해 \n아래 야마하뮤직코리아 공식 블로그 및 유튜브를 통하여 알아보세요🌐\n\n🔗업데이트 더 자세히 보기 : https://bit.ly/45Dw978 \n🔗DM3 더 자세히 보기 :  https://bit.ly/3XzBtWX\n\n#야마하 #야마하뮤직코리아 #야마하프로오디오 \n#프로오디오 #DM3 #콘솔 #디지털믹싱콘솔 \n#ProfessionalAudio #야마하 #PAsystem #라이브콘솔 #라이브믹싱콘솔 #디지털믹서 \n#ProAudio #라이브장비 #방송용장비 #오디오인터페이스 \n#동시송출 #미디컨트롤러 #소규모행사 #음향렌탈",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DLe-1MvCoh0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DLe-1MvCoh0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DLe-1MvCoh0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DLe-1MvCoh0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DLe-1MvCoh0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yamaha Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[야마하 DM3 series] 컴팩트 디지털 믹싱 콘솔 DM3 Series V2 업데이트 출시 #1 What's New",
+                    "description": "야마하의 최신 다목적 컴팩트 디지털 믹싱 콘솔인 DM3시리즈가 \n그 명제에 걸맞는 다양한 기능을 추가한 V2 업데이트를 가지고\n더욱 매력적으로 돌아왔습니다🔥\n\n✔Insert기능 추가 \n✔USB 드라이버 관련 옵션 추가\n✔Dante 도메인 관리자 로그인 추가\n✔각종 칼리브레이션 기능 및 레코더 재생관련 기능 추가 등 \n\nDM3에 관심있으셨던 분들이나 이미 사용중인 유저분들이시라면\n놓칠수 없는 이번 업데이트 내역에 대해 \n아래 야마하뮤직코리아 공식 블로그 및 유튜브를 통하여 알아보세요🌐\n\n🔗업데이트 더 자세히 보기 : https://bit.ly/45Dw978 \n🔗DM3 더 자세히 보기 :  https://bit.ly/3XzBtWX\n\n#야마하 #야마하뮤직코리아 #야마하프로오디오 \n#프로오디오 #DM3 #콘솔 #디지털믹싱콘솔 \n#ProfessionalAudio #야마하 #PAsystem #라이브콘솔 #라이브믹싱콘솔 #디지털믹서 \n#ProAudio #라이브장비 #방송용장비 #오디오인터페이스 \n#동시송출 #미디컨트롤러 #소규모행사 #음향렌탈"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT5M23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "458",
+                "likeCount": "7",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

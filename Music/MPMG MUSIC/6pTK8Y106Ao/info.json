@@ -1,0 +1,90 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "R3upaWgwPGXKKxVV1ISmQa0gAJc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "73Eg_NbGq_4h2vXmKtJQljlDZyM",
+            "id": "6pTK8Y106Ao",
+            "snippet": {
+                "publishedAt": "2025-04-16T10:00:17Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "유다빈밴드 '계속 웃을 순 없어' 댓글 모음.zip #유다빈밴드 #댓글모음",
+                "description": "유다빈밴드 '계속 웃을 순 없어', 지금 @ydbband 에서  시청하세요:)\n\nfollow YdBB ☘\nInstagram: https://www.instagram.com/ydbband/\nTwitter: https://twitter.com/yudabinband\nTiktok: https://www.tiktok.com/@yudabinband",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6pTK8Y106Ao/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6pTK8Y106Ao/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6pTK8Y106Ao/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6pTK8Y106Ao/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6pTK8Y106Ao/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "tags": [
+                    "유다빈밴드",
+                    "유다밴",
+                    "YdBB",
+                    "유다빈",
+                    "밴드",
+                    "인디밴드",
+                    "록밴드",
+                    "락밴드",
+                    "데이식스",
+                    "터치드",
+                    "루시",
+                    "QWER",
+                    "걸밴드",
+                    "댓글모음",
+                    "댓글반응",
+                    "비디터"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "유다빈밴드 '계속 웃을 순 없어' 댓글 모음.zip #유다빈밴드 #댓글모음",
+                    "description": "유다빈밴드 '계속 웃을 순 없어', 지금 @ydbband 에서  시청하세요:)\n\nfollow YdBB ☘\nInstagram: https://www.instagram.com/ydbband/\nTwitter: https://twitter.com/yudabinband\nTiktok: https://www.tiktok.com/@yudabinband"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5004",
+                "likeCount": "126",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

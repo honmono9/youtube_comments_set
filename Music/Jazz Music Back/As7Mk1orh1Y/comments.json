@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "nFrmVlX7mny-l1BEG_weKt-IdUo",
+        "id": "UgwMkp4pRdBTRnHCps14AaABAg",
+        "snippet": {
+            "channelId": "UCxWfuzrNR2jjAnWUh8o8ycA",
+            "videoId": "As7Mk1orh1Y",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "BiGgPgTs_QgysOY8ZcJiIYJ1VoA",
+                "id": "UgwMkp4pRdBTRnHCps14AaABAg",
+                "snippet": {
+                    "channelId": "UCxWfuzrNR2jjAnWUh8o8ycA",
+                    "videoId": "As7Mk1orh1Y",
+                    "textDisplay": "Love song😍",
+                    "textOriginal": "Love song😍",
+                    "authorDisplayName": "@JazzVibes-k9v",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/cS5r_b9wV4M54NJIbMHUg1FzcoFDUdE5yAqrRDqEUZsegVbL7kHh2eTnC7hRBCDuKOOrLRG44A=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@JazzVibes-k9v",
+                    "authorChannelId": {
+                        "value": "UCIEgRr_FZCMzRu8Mrdlrxqw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-09-14T14:58:24Z",
+                    "updatedAt": "2025-09-14T14:58:24Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

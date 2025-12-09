@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "4TLMxSOIkIfI449C4jwGZb4dAM0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "7jsGjUtD3HBDv7l3x11wwRIMkEU",
+            "id": "lZAc9xvMLC8",
+            "snippet": {
+                "publishedAt": "2023-11-13T11:00:42Z",
+                "channelId": "UCE4IM82TdhmOl4Qtn8nsaGQ",
+                "title": "Kid Milli CONCERT [ADDENDUM] Episode. 0",
+                "description": "[ Official Channel ]\nKid Milli\nhttps://www.instagram.com/kidcozyboy/\nhttps://twitter.com/rrealkidcozyboy\n\nIndigo Music\nhttps://www.instagram.com/indigomusic_official/\n\nAP Alchemy\nhttps://www.instagram.com/ap_alchemy/\n\n#Kidmilli #ADDENDUM\n\n(C) 2023 Indigo Music Corp.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lZAc9xvMLC8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lZAc9xvMLC8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lZAc9xvMLC8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lZAc9xvMLC8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lZAc9xvMLC8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AP Alchemy It's Indigo Music",
+                "tags": [
+                    "키드밀리",
+                    "KidMilli",
+                    "addendum",
+                    "키드밀리 콘서트",
+                    "kidmilli concert",
+                    "beige",
+                    "cliche",
+                    "키드밀리 베이지",
+                    "키드밀리 클리셰"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Kid Milli CONCERT [ADDENDUM] Episode. 0",
+                    "description": "[ Official Channel ]\nKid Milli\nhttps://www.instagram.com/kidcozyboy/\nhttps://twitter.com/rrealkidcozyboy\n\nIndigo Music\nhttps://www.instagram.com/indigomusic_official/\n\nAP Alchemy\nhttps://www.instagram.com/ap_alchemy/\n\n#Kidmilli #ADDENDUM\n\n(C) 2023 Indigo Music Corp."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT7M8S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3620",
+                "likeCount": "197",
+                "favoriteCount": "0",
+                "commentCount": "25"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

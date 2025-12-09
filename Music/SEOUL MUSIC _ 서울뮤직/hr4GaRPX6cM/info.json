@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "6VgP5LqVqgCEeJ8D7POrAujIe6Q",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "PScU1R49TsEw41sb8I5xDAdWOEs",
+            "id": "hr4GaRPX6cM",
+            "snippet": {
+                "publishedAt": "2015-08-14T04:46:38Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[MV] HYUKOH (혁오) - WI ING WI ING (위잉위잉)",
+                "description": "Artist: HYUKOH (혁오)\nTitle: WI ING WI ING (위잉위잉)\nAlbum: 20\nRelease Date: 2014.09.18\n\n[Follow]\n▶︎ Seoulmusic Instagram: https://www.instagram.com/seoulmusic.official\n\n#혁오 #HYUKOH #하이그라운드 #HIGHGRND #위잉위잉 #WIINGWIING",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hr4GaRPX6cM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hr4GaRPX6cM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hr4GaRPX6cM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hr4GaRPX6cM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hr4GaRPX6cM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "tags": [
+                    "혁오",
+                    "HYUKOH",
+                    "HIGHGRND",
+                    "WI ING WI ING",
+                    "위잉위잉",
+                    "하이그라운드"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[MV] HYUKOH (혁오) - WI ING WI ING (위잉위잉)",
+                    "description": "Artist: HYUKOH (혁오)\nTitle: WI ING WI ING (위잉위잉)\nAlbum: 20\nRelease Date: 2014.09.18\n\n[Follow]\n▶︎ Seoulmusic Instagram: https://www.instagram.com/seoulmusic.official\n\n#혁오 #HYUKOH #하이그라운드 #HIGHGRND #위잉위잉 #WIINGWIING"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "13277398",
+                "likeCount": "136822",
+                "favoriteCount": "0",
+                "commentCount": "2227"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

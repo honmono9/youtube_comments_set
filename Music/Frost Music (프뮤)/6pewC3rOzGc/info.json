@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "gau5bKRVmEP9a_T0BhsVS8rWAPw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "2FU_qTQlYpLOGV-2mWOZlUkwyjw",
+            "id": "6pewC3rOzGc",
+            "snippet": {
+                "publishedAt": "2024-02-20T12:23:08Z",
+                "channelId": "UCtj5rIKd3atoia8j033p-Ow",
+                "title": "「White Spell」 피아노 편곡&연주 / 헤븐 번즈 레드 OST / 레드 크림슨 전투",
+                "description": "Heaven Burns Red - RedCrimson OST 「White Spell」 Piano Performance\n\n\n안녕하세요 여러분\n오늘의 연주는 \"헤븐 번즈 레드\"의 OST인 「White Spell」입니다.\n\n채널에서의 헤번레 작품은 처음이군요\n시나리오 작가가 워낙 유명한 분이라 일전에 알고 있긴 했지만,\n스타일이 맞지 않아서 제대로 하지는 않고 있었습니다.\n\n이번에 2주년을 맞이하기도 했고, \n다른 이벤트도 참여할겸 겸사겸사 이전에 좋아하던 곡으로 연주해봤습니다.\n\n들어주셔서 감사합니다.\n---------------------------------------------------\n디스코드 채널 : https://discord.gg/TGvwJR9rs7\n트위치 : https://www.twitch.tv/frost_piano\n---------------------------------------------------\n템플릿 : 론박자막연구소\n---------------------------------------------------\n#HeavenBurnsRed #ヘブンバーンズレッド #헤븐번즈레드",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6pewC3rOzGc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6pewC3rOzGc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6pewC3rOzGc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6pewC3rOzGc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6pewC3rOzGc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Frost Music (프뮤)",
+                "tags": [
+                    "헤븐 번즈 레드",
+                    "헤번레",
+                    "white spell",
+                    "HEAVEN BURNS RED",
+                    "ヘブン バーンズ レッド"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "「White Spell」 피아노 편곡&연주 / 헤븐 번즈 레드 OST / 레드 크림슨 전투",
+                    "description": "Heaven Burns Red - RedCrimson OST 「White Spell」 Piano Performance\n\n\n안녕하세요 여러분\n오늘의 연주는 \"헤븐 번즈 레드\"의 OST인 「White Spell」입니다.\n\n채널에서의 헤번레 작품은 처음이군요\n시나리오 작가가 워낙 유명한 분이라 일전에 알고 있긴 했지만,\n스타일이 맞지 않아서 제대로 하지는 않고 있었습니다.\n\n이번에 2주년을 맞이하기도 했고, \n다른 이벤트도 참여할겸 겸사겸사 이전에 좋아하던 곡으로 연주해봤습니다.\n\n들어주셔서 감사합니다.\n---------------------------------------------------\n디스코드 채널 : https://discord.gg/TGvwJR9rs7\n트위치 : https://www.twitch.tv/frost_piano\n---------------------------------------------------\n템플릿 : 론박자막연구소\n---------------------------------------------------\n#HeavenBurnsRed #ヘブンバーンズレッド #헤븐번즈레드"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4066",
+                "likeCount": "98",
+                "favoriteCount": "0",
+                "commentCount": "29"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "PgMT4VnzK66NYyZYHzHKxPeZAsU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "egou38FX6_pyqxOlvWbsN0kZtLE",
+            "id": "yV-H6XScqOU",
+            "snippet": {
+                "publishedAt": "2022-11-24T15:19:50Z",
+                "channelId": "UCwdmcaOcWQ7PW8_wuaB8Cjw",
+                "title": "CHIP & DALE - WOS WA WENN (SEBASTIAN SPENCER RADIO EDIT) OFFICIAL VIDEO HQ",
+                "description": "Ab sofort überall digital erhältlich!\n\nFolge mir:  \n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Instagram:\nhttps://www.instagram.com/sebastianspencermusic/\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music\n\n\nChip & Dale folgen:\n► Instagram: \nhttps://www.instagram.com/chipanddale...\n► TikTok: https: https://vm.tiktok.com/ZM8Vqt9R2/\n► Facebook: \nhttps://www.facebook.com/profile.php?...\n\nStreamen & Kaufen:\n► Amazon: Music:https://amazon.de/music/player/albums...\n► Apple Music: https://music.apple.com/us/album/mei-...\n► Spotify: https://open.spotify.com/album/2qKpuE...\n\nMix & Video:\n► Music Produktion: Sebastian Spencer Music\n► Mix & Mastering: Sebastian Spencer Music\n► Video: https://www.podifreiproductions.com\n► Schnitt/Color Grading: https://www.podifreiproductions.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yV-H6XScqOU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yV-H6XScqOU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yV-H6XScqOU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yV-H6XScqOU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yV-H6XScqOU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sebastian Spencer Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "de",
+                "localized": {
+                    "title": "CHIP & DALE - WOS WA WENN (SEBASTIAN SPENCER RADIO EDIT) OFFICIAL VIDEO HQ",
+                    "description": "Ab sofort überall digital erhältlich!\n\nFolge mir:  \n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Instagram:\nhttps://www.instagram.com/sebastianspencermusic/\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music\n\n\nChip & Dale folgen:\n► Instagram: \nhttps://www.instagram.com/chipanddale...\n► TikTok: https: https://vm.tiktok.com/ZM8Vqt9R2/\n► Facebook: \nhttps://www.facebook.com/profile.php?...\n\nStreamen & Kaufen:\n► Amazon: Music:https://amazon.de/music/player/albums...\n► Apple Music: https://music.apple.com/us/album/mei-...\n► Spotify: https://open.spotify.com/album/2qKpuE...\n\nMix & Video:\n► Music Produktion: Sebastian Spencer Music\n► Mix & Mastering: Sebastian Spencer Music\n► Video: https://www.podifreiproductions.com\n► Schnitt/Color Grading: https://www.podifreiproductions.com"
+                },
+                "defaultAudioLanguage": "de"
+            },
+            "contentDetails": {
+                "duration": "PT3M11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "15492",
+                "likeCount": "225",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

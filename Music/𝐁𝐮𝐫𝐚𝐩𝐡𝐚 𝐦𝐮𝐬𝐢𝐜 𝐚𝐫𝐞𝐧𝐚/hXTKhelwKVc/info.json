@@ -1,0 +1,81 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "98tVUD6bXY9F0VVaa5t1gTBXK1Q",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "nEIc8MlzW6Tj5eYAR36Pok4lP6A",
+            "id": "hXTKhelwKVc",
+            "snippet": {
+                "publishedAt": "2025-11-11T04:00:05Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "ฝนสีเทา [𝐒𝐢𝐥𝐯𝐞𝐫 𝐑𝐚𝐢𝐧] | 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐌𝐯 เมื่อความเศร้าไม่ได้เป็นแค่หยดน้ำจาก #ฟ้า #𝐦𝐮𝐬𝐢𝐜 #𝐜𝐢𝐧𝐞𝐦𝐚𝐭𝐢𝐜𝐫𝐨𝐜𝐤",
+                "description": "🎧 Silver Rain (ฝนสีเทา) \nคือพายุอารมณ์ระหว่างความสูญเสีย\nและการยืนหยัดผสมพลังของร็อกและภาพยนตร์ \nเพื่อถ่ายทอดความรู้สึกที่คำพูดอธิบายไม่ได้\n\n🎸 Produced & Directed: Burapha Music Arena©\n📱 Created entirely on smartphone\n\n#CinematicRock #ฝนสีเทา #BMAarena\n\n©2025 BMAARENA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hXTKhelwKVc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hXTKhelwKVc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hXTKhelwKVc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hXTKhelwKVc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hXTKhelwKVc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "tags": [
+                    "Silver Rain",
+                    "ฝนสีเทา",
+                    "สายฝน",
+                    "Burapha Music Arena",
+                    "BMAarena",
+                    "music",
+                    "Cinematic rock"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "ฝนสีเทา [𝐒𝐢𝐥𝐯𝐞𝐫 𝐑𝐚𝐢𝐧] | 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐌𝐯 เมื่อความเศร้าไม่ได้เป็นแค่หยดน้ำจาก #ฟ้า #𝐦𝐮𝐬𝐢𝐜 #𝐜𝐢𝐧𝐞𝐦𝐚𝐭𝐢𝐜𝐫𝐨𝐜𝐤",
+                    "description": "🎧 Silver Rain (ฝนสีเทา) \nคือพายุอารมณ์ระหว่างความสูญเสีย\nและการยืนหยัดผสมพลังของร็อกและภาพยนตร์ \nเพื่อถ่ายทอดความรู้สึกที่คำพูดอธิบายไม่ได้\n\n🎸 Produced & Directed: Burapha Music Arena©\n📱 Created entirely on smartphone\n\n#CinematicRock #ฝนสีเทา #BMAarena\n\n©2025 BMAARENA"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT3M56S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4749",
+                "likeCount": "13",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

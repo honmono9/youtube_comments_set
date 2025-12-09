@@ -1,0 +1,98 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "QUCgjLtL-Pgv098KVo8gSSIG6OU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ZW_gII2tstOK4xKkYSHWxB2BV10",
+            "id": "S8BRx3nMALQ",
+            "snippet": {
+                "publishedAt": "2025-04-04T11:03:15Z",
+                "channelId": "UClbjf4pXBzXVk3ImyeBa__w",
+                "title": "🎢👏그냥 더럽게 신나는 노래ㅋㅋㅋㅋ : Fitz and the Tantrums - HandClap [가사/번역/해석/Lyrics]",
+                "description": "🎧이어폰 착용은 필수입니다!\n📺화질을 1080p로 설정 후 시청해주세요!\n😁구독과 좋아요는 큰 힘이 됩니다!\n📝노래 가사에 오역이 있을 수 있습니다!\n\n\n[🎬영상자료🎬]\n더 울프 오브 월 스트리트 (2013)\n\n[🎶노래🎶]\nFitz and the Tantrums - HandClap",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S8BRx3nMALQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S8BRx3nMALQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S8BRx3nMALQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/S8BRx3nMALQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/S8BRx3nMALQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뮤플비 Music Plus Movie",
+                "tags": [
+                    "팝송",
+                    "영화",
+                    "팝송가사해석",
+                    "가사해석",
+                    "Fitz and the Tantrums - HandClap 가사해석",
+                    "Fitz and the Tantrums - HandClap",
+                    "Fitz and the Tantrums",
+                    "HandClap 가사",
+                    "HandClap",
+                    "신나는노래",
+                    "신나는팝송",
+                    "개신나는팝송",
+                    "신나는팝송모음",
+                    "더 울프 오브 월 스트리트",
+                    "The Wolf of Wall Street",
+                    "레오나르도디카프리오",
+                    "디카프리오",
+                    "오징어게임2"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🎢👏그냥 더럽게 신나는 노래ㅋㅋㅋㅋ : Fitz and the Tantrums - HandClap [가사/번역/해석/Lyrics]",
+                    "description": "🎧이어폰 착용은 필수입니다!\n📺화질을 1080p로 설정 후 시청해주세요!\n😁구독과 좋아요는 큰 힘이 됩니다!\n📝노래 가사에 오역이 있을 수 있습니다!\n\n\n[🎬영상자료🎬]\n더 울프 오브 월 스트리트 (2013)\n\n[🎶노래🎶]\nFitz and the Tantrums - HandClap"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M20S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1493917",
+                "likeCount": "17839",
+                "favoriteCount": "0",
+                "commentCount": "513"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

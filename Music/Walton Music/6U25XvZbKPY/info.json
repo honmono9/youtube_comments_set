@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "p_Ur1whzcVfHeGzKSd-hqdX6EjI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "foRqWW-ui8PCP2SnNj6Y9wu02wo",
+            "id": "6U25XvZbKPY",
+            "snippet": {
+                "publishedAt": "2025-10-06T13:00:18Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Does the World Say? (TB) | Kyle Pederson",
+                "description": "Does the World Say? written by Kyle Pederson for flexible TB voicing with piano and optional violin. \n\n\"Take my hand, don't let go...\" This inspirational selection about the pressures the world throws at us is an empowering and lyrical work that will inspire singers and audiences. With flexible voicing, this piece is ideal for tenor-bass choirs of various voices and sizes. An optional, soaring violin part provides nice texture and balance with the flowing, rhythmic piano accompaniment.\n\nPurchase the music: https://giamusic.com/resource/does-the-world-say-ttbb-printed-music-ww2087\n\nAlso available for SATB voicing: https://giamusic.com/resource/does-the-world-say-satb-printed-music-ww1981\n\nAlso available for flexible SA voicing: https://giamusic.com/resource/does-the-world-say-print-ww1936",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6U25XvZbKPY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6U25XvZbKPY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6U25XvZbKPY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6U25XvZbKPY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6U25XvZbKPY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Does the World Say? (TB) | Kyle Pederson",
+                    "description": "Does the World Say? written by Kyle Pederson for flexible TB voicing with piano and optional violin. \n\n\"Take my hand, don't let go...\" This inspirational selection about the pressures the world throws at us is an empowering and lyrical work that will inspire singers and audiences. With flexible voicing, this piece is ideal for tenor-bass choirs of various voices and sizes. An optional, soaring violin part provides nice texture and balance with the flowing, rhythmic piano accompaniment.\n\nPurchase the music: https://giamusic.com/resource/does-the-world-say-ttbb-printed-music-ww2087\n\nAlso available for SATB voicing: https://giamusic.com/resource/does-the-world-say-satb-printed-music-ww1981\n\nAlso available for flexible SA voicing: https://giamusic.com/resource/does-the-world-say-print-ww1936"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "147",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

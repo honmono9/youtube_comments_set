@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "isCfTg5wLoWPCbSgS_KUATwo0lQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "WL2nZRSBh8VxeiMoR_QLi73if3A",
+            "id": "1lgiFYxYWcA",
+            "snippet": {
+                "publishedAt": "2025-10-01T13:00:04Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Dum Spiro Spero | Daniel Brinsmead",
+                "description": "Dum Spiro Spero is written for SA with optional descant and piano. \n\n\"While I have breath, I hope…\" Using both Latin and English, the text of Dum Spiro Spero is set with a sonority that conveys determination and a hopeful spirit. A wonderful piano accompaniment and the addition of claps make this an exciting choice for your concert program.\n\nPurchase the music: https://giamusic.com/resource/dum-spiro-spero-printed-music-wjms1210",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1lgiFYxYWcA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1lgiFYxYWcA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1lgiFYxYWcA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1lgiFYxYWcA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1lgiFYxYWcA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Dum Spiro Spero | Daniel Brinsmead",
+                    "description": "Dum Spiro Spero is written for SA with optional descant and piano. \n\n\"While I have breath, I hope…\" Using both Latin and English, the text of Dum Spiro Spero is set with a sonority that conveys determination and a hopeful spirit. A wonderful piano accompaniment and the addition of claps make this an exciting choice for your concert program.\n\nPurchase the music: https://giamusic.com/resource/dum-spiro-spero-printed-music-wjms1210"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M8S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2068",
+                "likeCount": "37",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

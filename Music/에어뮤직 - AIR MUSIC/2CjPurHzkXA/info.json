@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "9ylkRJeMbD32L_EJOyvYv5e4LQU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "JgpJXaG0-VOgsAg_Gol7u7-w000",
+            "id": "2CjPurHzkXA",
+            "snippet": {
+                "publishedAt": "2025-10-04T11:00:04Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "floryy - I'm so into you [Teaser]",
+                "description": "floryy - I'm so into you [Teaser]\n2025. 10. 06 (Mon) 6PM",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2CjPurHzkXA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2CjPurHzkXA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2CjPurHzkXA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2CjPurHzkXA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2CjPurHzkXA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "floryy - I'm so into you [Teaser]",
+                    "description": "floryy - I'm so into you [Teaser]\n2025. 10. 06 (Mon) 6PM"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "101",
+                "likeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

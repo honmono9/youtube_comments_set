@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "M6ts3JIuyASZhJtsZ6uyJeDEzes",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "9l1bASZ_xoES_j66lqAULQ-iqjg",
+            "id": "E5SKRvVCzC0",
+            "snippet": {
+                "publishedAt": "2023-03-06T09:00:07Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[Special Clip] '그때 우리처럼' M/V 서인국(SeoInGuk) Director Episode (ENG/JPN)",
+                "description": "'그때 우리처럼' M/V 서인국(SeoInGuk) Director Episode (ENG/JPN) \n\n레이나 (Raina) ‘그때 우리처럼’ Official MV\n2023. 02. 07 12:00 (KST)\n\n#SeoInGuk #서인국 #Director #episode\n#Raina #레이나\n#그때우리처럼 #뮤비 #MV\n#AERMUSIC #아에르뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E5SKRvVCzC0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E5SKRvVCzC0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E5SKRvVCzC0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/E5SKRvVCzC0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/E5SKRvVCzC0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Special Clip] '그때 우리처럼' M/V 서인국(SeoInGuk) Director Episode (ENG/JPN)",
+                    "description": "'그때 우리처럼' M/V 서인국(SeoInGuk) Director Episode (ENG/JPN) \n\n레이나 (Raina) ‘그때 우리처럼’ Official MV\n2023. 02. 07 12:00 (KST)\n\n#SeoInGuk #서인국 #Director #episode\n#Raina #레이나\n#그때우리처럼 #뮤비 #MV\n#AERMUSIC #아에르뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8M6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "19303",
+                "likeCount": "1178",
+                "favoriteCount": "0",
+                "commentCount": "90"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

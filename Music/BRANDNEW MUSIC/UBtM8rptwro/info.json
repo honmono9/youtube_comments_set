@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "L5OpIUlcTz883An90VPawyv3X8E",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "TlQa7p849P1pH4BmxM4sPzmLRT4",
+            "id": "UBtM8rptwro",
+            "snippet": {
+                "publishedAt": "2017-03-16T09:00:03Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "프리티브라운 (Pretty Brown) 'Episode 1' OFFICIAL PREVIEW",
+                "description": "프리티브라운 (Pretty Brown) 'Episode 1' OFFICIAL PREVIEW\n\n프리티브라운 'Episode 1' 2017.03.19 12PM RELEASE\n\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music\n\n#브랜뉴뮤직 #BRANDNEWMUSIC #루프탑컴퍼니 #RooftopCompany #Episode1 #현중 #구인회 #애매해",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UBtM8rptwro/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UBtM8rptwro/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UBtM8rptwro/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UBtM8rptwro/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UBtM8rptwro/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "tags": [
+                    "프리티브라운",
+                    "Pretty Brown",
+                    "Episode 1",
+                    "루프탑컴퍼니"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "프리티브라운 (Pretty Brown) 'Episode 1' OFFICIAL PREVIEW",
+                    "description": "프리티브라운 (Pretty Brown) 'Episode 1' OFFICIAL PREVIEW\n\n프리티브라운 'Episode 1' 2017.03.19 12PM RELEASE\n\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music\n\n#브랜뉴뮤직 #BRANDNEWMUSIC #루프탑컴퍼니 #RooftopCompany #Episode1 #현중 #구인회 #애매해"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "903",
+                "likeCount": "27",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

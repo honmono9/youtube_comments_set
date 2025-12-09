@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "OuWW4FR_bdhDw0n_pwKeaxMVF7k",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "vlQ4tnUpNpX2gLfTVvYjCxCteIE",
+            "id": "ps7ZnDCgfOg",
+            "snippet": {
+                "publishedAt": "2019-08-02T11:00:10Z",
+                "channelId": "UC3kgosidfK3i_47Q2otmmGw",
+                "title": "※방송 최초 공개※ 콘서트에서만 볼 수 있었던 여자친구(GFRIEND) - ‘Only 1’ 특별무대!",
+                "description": "✅ [런웨이브] 3화의 풀영상과 무대직캠을 보고싶다면?\n👉 https://hitpop.page.link/s9A2\n \nK-pop 아이돌들의 스토리텔링 뮤직 토크쇼!\n런웨이브 [RUN.wav ▶ HIGHLIGHT] 여자친구(GFRIEND) - ‘Only 1’\n \n#런웨이브 #여자친구 #룰루랄라뮤직 #LululalaMusic #GFRIEND #Only1\n \n👉 룰루랄라 뮤직 구독하기: https://www.youtube.com/lululalamusic\n👉 룰루랄라 뮤직은 스튜디오룰루랄라의 새로운 음악 채널입니다. 구독, 좋아요로 응원해주세요♥\n \nLululala music is the Music channel of JTBC Digital Studio Lululala\nSet up a subscription + alarm and be first to meet the contents of Lululala music\nSubscribe 👉 https://www.youtube.com/lululalamusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ps7ZnDCgfOg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ps7ZnDCgfOg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ps7ZnDCgfOg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ps7ZnDCgfOg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ps7ZnDCgfOg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "룰루랄라 뮤직 - LuluLala Music",
+                "tags": [
+                    "런웨이브",
+                    "여자친구",
+                    "룰루랄라뮤직",
+                    "lululalamusic",
+                    "run.wav",
+                    "gfriend",
+                    "only1",
+                    "jtbc"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "※방송 최초 공개※ 콘서트에서만 볼 수 있었던 여자친구(GFRIEND) - ‘Only 1’ 특별무대!",
+                    "description": "✅ [런웨이브] 3화의 풀영상과 무대직캠을 보고싶다면?\n👉 https://hitpop.page.link/s9A2\n \nK-pop 아이돌들의 스토리텔링 뮤직 토크쇼!\n런웨이브 [RUN.wav ▶ HIGHLIGHT] 여자친구(GFRIEND) - ‘Only 1’\n \n#런웨이브 #여자친구 #룰루랄라뮤직 #LululalaMusic #GFRIEND #Only1\n \n👉 룰루랄라 뮤직 구독하기: https://www.youtube.com/lululalamusic\n👉 룰루랄라 뮤직은 스튜디오룰루랄라의 새로운 음악 채널입니다. 구독, 좋아요로 응원해주세요♥\n \nLululala music is the Music channel of JTBC Digital Studio Lululala\nSet up a subscription + alarm and be first to meet the contents of Lululala music\nSubscribe 👉 https://www.youtube.com/lululalamusic"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M25S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2047410",
+                "likeCount": "53501",
+                "favoriteCount": "0",
+                "commentCount": "1752"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

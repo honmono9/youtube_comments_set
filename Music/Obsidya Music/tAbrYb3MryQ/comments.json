@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "w4EO_1GthRNYNOe4_TLVJe805JI",
+        "id": "UgwJF05CIgio7AS4_x14AaABAg",
+        "snippet": {
+            "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+            "videoId": "tAbrYb3MryQ",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "mRkfa0uQMWZkEEzBf4e25yOZtgw",
+                "id": "UgwJF05CIgio7AS4_x14AaABAg",
+                "snippet": {
+                    "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+                    "videoId": "tAbrYb3MryQ",
+                    "textDisplay": "Uzun zamandır dinledigim en iyi cover tebrikler abone oldum",
+                    "textOriginal": "Uzun zamandır dinledigim en iyi cover tebrikler abone oldum",
+                    "authorDisplayName": "@AtaYoluı",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/B6sVbO8t_lpifzOOyGuQF8JjS2gM_2QxWRz8217fQe9VlGNZoIqgwgH8c1b0m6jBVso92PXKjg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@AtaYolu%C4%B1",
+                    "authorChannelId": {
+                        "value": "UCGSFwaxDwMZftkQU8Y0ktMQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-18T15:25:32Z",
+                    "updatedAt": "2025-11-18T15:25:32Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

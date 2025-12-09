@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "KfPF6OkHmmgrBFCcxmHDgWEcgxM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "IzFIFwb-aosduhNYXmLsoLsb2dw",
+            "id": "k5IjSjaZc6I",
+            "snippet": {
+                "publishedAt": "2022-05-05T13:00:30Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Positive Jazz - Happy Jazz Cafe & Bossa Nova Music to Relax",
+                "description": "The best playlist of positive jazz music! Enjoy 10 hours of happy jazz and bossa nova music by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #positivejazz #happyjazz\n\nl057",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k5IjSjaZc6I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k5IjSjaZc6I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k5IjSjaZc6I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/k5IjSjaZc6I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/k5IjSjaZc6I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "tags": [
+                    "positive jazz",
+                    "happy jazz",
+                    "bossa nova",
+                    "relax jazz",
+                    "jazz music",
+                    "morning jazz",
+                    "good thoughts jazz",
+                    "coffee jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Positive Jazz - Happy Jazz Cafe & Bossa Nova Music to Relax",
+                    "description": "The best playlist of positive jazz music! Enjoy 10 hours of happy jazz and bossa nova music by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #positivejazz #happyjazz\n\nl057"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "23722",
+                "likeCount": "244",
+                "favoriteCount": "0",
+                "commentCount": "19"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

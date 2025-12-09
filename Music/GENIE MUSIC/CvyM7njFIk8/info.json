@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "jCnPxAGYPqLx54-pGJbQg89Y_e4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "MD0aVdPyr2IsRaG4Nm_AZngxYSU",
+            "id": "CvyM7njFIk8",
+            "snippet": {
+                "publishedAt": "2025-12-05T09:59:59Z",
+                "channelId": "UCd-OrgPLrnQiQBcq19j5oEQ",
+                "title": "[4K] POW (파우) - Favorite | from.x | 지니뮤직X마이원픽",
+                "description": "파우의 Favorite은 파워야 ( つ◍’-’◍)╮—̳͟͞͞♡\n넌 내가 제일 좋아하는 것 중 제일 좋아하는 거❤\n\n03:27 💌 메시지가 도착했습니다! from.x \n\n_\n#POW #파우 #favorite #from_x #프롬엑스\n#my1pick #mstage #genieoriginal",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CvyM7njFIk8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CvyM7njFIk8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CvyM7njFIk8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CvyM7njFIk8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CvyM7njFIk8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "GENIE MUSIC",
+                "tags": [
+                    "지니뮤직",
+                    "Genie Music",
+                    "뮤직비디오",
+                    "Music Video",
+                    "kpop",
+                    "Korean Music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[4K] POW (파우) - Favorite | from.x | 지니뮤직X마이원픽",
+                    "description": "파우의 Favorite은 파워야 ( つ◍’-’◍)╮—̳͟͞͞♡\n넌 내가 제일 좋아하는 것 중 제일 좋아하는 거❤\n\n03:27 💌 메시지가 도착했습니다! from.x \n\n_\n#POW #파우 #favorite #from_x #프롬엑스\n#my1pick #mstage #genieoriginal"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "563464",
+                "favoriteCount": "0",
+                "commentCount": "263"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

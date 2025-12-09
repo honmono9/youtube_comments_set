@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "zatogk5m9mNUXPgOgwDQlOy2JNw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "4Y4Qm5rcPgsUaUfNiv5ikHzOdjE",
+            "id": "39ddPuPukvA",
+            "snippet": {
+                "publishedAt": "2024-03-07T11:45:00Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"비가 오는 날이면\" 로맨틱한 수면음악 - 너를 꿈꾸는 밤..",
+                "description": "비가 내리는 날이면\n늘 꿈속에 찾아와 주던 너..\n\n비가 오는 거리를\n꿈속처럼 하염 없이 걷다가\n다시 너를 만난 지금..\n\n난 지금 꿈속에 있는걸까?\n\n\n🎵곡 제목                      \n01.Rainy Days\n02.City\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#잠잘때듣는음악 #수면유도음악 #잠오는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/39ddPuPukvA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/39ddPuPukvA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/39ddPuPukvA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/39ddPuPukvA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/39ddPuPukvA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "잠오는음악",
+                    "자기전에듣는음악",
+                    "수면음악",
+                    "수면유도음악",
+                    "편안한음악",
+                    "SleepingMusic",
+                    "SleepMusic",
+                    "RelaxMusic",
+                    "RelaxingMusic",
+                    "PianoMusic",
+                    "피아노음악",
+                    "불면증음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"비가 오는 날이면\" 로맨틱한 수면음악 - 너를 꿈꾸는 밤..",
+                    "description": "비가 내리는 날이면\n늘 꿈속에 찾아와 주던 너..\n\n비가 오는 거리를\n꿈속처럼 하염 없이 걷다가\n다시 너를 만난 지금..\n\n난 지금 꿈속에 있는걸까?\n\n\n🎵곡 제목                      \n01.Rainy Days\n02.City\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#잠잘때듣는음악 #수면유도음악 #잠오는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9H22M49S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "181366",
+                "likeCount": "4103",
+                "favoriteCount": "0",
+                "commentCount": "129"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

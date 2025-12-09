@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "WOYNgg2dujrx2ZyxXTnd-NQog5o",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "to-7M8s0JTJ40HQ0jUPNNi--584",
+            "id": "NY5-YRpC_4o",
+            "snippet": {
+                "publishedAt": "2025-09-04T10:00:38Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "[Teaser] Akita - 신도시 (Feat. 윤승)",
+                "description": "[Teaser] Akita - 신도시 (Feat. 윤승)\n2025. 9. 6. SAT 12PM\n\n#akita #신도시 #윤승 #teaser #에어뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NY5-YRpC_4o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NY5-YRpC_4o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NY5-YRpC_4o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NY5-YRpC_4o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NY5-YRpC_4o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Teaser] Akita - 신도시 (Feat. 윤승)",
+                    "description": "[Teaser] Akita - 신도시 (Feat. 윤승)\n2025. 9. 6. SAT 12PM\n\n#akita #신도시 #윤승 #teaser #에어뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "415",
+                "likeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "NE-fNOmEWMWA1X21-Vq57lJ4PPc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "hOW-6a9I9BHjfGRsEDTYooXCXlk",
+            "id": "4j42vRtgzYs",
+            "snippet": {
+                "publishedAt": "2024-08-04T12:00:05Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "[Teaser] 공기남 - Better (Feat. 1ho, 범준)",
+                "description": "[Teaser] 공기남 - Better (Feat. 1ho, 범준)\n\n2024. 08. 06 (Tue)  PM12:00 Release",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4j42vRtgzYs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4j42vRtgzYs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4j42vRtgzYs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4j42vRtgzYs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4j42vRtgzYs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "tags": [
+                    "에어뮤직",
+                    "에어맨",
+                    "공기남",
+                    "범준",
+                    "원호",
+                    "1ho",
+                    "airman",
+                    "airmusic",
+                    "신나는",
+                    "여름",
+                    "Better",
+                    "배러",
+                    "더나은",
+                    "청량한",
+                    "신곡",
+                    "인디",
+                    "kpop",
+                    "케이팝",
+                    "인디음악",
+                    "최신곡"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Teaser] 공기남 - Better (Feat. 1ho, 범준)",
+                    "description": "[Teaser] 공기남 - Better (Feat. 1ho, 범준)\n\n2024. 08. 06 (Tue)  PM12:00 Release"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M2S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "240",
+                "likeCount": "18",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

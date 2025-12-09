@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "G0elhl6L54tDYfTIC0mYWeX5-J0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "MfygJL8aRXOwi5bG7zDQY8RhHKo",
+            "id": "SkOJjRJGYes",
+            "snippet": {
+                "publishedAt": "2025-03-12T11:00:40Z",
+                "channelId": "UCYTNxR2Z4ryz88WRWiaPCdg",
+                "title": "Yanamie - Moshi moshi",
+                "description": "Yanamie - Moshi moshi \n\n🔊 If you find it interesting, Please Like Subscribe and Click on the notification bell 🔔 So you don't miss new videos :3\n⚡ Stream On Spotify : \n👉 Submit Demo to Intensity : \n💁 Support - Copyright : \n____________________________________\n☆ Follow - \n→ Soundcloud : \n→ Youtube :\n→ Twitter : \n\n➥ Please Share this Mix on Social sites ( Tik Tok, Facebook, Twitter, Thread etc. ) to more person could listen it !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SkOJjRJGYes/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SkOJjRJGYes/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SkOJjRJGYes/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SkOJjRJGYes/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SkOJjRJGYes/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "K - Music Sweet",
+                "tags": [
+                    "KMS",
+                    "K Sweet Music",
+                    "J-Pop",
+                    "Japan Music",
+                    "Kawaii Music",
+                    "Cute Music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Yanamie - Moshi moshi",
+                    "description": "Yanamie - Moshi moshi \n\n🔊 If you find it interesting, Please Like Subscribe and Click on the notification bell 🔔 So you don't miss new videos :3\n⚡ Stream On Spotify : \n👉 Submit Demo to Intensity : \n💁 Support - Copyright : \n____________________________________\n☆ Follow - \n→ Soundcloud : \n→ Youtube :\n→ Twitter : \n\n➥ Please Share this Mix on Social sites ( Tik Tok, Facebook, Twitter, Thread etc. ) to more person could listen it !"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3237",
+                "likeCount": "162",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

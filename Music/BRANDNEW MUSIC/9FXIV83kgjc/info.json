@@ -1,0 +1,76 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "_Duk3EL8h4u8TEkzCH1Cb8-ciDk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "8DTtUjP14SBRFQRYcM1pxzTn6oo",
+            "id": "9FXIV83kgjc",
+            "snippet": {
+                "publishedAt": "2020-09-17T09:00:01Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "범키 (BUMKEY) '여기저기거기 (COVID-19) (Feat. 수퍼비)' M/V TEASER",
+                "description": "범키 (BUMKEY) '여기저기거기 (COVID-19) (Feat. 수퍼비)' M/V TEASER\n\n범키 '여기저기거기' \n2020.09.18 6PM RELEASE\n\n범키(BUMKEY) Official @\nhttps://www.youtube.com/c/BUMKEYofficial\nhttp://www.twitter.com/BUMKEY\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music\n\n#범키 #여기저기거기 #COVID19 #BUMKEY #수퍼비 #SUPERBEE  #브랜뉴뮤직 #BRANDNEWMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9FXIV83kgjc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9FXIV83kgjc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9FXIV83kgjc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9FXIV83kgjc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9FXIV83kgjc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "tags": [
+                    "#브랜뉴뮤직",
+                    "#BRANDNEWMUSIC"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "범키 (BUMKEY) '여기저기거기 (COVID-19) (Feat. 수퍼비)' M/V TEASER",
+                    "description": "범키 (BUMKEY) '여기저기거기 (COVID-19) (Feat. 수퍼비)' M/V TEASER\n\n범키 '여기저기거기' \n2020.09.18 6PM RELEASE\n\n범키(BUMKEY) Official @\nhttps://www.youtube.com/c/BUMKEYofficial\nhttp://www.twitter.com/BUMKEY\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music\n\n#범키 #여기저기거기 #COVID19 #BUMKEY #수퍼비 #SUPERBEE  #브랜뉴뮤직 #BRANDNEWMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3151",
+                "likeCount": "402",
+                "favoriteCount": "0",
+                "commentCount": "15"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

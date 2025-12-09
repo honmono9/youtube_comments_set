@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "p0lEPs7AF6kDc3xDeGJ1EHvzK7Y",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Ib_ggxIzmcJoQ9wa3Zv5CH-MSKo",
+            "id": "aGBjh2EM3AI",
+            "snippet": {
+                "publishedAt": "2021-02-03T04:10:00Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "[MPMG WEEK 2021] 전화 상담 : 박한솔의 '뮤직 연애 솔루션'",
+                "description": "MPMG WEEK 2021 : 전화 상담\n박한솔의 “뮤직 연애 솔루션”\n연애에 대한 고민이 있을 때. 음악 처방전과 함께 힐링하고 가세요!\n\nMPMG WEEK 2021\n일시 : 2021년 1월 30일 (토) ~ 2월 6일 (토)\n장소 : MPMG (마포구 서강로 78)\n\n#MPMGWEEK2021​​​​ #솔루션스 #박한솔",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aGBjh2EM3AI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aGBjh2EM3AI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aGBjh2EM3AI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aGBjh2EM3AI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aGBjh2EM3AI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[MPMG WEEK 2021] 전화 상담 : 박한솔의 '뮤직 연애 솔루션'",
+                    "description": "MPMG WEEK 2021 : 전화 상담\n박한솔의 “뮤직 연애 솔루션”\n연애에 대한 고민이 있을 때. 음악 처방전과 함께 힐링하고 가세요!\n\nMPMG WEEK 2021\n일시 : 2021년 1월 30일 (토) ~ 2월 6일 (토)\n장소 : MPMG (마포구 서강로 78)\n\n#MPMGWEEK2021​​​​ #솔루션스 #박한솔"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1H21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "602",
+                "likeCount": "28",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

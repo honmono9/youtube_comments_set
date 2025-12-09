@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "xKrzdDp12TTgEYztWwr9j0JLOW8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "wqvFaGfeBFddvRf0YWcBfS7ysK4",
+            "id": "RPapOtIdAtU",
+            "snippet": {
+                "publishedAt": "2025-07-18T14:00:49Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "We Shall Overcome | Arr. Robert T. Gibson",
+                "description": "We Shall Overcome arranged by Robert T. Gibson. This piece is for SATB choirs with solo. \n\nRobert T. Gibson's setting of We Shall Overcome is dynamic and well-crafted. Attention has been paid to the construction of the vocals, which throughout the work act as accompaniment to the soloist. Requires an accomplished soloist and a strong choir. A beautiful sentiment for our times.\n\nPurchase the music: https://www.giamusic.com/store/resource/we-shall-overcome-print-ww1727\n\n#WeShallOvercome #Choral #WaltonMusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RPapOtIdAtU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RPapOtIdAtU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RPapOtIdAtU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RPapOtIdAtU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RPapOtIdAtU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "We Shall Overcome | Arr. Robert T. Gibson",
+                    "description": "We Shall Overcome arranged by Robert T. Gibson. This piece is for SATB choirs with solo. \n\nRobert T. Gibson's setting of We Shall Overcome is dynamic and well-crafted. Attention has been paid to the construction of the vocals, which throughout the work act as accompaniment to the soloist. Requires an accomplished soloist and a strong choir. A beautiful sentiment for our times.\n\nPurchase the music: https://www.giamusic.com/store/resource/we-shall-overcome-print-ww1727\n\n#WeShallOvercome #Choral #WaltonMusic"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT5M52S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "486",
+                "likeCount": "9",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

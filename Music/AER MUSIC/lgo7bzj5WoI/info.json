@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "jcL3m3l9Z4TiTYjqYN76yjap7q0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "G8TJf5nCdJCwmS4Meit2RPcmKFs",
+            "id": "lgo7bzj5WoI",
+            "snippet": {
+                "publishedAt": "2023-03-09T09:00:05Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[Behind] 남영주 (Nam Young Joo) 2023 프로필 촬영 비하인드",
+                "description": "남영주 (Nam Young Joo) 2023 프로필 촬영 비하인드\n\n#남영주 #namyoungjoo \n#profile #shooting\n#Behindthescenes \n#aermusic #아에르뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lgo7bzj5WoI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lgo7bzj5WoI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lgo7bzj5WoI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lgo7bzj5WoI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lgo7bzj5WoI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Behind] 남영주 (Nam Young Joo) 2023 프로필 촬영 비하인드",
+                    "description": "남영주 (Nam Young Joo) 2023 프로필 촬영 비하인드\n\n#남영주 #namyoungjoo \n#profile #shooting\n#Behindthescenes \n#aermusic #아에르뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT43S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1288",
+                "likeCount": "97",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

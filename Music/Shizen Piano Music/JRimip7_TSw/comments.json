@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "mvi1-M7Zm4tMkKEqUdhgjUM3m7c",
+        "id": "UgzTR0XVG46_eu3KESd4AaABAg",
+        "snippet": {
+            "channelId": "UCPxPvjsXfa6UJ30L3NAN-nQ",
+            "videoId": "JRimip7_TSw",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "z_jIlRo7np4CckLWrmy12TqG6bE",
+                "id": "UgzTR0XVG46_eu3KESd4AaABAg",
+                "snippet": {
+                    "channelId": "UCPxPvjsXfa6UJ30L3NAN-nQ",
+                    "videoId": "JRimip7_TSw",
+                    "textDisplay": "まるで映画の世界に戻ったような気持ちになります。",
+                    "textOriginal": "まるで映画の世界に戻ったような気持ちになります。",
+                    "authorDisplayName": "@GhibliWonderland",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/3AQz4QBZZrdFLqGZxbEii9XsupfT5AWGDDPM6SM8ppHh7sXA12at-MDQF75-XLQEnZIiRU307A=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@GhibliWonderland",
+                    "authorChannelId": {
+                        "value": "UCY2O2QOIwOB8qJH4G7T0bOg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-09-19T12:08:53Z",
+                    "updatedAt": "2025-09-19T12:08:53Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

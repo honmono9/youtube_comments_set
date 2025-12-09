@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "NsxFUpmGUQIhXPbiiJb4ldcBL4M",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "vHMrubMr3or3Yz4M10Kz-OHD1-M",
+            "id": "_XiZm_gwMbE",
+            "snippet": {
+                "publishedAt": "2025-11-19T14:00:59Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "The Pure in Heart | Patrick Hawes",
+                "description": "Movement 6 from \"Beatitudes\" that uses text from Matthew 5:8, \"Blessed are the pure in heart, for they shall see God.\" Excellent for both concerts and church services.\n\nhttps://www.giamusic.com/store/resour...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_XiZm_gwMbE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_XiZm_gwMbE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_XiZm_gwMbE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_XiZm_gwMbE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_XiZm_gwMbE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "The Pure in Heart | Patrick Hawes",
+                    "description": "Movement 6 from \"Beatitudes\" that uses text from Matthew 5:8, \"Blessed are the pure in heart, for they shall see God.\" Excellent for both concerts and church services.\n\nhttps://www.giamusic.com/store/resour..."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2M47S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "68",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

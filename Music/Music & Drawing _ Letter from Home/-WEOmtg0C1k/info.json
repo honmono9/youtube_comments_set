@@ -1,0 +1,81 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "B9u92lun_5gVk0RWO7hojSUGUZI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Ef_dWiq05SRFSlIpI-lch0OGYiU",
+            "id": "-WEOmtg0C1k",
+            "snippet": {
+                "publishedAt": "2025-08-20T10:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Elegant Autumn Jazz in Paris • Vintage Saxophone Café Music | Relaxing 1950s Oldies Instrumental",
+                "description": "Immerse yourself in the warm and nostalgic atmosphere of 1950s oldies jazz, featuring smooth vintage saxophone melodies.\nPerfect for cozy autumn evenings, reading, studying, or enjoying a cup of coffee at your favorite café.\n\n🎷 Vintage Saxophone & Jazz Trio\n🍂 Autumn Café Ambience in Paris\n☕ Relax, unwind, and let the golden era of jazz carry you away.\n\nThis playlist captures the essence of classic jazz from the 1950s, blending timeless saxophone tunes with the charm of autumn nights.\n\n#jazz #autumnjazz #instrumentaljazz #relaxingjazz #jazzinstrumental #relaxnightjazz #nightmusic #parisjazz #saxophone #saxophonejazz #saxophonemusic #1950smusic #oldies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-WEOmtg0C1k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-WEOmtg0C1k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-WEOmtg0C1k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-WEOmtg0C1k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "rain jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "saxophone jazz",
+                    "autumn jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Elegant Autumn Jazz in Paris • Vintage Saxophone Café Music | Relaxing 1950s Oldies Instrumental",
+                    "description": "Immerse yourself in the warm and nostalgic atmosphere of 1950s oldies jazz, featuring smooth vintage saxophone melodies.\nPerfect for cozy autumn evenings, reading, studying, or enjoying a cup of coffee at your favorite café.\n\n🎷 Vintage Saxophone & Jazz Trio\n🍂 Autumn Café Ambience in Paris\n☕ Relax, unwind, and let the golden era of jazz carry you away.\n\nThis playlist captures the essence of classic jazz from the 1950s, blending timeless saxophone tunes with the charm of autumn nights.\n\n#jazz #autumnjazz #instrumentaljazz #relaxingjazz #jazzinstrumental #relaxnightjazz #nightmusic #parisjazz #saxophone #saxophonejazz #saxophonemusic #1950smusic #oldies"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1234",
+                "likeCount": "32",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "7xpZald6NiyV8hzsJBZybAEnEDs",
+        "id": "Ugz7-UVZz4vwCo-T8vB4AaABAg",
+        "snippet": {
+            "channelId": "UCATxSCJz65QdZ5GpfXnPOpQ",
+            "videoId": "obujgd3Ew-w",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "lI9DXWpq4hh3i-QCSJHf0Tzw_2k",
+                "id": "Ugz7-UVZz4vwCo-T8vB4AaABAg",
+                "snippet": {
+                    "channelId": "UCATxSCJz65QdZ5GpfXnPOpQ",
+                    "videoId": "obujgd3Ew-w",
+                    "textDisplay": "จุ๊บ😮😮😮😅😅😅😊😊😊🎉🎉",
+                    "textOriginal": "จุ๊บ😮😮😮😅😅😅😊😊😊🎉🎉",
+                    "authorDisplayName": "@ThebestMobile-v7v",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_laowbR60Lv85DaL-1gkW1CI1Ge8ed3cejEr3plrfWmaFd8UJx0FOv7bqO0B0l7qqkXLg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@ThebestMobile-v7v",
+                    "authorChannelId": {
+                        "value": "UC4MkbImFfMmcZjiW-RqOJhQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2024-12-03T03:30:41Z",
+                    "updatedAt": "2024-12-03T03:30:41Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

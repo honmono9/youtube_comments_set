@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "5TblswPgiZu84J0xw5iN829bAwY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "XUXPhKkQ2s7mb3zb7QH9JBlhcZM",
+            "id": "hbpTyu765dM",
+            "snippet": {
+                "publishedAt": "2023-10-25T05:28:51Z",
+                "channelId": "UC2QOMTJ0Gz5vJPMl7KXkWaA",
+                "title": "HIPPY&HITOMI  PEACE STOCK 2023.11.12 NEW DIGITAL SINGLE OUT!!",
+                "description": "HIPPY&HITOMI  PEACE STOCK 2023.11.12 NEW DIGITAL SINGLE OUT!!\n\n広島から世界へ！平和の祭典「PEACE STOCK」のために書き下ろされた最新作。\n「君に捧げる応援歌」で大ヒットしたHIPPYと、数々のヒットソングを輩出してきた島谷ひとみがユニットで初登場！\n同郷の広島から世界に向けて平和の大切さを発信していく！\n\n\nPEACE STOCK 78’ HIROSHIMA 2023オフィシャルサイト\nhttps://peacestock.jp\n\n#島谷ひとみ\n#HIPPY\n#PEACE STOCK 78’ \n#広島",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hbpTyu765dM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hbpTyu765dM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hbpTyu765dM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hbpTyu765dM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hbpTyu765dM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HITOMI SHIMATANI MUSIC Official Youtube",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "HIPPY&HITOMI  PEACE STOCK 2023.11.12 NEW DIGITAL SINGLE OUT!!",
+                    "description": "HIPPY&HITOMI  PEACE STOCK 2023.11.12 NEW DIGITAL SINGLE OUT!!\n\n広島から世界へ！平和の祭典「PEACE STOCK」のために書き下ろされた最新作。\n「君に捧げる応援歌」で大ヒットしたHIPPYと、数々のヒットソングを輩出してきた島谷ひとみがユニットで初登場！\n同郷の広島から世界に向けて平和の大切さを発信していく！\n\n\nPEACE STOCK 78’ HIROSHIMA 2023オフィシャルサイト\nhttps://peacestock.jp\n\n#島谷ひとみ\n#HIPPY\n#PEACE STOCK 78’ \n#広島"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT2M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "35224",
+                "likeCount": "8089",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

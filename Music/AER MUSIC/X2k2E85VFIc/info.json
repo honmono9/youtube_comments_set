@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "k9NJODmhgbyHeV4MSiWxE8dh56M",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "WWfmU9klSM1r6LC6Zx7D6TYJegA",
+            "id": "X2k2E85VFIc",
+            "snippet": {
+                "publishedAt": "2023-02-10T03:00:28Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[Teaser] 홍이삭 - 휘 | 꼭두의 계절 OST Part.2",
+                "description": "홍이삭 - 휘 | 꼭두의 계절 OST Part.2\n2023.02.11 12PM (KST) Release\n\nLyrics by 김지향\nComposed by 서씨네, 서정진\nArranged by 서정진, 박경현\n\n#MBC드라마 #꼭두의계절 #OST \n#홍이삭 #휘\n#아에르뮤직 #AERMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X2k2E85VFIc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X2k2E85VFIc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X2k2E85VFIc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/X2k2E85VFIc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/X2k2E85VFIc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Teaser] 홍이삭 - 휘 | 꼭두의 계절 OST Part.2",
+                    "description": "홍이삭 - 휘 | 꼭두의 계절 OST Part.2\n2023.02.11 12PM (KST) Release\n\nLyrics by 김지향\nComposed by 서씨네, 서정진\nArranged by 서정진, 박경현\n\n#MBC드라마 #꼭두의계절 #OST \n#홍이삭 #휘\n#아에르뮤직 #AERMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M17S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3003",
+                "likeCount": "241",
+                "favoriteCount": "0",
+                "commentCount": "18"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

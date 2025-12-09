@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "cyxVy6n3bWpbMo1_FaOSk568em4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "SCwqOO9lgL8OZU4P7piIVuWHyBE",
+            "id": "yKG9Pryugzs",
+            "snippet": {
+                "publishedAt": "2025-08-07T13:01:56Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Love | Michael Engelhardt",
+                "description": "Love composed by Michael Engelhardt for unaccompanied SATB divisi choirs.\n\nGoing back to his jazz roots, composer Michael Engelhardt has penned a stunning new work for mixed choirs. The repetition of the word \"love\" allows singers and audiences to focus on its various meanings and implications. Challenging, but with an incredible impact.\n\nPurchase the music: https://www.giamusic.com/store/resource/love-print-ww1829\n\n#WaltonMusic #Choir #Choral",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yKG9Pryugzs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yKG9Pryugzs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yKG9Pryugzs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yKG9Pryugzs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yKG9Pryugzs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Love | Michael Engelhardt",
+                    "description": "Love composed by Michael Engelhardt for unaccompanied SATB divisi choirs.\n\nGoing back to his jazz roots, composer Michael Engelhardt has penned a stunning new work for mixed choirs. The repetition of the word \"love\" allows singers and audiences to focus on its various meanings and implications. Challenging, but with an incredible impact.\n\nPurchase the music: https://www.giamusic.com/store/resource/love-print-ww1829\n\n#WaltonMusic #Choir #Choral"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "150",
+                "likeCount": "7",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

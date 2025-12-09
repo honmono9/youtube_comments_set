@@ -1,0 +1,98 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "6ahjwTqhgRdQpvVEoSQRyP3AAOo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "PwMzz59TEH0VJQv1PEOur9MeeIY",
+            "id": "9V8V8IrGIp0",
+            "snippet": {
+                "publishedAt": "2025-12-02T14:40:35Z",
+                "channelId": "UCEbRSmzD8xASRlYq2OLmCrg",
+                "title": "[싱어게인4] 노래 속 변화하는 '61호 가수'의 음색에 대한 칭찬 일색💥 | 싱어게인4 8회 | JTBC 251202 방송",
+                "description": "노래 속 변화하는 '61호 가수'의 음색에 대한 칭찬 일색💥\n#싱어게인4 #61호가수 #심사평\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/singagain4",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9V8V8IrGIp0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9V8V8IrGIp0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9V8V8IrGIp0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9V8V8IrGIp0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9V8V8IrGIp0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JTBC Music",
+                "tags": [
+                    "싱어게인4",
+                    "싱어게인",
+                    "top10결정전",
+                    "61호",
+                    "Track11",
+                    "싱어게인4_61호",
+                    "61호Track11",
+                    "이소라",
+                    "심사평",
+                    "61호_심사평",
+                    "이승기",
+                    "윤종신",
+                    "임재범",
+                    "백지영",
+                    "김이나",
+                    "규현",
+                    "태연",
+                    "이해리",
+                    "코드쿤스트",
+                    "싱어게인_8회",
+                    "음악예능",
+                    "JTBC음악예능",
+                    "무명가수",
+                    "JTBC예능"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[싱어게인4] 노래 속 변화하는 '61호 가수'의 음색에 대한 칭찬 일색💥 | 싱어게인4 8회 | JTBC 251202 방송",
+                    "description": "노래 속 변화하는 '61호 가수'의 음색에 대한 칭찬 일색💥\n#싱어게인4 #61호가수 #심사평\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/singagain4"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M24S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "8133",
+                "likeCount": "47",
+                "favoriteCount": "0",
+                "commentCount": "18"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

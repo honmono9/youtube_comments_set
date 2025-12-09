@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "wU4qkMtfxAc9RGnNH2eaYCWIX5s",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "9cr2iSMbV5mU_kfZooRjTrgpT5U",
+            "id": "C87PAnWMzw0",
+            "snippet": {
+                "publishedAt": "2021-09-09T09:02:25Z",
+                "channelId": "UC8gRco988IELoTNTl4OBd2w",
+                "title": "비비 (BIBI) PADO Official M/V Teaser",
+                "description": "PADO 🌊 🌊 \n9.10.2021 내일 금요일! \n6PM KST\n\nYou are my wave! 🧜‍♀️🏝💦\n\n@nakedbibi\n\n#BIBI #PADO #파도 #波濤\n#비비",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C87PAnWMzw0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C87PAnWMzw0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C87PAnWMzw0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/C87PAnWMzw0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/C87PAnWMzw0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Feel Ghood Music [필굿뮤직]",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "비비 (BIBI) PADO Official M/V Teaser",
+                    "description": "PADO 🌊 🌊 \n9.10.2021 내일 금요일! \n6PM KST\n\nYou are my wave! 🧜‍♀️🏝💦\n\n@nakedbibi\n\n#BIBI #PADO #파도 #波濤\n#비비"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "12383",
+                "likeCount": "2020",
+                "favoriteCount": "0",
+                "commentCount": "130"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

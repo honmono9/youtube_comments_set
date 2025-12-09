@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "gFZpNIaXOByiWtsHDrarFjKM0n0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "bFg78QQiCSMwhAp4pmOyDSPeLyM",
+            "id": "Pm1auoKjlfo",
+            "snippet": {
+                "publishedAt": "2018-05-18T10:00:03Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "칸토 (KANTO) '시큰둥 (Salty)' M/V (PERFORMANCE VER..)",
+                "description": "#칸토 (#KANTO) '#시큰둥 (#Salty)' M/V (PERFORMANCE VER.)\n\n\n칸토(KANTO) Official @\nhttp://www.facebook.com/KANTOofficial\nhttp://www.instagram.com/choikanto\nhttp://twitter.com/kanto94\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music\n\n#브랜뉴뮤직 #BRANDNEWMUSIC #칸토 #KANTO #시큰둥 #Salty",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pm1auoKjlfo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pm1auoKjlfo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pm1auoKjlfo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Pm1auoKjlfo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Pm1auoKjlfo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "칸토 (KANTO) '시큰둥 (Salty)' M/V (PERFORMANCE VER..)",
+                    "description": "#칸토 (#KANTO) '#시큰둥 (#Salty)' M/V (PERFORMANCE VER.)\n\n\n칸토(KANTO) Official @\nhttp://www.facebook.com/KANTOofficial\nhttp://www.instagram.com/choikanto\nhttp://twitter.com/kanto94\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music\n\n#브랜뉴뮤직 #BRANDNEWMUSIC #칸토 #KANTO #시큰둥 #Salty"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "12616",
+                "likeCount": "861",
+                "favoriteCount": "0",
+                "commentCount": "54"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

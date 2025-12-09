@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "AwVXo902eYokFkpkXGgd1op0__E",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "0fHsHf6MNC9LmbpLEw2Q7QEE7F8",
+            "id": "W12DaVAeB4o",
+            "snippet": {
+                "publishedAt": "2025-11-10T14:30:59Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "The Offspring - Gone Away | Soul AI Cover",
+                "description": "Gone Away by The Offspring twisted into Soul Music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nMaybe in another life\nI could find you there\nPulled away before your time\nI can't deal, it's so unfair\n\nAnd it feels, and it feels like\nHeaven is so far away\nAnd it feels, yeah, it feels like\nThe world has grown cold\nNow that you've gone away\n\nLeaving flowers on your grave\nShow that I still care\nBlack roses and \"Hail Marys\"\nCan't bring back what's taken from me\n\nI reach to the sky and call out your name\nAnd if I could trade, I would\n\nAnd it feels, and it feels like\nHeaven is so far away\nAnd it stings, yeah, it stings, now\nThe world is so cold\nNow that you've gone away\n\nGone away, gone away\nYeah, yeah, yeah, yeah, yeah ooh\nYeah ooh, ooh-ooh-ooh, oh yeah\n\nI'll save your soul, whoa\nYeah, yeah-oh, ooh-ooh\n\nI reach to the sky and call out your name\nOh, please let me trade, I would\n\nAnd it feels, and it feels like\nHeaven is so far away\nAnd it feels, yeah, it feels like\nThe world has grown cold\nNow that you've gone away\n\nGone away, gone away\nYeah, yeah, yeah, yeah, yeah ooh\nYeah ooh, ooh-ooh-ooh, oh yeah\nYeah ooh, yeah ooh, ooh-ooh-ooh, oh yeah",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W12DaVAeB4o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W12DaVAeB4o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W12DaVAeB4o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/W12DaVAeB4o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/W12DaVAeB4o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "The Offspring - Gone Away | Soul AI Cover",
+                    "description": "Gone Away by The Offspring twisted into Soul Music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nMaybe in another life\nI could find you there\nPulled away before your time\nI can't deal, it's so unfair\n\nAnd it feels, and it feels like\nHeaven is so far away\nAnd it feels, yeah, it feels like\nThe world has grown cold\nNow that you've gone away\n\nLeaving flowers on your grave\nShow that I still care\nBlack roses and \"Hail Marys\"\nCan't bring back what's taken from me\n\nI reach to the sky and call out your name\nAnd if I could trade, I would\n\nAnd it feels, and it feels like\nHeaven is so far away\nAnd it stings, yeah, it stings, now\nThe world is so cold\nNow that you've gone away\n\nGone away, gone away\nYeah, yeah, yeah, yeah, yeah ooh\nYeah ooh, ooh-ooh-ooh, oh yeah\n\nI'll save your soul, whoa\nYeah, yeah-oh, ooh-ooh\n\nI reach to the sky and call out your name\nOh, please let me trade, I would\n\nAnd it feels, and it feels like\nHeaven is so far away\nAnd it feels, yeah, it feels like\nThe world has grown cold\nNow that you've gone away\n\nGone away, gone away\nYeah, yeah, yeah, yeah, yeah ooh\nYeah ooh, ooh-ooh-ooh, oh yeah\nYeah ooh, yeah ooh, ooh-ooh-ooh, oh yeah"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "612",
+                "likeCount": "31",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

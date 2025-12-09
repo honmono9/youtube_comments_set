@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "HAjaZmts-746qau0ntNMNS0C7MI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "e-VbbJ2EUD1a63niWQJujed9VG8",
+            "id": "U6ddMLkoqlE",
+            "snippet": {
+                "publishedAt": "2022-08-01T23:29:36Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "휴양지에 온 듯 한템포 쉬어가는 편안한 여름 음악",
+                "description": "photo by atman studios",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U6ddMLkoqlE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U6ddMLkoqlE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U6ddMLkoqlE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/U6ddMLkoqlE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/U6ddMLkoqlE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "여름 플리",
+                    "잔잔한 팝송",
+                    "여름 팝송",
+                    "팝송",
+                    "playlist",
+                    "summer songs"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "휴양지에 온 듯 한템포 쉬어가는 편안한 여름 음악",
+                    "description": "photo by atman studios"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT29M47S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "21900",
+                "likeCount": "464",
+                "favoriteCount": "0",
+                "commentCount": "66"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

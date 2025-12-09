@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "VwyM0mdS5b1_sgWXvARkkt7Y1xY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "rhZjZ14v54J7wQK3zxJlnrXldqg",
+            "id": "9jkkDG4Zxb8",
+            "snippet": {
+                "publishedAt": "2021-04-09T12:00:05Z",
+                "channelId": "UCYxyYe0yGYIlSaPDvwaO3TA",
+                "title": "How to make cool music",
+                "description": "#LG #gram #LGgram #laptop #light #napkins #napkinsmusic\n\nHow to make cool music\n\n*Information\n\n16” LG gram – Guinness World Record \nThe world’s lightest 16inch laptop\n16:10 Aspect Ratio in large screen to enhance the productivity, \nperfect for photo/video editing and music productions\nAll-day battery life, lasting up to 22 hrs.\n\nLG.com (US): https://bit.ly/2PXWJVE\nAmazon (US): https://geni.us/XN9D\n@lg_tech.it: https://geni.us/kwRI9Em",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9jkkDG4Zxb8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9jkkDG4Zxb8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9jkkDG4Zxb8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9jkkDG4Zxb8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9jkkDG4Zxb8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Napkins Music",
+                "tags": [
+                    "lg",
+                    "gram",
+                    "lg gram",
+                    "laptop",
+                    "how to",
+                    "how to make",
+                    "how to make cool music",
+                    "how to make music",
+                    "music",
+                    "napkins",
+                    "napkinsmusic",
+                    "bass"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "How to make cool music",
+                    "description": "#LG #gram #LGgram #laptop #light #napkins #napkinsmusic\n\nHow to make cool music\n\n*Information\n\n16” LG gram – Guinness World Record \nThe world’s lightest 16inch laptop\n16:10 Aspect Ratio in large screen to enhance the productivity, \nperfect for photo/video editing and music productions\nAll-day battery life, lasting up to 22 hrs.\n\nLG.com (US): https://bit.ly/2PXWJVE\nAmazon (US): https://geni.us/XN9D\n@lg_tech.it: https://geni.us/kwRI9Em"
+                },
+                "defaultAudioLanguage": "zxx"
+            },
+            "contentDetails": {
+                "duration": "PT2M10S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "34485",
+                "likeCount": "1054",
+                "favoriteCount": "0",
+                "commentCount": "71"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "zF2RxW9Kq9fSCvg5xgw8BGYvdNw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "1JYGjwao-Wwj3a2uTACj9tgvjOY",
+            "id": "qpSuUnjMbcc",
+            "snippet": {
+                "publishedAt": "2025-12-09T00:15:05Z",
+                "channelId": "UCwIiyFphTd-eTeLBvh8riNw",
+                "title": "[같은노래 다른매력 ♬하이난 사랑/권성희] 공소원/양지은/공서율/최윤하/나윤이/제이 #원곡커버곡 #k_music #trot #trotclass #신나는오후",
+                "description": "♬하이난 사랑/권성희\n\n코발트 빛 바다 늘어진\n야자수 아래\n아롱만 해변에서 처음 만난\n남국의 아가씨\n칵테일 한 잔 두 잔\n정들어 가는 하이난의 밤\n분위기에 취해서\n그 사랑에 취해서\n잊을 수 없는 정든 밤이여\n부서지는 파도 소리에\n둘이서 새긴 그 사랑\n젊음이 불타는 하이난의 밤\n아 아 잊지 못할 하이난의 밤\n\n검푸른 파도가 춤추는\n야자수 아래\n아롱만 해변에서 처음 만난\n남국의 그 사람\n연분홍 와인잔에\n정들어 가는 하이난의 밤\n분위기에 취해서\n그 사랑에 취해서\n잊을 수 없는 정든 밤이여\n부서지는 파도 소리에\n둘이서 새긴 그 사랑\n젊음이 불타는 하이난의 밤\n아 아 깊어가는 하이난의 밤\n아 아 깊어가는 하이난의 밤\n깊어가는 하이난의 밤",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qpSuUnjMbcc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qpSuUnjMbcc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qpSuUnjMbcc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qpSuUnjMbcc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qpSuUnjMbcc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "여수MBC Music+(Kpop&Trot)",
+                "tags": [
+                    "여수MBC",
+                    "여수MBC뮤직",
+                    "여수MBC Music+",
+                    "뮤직플러스",
+                    "트로트",
+                    "트로트메들리",
+                    "인기트로트",
+                    "trot",
+                    "ktrot"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[같은노래 다른매력 ♬하이난 사랑/권성희] 공소원/양지은/공서율/최윤하/나윤이/제이 #원곡커버곡 #k_music #trot #trotclass #신나는오후",
+                    "description": "♬하이난 사랑/권성희\n\n코발트 빛 바다 늘어진\n야자수 아래\n아롱만 해변에서 처음 만난\n남국의 아가씨\n칵테일 한 잔 두 잔\n정들어 가는 하이난의 밤\n분위기에 취해서\n그 사랑에 취해서\n잊을 수 없는 정든 밤이여\n부서지는 파도 소리에\n둘이서 새긴 그 사랑\n젊음이 불타는 하이난의 밤\n아 아 잊지 못할 하이난의 밤\n\n검푸른 파도가 춤추는\n야자수 아래\n아롱만 해변에서 처음 만난\n남국의 그 사람\n연분홍 와인잔에\n정들어 가는 하이난의 밤\n분위기에 취해서\n그 사랑에 취해서\n잊을 수 없는 정든 밤이여\n부서지는 파도 소리에\n둘이서 새긴 그 사랑\n젊음이 불타는 하이난의 밤\n아 아 깊어가는 하이난의 밤\n아 아 깊어가는 하이난의 밤\n깊어가는 하이난의 밤"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT20M8S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "92",
+                "likeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

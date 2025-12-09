@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "EZH-xPap8DnKCqgBBDaJ35YcG4o",
+        "id": "UgxgRmDwxoyAfyIwTa94AaABAg",
+        "snippet": {
+            "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+            "videoId": "zg3I1Cz7LH0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "ixVgqiptHW6Q4YUh6-GnofTQAGo",
+                "id": "UgxgRmDwxoyAfyIwTa94AaABAg",
+                "snippet": {
+                    "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+                    "videoId": "zg3I1Cz7LH0",
+                    "textDisplay": "Bunun alevi deyisi \"gercek yola girme\" ilgisi yok. Artik deyislerimizi, nefeslerimizi kendi zikirlerinize alet etmeyin ey sofular kendi karanlik yolunuza kendi ilahilerinizle gidin,",
+                    "textOriginal": "Bunun alevi deyisi \"gercek yola girme\" ilgisi yok. Artik deyislerimizi, nefeslerimizi kendi zikirlerinize alet etmeyin ey sofular kendi karanlik yolunuza kendi ilahilerinizle gidin,",
+                    "authorDisplayName": "@rahimepektas1565",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ktG-rcE5f7rHajAENvTZILmGtz2Dwx26FUmXj8EsA-zA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@rahimepektas1565",
+                    "authorChannelId": {
+                        "value": "UCO5QW8frwXWoTZOg9SfUETQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-08-30T19:16:11Z",
+                    "updatedAt": "2025-08-30T19:16:11Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

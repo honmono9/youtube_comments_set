@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "XBDh5_tAl-FOYagtXsGb5uLwnx4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "qzf_4kfnBAeEsTMZ6DhrfsZjpS4",
+            "id": "YHZ9vTKaM0Y",
+            "snippet": {
+                "publishedAt": "2019-03-16T08:40:35Z",
+                "channelId": "UC6DbQObO-YiG5y3ojp0nZyA",
+                "title": "Johnjohn  - Solo Dolo feat. Koala",
+                "description": "JohnJohn X Koala - Solo Dolo M/V\n\nBobblehead Music presents their first single \"Solo Dolo\" featuring artists \"JohnJohn\" and \"Koala\". All raised in the Southern California region bringing that Cali style music back to their home country so that the people can experience and enjoy a new type of style in the hip hop genre.\n\nListen here:  Available on all music platforms\n--\nCamera Director: Starfield Kambo\nPD: Angelina Kang\n\nJohnJohn & Koala\nInstagram: https://www.instagram.com/alaokxv\nInstagram: https://www.instagram.com/johnjizzle \n\nBobblehead Music\nhttps://www.instagram.com/bobbleheadmusicws",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YHZ9vTKaM0Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YHZ9vTKaM0Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YHZ9vTKaM0Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YHZ9vTKaM0Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YHZ9vTKaM0Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bobblehead Music",
+                "tags": [
+                    "westcoast",
+                    "hiphop",
+                    "solo",
+                    "dolo",
+                    "bobblehead",
+                    "music",
+                    "kpop",
+                    "rap",
+                    "johnjohn",
+                    "koala",
+                    "la",
+                    "california",
+                    "los angeles",
+                    "seoul",
+                    "korea"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Johnjohn  - Solo Dolo feat. Koala",
+                    "description": "JohnJohn X Koala - Solo Dolo M/V\n\nBobblehead Music presents their first single \"Solo Dolo\" featuring artists \"JohnJohn\" and \"Koala\". All raised in the Southern California region bringing that Cali style music back to their home country so that the people can experience and enjoy a new type of style in the hip hop genre.\n\nListen here:  Available on all music platforms\n--\nCamera Director: Starfield Kambo\nPD: Angelina Kang\n\nJohnJohn & Koala\nInstagram: https://www.instagram.com/alaokxv\nInstagram: https://www.instagram.com/johnjizzle \n\nBobblehead Music\nhttps://www.instagram.com/bobbleheadmusicws"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "42783",
+                "likeCount": "595",
+                "favoriteCount": "0",
+                "commentCount": "22"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

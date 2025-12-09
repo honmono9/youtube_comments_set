@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ng0KmywoVehGPI8iR_2_0q4l6BQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "neHqOjzwMcHJDQIVdwdJu9Sk77I",
+            "id": "r3iUoOWxgsw",
+            "snippet": {
+                "publishedAt": "2025-08-27T09:01:24Z",
+                "channelId": "UC3fPnB3ds2xBY1PTtgkCCYw",
+                "title": "신랑 : 아니 진짜 내친구 세계랭킹1위 DJ라니까?🫢",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r3iUoOWxgsw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r3iUoOWxgsw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r3iUoOWxgsw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/r3iUoOWxgsw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/r3iUoOWxgsw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ASTER MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "신랑 : 아니 진짜 내친구 세계랭킹1위 DJ라니까?🫢",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "32566",
+                "likeCount": "322",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

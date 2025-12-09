@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "vKg1lVlrCDscCdjN7eHIGEJaf_o",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "lbnrZrRKqtMLPHkZ9gIrRjXuUqI",
+            "id": "XI27tFo6_CU",
+            "snippet": {
+                "publishedAt": "2023-12-08T09:00:23Z",
+                "channelId": "UCE4IM82TdhmOl4Qtn8nsaGQ",
+                "title": "[Official Audio] NO:EL - 23'F/W Full Album Audio",
+                "description": "#노엘 #23FW #Audio\n#NOEL\nNO:EL - '23'F/W' Full Album Audio\n\n00:00:00 01. Behind the scene\n00:01:55 02. LIFE\n00:05:28 03. 무거워\n00:09:13 04. Ride or die Pt.2\n00:12:22 05. Pain Killer (Feat. Yescoba)\n00:15:02 06. 230611 Freestyle\n00:18:16 07. High and low (Feat. hiko)\n00:21:27 08. WACK (Feat. Street Baby)\n\n__\n\n[NO:EL]\n\nSpotify\nhttps://han.gl/ajYVtB\n\nApple Music\nhttps://han.gl/zeXBgW\n\n__\n\n(C) 2023 Indigo Music Corp.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XI27tFo6_CU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XI27tFo6_CU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XI27tFo6_CU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XI27tFo6_CU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XI27tFo6_CU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AP Alchemy It's Indigo Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[Official Audio] NO:EL - 23'F/W Full Album Audio",
+                    "description": "#노엘 #23FW #Audio\n#NOEL\nNO:EL - '23'F/W' Full Album Audio\n\n00:00:00 01. Behind the scene\n00:01:55 02. LIFE\n00:05:28 03. 무거워\n00:09:13 04. Ride or die Pt.2\n00:12:22 05. Pain Killer (Feat. Yescoba)\n00:15:02 06. 230611 Freestyle\n00:18:16 07. High and low (Feat. hiko)\n00:21:27 08. WACK (Feat. Street Baby)\n\n__\n\n[NO:EL]\n\nSpotify\nhttps://han.gl/ajYVtB\n\nApple Music\nhttps://han.gl/zeXBgW\n\n__\n\n(C) 2023 Indigo Music Corp."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT25M17S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "7972",
+                "likeCount": "136",
+                "favoriteCount": "0",
+                "commentCount": "17"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

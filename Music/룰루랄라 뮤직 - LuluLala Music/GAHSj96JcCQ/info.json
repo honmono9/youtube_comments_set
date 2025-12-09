@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "P31Tx4UtCuW3R-stIpIMweKGHns",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Bx0TTG5AdzGJ5cBMl3D37-Dtm7E",
+            "id": "GAHSj96JcCQ",
+            "snippet": {
+                "publishedAt": "2019-08-16T11:00:04Z",
+                "channelId": "UC3kgosidfK3i_47Q2otmmGw",
+                "title": "믿고 듣는 신용 카드(KARD)?! 런웨이브를 불태운 ‘Bomb Bomb’ 라이브 무대",
+                "description": "✅ [런웨이브] 8화의 풀영상과 무대직캠을 보고싶다면?\n👉 아이돌라이브에서 보기: http://bit.ly/2Z2KE0m\n\nK-pop 아이돌들의 스토리텔링 뮤직 토크쇼!\n\n런웨이브 [RUN.wav ▶ HIGHLIGHT] 카드(KARD) - ‘Bomb Bomb’\n \n#런웨이브 #KARD #룰루랄라뮤직 #LululalaMusic #BombBomb\n\n👉 룰루랄라 뮤직 구독하기: https://www.youtube.com/lululalamusic\n👉 룰루랄라 뮤직은 스튜디오룰루랄라의 새로운 음악 채널입니다. 구독, 좋아요로 응원해주세요♥\n\nLululala music is the Music channel of JTBC Digital Studio Lululala\nSet up a subscription + alarm and be first to meet the contents of Lululala music\nSubscribe 👉 https://www.youtube.com/lululalamusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GAHSj96JcCQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GAHSj96JcCQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GAHSj96JcCQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GAHSj96JcCQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GAHSj96JcCQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "룰루랄라 뮤직 - LuluLala Music",
+                "tags": [
+                    "런웨이브",
+                    "run.wav",
+                    "jtbc",
+                    "studiolululala",
+                    "lululalamusic",
+                    "카드",
+                    "kard",
+                    "bombbomb",
+                    "kpop",
+                    "boyband",
+                    "idol"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "믿고 듣는 신용 카드(KARD)?! 런웨이브를 불태운 ‘Bomb Bomb’ 라이브 무대",
+                    "description": "✅ [런웨이브] 8화의 풀영상과 무대직캠을 보고싶다면?\n👉 아이돌라이브에서 보기: http://bit.ly/2Z2KE0m\n\nK-pop 아이돌들의 스토리텔링 뮤직 토크쇼!\n\n런웨이브 [RUN.wav ▶ HIGHLIGHT] 카드(KARD) - ‘Bomb Bomb’\n \n#런웨이브 #KARD #룰루랄라뮤직 #LululalaMusic #BombBomb\n\n👉 룰루랄라 뮤직 구독하기: https://www.youtube.com/lululalamusic\n👉 룰루랄라 뮤직은 스튜디오룰루랄라의 새로운 음악 채널입니다. 구독, 좋아요로 응원해주세요♥\n\nLululala music is the Music channel of JTBC Digital Studio Lululala\nSet up a subscription + alarm and be first to meet the contents of Lululala music\nSubscribe 👉 https://www.youtube.com/lululalamusic"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M2S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "399297",
+                "likeCount": "25314",
+                "favoriteCount": "0",
+                "commentCount": "469"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

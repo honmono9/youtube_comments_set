@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "wArHwGfmU-PfuAaMCiVsZZD3vxA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "4IW7mhD4Kw8hy2MRREuKWvC1oYU",
+            "id": "utDBQ4xusvQ",
+            "snippet": {
+                "publishedAt": "2021-06-23T09:00:18Z",
+                "channelId": "UCE4IM82TdhmOl4Qtn8nsaGQ",
+                "title": "[Track Video] 양홍원 - 사계",
+                "description": "·iTunes ▶ https://apple.co/3vGGhs0\n·Apple Music ▶ https://apple.co/3zKRD1r\n·Spotify ▶ https://spoti.fi/2SiV7r8\n·melon ▶ https://bit.ly/3iT2nEX\n·Bugs ▶ https://bit.ly/3zDTW6j\n·FLO ▶ https://bit.ly/3zA5eZk\n·Naver VIBE ▶ https://bit.ly/2S9juHy\n·genie ▶ https://bit.ly/3gENRPx\n\n- - - - -\n\n[Credits]\n·Lyrics by 양홍원\n·Composed by 양홍원, 방자, Panda Gomm\n·Arranged by 방자, Panda Gomm\n·Mixed by 방자, Panda Gomm\n·Mastered by 최효영 @SUONO Mastering\n·Video Directed by eehosoo @cpbeq\n\n- - - - -\n\n[Official Channel]\n·양홍원 (YANGHONGWON) : https://instagram.com/yanghongwon\n·인디고뮤직 (Indigo Music) : http://indigomusic3.com\nhttp://instagram.com/indigomusic_official\n\n- - - - -\n\n#양홍원 #YANGHONGWON #사계 #4Seasons\n#오보에 #3STEPSFORWARD2STEPSBACK",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/utDBQ4xusvQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/utDBQ4xusvQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/utDBQ4xusvQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/utDBQ4xusvQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/utDBQ4xusvQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AP Alchemy It's Indigo Music",
+                "tags": [
+                    "양홍원",
+                    "YANGHONGWON",
+                    "오보에",
+                    "3STEPSFORWARD2STEPSBACK",
+                    "영비",
+                    "youngb",
+                    "인디고",
+                    "인디고뮤직",
+                    "indigo",
+                    "im",
+                    "imjm",
+                    "imjmwdp",
+                    "사계",
+                    "4Seasons"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Track Video] 양홍원 - 사계",
+                    "description": "·iTunes ▶ https://apple.co/3vGGhs0\n·Apple Music ▶ https://apple.co/3zKRD1r\n·Spotify ▶ https://spoti.fi/2SiV7r8\n·melon ▶ https://bit.ly/3iT2nEX\n·Bugs ▶ https://bit.ly/3zDTW6j\n·FLO ▶ https://bit.ly/3zA5eZk\n·Naver VIBE ▶ https://bit.ly/2S9juHy\n·genie ▶ https://bit.ly/3gENRPx\n\n- - - - -\n\n[Credits]\n·Lyrics by 양홍원\n·Composed by 양홍원, 방자, Panda Gomm\n·Arranged by 방자, Panda Gomm\n·Mixed by 방자, Panda Gomm\n·Mastered by 최효영 @SUONO Mastering\n·Video Directed by eehosoo @cpbeq\n\n- - - - -\n\n[Official Channel]\n·양홍원 (YANGHONGWON) : https://instagram.com/yanghongwon\n·인디고뮤직 (Indigo Music) : http://indigomusic3.com\nhttp://instagram.com/indigomusic_official\n\n- - - - -\n\n#양홍원 #YANGHONGWON #사계 #4Seasons\n#오보에 #3STEPSFORWARD2STEPSBACK"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M14S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "301922",
+                "likeCount": "4137",
+                "favoriteCount": "0",
+                "commentCount": "375"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

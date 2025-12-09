@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "pfzqPB9DBva70baGQt9XIQZCgKk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "rFx3Chh3vzcTQW_6ECi2PPdrqas",
+            "id": "Fj7KVL8-KBg",
+            "snippet": {
+                "publishedAt": "2020-09-09T14:31:41Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "Philippine Traditional Music in Popular Culture",
+                "description": "Speaker: Teresa \"Tusa\" Montes.\nSeptember 8, 2020\n1 PM",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Fj7KVL8-KBg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Fj7KVL8-KBg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Fj7KVL8-KBg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Fj7KVL8-KBg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Fj7KVL8-KBg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Philippine Traditional Music in Popular Culture",
+                    "description": "Speaker: Teresa \"Tusa\" Montes.\nSeptember 8, 2020\n1 PM"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H28M17S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "930",
+                "likeCount": "14",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "4P4mD2sflIxm17kjmEEX6KdzN_Y",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "eJPR04vjyJ4JK57H0P0TYMrgQgw",
+            "id": "a7CZRfp9o5Q",
+            "snippet": {
+                "publishedAt": "2025-11-21T19:19:20Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Pearl Jam - Alive | Soul AI Cover",
+                "description": "Alive by Pearl Jam twisted into Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\n\"Son,\" she said, \"have I got a little story for you\nWhat you thought was your daddy was nothing but a\nWhile you were sitting home alone at age thirteen\nYour real daddy was dying\nSorry you didn't see him, but I'm glad we talked\"\n\nOh, I, oh I'm still alive\nHey, I, oh I'm still alive\nHey, I, oh I'm still alive\nHey, oh\n\nWhile she walks slowly across a young man's room\nShe said, \"I'm ready for you\"\nWhy I can't remember anything to this very day\n'Cept the look, the look\nOh, you know where, now I can't see I just stare\n\nI, I'm still alive\nHey, I, oh, I'm still alive\nHey, I, oh, I'm still alive\nHey, I, oh, I'm still alive, yeah\nOoh yeah, yeah, yeah, yeah, oh, ooh\n\n\"Is something wrong\", she said, of course there is\n\"You're still alive,\" she said, oh, and do I deserve to be?\nIs that the question?\nAnd if so, if so who answers?\nWho answers?\n\nI, oh I'm still alive\nHey, I, oh I'm still alive\nYeah, I, oh I'm still alive\nYeah, I\nOoh, I'm still alive!\nYeah yeah yeah yeah yeah yeah yeah!\n\nOoh yeah, ooh ooh\nOoh yeah, yeah yeah yeah",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a7CZRfp9o5Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a7CZRfp9o5Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a7CZRfp9o5Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/a7CZRfp9o5Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/a7CZRfp9o5Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Pearl Jam - Alive | Soul AI Cover",
+                    "description": "Alive by Pearl Jam twisted into Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\n\"Son,\" she said, \"have I got a little story for you\nWhat you thought was your daddy was nothing but a\nWhile you were sitting home alone at age thirteen\nYour real daddy was dying\nSorry you didn't see him, but I'm glad we talked\"\n\nOh, I, oh I'm still alive\nHey, I, oh I'm still alive\nHey, I, oh I'm still alive\nHey, oh\n\nWhile she walks slowly across a young man's room\nShe said, \"I'm ready for you\"\nWhy I can't remember anything to this very day\n'Cept the look, the look\nOh, you know where, now I can't see I just stare\n\nI, I'm still alive\nHey, I, oh, I'm still alive\nHey, I, oh, I'm still alive\nHey, I, oh, I'm still alive, yeah\nOoh yeah, yeah, yeah, yeah, oh, ooh\n\n\"Is something wrong\", she said, of course there is\n\"You're still alive,\" she said, oh, and do I deserve to be?\nIs that the question?\nAnd if so, if so who answers?\nWho answers?\n\nI, oh I'm still alive\nHey, I, oh I'm still alive\nYeah, I, oh I'm still alive\nYeah, I\nOoh, I'm still alive!\nYeah yeah yeah yeah yeah yeah yeah!\n\nOoh yeah, ooh ooh\nOoh yeah, yeah yeah yeah"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1302",
+                "likeCount": "37",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

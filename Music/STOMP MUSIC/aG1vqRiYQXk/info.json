@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "0z7d_35wkZxRvGm7fypMVkHC2yE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "M2Ab_s-0tkJBTXfVE7WneI3z7_w",
+            "id": "aG1vqRiYQXk",
+            "snippet": {
+                "publishedAt": "2021-10-01T04:02:31Z",
+                "channelId": "UCEhxA_aRk5gPi7PbzvmkSlg",
+                "title": "[BGM] 스타벅스에서 흘러나오던 그 음악🎷 | 재즈 PLAYLIST",
+                "description": "카페에서 듣던 그 음악,\n방구석도 스타벅스로 만들어주는 감각적인 재즈 플레이리스트🎻\n\nThe music that was playing at the cafe.\nJazz playlist that makes you Starbucks where you are now.\n\n* 영상에 포함된 광고는 유튜브에서 자동으로 삽입되며, 광고로 인한 수익은 저작권자에게 돌아갑니다.\n\n#재즈 #카페 #BGM",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aG1vqRiYQXk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aG1vqRiYQXk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aG1vqRiYQXk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aG1vqRiYQXk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aG1vqRiYQXk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "STOMP MUSIC",
+                "tags": [
+                    "스타벅스",
+                    "재즈플레이리스트",
+                    "홈카페",
+                    "스벅",
+                    "스벅플리",
+                    "스벅음악",
+                    "jazz",
+                    "카페음악",
+                    "잔잔한음악",
+                    "cafe",
+                    "스벅 플레이리스트",
+                    "starbucks music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[BGM] 스타벅스에서 흘러나오던 그 음악🎷 | 재즈 PLAYLIST",
+                    "description": "카페에서 듣던 그 음악,\n방구석도 스타벅스로 만들어주는 감각적인 재즈 플레이리스트🎻\n\nThe music that was playing at the cafe.\nJazz playlist that makes you Starbucks where you are now.\n\n* 영상에 포함된 광고는 유튜브에서 자동으로 삽입되며, 광고로 인한 수익은 저작권자에게 돌아갑니다.\n\n#재즈 #카페 #BGM"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4H59M45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2099",
+                "likeCount": "43",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

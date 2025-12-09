@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "p3PGDdgjLrDDwVdrGT7EqtETMPk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "W54YWqLDUtFp9F5vd0ohQVY2KPw",
+            "id": "pnr22Dj2TwI",
+            "snippet": {
+                "publishedAt": "2025-10-01T23:22:38Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "Cafe Playlist ☕ 햇살을 닮은 감성 플레이리스트 🎶🌿",
+                "description": "A gentle breeze, warm sunlight, and soft melodies – this playlist captures the serene vibe of May.\nEnjoy a peaceful moment with calm, cozy tunes perfect for your cafe or quiet day at home.\nAll tracks are original and copyright belongs to this channel. Please do not re-upload.\n\n#CafeMusic #MayVibes #플레이리스트 #감성음악 #잔잔한음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pnr22Dj2TwI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pnr22Dj2TwI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pnr22Dj2TwI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pnr22Dj2TwI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pnr22Dj2TwI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Cafe Playlist ☕ 햇살을 닮은 감성 플레이리스트 🎶🌿",
+                    "description": "A gentle breeze, warm sunlight, and soft melodies – this playlist captures the serene vibe of May.\nEnjoy a peaceful moment with calm, cozy tunes perfect for your cafe or quiet day at home.\nAll tracks are original and copyright belongs to this channel. Please do not re-upload.\n\n#CafeMusic #MayVibes #플레이리스트 #감성음악 #잔잔한음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8H5M2S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2925",
+                "likeCount": "30",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

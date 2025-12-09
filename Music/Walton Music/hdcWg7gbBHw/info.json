@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "BdNvp4uc-Rrrn5wy61Q2VyQKYOA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "j4pNq-6m8Nkexo7cd0um6-NRQds",
+            "id": "hdcWg7gbBHw",
+            "snippet": {
+                "publishedAt": "2025-08-25T13:01:21Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Midnight Song | Steven Aldredge",
+                "description": "Evoking the tranquil atmosphere of a quiet winter night, Midnight Song for SSAA choir uses lush harmonies and flowing melodic lines along with a sensitive piano accompaniment. This work is suited to high school choirs and above, and will allow audiences and singers the chance to explore a new depth of expression.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hdcWg7gbBHw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hdcWg7gbBHw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hdcWg7gbBHw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hdcWg7gbBHw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hdcWg7gbBHw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Midnight Song | Steven Aldredge",
+                    "description": "Evoking the tranquil atmosphere of a quiet winter night, Midnight Song for SSAA choir uses lush harmonies and flowing melodic lines along with a sensitive piano accompaniment. This work is suited to high school choirs and above, and will allow audiences and singers the chance to explore a new depth of expression."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT5M7S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "146",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

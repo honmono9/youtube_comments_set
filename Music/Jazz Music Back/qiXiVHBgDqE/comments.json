@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "YmW3n55h0jBY3Mm5VE_6omRWHg0",
+        "id": "Ugy2I9SEp2HJ2xCn-xN4AaABAg",
+        "snippet": {
+            "channelId": "UCxWfuzrNR2jjAnWUh8o8ycA",
+            "videoId": "qiXiVHBgDqE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "rPx5fdLBpU6Fe6m5kCIV-VCFTaE",
+                "id": "Ugy2I9SEp2HJ2xCn-xN4AaABAg",
+                "snippet": {
+                    "channelId": "UCxWfuzrNR2jjAnWUh8o8ycA",
+                    "videoId": "qiXiVHBgDqE",
+                    "textDisplay": "Beautiful Music.....I am listening from South Africa.  It is a perfect way to get your day started.  The time is 08h03",
+                    "textOriginal": "Beautiful Music.....I am listening from South Africa.  It is a perfect way to get your day started.  The time is 08h03",
+                    "authorDisplayName": "@abrahammotsoane-learningev6232",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kKS6_xL4eB8m8o0QhrC2JTPSkOXD8eUIh-Bel6fUyULj0=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@abrahammotsoane-learningev6232",
+                    "authorChannelId": {
+                        "value": "UCjjwzh_rbRGTMqGIZ6AkDAA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-14T06:03:57Z",
+                    "updatedAt": "2025-11-14T06:03:57Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

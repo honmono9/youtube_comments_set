@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "bWPAkefbpcQCUOaNAY5fV2fIFXg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "-CpjZEncMVuZujLYumNrm-wgh24",
+            "id": "dift9DWDUo8",
+            "snippet": {
+                "publishedAt": "2025-08-29T13:01:21Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "For This Joy (SSAA) | arr. Susan LaBarr, adapted by Parker Payne",
+                "description": "For this Joy is scored for SSAA choir, piano, and clarinet. \n\nFor This Joy is a modern arrangement of the Lobe Den Herren hymn tune, with a new, ecumenical text written by poet Charles Anthony Silvestri. The text focuses on the richness of life and creation and the joy that is found in all aspects of life.\n\nPurchase the music: https://giamusic.com/resource/for-this-joy-ssaa-printed-music-ww2128\n\nAlso available for SATB voicing: https://giamusic.com/resource/for-this-joy-print-ww1917",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dift9DWDUo8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dift9DWDUo8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dift9DWDUo8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dift9DWDUo8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dift9DWDUo8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "For This Joy (SSAA) | arr. Susan LaBarr, adapted by Parker Payne",
+                    "description": "For this Joy is scored for SSAA choir, piano, and clarinet. \n\nFor This Joy is a modern arrangement of the Lobe Den Herren hymn tune, with a new, ecumenical text written by poet Charles Anthony Silvestri. The text focuses on the richness of life and creation and the joy that is found in all aspects of life.\n\nPurchase the music: https://giamusic.com/resource/for-this-joy-ssaa-printed-music-ww2128\n\nAlso available for SATB voicing: https://giamusic.com/resource/for-this-joy-print-ww1917"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1529",
+                "likeCount": "17",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

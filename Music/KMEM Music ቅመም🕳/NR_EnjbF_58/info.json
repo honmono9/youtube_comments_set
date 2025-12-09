@@ -1,0 +1,73 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Ui2L9fXx1nF0EASBEi-5qxlsDwo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "8OCb6VS7YJjvXcnPPk6LPGnu48k",
+            "id": "NR_EnjbF_58",
+            "snippet": {
+                "publishedAt": "2024-02-10T17:24:34Z",
+                "channelId": "UCH1VQkBY5lN73--RjIwIHqw",
+                "title": "ነይ መላ _ Ethiopian new music _ney mela 2024",
+                "description": "#music #drill #ethiopiamusic #kmemmusic #donkeytube@raptony#ethiopiannewmusic #newethiopianmusic2024 #admasmusic  #admasamharic  #admasethiopia #neymela #trending #trendingvideo#ነይመላ#youtubeshorts",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NR_EnjbF_58/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NR_EnjbF_58/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NR_EnjbF_58/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NR_EnjbF_58/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "KMEM Music ቅመም🕳",
+                "tags": [
+                    "#kmemmusic",
+                    "#driil",
+                    "#ethiopiamusic",
+                    "#music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "arc",
+                "localized": {
+                    "title": "ነይ መላ _ Ethiopian new music _ney mela 2024",
+                    "description": "#music #drill #ethiopiamusic #kmemmusic #donkeytube@raptony#ethiopiannewmusic #newethiopianmusic2024 #admasmusic  #admasamharic  #admasethiopia #neymela #trending #trendingvideo#ነይመላ#youtubeshorts"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "67209",
+                "likeCount": "388",
+                "favoriteCount": "0",
+                "commentCount": "20"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

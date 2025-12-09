@@ -1,0 +1,91 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Hj2TLdI4MWNjG2d_S24Wz-G5nJs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "TXFUPvKkg250IIcdHm_vYUggN5A",
+            "id": "xQS7cx61oj8",
+            "snippet": {
+                "publishedAt": "2022-01-19T09:00:29Z",
+                "channelId": "UCE4IM82TdhmOl4Qtn8nsaGQ",
+                "title": "[Audio] 키드밀리 (Kid Milli) - Summer (Feat. 박재범)",
+                "description": "키드밀리 (Kid Milli) 싱글 [Summer]\n\n- - - - -\n\n🎵 듣기 (Listen and download on your platform) :\nhttps://KidMilli.lnk.to/Summer\n\n01 Summer (Feat. 박재범)\n\n- - - - -\n\n[Official Channel]\n·키드밀리 (Kid Milli) : https://instagram.com/kidcozyboy\n·인디고뮤직 (Indigo Music) : http://indigomusic3.com\nhttps://www.instagram.com/indigomusic_official\n\n- - - - -\n\n#KidMilli #키드밀리 \n#JayPark #박재범 \n#Summer #썸머",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xQS7cx61oj8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xQS7cx61oj8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xQS7cx61oj8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xQS7cx61oj8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xQS7cx61oj8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AP Alchemy It's Indigo Music",
+                "tags": [
+                    "키드밀리",
+                    "Kid Milli",
+                    "Summer",
+                    "썸머",
+                    "박재범",
+                    "Jay Park",
+                    "키드밀리 박재범",
+                    "인디고뮤직",
+                    "indigo music",
+                    "IM",
+                    "인디고",
+                    "indigo",
+                    "킫밀",
+                    "최원재",
+                    "킫밀리",
+                    "키드밀리 썸머",
+                    "kid milli summer"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Audio] 키드밀리 (Kid Milli) - Summer (Feat. 박재범)",
+                    "description": "키드밀리 (Kid Milli) 싱글 [Summer]\n\n- - - - -\n\n🎵 듣기 (Listen and download on your platform) :\nhttps://KidMilli.lnk.to/Summer\n\n01 Summer (Feat. 박재범)\n\n- - - - -\n\n[Official Channel]\n·키드밀리 (Kid Milli) : https://instagram.com/kidcozyboy\n·인디고뮤직 (Indigo Music) : http://indigomusic3.com\nhttps://www.instagram.com/indigomusic_official\n\n- - - - -\n\n#KidMilli #키드밀리 \n#JayPark #박재범 \n#Summer #썸머"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M32S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "40377",
+                "likeCount": "1463",
+                "favoriteCount": "0",
+                "commentCount": "148"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

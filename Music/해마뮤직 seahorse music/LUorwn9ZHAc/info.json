@@ -1,0 +1,81 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Kh0BDR5qLkO5ofaNvkm7B2WzQ1k",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "70VUTjfJbN0Tm4QYU_8Qml7BTY8",
+            "id": "LUorwn9ZHAc",
+            "snippet": {
+                "publishedAt": "2025-10-24T11:00:43Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "베토벤 소나타 중에 제일 유명한 곡",
+                "description": "#피아노커버 #pianocover #피아노연주 #베토벤 #소나타 #beethoven #sonata #beethovensonata \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LUorwn9ZHAc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LUorwn9ZHAc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LUorwn9ZHAc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LUorwn9ZHAc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LUorwn9ZHAc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "피아노",
+                    "베토벤",
+                    "소나타",
+                    "piano",
+                    "beethoven",
+                    "beethoven sonata",
+                    "sonata"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "베토벤 소나타 중에 제일 유명한 곡",
+                    "description": "#피아노커버 #pianocover #피아노연주 #베토벤 #소나타 #beethoven #sonata #beethovensonata \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "39233",
+                "likeCount": "140",
+                "favoriteCount": "0",
+                "commentCount": "36"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

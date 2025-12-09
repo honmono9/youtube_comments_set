@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "X7k-eejkewGtFJqYYYWI8cgjyIo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "FOSk8eIibDk2b4E-8360_aKH6dM",
+            "id": "0uioeWijx7A",
+            "snippet": {
+                "publishedAt": "2019-10-22T09:00:02Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[Teaser] Jung Jinhyeong (정진형) - MAZE 3",
+                "description": "Jung JinHyeong(정진형) - MAZE 3, 3rd Teaser\nAlbum will be released 12:00 on 25th October (KST).\n\n\n▶︎ Artist Instagram : https://www.instagram.com/jay_thewhim...\n▶︎ Artist soundcloud: http://soundcloud.com/illryoill/memor...\n\n\n#정진형 #JungJinHyeong #FA. #GXXD #Girlnexxtdoor #vandale",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0uioeWijx7A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0uioeWijx7A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0uioeWijx7A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0uioeWijx7A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0uioeWijx7A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "tags": [
+                    "정진형",
+                    "믹스앤매치",
+                    "아이돌",
+                    "mix&match",
+                    "yg",
+                    "ygentertainment",
+                    "gxxd",
+                    "vangdale",
+                    "one",
+                    "원",
+                    "sik-k",
+                    "식케이",
+                    "aomg"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Teaser] Jung Jinhyeong (정진형) - MAZE 3",
+                    "description": "Jung JinHyeong(정진형) - MAZE 3, 3rd Teaser\nAlbum will be released 12:00 on 25th October (KST).\n\n\n▶︎ Artist Instagram : https://www.instagram.com/jay_thewhim...\n▶︎ Artist soundcloud: http://soundcloud.com/illryoill/memor...\n\n\n#정진형 #JungJinHyeong #FA. #GXXD #Girlnexxtdoor #vandale"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT42S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2345",
+                "likeCount": "205",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Y02s2KeH4Kr1_PFjIwS1es81uEw",
+        "id": "UgxOzjw8cmuDvFnKR8V4AaABAg",
+        "snippet": {
+            "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+            "videoId": "-eauPUNlKlM",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Ej0URJ1OPC108t6M4nvWdpU7enA",
+                "id": "UgxOzjw8cmuDvFnKR8V4AaABAg",
+                "snippet": {
+                    "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                    "videoId": "-eauPUNlKlM",
+                    "textDisplay": "일산 현대백화점은 너무 조촐(?)함 가실 분들은 더현대로..⭐️",
+                    "textOriginal": "일산 현대백화점은 너무 조촐(?)함 가실 분들은 더현대로..⭐️",
+                    "authorDisplayName": "@user-cx2rl5qo2u",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/sVSm4Q0FlHPDjrRm2hOmrXYPn6ARbERTwgINBXWAooWCYp90pDKrqH-DpwQ4qG4OJx8Br-PT=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@user-cx2rl5qo2u",
+                    "authorChannelId": {
+                        "value": "UCgxI1m-6U6yOlgbYa2D9l3A"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-08T08:44:36Z",
+                    "updatedAt": "2025-12-08T08:44:36Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

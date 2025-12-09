@@ -1,0 +1,67 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "sbP0tJf_D3C5Mo6c9LkeGlQ5ALE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "mKqDrBPeKY-efB7kDpc0AR5putI",
+            "id": "pg-w70-0Ork",
+            "snippet": {
+                "publishedAt": "2021-11-28T00:08:35Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "CONCERT OF SOLO WINNERS",
+                "description": "CONCERT OF SOLO WINNERS\n\nNO COPYRIGHT INFRINGEMENT INTENDED",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pg-w70-0Ork/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pg-w70-0Ork/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pg-w70-0Ork/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pg-w70-0Ork/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "CONCERT OF SOLO WINNERS",
+                    "description": "CONCERT OF SOLO WINNERS\n\nNO COPYRIGHT INFRINGEMENT INTENDED"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H59M51S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "366",
+                "likeCount": "9",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

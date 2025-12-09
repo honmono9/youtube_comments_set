@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "zgW1rG_WOh6zzxUlA46e1h_VPEQ",
+        "id": "Ugz985Rhy9jMkQmUrcx4AaABAg",
+        "snippet": {
+            "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+            "videoId": "6OCT0Nf9rec",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Zg9D4v44qgYFTbQo3b58i69XlTY",
+                "id": "Ugz985Rhy9jMkQmUrcx4AaABAg",
+                "snippet": {
+                    "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                    "videoId": "6OCT0Nf9rec",
+                    "textDisplay": "Amazing!",
+                    "textOriginal": "Amazing!",
+                    "authorDisplayName": "@didasmelo",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kLFOQMuS4RBG_QFGyxHXTnFDhttLhXDQ5pLGWuVW-6G_0=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@didasmelo",
+                    "authorChannelId": {
+                        "value": "UCfyyF0K1VwiT8rDKBVVLsCg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-12-02T20:53:23Z",
+                    "updatedAt": "2025-12-02T20:53:23Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

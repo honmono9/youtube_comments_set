@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "S23xu-yF8FTdhhAsc6AW8SxOh1A",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "d7uJU7n6Xcw2o0Xb9OVfAA3bqxw",
+            "id": "rvb41Bwzdok",
+            "snippet": {
+                "publishedAt": "2025-01-24T09:01:07Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "🎵 𝐌𝐏𝐌𝐆 𝐖𝐄𝐄𝐊 𝟐𝟎𝟐𝟓 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭",
+                "description": "🎵 𝐌𝐏𝐌𝐆 𝐖𝐄𝐄𝐊 𝟐𝟎𝟐𝟓 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 \n\n모두가 함께 즐기는 유일무이 레이블 감사제🎁\n\n𝗠𝗣𝗠𝗚 𝗠𝗨𝗦𝗜𝗖 소속 아티스트의 곡으로 이루어진\n플레이리스트를 공개합니다.💙\n\n◾ 일시 : 2025년 2월 10일(월) ~ 2월 16일(일)\n◾ 장소 : 광흥창 MPMG 사옥 및 마포구 일대\n\n자세한 내용은 MPMG WEEK 인스타그램을 통해 확인하실 수 있습니다.\n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간 #믚믁감사제",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rvb41Bwzdok/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rvb41Bwzdok/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rvb41Bwzdok/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rvb41Bwzdok/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rvb41Bwzdok/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🎵 𝐌𝐏𝐌𝐆 𝐖𝐄𝐄𝐊 𝟐𝟎𝟐𝟓 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭",
+                    "description": "🎵 𝐌𝐏𝐌𝐆 𝐖𝐄𝐄𝐊 𝟐𝟎𝟐𝟓 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 \n\n모두가 함께 즐기는 유일무이 레이블 감사제🎁\n\n𝗠𝗣𝗠𝗚 𝗠𝗨𝗦𝗜𝗖 소속 아티스트의 곡으로 이루어진\n플레이리스트를 공개합니다.💙\n\n◾ 일시 : 2025년 2월 10일(월) ~ 2월 16일(일)\n◾ 장소 : 광흥창 MPMG 사옥 및 마포구 일대\n\n자세한 내용은 MPMG WEEK 인스타그램을 통해 확인하실 수 있습니다.\n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간 #믚믁감사제"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1H36M4S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1459",
+                "likeCount": "43",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

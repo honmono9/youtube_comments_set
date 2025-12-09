@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "PJFINeta7DpvFAiDyHDTZkqa-Ro",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Z3haBrMs61a04y1RGahaevsr5iI",
+            "id": "1gyVWCLfR5Y",
+            "snippet": {
+                "publishedAt": "2021-05-14T03:00:00Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[MV] EZE - 그때의 너를, 그때의 나를 (Reminisce) / Official Music Video",
+                "description": "[MV] EZE - 그때의 너를, 그때의 나를 (Reminisce) / Official Music Video\n\n[Credits]\n\nExecutive Producer E3ONE, TNK\n\nComposed by 코랑이,ODD-CAT\nLyrics by 코랑이,ODD-CAT\nArranged by 코랑이\nChorus : ODD-CAT\nGuitar,Piano,Synth,Bass,Drum Programming : 코랑이\n\nRecorded by 권유진 @ doobdoob Studio \nMixed by 이건호 @ Team N Genius\nMastered by 박정언 @ Honey Butter Studio \nAlbum artwork 성동화\n\n#EZE #이즈",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1gyVWCLfR5Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1gyVWCLfR5Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1gyVWCLfR5Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1gyVWCLfR5Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1gyVWCLfR5Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "tags": [
+                    "EZE",
+                    "이즈",
+                    "kpop",
+                    "mv",
+                    "뮤직비디오",
+                    "솔로",
+                    "여자솔로",
+                    "여자신인",
+                    "kpop debut"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[MV] EZE - 그때의 너를, 그때의 나를 (Reminisce) / Official Music Video",
+                    "description": "[MV] EZE - 그때의 너를, 그때의 나를 (Reminisce) / Official Music Video\n\n[Credits]\n\nExecutive Producer E3ONE, TNK\n\nComposed by 코랑이,ODD-CAT\nLyrics by 코랑이,ODD-CAT\nArranged by 코랑이\nChorus : ODD-CAT\nGuitar,Piano,Synth,Bass,Drum Programming : 코랑이\n\nRecorded by 권유진 @ doobdoob Studio \nMixed by 이건호 @ Team N Genius\nMastered by 박정언 @ Honey Butter Studio \nAlbum artwork 성동화\n\n#EZE #이즈"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "13141",
+                "likeCount": "796",
+                "favoriteCount": "0",
+                "commentCount": "129"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

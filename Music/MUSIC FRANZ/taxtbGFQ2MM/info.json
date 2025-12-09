@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "_3PP3BS8h8nBKBt6C1iWDMNwJJ0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "d7epzC6h487fwGT_or8M5gqmuXU",
+            "id": "taxtbGFQ2MM",
+            "snippet": {
+                "publishedAt": "2025-11-25T10:21:37Z",
+                "channelId": "UCfrWVh-4M98j1WtDIR9IVNg",
+                "title": "PALDO KING/Rock Rap Reggae Remix/Music Prince 2.1/@Rabzmusics @MusicprinceFR ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/taxtbGFQ2MM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/taxtbGFQ2MM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/taxtbGFQ2MM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/taxtbGFQ2MM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/taxtbGFQ2MM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MUSIC FRANZ ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "PALDO KING/Rock Rap Reggae Remix/Music Prince 2.1/@Rabzmusics @MusicprinceFR ",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT23M21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "107",
+                "likeCount": "22",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

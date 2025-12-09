@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "SeIhI5TlpRPcZ80oSACKWNEIg4w",
+        "id": "Ugw2jV2_Z_tRIRjl5GN4AaABAg",
+        "snippet": {
+            "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+            "videoId": "KBz3qRzgyvc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "JSXMQlZReZGPVkQVLNojdU8ULpU",
+                "id": "Ugw2jV2_Z_tRIRjl5GN4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                    "videoId": "KBz3qRzgyvc",
+                    "textDisplay": "플레이리스트 기다렸어요~~~",
+                    "textOriginal": "플레이리스트 기다렸어요~~~",
+                    "authorDisplayName": "@carpediem1029",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/nS0GU2Fv15Q6be_iqo8x3596mRl5mHacMo6ShBcGOqsyD_5sZa9q08eXEONRAuic6dE0ETd8Vw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@carpediem1029",
+                    "authorChannelId": {
+                        "value": "UCJArIWY19CloxyZzxnOTYMw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-08-11T15:23:59Z",
+                    "updatedAt": "2025-08-11T15:23:59Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "a-F4bCm0j9BEOa1D2xAG1pelr6E",
+        "id": "UgytaB-ikUgHhH1DIpJ4AaABAg",
+        "snippet": {
+            "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+            "videoId": "KBz3qRzgyvc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "_pi47whYdBnbgMfAFw17zX8Bef4",
+                "id": "UgytaB-ikUgHhH1DIpJ4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                    "videoId": "KBz3qRzgyvc",
+                    "textDisplay": "Maravilhosa playlist !!! Agradável e doce momento sentido a boa e cativante atmosfera destas incríveis canções reunidas ... ☺️💗🎶🎧",
+                    "textOriginal": "Maravilhosa playlist !!! Agradável e doce momento sentido a boa e cativante atmosfera destas incríveis canções reunidas ... ☺️💗🎶🎧",
+                    "authorDisplayName": "@gilvaneidemendes7577",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/hWj-V4YzzEBJcD6wD7PU6tsq0XiXzvQwNjLNwMzXrgT413Al2vG5k7ouwRpBR7VfjngPFEUO_g=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@gilvaneidemendes7577",
+                    "authorChannelId": {
+                        "value": "UCtIh5e5LWl1d3G_BzAI6fmw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-08-09T12:36:55Z",
+                    "updatedAt": "2025-08-09T12:36:55Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

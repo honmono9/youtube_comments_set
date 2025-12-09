@@ -1,0 +1,76 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "W9LbOaJKHNgUy18Z9lQPrf9x0Nk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "WH7g4JxhTKUDH9Nv6Kz4DqDjNF4",
+            "id": "-Z-xFAvAo7w",
+            "snippet": {
+                "publishedAt": "2021-04-23T03:00:00Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "AB6IX (에이비식스) '감아 (CLOSE)' M/V TEASER #2",
+                "description": "AB6IX (에이비식스) '감아 (CLOSE)' M/V TEASER #2\n\n2021.04.26 6PM (KST) RELEASE \n\n\nAB6IX (에이비식스) Official @\nhttps://www.facebook.com/AB6IX/\nhttps://www.instagram.com/ab6ix_official/\nhttps://twitter.com/AB6IX\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music\n\n#AB6IX #에이비식스 #감아 #CLOSE #MOCOMPLETE_HAVEADREAM #전웅 #김동현 #박우진 #이대휘 #브랜뉴뮤직 #BRANDNEWMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-Z-xFAvAo7w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-Z-xFAvAo7w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-Z-xFAvAo7w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-Z-xFAvAo7w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-Z-xFAvAo7w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "tags": [
+                    "#브랜뉴뮤직",
+                    "#BRANDNEWMUSIC"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "AB6IX (에이비식스) '감아 (CLOSE)' M/V TEASER #2",
+                    "description": "AB6IX (에이비식스) '감아 (CLOSE)' M/V TEASER #2\n\n2021.04.26 6PM (KST) RELEASE \n\n\nAB6IX (에이비식스) Official @\nhttps://www.facebook.com/AB6IX/\nhttps://www.instagram.com/ab6ix_official/\nhttps://twitter.com/AB6IX\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music\n\n#AB6IX #에이비식스 #감아 #CLOSE #MOCOMPLETE_HAVEADREAM #전웅 #김동현 #박우진 #이대휘 #브랜뉴뮤직 #BRANDNEWMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "134594",
+                "likeCount": "18407",
+                "favoriteCount": "0",
+                "commentCount": "869"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

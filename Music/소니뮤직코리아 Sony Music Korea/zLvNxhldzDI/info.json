@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "AyknXgJFV1LC6XN42Bc4B7QTvfg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "8CTICpe0kNAvD7JQfqIC34NC6Yo",
+            "id": "zLvNxhldzDI",
+            "snippet": {
+                "publishedAt": "2018-02-04T07:05:12Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "2018년, 슈퍼볼 하프타임 쇼의 헤드라이너, 저스틴 팀버레이크!",
+                "description": "14년만에 슈퍼볼 하프타임 쇼에 다시 오르게 되는 저스틴 팀버레이크! 그의 무대를 기대해주세요.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zLvNxhldzDI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zLvNxhldzDI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zLvNxhldzDI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zLvNxhldzDI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zLvNxhldzDI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "2018년, 슈퍼볼 하프타임 쇼의 헤드라이너, 저스틴 팀버레이크!",
+                    "description": "14년만에 슈퍼볼 하프타임 쇼에 다시 오르게 되는 저스틴 팀버레이크! 그의 무대를 기대해주세요."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M2S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9992",
+                "likeCount": "8",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

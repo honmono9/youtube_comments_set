@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "H1t-xzTD7PxZckJSZjOfdRA0KlQ",
+        "id": "UgzWBK5cilHyuRKbWlh4AaABAg",
+        "snippet": {
+            "channelId": "UC3q6ETGnbbeQ9F_3G04_2ug",
+            "videoId": "J6YO6q6NBM0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "GqmnSoOvMxQXWKWRzu5TPMJAJGs",
+                "id": "UgzWBK5cilHyuRKbWlh4AaABAg",
+                "snippet": {
+                    "channelId": "UC3q6ETGnbbeQ9F_3G04_2ug",
+                    "videoId": "J6YO6q6NBM0",
+                    "textDisplay": "❤❤",
+                    "textOriginal": "❤❤",
+                    "authorDisplayName": "@최초이-c3r",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mKejjqzeh-77EIZQ5P3Z1Hhikq7nLCesizRz48IGc=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EC%B5%9C%EC%B4%88%EC%9D%B4-c3r",
+                    "authorChannelId": {
+                        "value": "UCwyOlB2dOLf-KR7vS-NFa_g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-11-03T14:56:14Z",
+                    "updatedAt": "2025-11-03T14:56:14Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

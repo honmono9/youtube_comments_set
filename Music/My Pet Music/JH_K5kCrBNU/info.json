@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "JuKFu3gTXLzVD1rXCTiCLzsKzfY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "rtKRvH1QZ4-AmcJD2Sw3cnjh0sw",
+            "id": "JH_K5kCrBNU",
+            "snippet": {
+                "publishedAt": "2025-03-19T10:45:01Z",
+                "channelId": "UCo62tODW4YnxtszbusXyX-w",
+                "title": "강아지가 좋아하는 음악🐶편안한 수면음악🎵혼자있는 강아지를 위한 음악",
+                "description": "안녕하세요. My Pet Music 입니다.\n반려견을 편안하게 해주는 음악이예요!\n혼자있는 강아지에게도 도움이 될거예요~ :)\n\n\"let's be happy together\"\n\n\n#강아지수면음악 #강아지음악 #강아지힐링음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JH_K5kCrBNU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JH_K5kCrBNU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JH_K5kCrBNU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JH_K5kCrBNU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JH_K5kCrBNU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "My Pet Music",
+                "tags": [
+                    "강아지음악",
+                    "개음악",
+                    "강아지수면음악",
+                    "개수면음악",
+                    "펫뮤직",
+                    "강아지힐링음악",
+                    "PetMusic",
+                    "DogMusic",
+                    "DogsMusic",
+                    "DogSleepMusic",
+                    "DogSleepingMusic",
+                    "DogTV",
+                    "강아지티비",
+                    "강아지숙면음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "강아지가 좋아하는 음악🐶편안한 수면음악🎵혼자있는 강아지를 위한 음악",
+                    "description": "안녕하세요. My Pet Music 입니다.\n반려견을 편안하게 해주는 음악이예요!\n혼자있는 강아지에게도 도움이 될거예요~ :)\n\n\"let's be happy together\"\n\n\n#강아지수면음악 #강아지음악 #강아지힐링음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9H21M9S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6743",
+                "likeCount": "63",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

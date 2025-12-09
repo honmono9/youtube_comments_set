@@ -1,0 +1,71 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "L_z-1ujKKczmoqeN3fkuabRlW1E",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "YerqQBUAlSCMxkJzSEvP7mFmGxk",
+            "id": "ZUWUOiKxi2U",
+            "snippet": {
+                "publishedAt": "2020-09-23T13:41:51Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "Groundwork for Part-Singing",
+                "description": "Groundwork for Part-Singing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZUWUOiKxi2U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZUWUOiKxi2U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZUWUOiKxi2U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZUWUOiKxi2U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZUWUOiKxi2U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Groundwork for Part-Singing",
+                    "description": "Groundwork for Part-Singing"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H24M54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "506",
+                "likeCount": "23",
+                "favoriteCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "QeDQKgiJU3xRrZV46OxLZ3YBeA0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "QYF3HGAaOEJCtOMhzHgpGN1VK0o",
+            "id": "HB-sQfI6jTA",
+            "snippet": {
+                "publishedAt": "2021-06-10T12:39:00Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "JUNE 9, 7 PM, Prof. Edward Klorman: Mozart's Music of Friends, Social Interplay in the Chamber Works",
+                "description": "LECTURE BEINGS AT 37:25 https://youtu.be/HB-sQfI6jTA?t=2249\n\nChamber music is, first and foremost, about friendship. In this Youtube LIVE, Prof. Edward Klorman will explore Mozart's chamber works as 'the music of friends' in which various players within an ensemble participate in stylized social intercourse - capable of surprising, seducing, outwitting, and even deceiving one another musically.\n\nProf. Edward Klorman is a widely published and presented scholar on topics in the performance of eighteenth-century chamber music. He now teaches at the Schulich School of Music at McGill University, and previously taught music theory, viola, and chamber music at The Juilliard School, Manhattan School of Music, and Queens College (CUNY).",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HB-sQfI6jTA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HB-sQfI6jTA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HB-sQfI6jTA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HB-sQfI6jTA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HB-sQfI6jTA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "JUNE 9, 7 PM, Prof. Edward Klorman: Mozart's Music of Friends, Social Interplay in the Chamber Works",
+                    "description": "LECTURE BEINGS AT 37:25 https://youtu.be/HB-sQfI6jTA?t=2249\n\nChamber music is, first and foremost, about friendship. In this Youtube LIVE, Prof. Edward Klorman will explore Mozart's chamber works as 'the music of friends' in which various players within an ensemble participate in stylized social intercourse - capable of surprising, seducing, outwitting, and even deceiving one another musically.\n\nProf. Edward Klorman is a widely published and presented scholar on topics in the performance of eighteenth-century chamber music. He now teaches at the Schulich School of Music at McGill University, and previously taught music theory, viola, and chamber music at The Juilliard School, Manhattan School of Music, and Queens College (CUNY)."
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT1H58M5S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "245",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

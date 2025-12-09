@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "45hABgAJnnSvoYezwZ-HGeWEMus",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "t-heY_Dkl74kp5hx3sjwAoePtvQ",
+            "id": "SfMYk-E_HjM",
+            "snippet": {
+                "publishedAt": "2025-09-23T03:27:48Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Romantic Saxophone Jazz Radio 🔴 LIVE 🎷| Classic Vintage Jazz Vocal Radio Live",
+                "description": "🎷 Welcome to our Jazz Radio 🎶  \nImmerse yourself in the nostalgic sound of vintage saxophone jazz, echoing the smoky cafés and rainy nights of 1950s New York. Smooth melodies and gentle rhythms create the perfect mood for late-night relaxation, reading, or studying while the rain falls outside.\n\nWhether you’re a jazz enthusiast or simply looking for cozy background music, let this timeless soundscape transport you back to an era of elegance and warmth.\n\n#jazz #vintagejazz #saxophonejazz #nightjazz #nostalgicjazz #smoothjazz #oldiesjazz #caféjazz #loungemusic #backgroundjazz #workjazz #jazzplaylist #24/7jazz  #relaxingjazz #1950sjazz  #studyjazz #workjazz #sleepjazz #autumnjazz #jazzlive",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SfMYk-E_HjM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SfMYk-E_HjM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SfMYk-E_HjM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SfMYk-E_HjM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SfMYk-E_HjM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "rain jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "saxophone jazz",
+                    "jajazz live",
+                    "jazz live"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Romantic Saxophone Jazz Radio 🔴 LIVE 🎷| Classic Vintage Jazz Vocal Radio Live",
+                    "description": "🎷 Welcome to our Jazz Radio 🎶  \nImmerse yourself in the nostalgic sound of vintage saxophone jazz, echoing the smoky cafés and rainy nights of 1950s New York. Smooth melodies and gentle rhythms create the perfect mood for late-night relaxation, reading, or studying while the rain falls outside.\n\nWhether you’re a jazz enthusiast or simply looking for cozy background music, let this timeless soundscape transport you back to an era of elegance and warmth.\n\n#jazz #vintagejazz #saxophonejazz #nightjazz #nostalgicjazz #smoothjazz #oldiesjazz #caféjazz #loungemusic #backgroundjazz #workjazz #jazzplaylist #24/7jazz  #relaxingjazz #1950sjazz  #studyjazz #workjazz #sleepjazz #autumnjazz #jazzlive"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2H26M4S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "711",
+                "likeCount": "12",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

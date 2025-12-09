@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "7rXOWJk8zS_M0rqrv64GG3FlUdg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "N4QnboqXxTA-J5Mb9gXzerQB9B4",
+            "id": "13SLPMiC_r0",
+            "snippet": {
+                "publishedAt": "2025-11-29T07:37:48Z",
+                "channelId": "UCfrWVh-4M98j1WtDIR9IVNg",
+                "title": "BATAS NG MAYAYAMAN||@RAP AND REGGAE REMIX||@MUSICFRANZ @TopTrending @MusicprinceFR ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/13SLPMiC_r0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/13SLPMiC_r0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/13SLPMiC_r0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/13SLPMiC_r0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/13SLPMiC_r0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MUSIC FRANZ ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "BATAS NG MAYAYAMAN||@RAP AND REGGAE REMIX||@MUSICFRANZ @TopTrending @MusicprinceFR ",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT13M25S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "47",
+                "likeCount": "12",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

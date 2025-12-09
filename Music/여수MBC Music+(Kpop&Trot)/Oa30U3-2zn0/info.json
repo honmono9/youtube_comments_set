@@ -1,0 +1,101 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "SfOM98Jcbrty2Ivg2DNyB64x83Y",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "2X5UVHSWnK8L_VH5PmO4MBc7azE",
+            "id": "Oa30U3-2zn0",
+            "snippet": {
+                "publishedAt": "2025-12-08T19:13:19Z",
+                "channelId": "UCwIiyFphTd-eTeLBvh8riNw",
+                "title": "[LIVE] 12/8(월) 신나는 오후 양성화 입니다^^ (1~2부 노래퀴즈/DJ Pick Time 3~4부 정채현의 우리말 퀴즈)",
+                "description": "12/8(월) 신나는 오후 양성화 입니다^^ \n1~2부 노래퀴즈/DJ Pick Time\n3~4부 정채현의 우리말 퀴즈\n여수MBC Music+ 실시간 스트리밍 / 보이는 라디오\n#신나는오후 #양성화 #보이는라디오 #MC정채현",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Oa30U3-2zn0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Oa30U3-2zn0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Oa30U3-2zn0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Oa30U3-2zn0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Oa30U3-2zn0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "여수MBC Music+(Kpop&Trot)",
+                "tags": [
+                    "여수MBC",
+                    "여수MBC 실시간",
+                    "여수mbc유튜브",
+                    "뮤직플러스",
+                    "여수MBC뮤직",
+                    "여수MBC Music+",
+                    "신나는오후 유튜브실시간",
+                    "여수MBC 라디오 유튜브 실시간방송",
+                    "트로트",
+                    "Trot",
+                    "Korea Trot",
+                    "trot korea",
+                    "트로트인기곡",
+                    "인기트로트",
+                    "최신트로트",
+                    "라디오",
+                    "양성화",
+                    "여수mbc 라디오",
+                    "여수MBC신나는오후 유튜브실시간방송",
+                    "보이는라디오",
+                    "재미있는 라디오방송",
+                    "라디오 음악방송",
+                    "라디오 유튜브",
+                    "유튜브 라디오방송",
+                    "신나는 오후",
+                    "신나는오후 양성화",
+                    "여수엠비씨라디오 신나는오후 양성화"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[LIVE] 12/8(월) 신나는 오후 양성화 입니다^^ (1~2부 노래퀴즈/DJ Pick Time 3~4부 정채현의 우리말 퀴즈)",
+                    "description": "12/8(월) 신나는 오후 양성화 입니다^^ \n1~2부 노래퀴즈/DJ Pick Time\n3~4부 정채현의 우리말 퀴즈\n여수MBC Music+ 실시간 스트리밍 / 보이는 라디오\n#신나는오후 #양성화 #보이는라디오 #MC정채현"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1H56M9S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "472",
+                "likeCount": "17",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

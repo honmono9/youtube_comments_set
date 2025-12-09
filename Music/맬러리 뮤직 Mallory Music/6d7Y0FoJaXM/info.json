@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "mjH1Sf5KX1VkdFsqBbfpZUHjfNY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "kj6cUxqfag8kv-vPZ0u2e0BVhS0",
+            "id": "6d7Y0FoJaXM",
+            "snippet": {
+                "publishedAt": "2022-09-09T00:45:11Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "여유로운 주말 기분 좋아지는 적당한 텐션의 팝송",
+                "description": "Photo by Kevin Laminto\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd8RtUlcn1Q1WBa55YcQIe-G",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6d7Y0FoJaXM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6d7Y0FoJaXM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6d7Y0FoJaXM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6d7Y0FoJaXM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6d7Y0FoJaXM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "기분 좋아지는 팝송",
+                    "주말 팝송",
+                    "팝송 모음",
+                    "팝송 플리",
+                    "플레이리스트",
+                    "sunday morning pop song",
+                    "morning songs",
+                    "playlist"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "여유로운 주말 기분 좋아지는 적당한 텐션의 팝송",
+                    "description": "Photo by Kevin Laminto\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd8RtUlcn1Q1WBa55YcQIe-G"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT29M50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "26768",
+                "likeCount": "510",
+                "favoriteCount": "0",
+                "commentCount": "34"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

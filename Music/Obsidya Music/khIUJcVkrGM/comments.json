@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "g8XyhcHuyorq_F5yMKiGv1icf7s",
+        "id": "Ugzgt8bQ8H_p02hI6YB4AaABAg",
+        "snippet": {
+            "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+            "videoId": "khIUJcVkrGM",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "7d3KopG_hBK5gCjtvOM5OfQ8A_U",
+                "id": "Ugzgt8bQ8H_p02hI6YB4AaABAg",
+                "snippet": {
+                    "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+                    "videoId": "khIUJcVkrGM",
+                    "textDisplay": "çok iyi olmuş",
+                    "textOriginal": "çok iyi olmuş",
+                    "authorDisplayName": "@SancakTaşıyıcı",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/Of6YFAIFoBCelUMB1_kMiujjprauoL87leZ_jpUHYXiyGonpgvxF7oSRl-jad2f4sSG46VdQLw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@SancakTa%C5%9F%C4%B1y%C4%B1c%C4%B1",
+                    "authorChannelId": {
+                        "value": "UCFV6Vi79nJmTJZRV5eTD7Nw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-09-14T14:45:38Z",
+                    "updatedAt": "2025-09-14T14:45:38Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

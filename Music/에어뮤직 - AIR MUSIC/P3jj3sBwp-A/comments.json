@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Nvy6_RAuSTFk_05LGH-r-0pmSq4",
+        "id": "Ugw0RUy9SKuSCzY27jJ4AaABAg",
+        "snippet": {
+            "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+            "videoId": "P3jj3sBwp-A",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "iwiDNbIM7g6AJwIboOpV4f4Nh28",
+                "id": "Ugw0RUy9SKuSCzY27jJ4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                    "videoId": "P3jj3sBwp-A",
+                    "textDisplay": "Canção maravilhosa assim como esse adorável vídeo !!! Vou desfrutar com prazer dessa canção 😍❤️🎶🎧",
+                    "textOriginal": "Canção maravilhosa assim como esse adorável vídeo !!! Vou desfrutar com prazer dessa canção 😍❤️🎶🎧",
+                    "authorDisplayName": "@gilvaneidemendes7577",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/hWj-V4YzzEBJcD6wD7PU6tsq0XiXzvQwNjLNwMzXrgT413Al2vG5k7ouwRpBR7VfjngPFEUO_g=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@gilvaneidemendes7577",
+                    "authorChannelId": {
+                        "value": "UCtIh5e5LWl1d3G_BzAI6fmw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-03-18T07:44:40Z",
+                    "updatedAt": "2025-03-18T07:44:40Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "NXLuvF0mGwjxXoRup5939V84cpA",
+        "id": "UgwFXLl9LwIVpWKeteR4AaABAg",
+        "snippet": {
+            "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+            "videoId": "P3jj3sBwp-A",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "fbvYQKAbonB2d2bmXuoV9M5ALJg",
+                "id": "UgwFXLl9LwIVpWKeteR4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                    "videoId": "P3jj3sBwp-A",
+                    "textDisplay": "🎉",
+                    "textOriginal": "🎉",
+                    "authorDisplayName": "@5wal",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/Cpf5PHNvng3yUMOX8Os8seFUOpQu5qiGIPA-FZfZZFC2K6RerprD02EiXNf5uJ4sCd6fQeV1GA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@5wal",
+                    "authorChannelId": {
+                        "value": "UCyyWO41hQQQe1tZ_sjK18Bw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-03-18T03:43:22Z",
+                    "updatedAt": "2025-03-18T03:43:22Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

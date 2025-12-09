@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "tX_0aS202v1t0E0dlGVv61PyBEc",
+        "id": "UgziQ7uoIGhP-lupwBJ4AaABAg",
+        "snippet": {
+            "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+            "videoId": "0ponV4mjM50",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "fGTEpx8IVw2_eiEbskzFkyhvL24",
+                "id": "UgziQ7uoIGhP-lupwBJ4AaABAg",
+                "snippet": {
+                    "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+                    "videoId": "0ponV4mjM50",
+                    "textDisplay": "🙏🙏🙏🙏🙏",
+                    "textOriginal": "🙏🙏🙏🙏🙏",
+                    "authorDisplayName": "@수경1205",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/GwmRitsCILK10HnotJIKKxeLexDoHaY6hbsm3-Dnsgp0luAsrdEXmOBMPSU3AfrvcFlWnEPq=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EC%88%98%EA%B2%BD1205",
+                    "authorChannelId": {
+                        "value": "UCHoGWXd0HYJXA8JeO5gi1ww"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-03T01:22:12Z",
+                    "updatedAt": "2025-12-03T01:22:12Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "IB78Jttw5TWSMjvjXl-ydSYPW0o",
+        "id": "UgyFXF1yfKN4kz3E2r14AaABAg",
+        "snippet": {
+            "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+            "videoId": "0ponV4mjM50",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "l-pvTKkOeCZ_lV8-rzZcnbSPA08",
+                "id": "UgyFXF1yfKN4kz3E2r14AaABAg",
+                "snippet": {
+                    "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+                    "videoId": "0ponV4mjM50",
+                    "textDisplay": "메리 크리스마스",
+                    "textOriginal": "메리 크리스마스",
+                    "authorDisplayName": "@샬롬행복한주은정",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/jTxDxhywog5aHuunmadqF0ojuv9CUB2-nkk_u7BgwaLbG0zCLayasfpBvyKcE7h1gaHg0lg7xQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EC%83%AC%EB%A1%AC%ED%96%89%EB%B3%B5%ED%95%9C%EC%A3%BC%EC%9D%80%EC%A0%95",
+                    "authorChannelId": {
+                        "value": "UCrZLEse1mjSghlU3zlUVEnQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-02T03:36:45Z",
+                    "updatedAt": "2025-12-02T03:36:45Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ZjfPPgiFMjqAa_Dlve6lKF_p97o",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "WJH2h0wXrOmuNnQe7tSCnTYfz0g",
+            "id": "sbCxz_Ufcsk",
+            "snippet": {
+                "publishedAt": "2024-05-25T23:32:35Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "TREMOLO, FILIPINO!",
+                "description": "TREMOLO, FILIPINO!\n\nNO COPYRIGHT INFRINGEMENT INTENDED",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sbCxz_Ufcsk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sbCxz_Ufcsk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sbCxz_Ufcsk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sbCxz_Ufcsk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sbCxz_Ufcsk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "TREMOLO, FILIPINO!",
+                    "description": "TREMOLO, FILIPINO!\n\nNO COPYRIGHT INFRINGEMENT INTENDED"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H28M54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "210",
+                "likeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

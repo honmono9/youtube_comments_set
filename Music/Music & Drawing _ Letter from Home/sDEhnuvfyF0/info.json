@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "lvxGfhz-OD4YbDaglKrJYViV6ac",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "RTRViQ2nIqIR-OtXW1pi6grxgAM",
+            "id": "sDEhnuvfyF0",
+            "snippet": {
+                "publishedAt": "2025-09-04T10:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Romantic Evening Jazz for You | Vintage Saxophone & Piano Relaxing Jazz",
+                "description": "Join us for a cozy evening of 1950s café jazz.\nThis playlist blends the warm tones of saxophone and piano with the nostalgic charm of autumn days, creating the perfect background for relaxation, study, or quiet reflection.\n\nSit back with a cup of coffee and let the timeless beauty of vintage oldies jazz bring comfort and elegance to your day. 🍂☕🎷🎹\n\n#Autumnjazz #CaféJazz #Vintagejazz #1950sJazz #SaxophoneJazz #relaxingjazz #Oldies #JazzMusic #jazzPlaylist #CozyCaféJazz #RomanticFallJazz #jazzInstrumentals #Smoothjazz #JazzforStudy&Work #Classicjazz #Cafémusic #jazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sDEhnuvfyF0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sDEhnuvfyF0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sDEhnuvfyF0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sDEhnuvfyF0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "guitar jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "saxophone jazz",
+                    "autumn jazz",
+                    "cozy cafe jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Romantic Evening Jazz for You | Vintage Saxophone & Piano Relaxing Jazz",
+                    "description": "Join us for a cozy evening of 1950s café jazz.\nThis playlist blends the warm tones of saxophone and piano with the nostalgic charm of autumn days, creating the perfect background for relaxation, study, or quiet reflection.\n\nSit back with a cup of coffee and let the timeless beauty of vintage oldies jazz bring comfort and elegance to your day. 🍂☕🎷🎹\n\n#Autumnjazz #CaféJazz #Vintagejazz #1950sJazz #SaxophoneJazz #relaxingjazz #Oldies #JazzMusic #jazzPlaylist #CozyCaféJazz #RomanticFallJazz #jazzInstrumentals #Smoothjazz #JazzforStudy&Work #Classicjazz #Cafémusic #jazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H29S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1743",
+                "likeCount": "45",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

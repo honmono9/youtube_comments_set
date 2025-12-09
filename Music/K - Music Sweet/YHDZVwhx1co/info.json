@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "gI6zz4o_VYdP8HVm7m9jvzD0aTg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "_TGOgJRMb0jXtklGdlZJzDiaPcQ",
+            "id": "YHDZVwhx1co",
+            "snippet": {
+                "publishedAt": "2025-09-20T08:31:26Z",
+                "channelId": "UCYTNxR2Z4ryz88WRWiaPCdg",
+                "title": "Sherma's Song (Slap House Remix) by Loli Evil | Hollow Knight Silksong",
+                "description": "Sherma's Song (Slap House Remix) by Loli Evil | Hollow Knight Silksong\n\nVocal : Loli Evil \n\nVideo design : K - Music Sweet\n\n🔊 If you find it interesting, Please Like Subscribe and Click on the notification bell 🔔 So you don't miss new videos :3\n⚡ Stream On Spotify : \n👉 Submit Demo to Intensity : \n💁 Support - Copyright : \n____________________________________\n☆ Follow - \n→ Soundcloud : \n→ Youtube :\n→ Twitter : \n\n➥ Please Share this Mix on Social sites ( Tik Tok, Facebook, Twitter, Thread etc. ) to more person could listen it !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YHDZVwhx1co/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YHDZVwhx1co/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YHDZVwhx1co/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YHDZVwhx1co/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YHDZVwhx1co/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "K - Music Sweet",
+                "tags": [
+                    "KMS",
+                    "K Sweet Music",
+                    "J-Pop",
+                    "Japan Music",
+                    "Kawaii Music",
+                    "Cute Music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Sherma's Song (Slap House Remix) by Loli Evil | Hollow Knight Silksong",
+                    "description": "Sherma's Song (Slap House Remix) by Loli Evil | Hollow Knight Silksong\n\nVocal : Loli Evil \n\nVideo design : K - Music Sweet\n\n🔊 If you find it interesting, Please Like Subscribe and Click on the notification bell 🔔 So you don't miss new videos :3\n⚡ Stream On Spotify : \n👉 Submit Demo to Intensity : \n💁 Support - Copyright : \n____________________________________\n☆ Follow - \n→ Soundcloud : \n→ Youtube :\n→ Twitter : \n\n➥ Please Share this Mix on Social sites ( Tik Tok, Facebook, Twitter, Thread etc. ) to more person could listen it !"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1005",
+                "likeCount": "47",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

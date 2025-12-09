@@ -1,0 +1,93 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ZqYOEr-DlMO8IU_qllhOGLXA1XY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "_-0BdhlrSJ8UGp4RA6W-nn4QVmQ",
+            "id": "ExrsacbGCCM",
+            "snippet": {
+                "publishedAt": "2024-08-20T10:48:56Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "공기남 - Better (Feat. 1ho, 범준)",
+                "description": "shorts ver",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ExrsacbGCCM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ExrsacbGCCM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ExrsacbGCCM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ExrsacbGCCM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ExrsacbGCCM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "tags": [
+                    "신곡",
+                    "에어뮤직",
+                    "airman",
+                    "airmusic",
+                    "better",
+                    "1ho",
+                    "범준",
+                    "공기남",
+                    "배러",
+                    "가요",
+                    "인기가요",
+                    "케이팝",
+                    "kpop",
+                    "인디",
+                    "인디음악",
+                    "알앤비",
+                    "신나는",
+                    "기분좋은",
+                    "음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "공기남 - Better (Feat. 1ho, 범준)",
+                    "description": "shorts ver"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "846",
+                "likeCount": "33",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

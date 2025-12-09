@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "aHcmcYjWma37PPru_oWiBQLfmaQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "qLorZECeCa-o_cR8gl9dNBUX4UI",
+            "id": "S-GYgocsQfc",
+            "snippet": {
+                "publishedAt": "2025-08-29T03:00:34Z",
+                "channelId": "UC9LkgSReKybPl-gABo3fbRQ",
+                "title": "[가사비디오 / Lyric Video] 넷소리 걸작 제 1집 - 달맞이 소녀",
+                "description": "KBS MEDIA에서 새롭게 선보이는 음원들을 구독하고 만나보세요 '◡' ! \n   /   @KBSMEDIAMUSICPLUS\n\n파란 겨울처럼\n싸늘한 별들이 하나 둘 셋\n별처럼 반짝이는\n파란 그 눈동자\n\n옥죄는 \n내 눈에 눈물은\n빛나는 별빛\n\n옥죄는\n내 입술 침묵은\n창백한 하늘\n\n달빛은 물결위에\n하얗게 빛나고 설레이네\n소리 없는 나뭇잎은\n고요 속에 안길 때\n\n옥죄는\n당신은 아는가\n달빛의 노래\n\n옥죄는\n당신은 강변의 달맞이 소녀\n\n차디 찬 언덕위에\n새겨진 이름은 슬픈 이름\n지나는 나그네\n외론 마음 흔든다\n\n옥죄는\n머누일 세월을\n걸어서 가며\n\n옥죄는\n나 또한 가리라\n차디찬 언덕에\n\n옥죄는\n당신은 아는가\n달빛의 노래\n\n옥죄는\n당신은 강변의 달맞이 소녀\n\n\n\n#KBS미디어뮤직플러스 #KBSMEDIAMUSICPLUS #케이비에스미디어뮤직플러스 \n#넷소리걸작제1집 #달맞이소녀  #지구레코드",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S-GYgocsQfc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S-GYgocsQfc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S-GYgocsQfc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/S-GYgocsQfc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/S-GYgocsQfc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS Media Music +",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[가사비디오 / Lyric Video] 넷소리 걸작 제 1집 - 달맞이 소녀",
+                    "description": "KBS MEDIA에서 새롭게 선보이는 음원들을 구독하고 만나보세요 '◡' ! \n   /   @KBSMEDIAMUSICPLUS\n\n파란 겨울처럼\n싸늘한 별들이 하나 둘 셋\n별처럼 반짝이는\n파란 그 눈동자\n\n옥죄는 \n내 눈에 눈물은\n빛나는 별빛\n\n옥죄는\n내 입술 침묵은\n창백한 하늘\n\n달빛은 물결위에\n하얗게 빛나고 설레이네\n소리 없는 나뭇잎은\n고요 속에 안길 때\n\n옥죄는\n당신은 아는가\n달빛의 노래\n\n옥죄는\n당신은 강변의 달맞이 소녀\n\n차디 찬 언덕위에\n새겨진 이름은 슬픈 이름\n지나는 나그네\n외론 마음 흔든다\n\n옥죄는\n머누일 세월을\n걸어서 가며\n\n옥죄는\n나 또한 가리라\n차디찬 언덕에\n\n옥죄는\n당신은 아는가\n달빛의 노래\n\n옥죄는\n당신은 강변의 달맞이 소녀\n\n\n\n#KBS미디어뮤직플러스 #KBSMEDIAMUSICPLUS #케이비에스미디어뮤직플러스 \n#넷소리걸작제1집 #달맞이소녀  #지구레코드"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M25S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "173",
+                "likeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

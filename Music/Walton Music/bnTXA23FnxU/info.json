@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "eXXldFHF2SZD3_4JhL57WHI9Q8A",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "IjUht48fkoVal61J5RUM0brNOz4",
+            "id": "bnTXA23FnxU",
+            "snippet": {
+                "publishedAt": "2025-07-23T13:01:14Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "No Color | Stacey V. Gibbs & Shawn Kirchner",
+                "description": "No Color by Stacey V. Gibbs & Shawn Kirchner for SATB choirs with piano accompaniment.\n\nThis is a monumental work from composers Stacey Gibbs and Shawn Kirchner. The lyrics challenge ideas of racism and discrimination while the music combines jazz and traditional choral techniques. No Color offers choirs the chance to declare that no color can come between us.\n\nPurchase the music: https://www.giamusic.com/store/resource/no-color-print-wjms1182\n\n#choral #nocolor #waltonmusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bnTXA23FnxU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bnTXA23FnxU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bnTXA23FnxU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bnTXA23FnxU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bnTXA23FnxU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "No Color | Stacey V. Gibbs & Shawn Kirchner",
+                    "description": "No Color by Stacey V. Gibbs & Shawn Kirchner for SATB choirs with piano accompaniment.\n\nThis is a monumental work from composers Stacey Gibbs and Shawn Kirchner. The lyrics challenge ideas of racism and discrimination while the music combines jazz and traditional choral techniques. No Color offers choirs the chance to declare that no color can come between us.\n\nPurchase the music: https://www.giamusic.com/store/resource/no-color-print-wjms1182\n\n#choral #nocolor #waltonmusic"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M57S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "413",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ZygKpOX8mXkk-Pu50WUEV2Zk06U",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "1ulLa0j7rKnWtha9-SFoZ2ExPiw",
+            "id": "UPcxWO2ENsU",
+            "snippet": {
+                "publishedAt": "2025-12-07T03:00:45Z",
+                "channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
+                "title": "에이민 (amin) - 모를거예요 (You Don't Know) Lyric Video",
+                "description": "에이민 (amin) - 모를거예요 (You Don't Know) Lyric Video\n\n싱어송라이터 에이민의 신곡 〈모를거예요〉는 조용한 피아노와 담백한 목소리만으로 이루어진, \n가장 순수한 형태의 고백을 담아낸 곡이다.\n\n“그대는 모를 거예요\n내 맘이 얼마나 꿈처럼 깊은지”\n\n[Credit]\nLyrics by 노르웨이 숲\nComposed by 노르웨이 숲,에이민\nArranged by 파랑망또\nPiano by 파랑망또 \nMixed by taeone\nMastered by taeone\n\n#에이민 #amin #모를거예요 #YouDontKnow",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UPcxWO2ENsU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UPcxWO2ENsU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UPcxWO2ENsU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UPcxWO2ENsU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UPcxWO2ENsU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Stone Music Entertainment",
+                "tags": [
+                    "K-CULTURE",
+                    "korean Music",
+                    "MV",
+                    "Music Video",
+                    "K-Pop",
+                    "Kpop",
+                    "뮤비",
+                    "뮤직비디오",
+                    "Stone Music Entertainment",
+                    "에이민 (amin)",
+                    "모를거예요 (You Don't Know)"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "에이민 (amin) - 모를거예요 (You Don't Know) Lyric Video",
+                    "description": "에이민 (amin) - 모를거예요 (You Don't Know) Lyric Video\n\n싱어송라이터 에이민의 신곡 〈모를거예요〉는 조용한 피아노와 담백한 목소리만으로 이루어진, \n가장 순수한 형태의 고백을 담아낸 곡이다.\n\n“그대는 모를 거예요\n내 맘이 얼마나 꿈처럼 깊은지”\n\n[Credit]\nLyrics by 노르웨이 숲\nComposed by 노르웨이 숲,에이민\nArranged by 파랑망또\nPiano by 파랑망또 \nMixed by taeone\nMastered by taeone\n\n#에이민 #amin #모를거예요 #YouDontKnow"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2010",
+                "likeCount": "162",
+                "favoriteCount": "0",
+                "commentCount": "11"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

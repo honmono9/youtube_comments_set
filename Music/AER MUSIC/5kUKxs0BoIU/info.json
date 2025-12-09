@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "J1U0Tg2fW-zWdE-WwErVJ9rRBio",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Ryxc5Y0S_O_526UarMAn7ERW1fI",
+            "id": "5kUKxs0BoIU",
+            "snippet": {
+                "publishedAt": "2023-02-05T09:00:03Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "레이나(Raina) '그때 우리처럼' Official MV Teaser",
+                "description": "레이나(Raina) '그때 우리처럼' Official MV Teaser\nRelease 2023.02.07 12PM (KST)\n\nM/V Directed by 서인국, andreas_thegreek\nProduced by 에이 픽쳐스, 카탈로그\n\nLyrics by 서씨네\nComposed by 서씨네\nArranged by 박경현\n\nCAMERA Daney Kang\n1ST AC 진영민\nLIGHTING Xander, 김경선\nLINE PRODUCER 김은실\nEDITING andreas_thegreek\nCOLOR andreas_thegreek\n\nAERMUSIC Official Instagram: https://instagram.com/aermusic_official\nRaina Official Instagram: https://www.instagram.com/raina_57\n\n#레이나 #Raina #DigitalSingle\n#그때우리처럼 #Teaser\n#AERMUSIC #아에르뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5kUKxs0BoIU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5kUKxs0BoIU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5kUKxs0BoIU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5kUKxs0BoIU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5kUKxs0BoIU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "레이나(Raina) '그때 우리처럼' Official MV Teaser",
+                    "description": "레이나(Raina) '그때 우리처럼' Official MV Teaser\nRelease 2023.02.07 12PM (KST)\n\nM/V Directed by 서인국, andreas_thegreek\nProduced by 에이 픽쳐스, 카탈로그\n\nLyrics by 서씨네\nComposed by 서씨네\nArranged by 박경현\n\nCAMERA Daney Kang\n1ST AC 진영민\nLIGHTING Xander, 김경선\nLINE PRODUCER 김은실\nEDITING andreas_thegreek\nCOLOR andreas_thegreek\n\nAERMUSIC Official Instagram: https://instagram.com/aermusic_official\nRaina Official Instagram: https://www.instagram.com/raina_57\n\n#레이나 #Raina #DigitalSingle\n#그때우리처럼 #Teaser\n#AERMUSIC #아에르뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5193",
+                "likeCount": "328",
+                "favoriteCount": "0",
+                "commentCount": "23"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "iwPXG0DGnSFDYvNxnDpeaZ_96Pk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "xRsz22u6vSpsKrCkwOzpBGcuKw8",
+            "id": "RtWnErqXV3A",
+            "snippet": {
+                "publishedAt": "2025-12-09T05:29:50Z",
+                "channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
+                "title": "위시 (WISH) - Wish you a Merry Christmas Official M/V",
+                "description": "WISH가 전하는 겨울 선물, “WISH You a Merry Christmas.”\nMerry Merry Christmas with WISH.\n\n〈credits〉\nLyrics by JQ(MUMW),SSAC(MUMW)\nComposed by earattack\nArranged by earattack\n\nVocal Directed earattack\nRecording by 이유진@ FUTORE STUDIO\nDigital Editing by 이경원\nmixed by Lee Taesub at Gateway Studio\nMastering by 권남우 @821sound\n\n#WISH #위시 #Wish_you_a_Merry_Christmas",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RtWnErqXV3A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RtWnErqXV3A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RtWnErqXV3A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RtWnErqXV3A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RtWnErqXV3A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Stone Music Entertainment",
+                "tags": [
+                    "K-CULTURE",
+                    "korean Music",
+                    "MV",
+                    "Music Video",
+                    "K-Pop",
+                    "Kpop",
+                    "뮤비",
+                    "뮤직비디오",
+                    "Stone Music Entertainment"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "위시 (WISH) - Wish you a Merry Christmas Official M/V",
+                    "description": "WISH가 전하는 겨울 선물, “WISH You a Merry Christmas.”\nMerry Merry Christmas with WISH.\n\n〈credits〉\nLyrics by JQ(MUMW),SSAC(MUMW)\nComposed by earattack\nArranged by earattack\n\nVocal Directed earattack\nRecording by 이유진@ FUTORE STUDIO\nDigital Editing by 이경원\nmixed by Lee Taesub at Gateway Studio\nMastering by 권남우 @821sound\n\n#WISH #위시 #Wish_you_a_Merry_Christmas"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "393",
+                "likeCount": "36",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

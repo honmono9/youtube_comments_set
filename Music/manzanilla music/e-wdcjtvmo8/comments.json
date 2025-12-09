@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "d13ydIrgBMdKREROSVpkCJtoB64",
+        "id": "Ugwja1E86oYcYeohPsJ4AaABAg",
+        "snippet": {
+            "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+            "videoId": "e-wdcjtvmo8",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "D8IdqjFqNJNEhSvj9NfCE9uPmMc",
+                "id": "Ugwja1E86oYcYeohPsJ4AaABAg",
+                "snippet": {
+                    "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+                    "videoId": "e-wdcjtvmo8",
+                    "textDisplay": "この曲たちは全て著作権フリーですか？",
+                    "textOriginal": "この曲たちは全て著作権フリーですか？",
+                    "authorDisplayName": "@sakura02408",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/q-UcsVt8AuceWxWrnhu3zmUdka1DNm-7ZvMjHL7UNLIx8bWr3pdteHa_hodJ3MmPsG4-BycNGw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@sakura02408",
+                    "authorChannelId": {
+                        "value": "UCrvv2QBkE5qtJu8aF1wY5cA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-05-11T07:22:32Z",
+                    "updatedAt": "2025-05-11T07:22:32Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 4,
+            "isPublic": true
+        }
+    }
+]

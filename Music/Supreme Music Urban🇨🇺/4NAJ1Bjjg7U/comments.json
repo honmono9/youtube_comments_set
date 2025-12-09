@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "I42Ijj-xmlpC02C1NqzfOUW30gM",
+        "id": "Ugz5S0M2ub8ZQCjjQDl4AaABAg",
+        "snippet": {
+            "channelId": "UCXj1cdrw4nVpiqi3ffc-ZCw",
+            "videoId": "4NAJ1Bjjg7U",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "AWZ3-C29skSCe0l5drEF0NqmgAw",
+                "id": "Ugz5S0M2ub8ZQCjjQDl4AaABAg",
+                "snippet": {
+                    "channelId": "UCXj1cdrw4nVpiqi3ffc-ZCw",
+                    "videoId": "4NAJ1Bjjg7U",
+                    "textDisplay": "Para adquirir una licencia para su uso exclusivo entrar al siguiente enlace \nhttps://bsta.rs/aaVKwd",
+                    "textOriginal": "Para adquirir una licencia para su uso exclusivo entrar al siguiente enlace \nhttps://bsta.rs/aaVKwd",
+                    "authorDisplayName": "@supreme_music_urban",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/QY1_yGcEiCVCBQYrH60Jb9PJ4oTUQjT-MPLg-aXad6c7-DI6XJp5kEPMI5Da4ZtRrKgo8ZvBFg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@supreme_music_urban",
+                    "authorChannelId": {
+                        "value": "UCXj1cdrw4nVpiqi3ffc-ZCw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2023-09-18T12:33:35Z",
+                    "updatedAt": "2023-09-18T12:33:35Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

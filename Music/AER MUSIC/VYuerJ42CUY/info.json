@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "25-xY-pfd1lXck-mhX-TJtppFVQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "azVqkwBUETqecSefCtZlOWiWNos",
+            "id": "VYuerJ42CUY",
+            "snippet": {
+                "publishedAt": "2023-02-28T01:18:38Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[INTERVIEW & BEHIND] 지한 (Weeekly) - Latte Latte | 꼭두의 계절 OST Part.4 (ENG/JPN)",
+                "description": "지한 (Weeekly) - Latte Latte | 꼭두의 계절 OST Part.4\n\n✨지한 (Weeekly) - Latte Latte✨  \n\n#꼭두의계절OST #지한 #Weeekly #LatteLatte\n#아에르뮤직 #AERMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VYuerJ42CUY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VYuerJ42CUY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VYuerJ42CUY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VYuerJ42CUY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VYuerJ42CUY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[INTERVIEW & BEHIND] 지한 (Weeekly) - Latte Latte | 꼭두의 계절 OST Part.4 (ENG/JPN)",
+                    "description": "지한 (Weeekly) - Latte Latte | 꼭두의 계절 OST Part.4\n\n✨지한 (Weeekly) - Latte Latte✨  \n\n#꼭두의계절OST #지한 #Weeekly #LatteLatte\n#아에르뮤직 #AERMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2125",
+                "likeCount": "197",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

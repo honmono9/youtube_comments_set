@@ -1,0 +1,108 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "AuTlIbXyW8rWDAiVekdj04lPIfY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "6N4Pcxb_LE5SvmiwO2lx3wRvYAo",
+            "id": "_YESQkhh83M",
+            "snippet": {
+                "publishedAt": "2025-07-08T10:22:49Z",
+                "channelId": "UCsfYd7AVFk_ASiMudok6_sQ",
+                "title": "Fly me to the moon",
+                "description": "Fly me to the moon!\n\nCla - seo hyo sang\nVio- Yoo ho jung\nGt - song min seoup\nBass - choi jun hyuk",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_YESQkhh83M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_YESQkhh83M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_YESQkhh83M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_YESQkhh83M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_YESQkhh83M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jazz Music Korea",
+                "tags": [
+                    "재즈",
+                    "재즈밴드",
+                    "재즈공연",
+                    "재즈밴드굿펠리스",
+                    "굿펠리스",
+                    "재즈밴드섭외",
+                    "재즈음악",
+                    "재즈뮤직코리아",
+                    "공연",
+                    "공연섭외",
+                    "재즈베이스",
+                    "콘트라베이스",
+                    "콘트라베이스최준혁",
+                    "재즈베이스최준혁",
+                    "워킹베이스",
+                    "jazz",
+                    "jazzband",
+                    "jazzmusic",
+                    "jazzmusickorea",
+                    "goodfellis",
+                    "uprightbass",
+                    "jazzbass",
+                    "choijunhyuk",
+                    "비브라폰",
+                    "livejazz",
+                    "jazzbandgoodfellis",
+                    "autumn leaves",
+                    "버스킹",
+                    "어텀리브스",
+                    "즉흥연주",
+                    "피렌체",
+                    "여행",
+                    "이태리",
+                    "italy"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Fly me to the moon",
+                    "description": "Fly me to the moon!\n\nCla - seo hyo sang\nVio- Yoo ho jung\nGt - song min seoup\nBass - choi jun hyuk"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT6M44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3203",
+                "likeCount": "130",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

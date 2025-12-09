@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "OTl53rC-wFS1EkJJ1jl8IDcprZc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Fhh6HdSHIh_-B21fkk6z0komu58",
+            "id": "ooMiNFT5mo8",
+            "snippet": {
+                "publishedAt": "2022-10-21T20:04:56Z",
+                "channelId": "UCwdmcaOcWQ7PW8_wuaB8Cjw",
+                "title": "SEBASTIAN SPENCER X SARAH - F**K IT (don't want you back) extended club mix",
+                "description": "Folge mir:  \n\n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ooMiNFT5mo8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ooMiNFT5mo8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ooMiNFT5mo8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ooMiNFT5mo8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ooMiNFT5mo8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sebastian Spencer Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "de",
+                "localized": {
+                    "title": "SEBASTIAN SPENCER X SARAH - F**K IT (don't want you back) extended club mix",
+                    "description": "Folge mir:  \n\n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT6M6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "46051",
+                "likeCount": "463",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

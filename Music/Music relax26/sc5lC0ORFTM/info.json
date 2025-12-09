@@ -1,0 +1,81 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "hGHaVSCszFFxw6ayHMmtKGoI7sg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "uqpzLlGispEwLDMYs7vHc1FrZk4",
+            "id": "sc5lC0ORFTM",
+            "snippet": {
+                "publishedAt": "2025-05-16T08:18:55Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "#เทคการร้องเพลง (เปรียบเทียบการร้องเพลง ยุคเก่ากับ ยุคใหม่) ไปดูกันเลย [Music relax26]",
+                "description": "#เทคการร้องเพลง (เปรียบเทียบการร้องเพลง ยุคเก่ากับ ยุคใหม่) ไปดูกันเลย [Music relax26]\n#เพลงเก่ายุค90 #เพลงดังในอดีต เพลงทิ้ง วงเอ้าท์ไซเด้อ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sc5lC0ORFTM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sc5lC0ORFTM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sc5lC0ORFTM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sc5lC0ORFTM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sc5lC0ORFTM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "tags": [
+                    "#เทคการร้องเพลง (เปรียบเทียบการร้องเพลง ยุคเก่ากับ ยุคใหม่) ไปดูกันเลย [Music relax26]",
+                    "เทคนิคการร้องเพลง",
+                    "ร้องเพลงยังไงให้เพราะ",
+                    "เพลงยุค90",
+                    "เพลงเก่าเอามาร้องใหม่",
+                    "เพลงคัฟเวอร์",
+                    "Music relax26"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "#เทคการร้องเพลง (เปรียบเทียบการร้องเพลง ยุคเก่ากับ ยุคใหม่) ไปดูกันเลย [Music relax26]",
+                    "description": "#เทคการร้องเพลง (เปรียบเทียบการร้องเพลง ยุคเก่ากับ ยุคใหม่) ไปดูกันเลย [Music relax26]\n#เพลงเก่ายุค90 #เพลงดังในอดีต เพลงทิ้ง วงเอ้าท์ไซเด้อ"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4875",
+                "likeCount": "26",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

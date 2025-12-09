@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "jFp1FWTm_orNnx5pEOUJNYBfESk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "8Z2kHBTiKCKEEbDhdDDXv28Qv_4",
+            "id": "M9stb-vEtoc",
+            "snippet": {
+                "publishedAt": "2023-06-24T10:15:01Z",
+                "channelId": "UCYTNxR2Z4ryz88WRWiaPCdg",
+                "title": "博衣こより - WAO!! (nenpulse - bootleg remix)",
+                "description": "Vocals / Released : 博衣こより\nRemix : nenpulse\n\nVideo design : K - Music Sweet \n---------------------------------------------\n★ Follow - nenpulse\n● Soundcloud : https://soundcloud.com/nenpulse\n● Twitter : https://twitter.com/nenpulse\n---------------------------------------------\n🎨 Wallpaper By (笹倉 紅葉) : https://www.pixiv.net/artworks/96730216\n● Pixiv : https://www.pixiv.net/en/users/3689679\n● Twitter : https://twitter.com/SasakuraMomizi\n---------------------------------------------\n💌 If you would like to submit a song or have any questions , Please email me (kmusicsweet@gmail.com)\n\n#kmusicsweet \n#博衣こより",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M9stb-vEtoc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M9stb-vEtoc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M9stb-vEtoc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/M9stb-vEtoc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/M9stb-vEtoc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "K - Music Sweet",
+                "tags": [
+                    "kawaii music",
+                    "cute music",
+                    "kawaii song",
+                    "cute song",
+                    "anime"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "博衣こより - WAO!! (nenpulse - bootleg remix)",
+                    "description": "Vocals / Released : 博衣こより\nRemix : nenpulse\n\nVideo design : K - Music Sweet \n---------------------------------------------\n★ Follow - nenpulse\n● Soundcloud : https://soundcloud.com/nenpulse\n● Twitter : https://twitter.com/nenpulse\n---------------------------------------------\n🎨 Wallpaper By (笹倉 紅葉) : https://www.pixiv.net/artworks/96730216\n● Pixiv : https://www.pixiv.net/en/users/3689679\n● Twitter : https://twitter.com/SasakuraMomizi\n---------------------------------------------\n💌 If you would like to submit a song or have any questions , Please email me (kmusicsweet@gmail.com)\n\n#kmusicsweet \n#博衣こより"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "26179",
+                "likeCount": "518",
+                "favoriteCount": "0",
+                "commentCount": "19"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

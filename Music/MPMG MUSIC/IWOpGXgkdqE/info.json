@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "HzobIHLvdp0n0RFj4PwAVAwTnvs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "A1e957MCiHAmGaVGCa36rO4vueE",
+            "id": "IWOpGXgkdqE",
+            "snippet": {
+                "publishedAt": "2025-02-09T23:00:18Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "🌞𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀! #1 | #소란 #고영배",
+                "description": "[𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀!]\n\n여러분의 아침을 열어줄 오늘의 아티스트는\n소란의 고영배님입니다.\n\n영배님의 아침 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n좋은 아침 되세요!🌞\n\n[00:00] Good Morning my Firends #1 고영배\n[02:53] Harrison Finks - Work day\n[05:49] AI Jarreau - Mornin’\n[10:03] Jacob Sigma - You’re Smart\n[11:45] elijah woods - take care\n[13:55] Maia Wright - Do yourseld A favor\n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#GoodMorningmyFriends #소란 #고영배",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IWOpGXgkdqE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IWOpGXgkdqE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IWOpGXgkdqE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IWOpGXgkdqE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IWOpGXgkdqE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🌞𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀! #1 | #소란 #고영배",
+                    "description": "[𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀!]\n\n여러분의 아침을 열어줄 오늘의 아티스트는\n소란의 고영배님입니다.\n\n영배님의 아침 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n좋은 아침 되세요!🌞\n\n[00:00] Good Morning my Firends #1 고영배\n[02:53] Harrison Finks - Work day\n[05:49] AI Jarreau - Mornin’\n[10:03] Jacob Sigma - You’re Smart\n[11:45] elijah woods - take care\n[13:55] Maia Wright - Do yourseld A favor\n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#GoodMorningmyFriends #소란 #고영배"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT16M32S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1476",
+                "likeCount": "124",
+                "favoriteCount": "0",
+                "commentCount": "64"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "-LdQXuY1GNfto7ejFPKCGYC90qU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "yY4cwEY0m2wAyNs79Vk4wLaVMIY",
+            "id": "tJ00e5T2H9A",
+            "snippet": {
+                "publishedAt": "2025-11-11T12:46:56Z",
+                "channelId": "UCxWfuzrNR2jjAnWUh8o8ycA",
+                "title": "🎷 Retro Jazz Autumn 🍁 | 1940s Vintage Lounge Classics – Smooth & Nostalgic Jazz",
+                "description": "#RetroJazz #VintageJazz #AutumnJazz #1940sJazz #SmoothJazz #LoungeJazz #NostalgicJazz #ClassicJazz #SmokyBarJazz #RomanticJazz #VintageVibes\nImmerse yourself in the golden glow of autumn with smooth, nostalgic jazz from the 1940s.\nThis vintage lounge collection captures the warmth of smoky bars, falling leaves, and timeless melodies — where love, memory, and jazz intertwine under the soft amber lights.\n✉Contact us: jazzmusicback@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tJ00e5T2H9A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tJ00e5T2H9A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tJ00e5T2H9A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tJ00e5T2H9A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tJ00e5T2H9A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jazz Music Back",
+                "tags": [
+                    "retro jazz",
+                    "vintage jazz",
+                    "autumn jazz",
+                    "nostalgic jazz",
+                    "1940s jazz",
+                    "lounge jazz",
+                    "smooth jazz",
+                    "classic jazz",
+                    "female vocal jazz",
+                    "smoky bar jazz",
+                    "romantic jazz",
+                    "fall jazz playlist"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "🎷 Retro Jazz Autumn 🍁 | 1940s Vintage Lounge Classics – Smooth & Nostalgic Jazz",
+                    "description": "#RetroJazz #VintageJazz #AutumnJazz #1940sJazz #SmoothJazz #LoungeJazz #NostalgicJazz #ClassicJazz #SmokyBarJazz #RomanticJazz #VintageVibes\nImmerse yourself in the golden glow of autumn with smooth, nostalgic jazz from the 1940s.\nThis vintage lounge collection captures the warmth of smoky bars, falling leaves, and timeless melodies — where love, memory, and jazz intertwine under the soft amber lights.\n✉Contact us: jazzmusicback@gmail.com"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT33M48S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "241",
+                "likeCount": "11",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

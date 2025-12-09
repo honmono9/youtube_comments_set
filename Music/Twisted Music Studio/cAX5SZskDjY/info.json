@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "YdVscGUxegXn5xjGWG_yPkb1On4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "vYFTrX2f4_WiYRCuvfI5ZzlNk-k",
+            "id": "cAX5SZskDjY",
+            "snippet": {
+                "publishedAt": "2025-10-27T20:53:06Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Iron Maiden - Run to the Hills | Soul AI Cover",
+                "description": "Run to the Hills by Iron Maiden twisted into Soul Music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics: \nWhite man came across the sea\nHe brought us pain and misery\nHe killed our tribes, he killed our creed\nHe took our game for his own need\n\nWe fought him hard, we fought him well\nOut on the plains we gave him hell\nBut many came too much for Cree\nOh will we ever be set free?\n\nRiding through dust clouds and barren wastes\nGalloping hard on the plains\nChasing the redskins back to their holes\nFighting them at their own game\nMurder for freedom the stab in the back\nWomen and children are cowards attack\n\nRun to the hills, run for your lives\nRun to the hills, run for your lives\n\nSoldier blue in the barren wastes\nHunting and killing their game\nRaping the women and wasting the men\nThe only good Injuns are tame\nSelling them whiskey and taking their gold\nEnslaving the young and destroying the old\n\nRun to the hills, run for your lives\nRun to the hills, run for your lives\n\nRun to the hills, run for your lives\nRun to the hills, run for your lives\nRun to the hills, run for your lives\nRun to the hills, run for your lives",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cAX5SZskDjY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cAX5SZskDjY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cAX5SZskDjY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cAX5SZskDjY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cAX5SZskDjY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Iron Maiden - Run to the Hills | Soul AI Cover",
+                    "description": "Run to the Hills by Iron Maiden twisted into Soul Music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics: \nWhite man came across the sea\nHe brought us pain and misery\nHe killed our tribes, he killed our creed\nHe took our game for his own need\n\nWe fought him hard, we fought him well\nOut on the plains we gave him hell\nBut many came too much for Cree\nOh will we ever be set free?\n\nRiding through dust clouds and barren wastes\nGalloping hard on the plains\nChasing the redskins back to their holes\nFighting them at their own game\nMurder for freedom the stab in the back\nWomen and children are cowards attack\n\nRun to the hills, run for your lives\nRun to the hills, run for your lives\n\nSoldier blue in the barren wastes\nHunting and killing their game\nRaping the women and wasting the men\nThe only good Injuns are tame\nSelling them whiskey and taking their gold\nEnslaving the young and destroying the old\n\nRun to the hills, run for your lives\nRun to the hills, run for your lives\n\nRun to the hills, run for your lives\nRun to the hills, run for your lives\nRun to the hills, run for your lives\nRun to the hills, run for your lives"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1086",
+                "likeCount": "25",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

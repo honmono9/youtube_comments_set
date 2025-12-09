@@ -1,0 +1,104 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "ovTRks2AIt9BUrebAjCki8-nAtY",
+        "id": "UgzObmghj63jUn5l9oB4AaABAg",
+        "snippet": {
+            "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+            "videoId": "BpOVhxmNp1c",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "LJ2IFpJibY2AbZdOzXfjppBF1L4",
+                "id": "UgzObmghj63jUn5l9oB4AaABAg",
+                "snippet": {
+                    "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+                    "videoId": "BpOVhxmNp1c",
+                    "textDisplay": "That rhythm/lead guitar is grooving so hard it gives the bass so much to work with!!! Well done!",
+                    "textOriginal": "That rhythm/lead guitar is grooving so hard it gives the bass so much to work with!!! Well done!",
+                    "authorDisplayName": "@benmeier5199",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/CNnfUphxZdKHMDu0k_XG6WrklZQCN-huKyff4BPrPrXkFhKVLqJS2PzD3IQxl7DspXejzWacEA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@benmeier5199",
+                    "authorChannelId": {
+                        "value": "UCxrOM9icAyTR2crUxM73ZFw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2024-01-16T22:22:46Z",
+                    "updatedAt": "2024-01-16T22:22:46Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "oAGxvZ1tBK8A9hvYzgAt6S1A7Gg",
+        "id": "UgzsG-ZDNaLcIjZ4pfl4AaABAg",
+        "snippet": {
+            "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+            "videoId": "BpOVhxmNp1c",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "_Aq2KyYKvoz7AmJO1kkoV9oonss",
+                "id": "UgzsG-ZDNaLcIjZ4pfl4AaABAg",
+                "snippet": {
+                    "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+                    "videoId": "BpOVhxmNp1c",
+                    "textDisplay": "What is going on with the A7? You recommend a minor pentatonic over a dominant chord with major 3rd in it? It sounds Am7 so should the chart then be updated?",
+                    "textOriginal": "What is going on with the A7? You recommend a minor pentatonic over a dominant chord with major 3rd in it? It sounds Am7 so should the chart then be updated?",
+                    "authorDisplayName": "@BoardsOfCeres",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ZMid13q9Os4sg_kPVZiN5d3bWcs7aRrmslAV6NZ1R-HQ9QgRlHMG_j6C0RMxdXnntTb96ti3=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@BoardsOfCeres",
+                    "authorChannelId": {
+                        "value": "UC3OBEc1dJF6j03IzUkBExAw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 3,
+                    "publishedAt": "2023-10-11T16:25:30Z",
+                    "updatedAt": "2023-10-11T16:25:30Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 3,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "u9MEkRcWD_4f4xQCiGZLOykpE4c",
+        "id": "UgxURz0CrlaGjNZhegx4AaABAg",
+        "snippet": {
+            "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+            "videoId": "BpOVhxmNp1c",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "VQ0grWMfd7O0MvWRVhQxxieyHg8",
+                "id": "UgxURz0CrlaGjNZhegx4AaABAg",
+                "snippet": {
+                    "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+                    "videoId": "BpOVhxmNp1c",
+                    "textDisplay": "Real",
+                    "textOriginal": "Real",
+                    "authorDisplayName": "@henriquebeira",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l896Wr-z26KmQHtX9cLE_3KJ0y4WwKCRn1j0v83YNQLCM=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@henriquebeira",
+                    "authorChannelId": {
+                        "value": "UCF_RICkDvV_nwD7eNGUy0dw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2023-10-02T22:17:54Z",
+                    "updatedAt": "2023-10-02T22:17:54Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

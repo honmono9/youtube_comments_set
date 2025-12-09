@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "uZJLFg11GppllVnY7Dn7XzChxsg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "LOjmpkHwcZ4GYgZRLRyCcl3DD_g",
+            "id": "e0XXt4c7y20",
+            "snippet": {
+                "publishedAt": "2025-07-28T13:01:25Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Ubi Caritas (SATB) | Ola Gjeilo",
+                "description": "Ubi Caritas by Ola Gjeilo for unaccompanied SATB voices.\n\nThis remarkable setting of the familiar Latin text starts in unison evoking plain chant, and gradually unfolds into wider harmonies and a more modern harmonic language. Not unduly challenging, Ubi Caritas is readily accessible to good high school mixed choirs for concerts or festivals of any nature. \n\nPurchase the music: https://giamusic.com/resource/ubi-caritas-satb-print-ww1386\n\n#OlaGjeilo #UbiCaritas #SacredMusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e0XXt4c7y20/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e0XXt4c7y20/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e0XXt4c7y20/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/e0XXt4c7y20/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/e0XXt4c7y20/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Ubi Caritas (SATB) | Ola Gjeilo",
+                    "description": "Ubi Caritas by Ola Gjeilo for unaccompanied SATB voices.\n\nThis remarkable setting of the familiar Latin text starts in unison evoking plain chant, and gradually unfolds into wider harmonies and a more modern harmonic language. Not unduly challenging, Ubi Caritas is readily accessible to good high school mixed choirs for concerts or festivals of any nature. \n\nPurchase the music: https://giamusic.com/resource/ubi-caritas-satb-print-ww1386\n\n#OlaGjeilo #UbiCaritas #SacredMusic"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "498",
+                "likeCount": "5",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "HYs_uJ04wPyrDm20DTzv-zAcxzw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "cQT0PH3U5Pc8so3Q43t9RoZDPmk",
+            "id": "TSj-oCzGmoM",
+            "snippet": {
+                "publishedAt": "2024-02-10T09:00:28Z",
+                "channelId": "UC2QOMTJ0Gz5vJPMl7KXkWaA",
+                "title": "島谷ひとみが選ぶ「泣き歌ランキング」",
+                "description": "今回の「MUSIC公式チャンネル」は\n島谷ひとみが選ぶ「泣き歌ランキング」\n\n自身の泣き歌を独自の視点でランキング！\n皆さんのおすすめの泣き歌はございますか？\n\nあなたの心に届きますように♪\n是非ご覧ください！！\n\n👁島谷ひとみの島谷・製作所（オフィシャルYoutube）\nhttps://www.youtube.com/channel/UCo-tnZZgllohoIMgXLOuuBg\n是非こちらもチャンネル登録お願いします！\n\n👁島谷ひとみ公式サイト\nhttps://shimatani.tokyo/\n\n👁島谷ひとみオフィシャルTwitter\nhttps://twitter.com/Shimatani_Staff\n\n👁島谷ひとみオフィシャルInstagram\nhttps://www.instagram.com/shimatani_hitomi_official/\n\n#島谷ひとみ\n#泣き歌\n#ランキング\n#オリジナル",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TSj-oCzGmoM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TSj-oCzGmoM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TSj-oCzGmoM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TSj-oCzGmoM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TSj-oCzGmoM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HITOMI SHIMATANI MUSIC Official Youtube",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "島谷ひとみが選ぶ「泣き歌ランキング」",
+                    "description": "今回の「MUSIC公式チャンネル」は\n島谷ひとみが選ぶ「泣き歌ランキング」\n\n自身の泣き歌を独自の視点でランキング！\n皆さんのおすすめの泣き歌はございますか？\n\nあなたの心に届きますように♪\n是非ご覧ください！！\n\n👁島谷ひとみの島谷・製作所（オフィシャルYoutube）\nhttps://www.youtube.com/channel/UCo-tnZZgllohoIMgXLOuuBg\n是非こちらもチャンネル登録お願いします！\n\n👁島谷ひとみ公式サイト\nhttps://shimatani.tokyo/\n\n👁島谷ひとみオフィシャルTwitter\nhttps://twitter.com/Shimatani_Staff\n\n👁島谷ひとみオフィシャルInstagram\nhttps://www.instagram.com/shimatani_hitomi_official/\n\n#島谷ひとみ\n#泣き歌\n#ランキング\n#オリジナル"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT11M3S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3726",
+                "likeCount": "210",
+                "favoriteCount": "0",
+                "commentCount": "27"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

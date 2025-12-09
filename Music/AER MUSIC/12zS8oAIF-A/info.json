@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "gdxRumQy76ikFRPZ_aTyBeGprss",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "-2sLtZTWqbcF5ZqSufSCDN50570",
+            "id": "12zS8oAIF-A",
+            "snippet": {
+                "publishedAt": "2023-05-14T03:00:01Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "주은(JUEUN) 1st Single Album 'Easy Breezy' EP.5 음악방송 및 팬사인회 비하인드",
+                "description": "※영상을 퍼갈 경우, 출처표기를 반드시 부탁드립니다※\n※본 영상을 타 채널에 업로드하여 수익 창출 시 삭제 요청 드리니 주의 부탁드립니다※\n\nAER MUSIC 인스타그램👇\nhttps://instagram.com/aermusic_official?utm_medium=copy_link\n\n#주은 #JUEUN #EasyBreezy",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/12zS8oAIF-A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/12zS8oAIF-A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/12zS8oAIF-A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/12zS8oAIF-A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/12zS8oAIF-A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "주은(JUEUN) 1st Single Album 'Easy Breezy' EP.5 음악방송 및 팬사인회 비하인드",
+                    "description": "※영상을 퍼갈 경우, 출처표기를 반드시 부탁드립니다※\n※본 영상을 타 채널에 업로드하여 수익 창출 시 삭제 요청 드리니 주의 부탁드립니다※\n\nAER MUSIC 인스타그램👇\nhttps://instagram.com/aermusic_official?utm_medium=copy_link\n\n#주은 #JUEUN #EasyBreezy"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT12M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3627",
+                "likeCount": "283",
+                "favoriteCount": "0",
+                "commentCount": "19"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

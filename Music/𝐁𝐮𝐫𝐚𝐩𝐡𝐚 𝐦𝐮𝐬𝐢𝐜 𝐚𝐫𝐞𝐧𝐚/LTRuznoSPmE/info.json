@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "5td52S4mE1jyabiP7-OvGTG-2Dc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "m4pw_R7NvuFVIzZfHxh7vhclqIk",
+            "id": "LTRuznoSPmE",
+            "snippet": {
+                "publishedAt": "2025-10-22T14:08:27Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "Though the Fire (ไฟในใจ) #rock #mv #redminote8pro",
+                "description": "ไฟในใจ แม้เจ็บปวดหัวใจก็รักเพียงเธอ (Though the Fire) @BMAarena#rock #music #cinematicrock",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LTRuznoSPmE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LTRuznoSPmE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LTRuznoSPmE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LTRuznoSPmE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LTRuznoSPmE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "tags": [
+                    "@BMAarena",
+                    "though the Fire",
+                    "ไฟในใจ",
+                    "Burapha Music Arena",
+                    "แม้เจ็บปวดหัวใจ"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "Though the Fire (ไฟในใจ) #rock #mv #redminote8pro",
+                    "description": "ไฟในใจ แม้เจ็บปวดหัวใจก็รักเพียงเธอ (Though the Fire) @BMAarena#rock #music #cinematicrock"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT1M2S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "17149",
+                "likeCount": "153",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

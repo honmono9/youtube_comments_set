@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "9Cg3wM9JS-YCLaIzJcxEu04d0GM",
+        "id": "UgysvMHhPhUJYVEs37R4AaABAg",
+        "snippet": {
+            "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+            "videoId": "TxQOqsBfBwg",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "0MuhhX1TQj1zzeXErVx3qWgGNhY",
+                "id": "UgysvMHhPhUJYVEs37R4AaABAg",
+                "snippet": {
+                    "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+                    "videoId": "TxQOqsBfBwg",
+                    "textDisplay": "Well deserved my friend. Thanks for producing such good quality contents. 🎉.",
+                    "textOriginal": "Well deserved my friend. Thanks for producing such good quality contents. 🎉.",
+                    "authorDisplayName": "@OzPrince01",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/YROn4Trk4v6MbzvF9zNig81LrZb_FZCoi48cxsMDB4qougxGtH8yUtEy8FJf3IYnriLMDWPV8LM=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@OzPrince01",
+                    "authorChannelId": {
+                        "value": "UCoisysqveYmOu84FZgD56nw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2023-11-20T18:43:27Z",
+                    "updatedAt": "2023-11-20T18:43:27Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Rpk_eYDIvRb6rGLHasKtZ5GoKxc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "bnr9oOKjjLof9tK8Cv5uPNtMzPM",
+            "id": "z3Hr9miaNXE",
+            "snippet": {
+                "publishedAt": "2025-10-19T05:23:08Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "커피 마시면서 듣시 좋은 음악 #카페음악 #cafemusic #가을감성 #매장음악 #cafe #가을플레이리스트 #공부할때듣기좋은노래 #집중할때듣기좋은노래",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z3Hr9miaNXE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z3Hr9miaNXE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z3Hr9miaNXE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/z3Hr9miaNXE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/z3Hr9miaNXE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "커피 마시면서 듣시 좋은 음악 #카페음악 #cafemusic #가을감성 #매장음악 #cafe #가을플레이리스트 #공부할때듣기좋은노래 #집중할때듣기좋은노래",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT17S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1963",
+                "likeCount": "29",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

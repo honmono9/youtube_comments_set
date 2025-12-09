@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "TOpOsSAZBD1PUse1YYH9mo09qvE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "gl8V95zPymDPO3TmwTOeQbjcgUI",
+            "id": "WbuD-VDKtI8",
+            "snippet": {
+                "publishedAt": "2025-09-25T10:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Vintage Radio Jazz | Nostalgic Saxophone & Piano Jazz on an Autumn Evening",
+                "description": "Immerse yourself in the nostalgic warmth of a 1950s New York autumn evening.\nA vintage radio plays smooth saxophone and piano jazz as golden leaves fall outside the window. Inside, a cozy light glows and a cat rests peacefully, completing the perfect autumn mood.\n\nThis playlist brings you the timeless charm of vintage jazz — perfect for studying, relaxing, or spending a quiet night at home.\n\n#vintagejazz #jazz #radiojazz #autumnjazz #nostalgicjazz #saxophonejazz #pianojazz #cozyjazz #relaxingjazz #1950sjazz #catjazz #eveningjazz #smoothjazz #studyjazz #falljazz #jazzmusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WbuD-VDKtI8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WbuD-VDKtI8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WbuD-VDKtI8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WbuD-VDKtI8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WbuD-VDKtI8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "saxophone jazz",
+                    "autumn jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Vintage Radio Jazz | Nostalgic Saxophone & Piano Jazz on an Autumn Evening",
+                    "description": "Immerse yourself in the nostalgic warmth of a 1950s New York autumn evening.\nA vintage radio plays smooth saxophone and piano jazz as golden leaves fall outside the window. Inside, a cozy light glows and a cat rests peacefully, completing the perfect autumn mood.\n\nThis playlist brings you the timeless charm of vintage jazz — perfect for studying, relaxing, or spending a quiet night at home.\n\n#vintagejazz #jazz #radiojazz #autumnjazz #nostalgicjazz #saxophonejazz #pianojazz #cozyjazz #relaxingjazz #1950sjazz #catjazz #eveningjazz #smoothjazz #studyjazz #falljazz #jazzmusic"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H33S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "886",
+                "likeCount": "22",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

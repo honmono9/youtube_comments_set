@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "GbOzb2I8DUtrEyQY8HrOB2esjas",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "3GF96-9lZNDevQkrqEByyziZqxc",
+            "id": "UqaATgULa90",
+            "snippet": {
+                "publishedAt": "2016-08-22T19:31:42Z",
+                "channelId": "UCquS6S5yOGk2j5YS6WHj6eA",
+                "title": "Guns N' Roses - Don't Cry (Cover)",
+                "description": "Siegfried Song Facebook :\nhttp://www.facebook.com/SiegfriedSongOfficial\nDavid Olivares Facebook : \nhttps://www.facebook.com/DavidOlivaresQ\nJotun Studio :\nhttp://www.jotunstudio.es\n\nThis is a collaboration cover of Don't Cry with David Olivares. It's little bit more aggressive than the original version and it's been also my intention to make this cover an individual thing and not a direct copy of the original vocals. It's up to you to decide whether the attempt has been successful or not.\n\nIf you like this song, please visit my facebook page.\nThank You.\n\nDavid Olivares - All Instruments and arrangement\nSiegfried Song - Lead and harmony Vocals\nLeo Peńa at Jotun Studio - mix, edit and master",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UqaATgULa90/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UqaATgULa90/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UqaATgULa90/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UqaATgULa90/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UqaATgULa90/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Siegfried Song",
+                "tags": [
+                    "Siegfried",
+                    "Song",
+                    "Siegfried Song",
+                    "Kameot",
+                    "GNR",
+                    "Don't Cry",
+                    "Guns N' Roses",
+                    "Axl",
+                    "Symmetric Chaos"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Guns N' Roses - Don't Cry (Cover)",
+                    "description": "Siegfried Song Facebook :\nhttp://www.facebook.com/SiegfriedSongOfficial\nDavid Olivares Facebook : \nhttps://www.facebook.com/DavidOlivaresQ\nJotun Studio :\nhttp://www.jotunstudio.es\n\nThis is a collaboration cover of Don't Cry with David Olivares. It's little bit more aggressive than the original version and it's been also my intention to make this cover an individual thing and not a direct copy of the original vocals. It's up to you to decide whether the attempt has been successful or not.\n\nIf you like this song, please visit my facebook page.\nThank You.\n\nDavid Olivares - All Instruments and arrangement\nSiegfried Song - Lead and harmony Vocals\nLeo Peńa at Jotun Studio - mix, edit and master"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "329089",
+                "likeCount": "5342",
+                "favoriteCount": "0",
+                "commentCount": "520"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

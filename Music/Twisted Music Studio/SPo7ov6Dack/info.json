@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Qk-4Z5rNhqfwybuKavF6ezQHM44",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "mym4T2Dy3yZVhLUPVBnS-UokdoE",
+            "id": "SPo7ov6Dack",
+            "snippet": {
+                "publishedAt": "2025-12-04T20:00:24Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Radiohead - Weird Fishes/Arpeggi | Soul AI Cover",
+                "description": "ROAD TO 1000 SUBS! LET'S GO!  Thank you all for listening!\n\nWeird Fishes/Arpeggi by Radiohead twisted into Soul Music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nIn the deepest ocean\nThe bottom of the sea\nYour eyes\nThey turn me\n\nWhy should I stay here?\nWhy should I stay?\n\nI'd be crazy not to follow\nFollow where you lead\nYour eyes\nThey turn me\n\nTurn me into phantoms\nI follow to the edge of the earth\nAnd fall off\nEverybody leaves\nIf they get the chance\nAnd this is my chance\n\nI get eaten by the worms\nAnd weird fishes\nPicked over by the worms\nAnd weird fishes\nWeird fishes\nWeird fishes\n\nYeah I\nI hit the bottom\nHit the bottom and escape\nEscape\nAnd I\nI hit the bottom\nHit the bottom\nHit the bottom and escape\nEscape",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SPo7ov6Dack/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SPo7ov6Dack/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SPo7ov6Dack/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SPo7ov6Dack/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SPo7ov6Dack/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Radiohead - Weird Fishes/Arpeggi | Soul AI Cover",
+                    "description": "ROAD TO 1000 SUBS! LET'S GO!  Thank you all for listening!\n\nWeird Fishes/Arpeggi by Radiohead twisted into Soul Music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nIn the deepest ocean\nThe bottom of the sea\nYour eyes\nThey turn me\n\nWhy should I stay here?\nWhy should I stay?\n\nI'd be crazy not to follow\nFollow where you lead\nYour eyes\nThey turn me\n\nTurn me into phantoms\nI follow to the edge of the earth\nAnd fall off\nEverybody leaves\nIf they get the chance\nAnd this is my chance\n\nI get eaten by the worms\nAnd weird fishes\nPicked over by the worms\nAnd weird fishes\nWeird fishes\nWeird fishes\n\nYeah I\nI hit the bottom\nHit the bottom and escape\nEscape\nAnd I\nI hit the bottom\nHit the bottom\nHit the bottom and escape\nEscape"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "216",
+                "likeCount": "8",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

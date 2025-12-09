@@ -1,0 +1,71 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "FlqIc6qDHpUjY6r3pKzzPasQH7I",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "EGmCMvtwALRlPZ6IU7YQ5vWBuKU",
+            "id": "ypXHuI4mHi4",
+            "snippet": {
+                "publishedAt": "2025-12-09T02:45:15Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "Awit ng Ibon - Andrey Sto. Domingo (2nd Prize Winner) | NAMCYA 2025 Senior Voice A",
+                "description": "Andrey Dela Peña Sto. Domingo, Region V\n2nd Prize Winner of Senior Voice A Category\nNAMCYA 2025 FINALS\n\nNational Finals Performance \nAwit ng Ibon – Jonas Baes\n\n\nNovember 18, 2025 \nManila Pianos, Makati City",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ypXHuI4mHi4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ypXHuI4mHi4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ypXHuI4mHi4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ypXHuI4mHi4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ypXHuI4mHi4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "fil",
+                "localized": {
+                    "title": "Awit ng Ibon - Andrey Sto. Domingo (2nd Prize Winner) | NAMCYA 2025 Senior Voice A",
+                    "description": "Andrey Dela Peña Sto. Domingo, Region V\n2nd Prize Winner of Senior Voice A Category\nNAMCYA 2025 FINALS\n\nNational Finals Performance \nAwit ng Ibon – Jonas Baes\n\n\nNovember 18, 2025 \nManila Pianos, Makati City"
+                }
+            },
+            "contentDetails": {
+                "duration": "PT4M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2",
+                "likeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

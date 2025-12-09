@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "XV_vQU9kazFJG9O5T3pY1Ot7dbs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "jERi9mSvsEcJO0rjEKig7dzKqOo",
+            "id": "N40Kq9VfTHQ",
+            "snippet": {
+                "publishedAt": "2025-07-03T04:26:11Z",
+                "channelId": "UC9LkgSReKybPl-gABo3fbRQ",
+                "title": "[MV] 벤 - 언제나 그대라서 (남주의 첫날밤을 가져버렸다 OST Part. 4)",
+                "description": "#OST #soundtrack #\n#남주의첫날밤을가져버렸다 #TheFirstNightWithTheDuke #드라마 #옥택연 #택연 #oktaecyeon #서현 #SeoHyun \n\n[남주의 첫날밤 OST Part 4]\n\n'언제나 그대라서'는 서정적인 선율 위에 '벤'의 애절하고 호소력 짙은 음색이 마음 깊은 울림을 선사하는 곡으로, 점점 깊어가는 '이번'(옥택연 분)과 '차선책'(서현 분) 두 사람의 감정선 위에 섬세하게 스며들어 따뜻하면서도 애틋한 여운을 더한다.\n\n\n[Credit]\n\nLyrics by 한밤 (Midnight)\nComposed by 개미, 한밤 (Midnight)\nArranged by 현기 (HYUNKI)\n\n[credit]\nPiano 현기 (HYUNKI)\nGuitar 정수완\nBass 현기 (HYUNKI)\nStrings 현기 (HYUNKI)\nMIDI Programming 현기 (HYUNKI)\n\nVocal Recorded by 고혜민 @Madfish studio\nVocal Edited by 고혜민 @Madfish studio\nMixed by 구자훈 @Madfish studio\nMastered by 권남우 @821 Sound Mastering\n\nOST Producer 조한상, 하상범, 신지선, 배정효 @KBS미디어",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N40Kq9VfTHQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N40Kq9VfTHQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N40Kq9VfTHQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/N40Kq9VfTHQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/N40Kq9VfTHQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS Media Music +",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[MV] 벤 - 언제나 그대라서 (남주의 첫날밤을 가져버렸다 OST Part. 4)",
+                    "description": "#OST #soundtrack #\n#남주의첫날밤을가져버렸다 #TheFirstNightWithTheDuke #드라마 #옥택연 #택연 #oktaecyeon #서현 #SeoHyun \n\n[남주의 첫날밤 OST Part 4]\n\n'언제나 그대라서'는 서정적인 선율 위에 '벤'의 애절하고 호소력 짙은 음색이 마음 깊은 울림을 선사하는 곡으로, 점점 깊어가는 '이번'(옥택연 분)과 '차선책'(서현 분) 두 사람의 감정선 위에 섬세하게 스며들어 따뜻하면서도 애틋한 여운을 더한다.\n\n\n[Credit]\n\nLyrics by 한밤 (Midnight)\nComposed by 개미, 한밤 (Midnight)\nArranged by 현기 (HYUNKI)\n\n[credit]\nPiano 현기 (HYUNKI)\nGuitar 정수완\nBass 현기 (HYUNKI)\nStrings 현기 (HYUNKI)\nMIDI Programming 현기 (HYUNKI)\n\nVocal Recorded by 고혜민 @Madfish studio\nVocal Edited by 고혜민 @Madfish studio\nMixed by 구자훈 @Madfish studio\nMastered by 권남우 @821 Sound Mastering\n\nOST Producer 조한상, 하상범, 신지선, 배정효 @KBS미디어"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M55S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6153",
+                "likeCount": "98",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "wADqbVkN0yMTM3fPFWPrxCyTRyQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "vDtcElrGs-iQrmrfpeuR4k8utKI",
+            "id": "N3xhFi8hoUQ",
+            "snippet": {
+                "publishedAt": "2024-08-30T09:00:16Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "[한글 자막 MV] 존 케이 (Jonh K) - Lost",
+                "description": "#존케이 #Lost \n“당신이 아니었다면 평생 사랑하는 법을 알지 못했을 거야\"\n이런 목소리로 이런 가사 부르면 바ㄴ치..ㄱ..😢\n\n🎧음악 듣기: https://JohnK.lnk.to/lostsingle\n\n🔗 존 케이 소셜미디어 계정\n▶ YouTube: https://www.youtube.com/channel/UCfcuj5fOkdBhosiEwBuP78A\n▶ Instagram: https://www.instagram.com/johnkmusic/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N3xhFi8hoUQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N3xhFi8hoUQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N3xhFi8hoUQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/N3xhFi8hoUQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/N3xhFi8hoUQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[한글 자막 MV] 존 케이 (Jonh K) - Lost",
+                    "description": "#존케이 #Lost \n“당신이 아니었다면 평생 사랑하는 법을 알지 못했을 거야\"\n이런 목소리로 이런 가사 부르면 바ㄴ치..ㄱ..😢\n\n🎧음악 듣기: https://JohnK.lnk.to/lostsingle\n\n🔗 존 케이 소셜미디어 계정\n▶ YouTube: https://www.youtube.com/channel/UCfcuj5fOkdBhosiEwBuP78A\n▶ Instagram: https://www.instagram.com/johnkmusic/"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9421",
+                "likeCount": "152",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "LrlZitCUhLRuzuA0EG5rnHMoH6M",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "CHjlsbLvvXLTjKZQhzCtvtQauRo",
+            "id": "ZfTG-79GTuk",
+            "snippet": {
+                "publishedAt": "2025-08-18T20:35:09Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Awake, Arise! | Kyle Pederson",
+                "description": "Awake, Arise was written almost 500 years ago and re-imagined in this setting by Kyle Pederson. It is for unaccompanied SATB double choir. In this version, the melody is reharmonized, rhythms are modified, and the text is adapted for a contemporary audience. The timeless message remains, however, that God has come to dwell with us, and we lift our voices in praise and wonder.\n\nThis performance is by Transept, conducted by Timothy J. Campbell.\n\nVideo production by Brian Gaukel. \n\nPurchase the music: https://giamusic.com/resource/awake-arise-printed-music-ww2057",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZfTG-79GTuk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZfTG-79GTuk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZfTG-79GTuk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZfTG-79GTuk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZfTG-79GTuk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Awake, Arise! | Kyle Pederson",
+                    "description": "Awake, Arise was written almost 500 years ago and re-imagined in this setting by Kyle Pederson. It is for unaccompanied SATB double choir. In this version, the melody is reharmonized, rhythms are modified, and the text is adapted for a contemporary audience. The timeless message remains, however, that God has come to dwell with us, and we lift our voices in praise and wonder.\n\nThis performance is by Transept, conducted by Timothy J. Campbell.\n\nVideo production by Brian Gaukel. \n\nPurchase the music: https://giamusic.com/resource/awake-arise-printed-music-ww2057"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT5M7S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "158",
+                "likeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

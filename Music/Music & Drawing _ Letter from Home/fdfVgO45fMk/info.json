@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "w-JznBd7BYhm0K0739sfTYTYtMs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "s7HfWsht_NTHD1-uuzjnB9k9MOg",
+            "id": "fdfVgO45fMk",
+            "snippet": {
+                "publishedAt": "2025-08-30T19:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Shall We Enjoy Jazz Together Tonight? | Smooth Vintage Saxophone Jazz Playlist",
+                "description": "Step into the romantic mood of a rainy night in 1950s New York.\nSmooth vintage saxophone jazz fills the cozy apartment as the city glows outside the window.\nPerfect for relaxing, studying, working, or simply enjoying a quiet evening with timeless jazz melodies.\n\nLet the sound of classic saxophone take you back to a nostalgic night — Shall we enjoy Jazz together tonight?\n\n#Smoothjazz #Vintagejazz #SaxophoneJazz #NightJazz #rainyjazz #rainmusic #JazzPlaylist #RomanticJazz #Cozyjazz #OldiesMusic #relaxingJazz #Instrumentaljazz #ClassicJazz #saxophonemusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fdfVgO45fMk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fdfVgO45fMk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fdfVgO45fMk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fdfVgO45fMk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fdfVgO45fMk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "guitar jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "rain jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "saxophone jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Shall We Enjoy Jazz Together Tonight? | Smooth Vintage Saxophone Jazz Playlist",
+                    "description": "Step into the romantic mood of a rainy night in 1950s New York.\nSmooth vintage saxophone jazz fills the cozy apartment as the city glows outside the window.\nPerfect for relaxing, studying, working, or simply enjoying a quiet evening with timeless jazz melodies.\n\nLet the sound of classic saxophone take you back to a nostalgic night — Shall we enjoy Jazz together tonight?\n\n#Smoothjazz #Vintagejazz #SaxophoneJazz #NightJazz #rainyjazz #rainmusic #JazzPlaylist #RomanticJazz #Cozyjazz #OldiesMusic #relaxingJazz #Instrumentaljazz #ClassicJazz #saxophonemusic"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H5S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1780",
+                "likeCount": "42",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

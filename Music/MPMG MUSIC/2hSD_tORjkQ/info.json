@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "toQ6ETWeLSTb-QUgAFbUXlJ9flo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "-XJfnaF4tq9whK1hulz1-8IqAwE",
+            "id": "2hSD_tORjkQ",
+            "snippet": {
+                "publishedAt": "2025-02-13T14:00:06Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "🌙𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲 #4 | #터치드 #윤민",
+                "description": "[𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲]\n\n여러분을 좋은 꿈으로 데려가 줄 오늘의 아티스트는\n터치드의 윤민님입니다.\n\n윤민님의 저녁 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n모두 좋은 꿈 꾸세요!🌙\n\n[00:00] Close Days Finale #4 윤민\n[02:20] 최유리 - 걱정의 문득\n[05:40] 최유리 - 답답한 새벽\n[09:27] Nerd Connection - 조용히 완전히 영원히\n[12:30] Nerd Connection - 좋은 밤 좋은 꿈\n[16:58] Bruno Major - To Let A Good Thing Die\n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#CloseDaysFinale #터치드 #윤민",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2hSD_tORjkQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2hSD_tORjkQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2hSD_tORjkQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2hSD_tORjkQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2hSD_tORjkQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🌙𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲 #4 | #터치드 #윤민",
+                    "description": "[𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲]\n\n여러분을 좋은 꿈으로 데려가 줄 오늘의 아티스트는\n터치드의 윤민님입니다.\n\n윤민님의 저녁 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n모두 좋은 꿈 꾸세요!🌙\n\n[00:00] Close Days Finale #4 윤민\n[02:20] 최유리 - 걱정의 문득\n[05:40] 최유리 - 답답한 새벽\n[09:27] Nerd Connection - 조용히 완전히 영원히\n[12:30] Nerd Connection - 좋은 밤 좋은 꿈\n[16:58] Bruno Major - To Let A Good Thing Die\n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#CloseDaysFinale #터치드 #윤민"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT19M16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4968",
+                "likeCount": "433",
+                "favoriteCount": "0",
+                "commentCount": "125"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

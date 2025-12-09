@@ -1,0 +1,93 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "rd5-siEppO_tzeFzohwDVWqx68c",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "QPrmj-r6m78V52uI4FTYPPVUqt4",
+            "id": "DftGW9KRCmU",
+            "snippet": {
+                "publishedAt": "2022-08-01T09:00:13Z",
+                "channelId": "UCE4IM82TdhmOl4Qtn8nsaGQ",
+                "title": "[Audio] 키드밀리 (Kid Milli) - BENZO (KR/EN)",
+                "description": "키드밀리 (Kid Milli) 더블싱글 [BENZO]\n00:00  01 Sariru (Feat. ron)\n03:55  02 BENZO\n\n- - - - -\n\n🎵 듣기 (Listen and download on your platform) :\nhttps://KidMilli.lnk.to/BENZO\n\n- - - - -\n\n[Official Channel]\n·키드밀리 (Kid Milli) : https://instagram.com/kidcozyboy\n·ron(론) : https://instagram.com/ronperiod\n·인디고뮤직 (Indigo Music) : http://indigomusic3.com\nhttps://www.instagram.com/indigomusic_official\n\n- - - - -\n\n#키드밀리 #KidMilli #벤조 #BENZO\n#론 #ron #싸리루 #Sariru\n#인디고뮤직 #IndigoMusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DftGW9KRCmU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DftGW9KRCmU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DftGW9KRCmU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DftGW9KRCmU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DftGW9KRCmU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AP Alchemy It's Indigo Music",
+                "tags": [
+                    "kidmilli",
+                    "kid milli",
+                    "ron",
+                    "indigo",
+                    "imjm",
+                    "imjmwdp",
+                    "indigomusic",
+                    "키드밀리",
+                    "론",
+                    "벤조",
+                    "benzo",
+                    "kid milli benzo",
+                    "kid milli sariru",
+                    "sariru",
+                    "싸리루",
+                    "ron kid milli",
+                    "키드밀리 론",
+                    "인디고뮤직",
+                    "인디고 키드밀리"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Audio] 키드밀리 (Kid Milli) - BENZO (KR/EN)",
+                    "description": "키드밀리 (Kid Milli) 더블싱글 [BENZO]\n00:00  01 Sariru (Feat. ron)\n03:55  02 BENZO\n\n- - - - -\n\n🎵 듣기 (Listen and download on your platform) :\nhttps://KidMilli.lnk.to/BENZO\n\n- - - - -\n\n[Official Channel]\n·키드밀리 (Kid Milli) : https://instagram.com/kidcozyboy\n·ron(론) : https://instagram.com/ronperiod\n·인디고뮤직 (Indigo Music) : http://indigomusic3.com\nhttps://www.instagram.com/indigomusic_official\n\n- - - - -\n\n#키드밀리 #KidMilli #벤조 #BENZO\n#론 #ron #싸리루 #Sariru\n#인디고뮤직 #IndigoMusic"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT6M22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "22264",
+                "likeCount": "662",
+                "favoriteCount": "0",
+                "commentCount": "79"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

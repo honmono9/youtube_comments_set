@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "OzE9Z4LZXllooZlGChJeyz1pbJk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "dXH8iFaDq2l2qs69EfBMltjQ4kc",
+            "id": "7OSWh6F0riY",
+            "snippet": {
+                "publishedAt": "2022-01-30T00:03:23Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "느긋한 휴일 나를 깨우는 달달한 알앤비/팝송",
+                "description": "photo by emma filer\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd-0KQd-tQHqCE5suxgjZ2b4",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7OSWh6F0riY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7OSWh6F0riY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7OSWh6F0riY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7OSWh6F0riY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7OSWh6F0riY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "팝송 모음",
+                    "팝송 추천",
+                    "달달한 팝송",
+                    "알앤비",
+                    "아침 팝송",
+                    "주말 아침 노래",
+                    "playlist",
+                    "잔잔한 팝송",
+                    "lazy sunday",
+                    "morning pop song",
+                    "r&b",
+                    "팝송 플리"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "느긋한 휴일 나를 깨우는 달달한 알앤비/팝송",
+                    "description": "photo by emma filer\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd-0KQd-tQHqCE5suxgjZ2b4"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT23M46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "273607",
+                "likeCount": "1711",
+                "favoriteCount": "0",
+                "commentCount": "51"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

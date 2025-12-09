@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "TANSdg8QC4FDPubWxHhlapyq8PM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Ev7-aHWRwUlWuZOAlpAGtcFG_Pw",
+            "id": "l9Xc4FhjCl4",
+            "snippet": {
+                "publishedAt": "2022-09-29T13:00:34Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Happy October Jazz - Positive Mood Jazz & Bossa Nova Music for Sweet Autumn Morning",
+                "description": "Enjoy happy autumn morning with this relaxing playlist of jazz and bossa nova music by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\nl009",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l9Xc4FhjCl4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l9Xc4FhjCl4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l9Xc4FhjCl4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/l9Xc4FhjCl4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/l9Xc4FhjCl4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Happy October Jazz - Positive Mood Jazz & Bossa Nova Music for Sweet Autumn Morning",
+                    "description": "Enjoy happy autumn morning with this relaxing playlist of jazz and bossa nova music by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\nl009"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "10380",
+                "likeCount": "161",
+                "favoriteCount": "0",
+                "commentCount": "17"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

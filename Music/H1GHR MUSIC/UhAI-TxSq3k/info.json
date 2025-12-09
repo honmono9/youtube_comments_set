@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "tkdCUDCH1R9kFlGmxNRezGy_rOg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "5TeyAmnRdz1RS5NMLCVzx1c8ilo",
+            "id": "UhAI-TxSq3k",
+            "snippet": {
+                "publishedAt": "2025-09-29T09:00:48Z",
+                "channelId": "UC6TJkBRLMFJ-9c7pXehoZwg",
+                "title": "BIG Naughty (서동현) '바이 바이 (Feat. 이무진)'",
+                "description": "모든 건 언젠가 다 라일락🌸\n\nBIG Naughty (서동현) '바이 바이 (Feat. 이무진)' is out! \nListen and download on your favorite platform : https://lnk.to/BIGNaughty_DS_ByeBye\n\nMore Information Here:\n\n@BIG Naughty\nInstagram: https://www.instagram.com/bignaughtyboi/\nTwitter: https://twitter.com/bignaughtyman \n\n@H1GHRMUSIC\nInstagram: https://www.instagram.com/h1ghrmusic\nFacebook: https://www.facebook.com/H1GHRMUSICOFFICIAL",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UhAI-TxSq3k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UhAI-TxSq3k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UhAI-TxSq3k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UhAI-TxSq3k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UhAI-TxSq3k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "H1GHR MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "BIG Naughty (서동현) '바이 바이 (Feat. 이무진)'",
+                    "description": "모든 건 언젠가 다 라일락🌸\n\nBIG Naughty (서동현) '바이 바이 (Feat. 이무진)' is out! \nListen and download on your favorite platform : https://lnk.to/BIGNaughty_DS_ByeBye\n\nMore Information Here:\n\n@BIG Naughty\nInstagram: https://www.instagram.com/bignaughtyboi/\nTwitter: https://twitter.com/bignaughtyman \n\n@H1GHRMUSIC\nInstagram: https://www.instagram.com/h1ghrmusic\nFacebook: https://www.facebook.com/H1GHRMUSICOFFICIAL"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M7S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "90382",
+                "likeCount": "2882",
+                "favoriteCount": "0",
+                "commentCount": "25"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

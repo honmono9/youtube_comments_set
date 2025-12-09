@@ -1,0 +1,118 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "BkNmDV5xmj101Mcp_Juk-iNgCTQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "99OqX5U4fyegAjwVa7sRCAI1dTc",
+            "id": "BQX3SX_QBcM",
+            "snippet": {
+                "publishedAt": "2025-11-19T08:30:05Z",
+                "channelId": "UC3q6ETGnbbeQ9F_3G04_2ug",
+                "title": "◎ Shorts 겨울에 따뜻하게 만들어줄 노래 찾았다!!",
+                "description": "#플레이리스트 #에이티즈 #choose \n구독  https://goo.gl/xVBJcD\n\n\n\n🎤영상의 포함된 광고는 유튜브에서 자동으로 삽입됩니다.\n🎤해당 채널에서 발생된 모든 수익은 100% 원저작권자에 돌아갑니다. \n      혹시 음원 사용을 원치 않으시면 꼭 댓글로 남겨주세요",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BQX3SX_QBcM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BQX3SX_QBcM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BQX3SX_QBcM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BQX3SX_QBcM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BQX3SX_QBcM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "루프탑뮤직 Rooftop Music",
+                "tags": [
+                    "에이티즈",
+                    "ATEEZ",
+                    "Choose",
+                    "Choose (choose)",
+                    "에이티즈 Choose",
+                    "ATEEZ Choose",
+                    "에이티즈 신곡",
+                    "에이티즈 뮤비",
+                    "ATEEZ 신곡",
+                    "ATEEZ 뮤비",
+                    "에이티즈 Choose 뮤비",
+                    "ATEEZ Choose 뮤비",
+                    "Choose 뮤비",
+                    "Choose Music Video",
+                    "choose 뮤비",
+                    "에이티즈 choose 뮤비",
+                    "ATEEZ choose MV",
+                    "choose MV",
+                    "에이티즈 Choose MV",
+                    "ATEEZ Choose Music Video",
+                    "ATEEZ Choose MV",
+                    "에이티즈 choose",
+                    "에이티즈 choose MV",
+                    "에이티즈 choose MUSIC VIDEO",
+                    "에이티즈 choose Music Video",
+                    "shorts",
+                    "알앤비",
+                    "R&B",
+                    "노래추천",
+                    "지금듣는노래",
+                    "루프탑뮤직",
+                    "플레이리스트",
+                    "kpop추천",
+                    "rooftop music",
+                    "kpop",
+                    "Penyanyi pop Korea",
+                    "Penyanyi Korea",
+                    "韓国歌手",
+                    "playlist"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "◎ Shorts 겨울에 따뜻하게 만들어줄 노래 찾았다!!",
+                    "description": "#플레이리스트 #에이티즈 #choose \n구독  https://goo.gl/xVBJcD\n\n\n\n🎤영상의 포함된 광고는 유튜브에서 자동으로 삽입됩니다.\n🎤해당 채널에서 발생된 모든 수익은 100% 원저작권자에 돌아갑니다. \n      혹시 음원 사용을 원치 않으시면 꼭 댓글로 남겨주세요"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "827",
+                "likeCount": "5",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

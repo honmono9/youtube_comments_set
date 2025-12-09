@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "4zVS2E04H-2VCECF6_C318Xzlys",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "O0fVefAIT1Ilmkq9ftNR_VAA664",
+            "id": "FOa0f3oXgvY",
+            "snippet": {
+                "publishedAt": "2025-12-09T02:45:02Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "Ambahonon sa Kagab-ihon - Andrey Sto. Domingo (2nd Prize Winner) | NAMCYA 2025 Senior Voice A",
+                "description": "Andrey Dela Peña Sto. Domingo, Region V\n2nd Prize Winner of Senior Voice A Category\nNAMCYA 2025 FINALS\n\nNational Finals Performance \nAmbahonon sa Kagab-ihon - Music by Mark Wilson Estrada; Poem by Ariston Em. Echevarria\n\n\nNovember 18, 2025 \nManila Pianos, Makati City",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FOa0f3oXgvY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FOa0f3oXgvY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FOa0f3oXgvY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FOa0f3oXgvY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FOa0f3oXgvY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Ambahonon sa Kagab-ihon - Andrey Sto. Domingo (2nd Prize Winner) | NAMCYA 2025 Senior Voice A",
+                    "description": "Andrey Dela Peña Sto. Domingo, Region V\n2nd Prize Winner of Senior Voice A Category\nNAMCYA 2025 FINALS\n\nNational Finals Performance \nAmbahonon sa Kagab-ihon - Music by Mark Wilson Estrada; Poem by Ariston Em. Echevarria\n\n\nNovember 18, 2025 \nManila Pianos, Makati City"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT5M56S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2",
+                "likeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

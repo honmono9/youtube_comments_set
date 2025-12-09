@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "MlC_zjk6q8g201acq1yNN1UaMp8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "2jISQgeKW-oa-9svFgsmn9-edX0",
+            "id": "WdeTr73sy7E",
+            "snippet": {
+                "publishedAt": "2021-07-15T09:00:20Z",
+                "channelId": "UC2QOMTJ0Gz5vJPMl7KXkWaA",
+                "title": "島谷ひとみ ×MINMI 異色のコラボが実現！「TOKYO GIRL / HITOMINMI」2021 年 7 月 23 日にデジタルシングル配信決定!",
+                "description": "島谷ひとみ ×MINMI という異色のコラボが実現!\nレゲエや HIPHOP 界で数々の偉業を成し得てきた MINMI と島谷ひとみの異色コラボが 実現!島谷ひとみ × MINMI で「HITOMINMI」として初のデジタルシングル配信が決定! 音を聞けば勝手に体が動き始める「心のリミッター」を今カットしろ!\n\n2021 年 7 月 23 日にデジタルシングル配信決定!「TOKYO GIRL / HITOMINMI」島谷ひとみ ×MINMI で「HITOMINMI」名義で東京から 全国いや世界に勇気と希望を!をテーマに Upper Tune の作品が全国に旋風する。2021 年 9 月 4 日にリリースする島谷ひとみ 10 枚目 のフルアルバム「LoveSong~My song for you~」に収録される。\n\n#島谷ひとみ\n#MINMI\n#HITOMINMI",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WdeTr73sy7E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WdeTr73sy7E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WdeTr73sy7E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WdeTr73sy7E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WdeTr73sy7E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HITOMI SHIMATANI MUSIC Official Youtube",
+                "tags": [
+                    "島谷ひとみ",
+                    "MINMI",
+                    "HITOMINMI",
+                    "TOKYO",
+                    "GIRL",
+                    "レゲエ"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "島谷ひとみ ×MINMI 異色のコラボが実現！「TOKYO GIRL / HITOMINMI」2021 年 7 月 23 日にデジタルシングル配信決定!",
+                    "description": "島谷ひとみ ×MINMI という異色のコラボが実現!\nレゲエや HIPHOP 界で数々の偉業を成し得てきた MINMI と島谷ひとみの異色コラボが 実現!島谷ひとみ × MINMI で「HITOMINMI」として初のデジタルシングル配信が決定! 音を聞けば勝手に体が動き始める「心のリミッター」を今カットしろ!\n\n2021 年 7 月 23 日にデジタルシングル配信決定!「TOKYO GIRL / HITOMINMI」島谷ひとみ ×MINMI で「HITOMINMI」名義で東京から 全国いや世界に勇気と希望を!をテーマに Upper Tune の作品が全国に旋風する。2021 年 9 月 4 日にリリースする島谷ひとみ 10 枚目 のフルアルバム「LoveSong~My song for you~」に収録される。\n\n#島谷ひとみ\n#MINMI\n#HITOMINMI"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT1M43S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "14691",
+                "likeCount": "397",
+                "favoriteCount": "0",
+                "commentCount": "13"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "IRucyNyzVs02zB3VUSdfcOctZJE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "j0PMKkmNunMEa2fqA1F55Z2KdSQ",
+            "id": "_XIvH2BLT3k",
+            "snippet": {
+                "publishedAt": "2025-12-09T09:32:51Z",
+                "channelId": "UCYA3gLE34set7Xn_FVU8D0Q",
+                "title": "DOYOUNG (도영) - 늦은 말 (Promise) [가사]",
+                "description": "DOYOUNG (도영) - 늦은 말 (Promise) [가사]\n_\n아티스트:도영 (DOYOUNG)\n유형:싱글\n장르:발라드, 알앤비/소울\n스타일:발라드, 알앤비\n발매일:2025.12.09\n유통사:카카오엔터테인먼트\n기획사:SM ENTERTAINMENT\n_\n#DOYOUNG #도영 #늦은말",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_XIvH2BLT3k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_XIvH2BLT3k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_XIvH2BLT3k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_XIvH2BLT3k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_XIvH2BLT3k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Time | 뮤직 타임",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "DOYOUNG (도영) - 늦은 말 (Promise) [가사]",
+                    "description": "DOYOUNG (도영) - 늦은 말 (Promise) [가사]\n_\n아티스트:도영 (DOYOUNG)\n유형:싱글\n장르:발라드, 알앤비/소울\n스타일:발라드, 알앤비\n발매일:2025.12.09\n유통사:카카오엔터테인먼트\n기획사:SM ENTERTAINMENT\n_\n#DOYOUNG #도영 #늦은말"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M33S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "60",
+                "likeCount": "7",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

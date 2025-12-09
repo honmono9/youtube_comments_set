@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ki-D-lsRyPzaxsXMfxRN4QyS3c8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "1F33po4KUrweTxsvhP5n4rWF2L0",
+            "id": "Pzp3a80-rSg",
+            "snippet": {
+                "publishedAt": "2025-12-09T03:00:35Z",
+                "channelId": "UCnhZuoNcL89qNax7YlWvavQ",
+                "title": "[Official Audio] GIL CHANHO (길찬호) - Train (기차)",
+                "description": "Artist : 길찬호 (GIL CHANHO) \nAlbum Title : NONOL VOL 70. GIL CHANHO ‘ Train ’ (노놀 VOL 70. 길찬호 ‘ 기차 ’) \nRelease Date : 2025-12-09 \nGenre : Folk\n\n#folk #rock #indie #포크 #락 #인디\n\n■ Mirrorball Music\nhttp://mirrorballmusic.co.kr/\nhttps://www.facebook.com/mirrorballmusic\nhttps://twitter.com/mirrorballmusic\nhttps://www.instagram.com/mirrorballmusic_official/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pzp3a80-rSg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pzp3a80-rSg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pzp3a80-rSg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Pzp3a80-rSg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Pzp3a80-rSg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "미러볼 뮤직 - Mirrorball Music",
+                "tags": [
+                    "Indie Music",
+                    "Indie Rock",
+                    "Indie Pop",
+                    "Indie Folk",
+                    "Indie Film",
+                    "Indie",
+                    "Music",
+                    "Rock Music",
+                    "Electronic",
+                    "HipHop",
+                    "Rap",
+                    "Music Video",
+                    "Rock&Roll"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Official Audio] GIL CHANHO (길찬호) - Train (기차)",
+                    "description": "Artist : 길찬호 (GIL CHANHO) \nAlbum Title : NONOL VOL 70. GIL CHANHO ‘ Train ’ (노놀 VOL 70. 길찬호 ‘ 기차 ’) \nRelease Date : 2025-12-09 \nGenre : Folk\n\n#folk #rock #indie #포크 #락 #인디\n\n■ Mirrorball Music\nhttp://mirrorballmusic.co.kr/\nhttps://www.facebook.com/mirrorballmusic\nhttps://twitter.com/mirrorballmusic\nhttps://www.instagram.com/mirrorballmusic_official/"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M8S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "52",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

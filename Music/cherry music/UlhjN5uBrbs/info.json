@@ -1,0 +1,67 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Gc-nfqREQeWdm6yEUPoBDs2-ugk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Z4O9m-xqNC27_Jz2ief82Zu-ZsU",
+            "id": "UlhjN5uBrbs",
+            "snippet": {
+                "publishedAt": "2025-08-28T23:01:29Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "cafe playlist ☕️ 매장에서 틀면 손님들이 자꾸 물어보는 요즘 제일 감성 좋은 카페 음악 모음 | 사장님, 이 노래 제목 뭐에요? ☕🎶",
+                "description": "“사장님, 아까 나온 노래 뭐에요?”\n매장에서 음악만 틀면 손님들이 자꾸 물어봐요.\n\n잔잔하면서도 분위기 가득한 이 음악들,\n한 번 듣기 시작하면 플레이리스트 전체가 궁금해지는 🎧\n카페든, 작업 공간이든, 오늘 분위기를 완성해줄 감성 음악들만 골라 담았어요.\n지금 바로 플레이해보세요. 듣자마자 저장하고 싶어질지도 몰라요 ☕🌿\n\n🎵 이 플레이리스트의 모든 음악 저작권은 체리(CHERRY)에게 있습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UlhjN5uBrbs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UlhjN5uBrbs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UlhjN5uBrbs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UlhjN5uBrbs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "cafe playlist ☕️ 매장에서 틀면 손님들이 자꾸 물어보는 요즘 제일 감성 좋은 카페 음악 모음 | 사장님, 이 노래 제목 뭐에요? ☕🎶",
+                    "description": "“사장님, 아까 나온 노래 뭐에요?”\n매장에서 음악만 틀면 손님들이 자꾸 물어봐요.\n\n잔잔하면서도 분위기 가득한 이 음악들,\n한 번 듣기 시작하면 플레이리스트 전체가 궁금해지는 🎧\n카페든, 작업 공간이든, 오늘 분위기를 완성해줄 감성 음악들만 골라 담았어요.\n지금 바로 플레이해보세요. 듣자마자 저장하고 싶어질지도 몰라요 ☕🌿\n\n🎵 이 플레이리스트의 모든 음악 저작권은 체리(CHERRY)에게 있습니다."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3H41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "91492",
+                "likeCount": "375",
+                "favoriteCount": "0",
+                "commentCount": "23"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

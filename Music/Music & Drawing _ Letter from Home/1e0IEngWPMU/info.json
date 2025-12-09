@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "IuQPvj9PLCvNncfFcnVHz4UO51g",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "bX7wtpzOgfIXP6U_MgJIYhqFtQU",
+            "id": "1e0IEngWPMU",
+            "snippet": {
+                "publishedAt": "2025-09-08T10:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Vintage Jazz Journey | Oldies Saxophone & Piano Bossa nova Jazz for Autumn",
+                "description": "Take a ride through 1950s New York on an autumn afternoon, where the sunlight pours through the bus windows and the city hums with life. 🌇🚌✨\nSmooth saxophone, gentle piano, and bossa nova rhythms set the perfect mood for relaxation, study, or simply daydreaming of a vintage New York afternoon.\n\n📜 Classic Jazz MV Series | Letter From Home\n\n#jazz #saxophonejazz #saxophonemusic #bossanova #bossanovajazz  #1950sjazz #NewYorkjazz #autumnjazz #afternoonjazz #vintagejazz #jazzplaylist #relaxingjazz #smoothjazz #jazzforstudy #cozyjazz #busridejazz #oldiesjazz #classicjazz #jazzbackgroundmusic #jazzinstrumental",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1e0IEngWPMU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1e0IEngWPMU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1e0IEngWPMU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1e0IEngWPMU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1e0IEngWPMU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "bossa nova jazz",
+                    "saxophone jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Vintage Jazz Journey | Oldies Saxophone & Piano Bossa nova Jazz for Autumn",
+                    "description": "Take a ride through 1950s New York on an autumn afternoon, where the sunlight pours through the bus windows and the city hums with life. 🌇🚌✨\nSmooth saxophone, gentle piano, and bossa nova rhythms set the perfect mood for relaxation, study, or simply daydreaming of a vintage New York afternoon.\n\n📜 Classic Jazz MV Series | Letter From Home\n\n#jazz #saxophonejazz #saxophonemusic #bossanova #bossanovajazz  #1950sjazz #NewYorkjazz #autumnjazz #afternoonjazz #vintagejazz #jazzplaylist #relaxingjazz #smoothjazz #jazzforstudy #cozyjazz #busridejazz #oldiesjazz #classicjazz #jazzbackgroundmusic #jazzinstrumental"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1315",
+                "likeCount": "30",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

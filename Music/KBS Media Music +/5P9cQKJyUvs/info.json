@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "tjdY865AuyF7KWg6eLXlYpPwO-o",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "WDNgHMBpkSvRv_veYYMEuOQqE08",
+            "id": "5P9cQKJyUvs",
+            "snippet": {
+                "publishedAt": "2025-07-22T03:00:08Z",
+                "channelId": "UC9LkgSReKybPl-gABo3fbRQ",
+                "title": "[경음악] 국악으로 엮어본 그리운 멜로디 경음악 - 눈물 젖은 두만강",
+                "description": "☑ 신청곡은 커뮤니티 댓글로 적어주세요  ▶https://www.youtube.com/@kbsmediamusicplus/community\n\n국악으로 엮어본 그리운 멜로디 경음악 - 눈물 젖은 두만강\n\n#국악으로엮어본그리운멜로디경음악 #눈물젖은두만강 #지구레코드",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5P9cQKJyUvs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5P9cQKJyUvs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5P9cQKJyUvs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5P9cQKJyUvs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5P9cQKJyUvs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS Media Music +",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[경음악] 국악으로 엮어본 그리운 멜로디 경음악 - 눈물 젖은 두만강",
+                    "description": "☑ 신청곡은 커뮤니티 댓글로 적어주세요  ▶https://www.youtube.com/@kbsmediamusicplus/community\n\n국악으로 엮어본 그리운 멜로디 경음악 - 눈물 젖은 두만강\n\n#국악으로엮어본그리운멜로디경음악 #눈물젖은두만강 #지구레코드"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M3S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "145",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

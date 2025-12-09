@@ -1,0 +1,75 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "eaCYYmxTNNsjENeSYzlYIDZSGCo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Q6bTaiqlJ8qYmy1t0MUxKAic5ek",
+            "id": "6UHZkjHAkf8",
+            "snippet": {
+                "publishedAt": "2024-03-20T20:41:32Z",
+                "channelId": "UCH1VQkBY5lN73--RjIwIHqw",
+                "title": "DU.NE.G X HABENI_ቢራቢሮ_New Ethiopian music 2024 BIRABIRO",
+                "description": "#music #drill #ethiopiamusic #kmemmusic #donkeytube@raptony\ninstagram @ydhabeni1332",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6UHZkjHAkf8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6UHZkjHAkf8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6UHZkjHAkf8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6UHZkjHAkf8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "KMEM Music ቅመም🕳",
+                "tags": [
+                    "#kmemmusic",
+                    "#driil",
+                    "#ethiopiamusic",
+                    "#music",
+                    "#donkeytube",
+                    "#msterbeast"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "arc",
+                "localized": {
+                    "title": "DU.NE.G X HABENI_ቢራቢሮ_New Ethiopian music 2024 BIRABIRO",
+                    "description": "#music #drill #ethiopiamusic #kmemmusic #donkeytube@raptony\ninstagram @ydhabeni1332"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT29S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "598",
+                "likeCount": "34",
+                "favoriteCount": "0",
+                "commentCount": "14"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

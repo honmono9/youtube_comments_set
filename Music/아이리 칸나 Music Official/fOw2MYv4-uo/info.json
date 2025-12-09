@@ -1,0 +1,67 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "rhgdadR7_F0VJAUkfJWVjvxSi4U",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "2N0uDC4I7-a9055HAunICAmYnkM",
+            "id": "fOw2MYv4-uo",
+            "snippet": {
+                "publishedAt": "2023-11-08T11:00:09Z",
+                "channelId": "UC6YnTqZidFg4WUiXpiCtSSQ",
+                "title": "藍璃かんな(Airi Kanna) | ‘最終花’ Teaser",
+                "description": "Streaming & Download : https://lnk.to/TheLastFlower\n11月9日午後6時、グローバル音源サイト発売予定\n\n藍璃かんな (Airi Kanna) 2nd Single 「 最終花 」\n2023年11月9日(木曜日)午後6時発売！\n\n_\n\n[Credit]\nIllustrated by モ誰\nVideo Directed by Tranquillo\nArt Directed by TheCold (STELLIVE)\n© Accelers, Inc. & STELLIVE\n\n#藍璃かんな #Airi_Kanna #最終花  #the_last_flower #최종화 #stellive",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fOw2MYv4-uo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fOw2MYv4-uo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fOw2MYv4-uo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fOw2MYv4-uo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "아이리 칸나 Music Official",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "藍璃かんな(Airi Kanna) | ‘最終花’ Teaser",
+                    "description": "Streaming & Download : https://lnk.to/TheLastFlower\n11月9日午後6時、グローバル音源サイト発売予定\n\n藍璃かんな (Airi Kanna) 2nd Single 「 最終花 」\n2023年11月9日(木曜日)午後6時発売！\n\n_\n\n[Credit]\nIllustrated by モ誰\nVideo Directed by Tranquillo\nArt Directed by TheCold (STELLIVE)\n© Accelers, Inc. & STELLIVE\n\n#藍璃かんな #Airi_Kanna #最終花  #the_last_flower #최종화 #stellive"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT29S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "69041",
+                "likeCount": "3336",
+                "favoriteCount": "0",
+                "commentCount": "336"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

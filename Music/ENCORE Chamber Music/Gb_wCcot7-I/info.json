@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "x0mhnZUhxHLgTHWWdbJKqGRa1vY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "KH0I2anCuQXZRyivEw1KNwz_RIQ",
+            "id": "Gb_wCcot7-I",
+            "snippet": {
+                "publishedAt": "2019-07-19T14:22:34Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "061619 Dvořák String Sextet in A major, Op. 48",
+                "description": "ENCORE Chamber Music 2019 Season 'La bohème' \n\nJinjoo Cho, violin\nCameron Alan-Lee, violin \nMathieu Herzog, viola\nJan Grüning, viola\nAmit Even-Tov, cello\nWilliam Cayanan, cello",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Gb_wCcot7-I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Gb_wCcot7-I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Gb_wCcot7-I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Gb_wCcot7-I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Gb_wCcot7-I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "061619 Dvořák String Sextet in A major, Op. 48",
+                    "description": "ENCORE Chamber Music 2019 Season 'La bohème' \n\nJinjoo Cho, violin\nCameron Alan-Lee, violin \nMathieu Herzog, viola\nJan Grüning, viola\nAmit Even-Tov, cello\nWilliam Cayanan, cello"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT36M41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2887",
+                "likeCount": "43",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

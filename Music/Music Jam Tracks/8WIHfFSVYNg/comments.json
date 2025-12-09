@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "QHGxdis-hRksDeeNAWifrgVPAsk",
+        "id": "Ugw799Ekqh4iTofOqAd4AaABAg",
+        "snippet": {
+            "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+            "videoId": "8WIHfFSVYNg",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "3a6azZngqLvt2iJlsRI_8Wfu3CM",
+                "id": "Ugw799Ekqh4iTofOqAd4AaABAg",
+                "snippet": {
+                    "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+                    "videoId": "8WIHfFSVYNg",
+                    "textDisplay": "I can't hear a D in the Cm7(9) Chord so a b9 sounds more natural after the Dbmaj7. Great tracks you have!",
+                    "textOriginal": "I can't hear a D in the Cm7(9) Chord so a b9 sounds more natural after the Dbmaj7. Great tracks you have!",
+                    "authorDisplayName": "@joegridl",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mk9oCdaOqgUVbLnEDy9tNFneAOS7Ar6p7v27_VRKLBEyQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@joegridl",
+                    "authorChannelId": {
+                        "value": "UCRiIhzu7rjj3T7-xtXoWqig"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 4,
+                    "publishedAt": "2024-08-23T09:53:32Z",
+                    "updatedAt": "2024-08-23T09:53:32Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 3,
+            "isPublic": true
+        }
+    }
+]

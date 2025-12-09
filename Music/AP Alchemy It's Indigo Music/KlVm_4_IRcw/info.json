@@ -1,0 +1,90 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "psIwxsl1XG5_emRNlpVi5dZogMw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "roBxXW09YohRlMUX2Donxg_AJ98",
+            "id": "KlVm_4_IRcw",
+            "snippet": {
+                "publishedAt": "2022-08-25T09:00:08Z",
+                "channelId": "UCE4IM82TdhmOl4Qtn8nsaGQ",
+                "title": "[Official M/V] JUSTHIS (저스디스) - Red Pill (KR/EN)",
+                "description": "JUSTHIS (저스디스) - Red Pill (Born from the Blue Pt. II) (Prod. CODE KUNST)\n\nDirector : Beomjin pka Paranoid Paradigm\nExecutive Producer : VM Project Architecture\nPerformer : Nikki Keem\n\n- - - - -\n\n🎵 듣기 (Listen and download on your platform) :\nhttp://IndigoMusic.lnk.to/DNGGITGN2\n\n- - - - -\n\n[Official Channel]\n·JUSTHIS (저스디스) : https://instagram.com/thisisjusthis\n·인디고뮤직 (Indigo Music) : http://indigomusic3.com\nhttps://www.instagram.com/indigomusic_official\n\n- - - - -\n\n#JUSTHIS #RedPill #인디고뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KlVm_4_IRcw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KlVm_4_IRcw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KlVm_4_IRcw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KlVm_4_IRcw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KlVm_4_IRcw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AP Alchemy It's Indigo Music",
+                "tags": [
+                    "JUSTHIS",
+                    "저스디스",
+                    "Red Pill",
+                    "DNGGITGNII",
+                    "DoNotGoGentleIntoThatGoodNightII",
+                    "인디고뮤직",
+                    "indigomusic",
+                    "IM",
+                    "인디고",
+                    "젓딧",
+                    "JT",
+                    "Jthis",
+                    "허승",
+                    "승이",
+                    "저스디스 EP",
+                    "저스디스 코드쿤스트"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Official M/V] JUSTHIS (저스디스) - Red Pill (KR/EN)",
+                    "description": "JUSTHIS (저스디스) - Red Pill (Born from the Blue Pt. II) (Prod. CODE KUNST)\n\nDirector : Beomjin pka Paranoid Paradigm\nExecutive Producer : VM Project Architecture\nPerformer : Nikki Keem\n\n- - - - -\n\n🎵 듣기 (Listen and download on your platform) :\nhttp://IndigoMusic.lnk.to/DNGGITGN2\n\n- - - - -\n\n[Official Channel]\n·JUSTHIS (저스디스) : https://instagram.com/thisisjusthis\n·인디고뮤직 (Indigo Music) : http://indigomusic3.com\nhttps://www.instagram.com/indigomusic_official\n\n- - - - -\n\n#JUSTHIS #RedPill #인디고뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "92215",
+                "likeCount": "2691",
+                "favoriteCount": "0",
+                "commentCount": "289"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

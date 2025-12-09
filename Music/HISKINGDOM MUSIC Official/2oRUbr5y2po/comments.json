@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "o_856rWuWr5Crp60pJmLJQumbTQ",
+        "id": "UgyOLv6GOFIR0VavBg14AaABAg",
+        "snippet": {
+            "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+            "videoId": "2oRUbr5y2po",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "qbHeWsyN7baVRRTBoA2haWd5d-8",
+                "id": "UgyOLv6GOFIR0VavBg14AaABAg",
+                "snippet": {
+                    "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+                    "videoId": "2oRUbr5y2po",
+                    "textDisplay": "오벧 음악 매일 잘 듣고 있습니다. 추석을 맞이해 오랫만에 부모님 뵈러 가는데 감사한 마음을 담은\n표현을 해보려합니다. 좋은 노래 불러주셔서 고맙습니다.😊",
+                    "textOriginal": "오벧 음악 매일 잘 듣고 있습니다. 추석을 맞이해 오랫만에 부모님 뵈러 가는데 감사한 마음을 담은\n표현을 해보려합니다. 좋은 노래 불러주셔서 고맙습니다.😊",
+                    "authorDisplayName": "@조미경-i7d",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nAwT6m90F4rpdlxuDCs9MjZNZT-AGzusG0eTfirew=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EC%A1%B0%EB%AF%B8%EA%B2%BD-i7d",
+                    "authorChannelId": {
+                        "value": "UCy54WrryhRQWFd1TGrPCj0w"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-10-05T00:33:52Z",
+                    "updatedAt": "2025-10-05T00:33:52Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

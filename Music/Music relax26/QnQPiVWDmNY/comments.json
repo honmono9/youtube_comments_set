@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Lnu0PNDMXHZtSfN9kswhuW_hDA8",
+        "id": "UgwajVkIVUWj6AxI-YZ4AaABAg",
+        "snippet": {
+            "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+            "videoId": "QnQPiVWDmNY",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "22tVdCuhi5HS9gsFq2Xyc_xLwyM",
+                "id": "UgwajVkIVUWj6AxI-YZ4AaABAg",
+                "snippet": {
+                    "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                    "videoId": "QnQPiVWDmNY",
+                    "textDisplay": "หากคุณชอบคลิบนี้ ขอคนละหนึ่งไลด์ เพื่อเป็นกำลังใจด้วยนะครับ",
+                    "textOriginal": "หากคุณชอบคลิบนี้ ขอคนละหนึ่งไลด์ เพื่อเป็นกำลังใจด้วยนะครับ",
+                    "authorDisplayName": "@musicrelax26.0",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/KOulnmJIDtNM1hbPBU03sqa8R_yQ0LRNI1Y3KzaaroAgmobjzO31m-xcpjSGVIUyl4NLGkC-VP8=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@musicrelax26.0",
+                    "authorChannelId": {
+                        "value": "UC5L6Me5Apx9VzGfjd5qRu1A"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-11-04T04:14:08Z",
+                    "updatedAt": "2025-11-04T04:14:08Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

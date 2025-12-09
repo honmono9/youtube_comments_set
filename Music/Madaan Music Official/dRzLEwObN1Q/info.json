@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "hgy-L5veqdcAfUCJIiTaHDtLgJI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "X4Mv7qfTbDHuySFs_izHqtG3aHk",
+            "id": "dRzLEwObN1Q",
+            "snippet": {
+                "publishedAt": "2024-03-26T16:06:32Z",
+                "channelId": "UCTAyNY6-yR1SfddUWWBs7KA",
+                "title": "Madaan - Informa #valiant #kraff diss #duttymoneyriddim",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dRzLEwObN1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dRzLEwObN1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dRzLEwObN1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dRzLEwObN1Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dRzLEwObN1Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Madaan Music Official ",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Madaan - Informa #valiant #kraff diss #duttymoneyriddim",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "und"
+            },
+            "contentDetails": {
+                "duration": "PT2M33S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "506",
+                "likeCount": "67",
+                "favoriteCount": "0",
+                "commentCount": "21"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "NX_FUbcBc1eQW-0AM9xDXifXrNE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "lnGYLZBSkzS7bK4QcrHj2P723CI",
+            "id": "RT4C8tJBgRY",
+            "snippet": {
+                "publishedAt": "2025-05-28T09:40:29Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "เสียงร้องที่โคตรสูงและทรงพลัง.. ต้องแบบนี้ จากคณะ  [skid row] #Music relax26",
+                "description": "เสียงร้องที่โคตรสูงและทรงพลัง.. ต้องแบบนี้ จากคณะ  [skid row]\nSkid Row - 18 And Life เพลงร็อคยุค90 จากเมกา \n#Music relax26 Chanel",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RT4C8tJBgRY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RT4C8tJBgRY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RT4C8tJBgRY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RT4C8tJBgRY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RT4C8tJBgRY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "เสียงร้องที่โคตรสูงและทรงพลัง.. ต้องแบบนี้ จากคณะ  [skid row] #Music relax26",
+                    "description": "เสียงร้องที่โคตรสูงและทรงพลัง.. ต้องแบบนี้ จากคณะ  [skid row]\nSkid Row - 18 And Life เพลงร็อคยุค90 จากเมกา \n#Music relax26 Chanel"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2448",
+                "likeCount": "22",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

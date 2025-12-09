@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "oFK1uuJZbBfWSYaEm3xgVs60TX4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "q-HJl9-6YWiRBbfzRyEbv_Vqv-c",
+            "id": "u5FkHor8Tis",
+            "snippet": {
+                "publishedAt": "2023-05-17T21:48:21Z",
+                "channelId": "UCwdmcaOcWQ7PW8_wuaB8Cjw",
+                "title": "David Guetta, Anne-Marie, Coi Leray - Baby Don’t Hurt Me (Sebastian Spencer Remix)",
+                "description": "Folge mir:  \n@Instagram:\nhttps://www.instagram.com/sebastianspencermusic/\n\n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music\n\nThis a bootleg Remix",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u5FkHor8Tis/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u5FkHor8Tis/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u5FkHor8Tis/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/u5FkHor8Tis/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/u5FkHor8Tis/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sebastian Spencer Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "de",
+                "localized": {
+                    "title": "David Guetta, Anne-Marie, Coi Leray - Baby Don’t Hurt Me (Sebastian Spencer Remix)",
+                    "description": "Folge mir:  \n@Instagram:\nhttps://www.instagram.com/sebastianspencermusic/\n\n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music\n\nThis a bootleg Remix"
+                },
+                "defaultAudioLanguage": "de"
+            },
+            "contentDetails": {
+                "duration": "PT3M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4222",
+                "likeCount": "62",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

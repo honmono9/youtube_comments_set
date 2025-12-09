@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "y8vzu4yO8GnHx22RVeJZujHZSVE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "LY37-xLCD1n-o0t7XI-x7JK_dvs",
+            "id": "hu60w5X-Yeg",
+            "snippet": {
+                "publishedAt": "2025-08-12T10:01:16Z",
+                "channelId": "UCo62tODW4YnxtszbusXyX-w",
+                "title": "(자연 물소리)강아지를 위한 음악🐶편안한 수면 힐링음악🎵심리안정 음악",
+                "description": "안녕하세요. My Pet Music 입니다.\n반려견을 편안하게 해주는 물소리와 잔잔한 음악이예요\n심리안정에도 도움이 될거예요~\n오늘도 반려견과 함께 행복한 시간 되세요! :)\n\n\n#강아지수면음악 #강아지음악 #강아지스트레스",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hu60w5X-Yeg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hu60w5X-Yeg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hu60w5X-Yeg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hu60w5X-Yeg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hu60w5X-Yeg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "My Pet Music",
+                "tags": [
+                    "강아지음악",
+                    "개음악",
+                    "강아지분리불안",
+                    "강아지스트레스",
+                    "펫뮤직",
+                    "PetMusic",
+                    "DogMusic",
+                    "DogsMusic",
+                    "DogRelaxMusic",
+                    "DogRelaxingMusic",
+                    "강아지가좋아하는음악",
+                    "Dog favorite music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "(자연 물소리)강아지를 위한 음악🐶편안한 수면 힐링음악🎵심리안정 음악",
+                    "description": "안녕하세요. My Pet Music 입니다.\n반려견을 편안하게 해주는 물소리와 잔잔한 음악이예요\n심리안정에도 도움이 될거예요~\n오늘도 반려견과 함께 행복한 시간 되세요! :)\n\n\n#강아지수면음악 #강아지음악 #강아지스트레스"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8H31M54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4042",
+                "likeCount": "41",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

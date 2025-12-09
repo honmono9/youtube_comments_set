@@ -1,0 +1,108 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "bnWdCK_mTVFpC2n4ZeWJKt5hsQM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ksVZ0u94F6e411SmxiTvrFQ_IbA",
+            "id": "K4jioxssOhs",
+            "snippet": {
+                "publishedAt": "2024-11-19T11:17:30Z",
+                "channelId": "UCsfYd7AVFk_ASiMudok6_sQ",
+                "title": "Con Alma - Far Est Music Group",
+                "description": "오랜만에 업로드네요! 다시 성실하게 업로드해보겠습니다!\n\n을지로 리브로에서 연주한 \nCon Alma 입니다\n\n색소폰 한호승\n피아노 박정인\n트럼펫 박상아\n베이스 최준혁\n드럼 박정환\n\n협업문의 \nChjh1234@gmail.com  언제나 대환영 \n\n감사용!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K4jioxssOhs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K4jioxssOhs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K4jioxssOhs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K4jioxssOhs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K4jioxssOhs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jazz Music Korea",
+                "tags": [
+                    "재즈",
+                    "재즈밴드",
+                    "재즈공연",
+                    "재즈밴드굿펠리스",
+                    "굿펠리스",
+                    "재즈밴드섭외",
+                    "재즈음악",
+                    "재즈뮤직코리아",
+                    "공연",
+                    "공연섭외",
+                    "재즈베이스",
+                    "콘트라베이스",
+                    "콘트라베이스최준혁",
+                    "재즈베이스최준혁",
+                    "워킹베이스",
+                    "jazz",
+                    "jazzband",
+                    "jazzmusic",
+                    "jazzmusickorea",
+                    "goodfellis",
+                    "uprightbass",
+                    "jazzbass",
+                    "choijunhyuk",
+                    "비브라폰",
+                    "livejazz",
+                    "jazzbandgoodfellis",
+                    "autumn leaves",
+                    "버스킹",
+                    "어텀리브스",
+                    "즉흥연주",
+                    "피렌체",
+                    "여행",
+                    "이태리",
+                    "italy"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Con Alma - Far Est Music Group",
+                    "description": "오랜만에 업로드네요! 다시 성실하게 업로드해보겠습니다!\n\n을지로 리브로에서 연주한 \nCon Alma 입니다\n\n색소폰 한호승\n피아노 박정인\n트럼펫 박상아\n베이스 최준혁\n드럼 박정환\n\n협업문의 \nChjh1234@gmail.com  언제나 대환영 \n\n감사용!"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT10M30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2773",
+                "likeCount": "63",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

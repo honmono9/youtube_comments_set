@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "nc9ZVoWgpXD9zE8FnfsxvtFa54c",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "KfaBzAJzvTc_5gs10FxDhByhNpc",
+            "id": "NXP6lCOmeRA",
+            "snippet": {
+                "publishedAt": "2025-09-17T13:00:57Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Ilus Hääl (SSAA) | arr. Laura Jēkabsone",
+                "description": "Ilus Hääl for SSAA voices and shaker. \n\nIlus Hääl was arranged in honor of the 100th anniversary of Estonia, neighbor of Latvia, the home of composer, arranger, and singer Laura Jēkabsone. The two countries are united by their love of song and rich history of folk song. \n\nPurchase the music: https://giamusic.com/resource/ilus-haal-ssaa-printed-music-ww2102\n\nAlso available for SSAATB voices: https://giamusic.com/resource/ilus-haal-print-ww1894",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NXP6lCOmeRA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NXP6lCOmeRA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NXP6lCOmeRA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NXP6lCOmeRA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NXP6lCOmeRA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Ilus Hääl (SSAA) | arr. Laura Jēkabsone",
+                    "description": "Ilus Hääl for SSAA voices and shaker. \n\nIlus Hääl was arranged in honor of the 100th anniversary of Estonia, neighbor of Latvia, the home of composer, arranger, and singer Laura Jēkabsone. The two countries are united by their love of song and rich history of folk song. \n\nPurchase the music: https://giamusic.com/resource/ilus-haal-ssaa-printed-music-ww2102\n\nAlso available for SSAATB voices: https://giamusic.com/resource/ilus-haal-print-ww1894"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M28S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1455",
+                "likeCount": "22",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

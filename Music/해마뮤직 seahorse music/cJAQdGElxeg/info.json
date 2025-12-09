@@ -1,0 +1,84 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "KEtG3olJuu6S4aLbA_w7fBi0Rck",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "QhjXBlCPvb583nB2ov2MAZbHwuo",
+            "id": "cJAQdGElxeg",
+            "snippet": {
+                "publishedAt": "2025-11-23T09:00:59Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "Try Everything (주토피아 OST) 🐰🦊 피아노 건반 9개로 쉽게 연주하기 🎹",
+                "description": "#피아노커버 #pianocover #피아노연주 #zootopia  #zootopia2 #주토피아 #주토피아2 #주디 #닉 #Zoo #tryeverything \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cJAQdGElxeg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cJAQdGElxeg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cJAQdGElxeg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cJAQdGElxeg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cJAQdGElxeg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "zoo",
+                    "zootopia",
+                    "주토피아",
+                    "주토피아2",
+                    "ZOOTOPIA",
+                    "ZOOTOPIA2 OST",
+                    "zootopia ost",
+                    "주토피아 노래",
+                    "zootopia try everything",
+                    "try everything"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Try Everything (주토피아 OST) 🐰🦊 피아노 건반 9개로 쉽게 연주하기 🎹",
+                    "description": "#피아노커버 #pianocover #피아노연주 #zootopia  #zootopia2 #주토피아 #주토피아2 #주디 #닉 #Zoo #tryeverything \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT33S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "59756",
+                "likeCount": "762",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "UmYat7sB82iPhqKtoend-gTNtMI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "UttiPxVkT3AAu_Fma5-7dludK4U",
+            "id": "NBaaWiCSxhY",
+            "snippet": {
+                "publishedAt": "2022-08-06T13:00:12Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Positive August - Good Mood Summer Jazz and Bossa Nova Music",
+                "description": "Instrumental Jazz and Bossa Nova music by Richard Freeman.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #august #morningjazz \n\nl057",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NBaaWiCSxhY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NBaaWiCSxhY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NBaaWiCSxhY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NBaaWiCSxhY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NBaaWiCSxhY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "tags": [
+                    "positive jazz",
+                    "august jazz",
+                    "good mood jazz",
+                    "summer jazz",
+                    "bossa nova",
+                    "cold drink time jazz",
+                    "chill with friends jazz",
+                    "summer evening jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Positive August - Good Mood Summer Jazz and Bossa Nova Music",
+                    "description": "Instrumental Jazz and Bossa Nova music by Richard Freeman.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #august #morningjazz \n\nl057"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "7450",
+                "likeCount": "161",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

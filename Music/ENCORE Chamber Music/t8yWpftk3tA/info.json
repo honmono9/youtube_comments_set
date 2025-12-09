@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "b6lWMzcn6rgI3eeIGHloK5zB6Eg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "_RUwxxJLruJhjtZ7VwxnJnYt-5E",
+            "id": "t8yWpftk3tA",
+            "snippet": {
+                "publishedAt": "2023-07-13T20:30:33Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "20230618 STRAUSS Metamorphosen",
+                "description": "Harkness Chapel, Cleveland, OH\n\nVIOLIN\nJinjoo Cho\nAxel Strauss\nPaul Kantor\nStephen Miahky\nBrandan Shea\nCatherine Cosbey\nKiarra Saito-Beckman (Summer Academy fellow)\nJuEun Lee (Summer Academy fellow)\nChak Chi Wong  (String Quartet Intensive fellow, Cong Quartet)\nFrancis Chik (String Quartet Intensive fellow, Cong Quartet)\n\nVIOLA\nScott Lee\nLynne Ramsey\nEric Wong\nGordon Liu (Summer Academy fellow)\nCaleb Wong (String Quartet Intensive fellow, Cong Quartet)\n\nCELLO\nDmitri Kouzov\nBrannon Cho\nMaxwell Geissler\nDana Rath (Summer Academy fellow)\nYanho Cheng (String Quartet Intensive fellow, Cong Quartet)\n\nSTRING BASS\nHenry Samuels\nAlex Wallack\nHenry Brija",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t8yWpftk3tA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t8yWpftk3tA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t8yWpftk3tA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/t8yWpftk3tA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/t8yWpftk3tA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "20230618 STRAUSS Metamorphosen",
+                    "description": "Harkness Chapel, Cleveland, OH\n\nVIOLIN\nJinjoo Cho\nAxel Strauss\nPaul Kantor\nStephen Miahky\nBrandan Shea\nCatherine Cosbey\nKiarra Saito-Beckman (Summer Academy fellow)\nJuEun Lee (Summer Academy fellow)\nChak Chi Wong  (String Quartet Intensive fellow, Cong Quartet)\nFrancis Chik (String Quartet Intensive fellow, Cong Quartet)\n\nVIOLA\nScott Lee\nLynne Ramsey\nEric Wong\nGordon Liu (Summer Academy fellow)\nCaleb Wong (String Quartet Intensive fellow, Cong Quartet)\n\nCELLO\nDmitri Kouzov\nBrannon Cho\nMaxwell Geissler\nDana Rath (Summer Academy fellow)\nYanho Cheng (String Quartet Intensive fellow, Cong Quartet)\n\nSTRING BASS\nHenry Samuels\nAlex Wallack\nHenry Brija"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT25M48S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "759",
+                "likeCount": "7",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "1vcEXAy2Eo_p_7ZwkZllBr9TMiY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "MOPXwH0QxrEDB3ljARZ06Zz5frc",
+            "id": "TB3-dVjNDmE",
+            "snippet": {
+                "publishedAt": "2025-03-24T00:45:01Z",
+                "channelId": "UCYxyYe0yGYIlSaPDvwaO3TA",
+                "title": "Napkins - Sustainable Instrumental (Official Audio)",
+                "description": "#napkins #satire\n\nThe Earth is breaking (01. Sustainable),\nNo one truly listens (02. Conversation),\nYet everyone shouts their own truth (03. Oh Ya Ho Li)\n\n1. Sustainable\nProduced by Napkins\nLyrics by Napkins\nComposed by Napkins\nArranged by Napkins\nVocoder by Napkins\nMixed & Mastered by Napkins\n\n2. Conversation\nProduced by Napkins\nComposed by Napkins\nArranged by Napkins\nMixed & Mastered by Napkins\n\n3. Oh Ya Ho Li\nProduced by Napkins\nComposed by Napkins\nArranged by Napkins\nMixed & Mastered by Napkins\n\n\n4. Sustainable (Instrumental)\nProduced by Napkins\nComposed by Napkins\nArranged by Napkins\nMixed & Mastered by Napkins\n\nhttps://www.instagram.com/napkinsmusic/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TB3-dVjNDmE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TB3-dVjNDmE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TB3-dVjNDmE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TB3-dVjNDmE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TB3-dVjNDmE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Napkins Music",
+                "tags": [
+                    "napkins",
+                    "sustainable",
+                    "conversation",
+                    "oh ya ho li",
+                    "music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Napkins - Sustainable Instrumental (Official Audio)",
+                    "description": "#napkins #satire\n\nThe Earth is breaking (01. Sustainable),\nNo one truly listens (02. Conversation),\nYet everyone shouts their own truth (03. Oh Ya Ho Li)\n\n1. Sustainable\nProduced by Napkins\nLyrics by Napkins\nComposed by Napkins\nArranged by Napkins\nVocoder by Napkins\nMixed & Mastered by Napkins\n\n2. Conversation\nProduced by Napkins\nComposed by Napkins\nArranged by Napkins\nMixed & Mastered by Napkins\n\n3. Oh Ya Ho Li\nProduced by Napkins\nComposed by Napkins\nArranged by Napkins\nMixed & Mastered by Napkins\n\n\n4. Sustainable (Instrumental)\nProduced by Napkins\nComposed by Napkins\nArranged by Napkins\nMixed & Mastered by Napkins\n\nhttps://www.instagram.com/napkinsmusic/"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT2M46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "263",
+                "likeCount": "12",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

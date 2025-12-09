@@ -1,0 +1,108 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "aw2TaaVbPS0E9cF5XyZmmTAJmcA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "esjD8nDXE26LjE5OHIW0rOsdKz0",
+            "id": "BHa9qIf2rj8",
+            "snippet": {
+                "publishedAt": "2025-07-23T11:36:30Z",
+                "channelId": "UCsfYd7AVFk_ASiMudok6_sQ",
+                "title": "On the sunny side of the street - National Ecology Institute",
+                "description": "Contact - Chjh1234@gmail.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BHa9qIf2rj8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BHa9qIf2rj8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BHa9qIf2rj8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BHa9qIf2rj8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BHa9qIf2rj8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jazz Music Korea",
+                "tags": [
+                    "재즈",
+                    "재즈밴드",
+                    "재즈공연",
+                    "재즈밴드굿펠리스",
+                    "굿펠리스",
+                    "재즈밴드섭외",
+                    "재즈음악",
+                    "재즈뮤직코리아",
+                    "공연",
+                    "공연섭외",
+                    "재즈베이스",
+                    "콘트라베이스",
+                    "콘트라베이스최준혁",
+                    "재즈베이스최준혁",
+                    "워킹베이스",
+                    "jazz",
+                    "jazzband",
+                    "jazzmusic",
+                    "jazzmusickorea",
+                    "goodfellis",
+                    "uprightbass",
+                    "jazzbass",
+                    "choijunhyuk",
+                    "비브라폰",
+                    "livejazz",
+                    "jazzbandgoodfellis",
+                    "autumn leaves",
+                    "버스킹",
+                    "어텀리브스",
+                    "즉흥연주",
+                    "피렌체",
+                    "여행",
+                    "이태리",
+                    "italy"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "On the sunny side of the street - National Ecology Institute",
+                    "description": "Contact - Chjh1234@gmail.com."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3164",
+                "likeCount": "122",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

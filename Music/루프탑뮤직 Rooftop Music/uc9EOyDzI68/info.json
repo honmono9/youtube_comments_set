@@ -1,0 +1,140 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "SMjRFZLE616Jrb9DekcbiBPhnuY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "4fL3XSJD3EJfR0tVtRZwtNEpPm0",
+            "id": "uc9EOyDzI68",
+            "snippet": {
+                "publishedAt": "2025-12-08T03:30:59Z",
+                "channelId": "UC3q6ETGnbbeQ9F_3G04_2ug",
+                "title": "◎ 𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁 지금 캐롤 안 들으면 언제 들으려고?? | 케이팝캐롤 아이돌캐롤 겨울노래",
+                "description": "#플레이리스트 #캐롤 #케이팝 #겨울\n구독  https://goo.gl/xVBJcD\n\n\n\n🎤영상의 포함된 광고는 유튜브에서 자동으로 삽입됩니다.\n🎤해당 채널에서 발생된 모든 수익은 100% 원저작권자에 돌아갑니다. \n      혹시 음원 사용을 원치 않으시면 꼭 댓글로 남겨주세요",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uc9EOyDzI68/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uc9EOyDzI68/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uc9EOyDzI68/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uc9EOyDzI68/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uc9EOyDzI68/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "루프탑뮤직 Rooftop Music",
+                "tags": [
+                    "rooftop music",
+                    "kpop",
+                    "Penyanyi pop Korea",
+                    "Penyanyi Korea",
+                    "นักร้องเกาหลี",
+                    "韓国歌手",
+                    "playlist",
+                    "노래",
+                    "음악",
+                    "노래 추천",
+                    "음악 추천",
+                    "플리추천",
+                    "플리모음",
+                    "KPOP",
+                    "케이팝",
+                    "k-pop",
+                    "kpop songs",
+                    "k-pop top",
+                    "kpop top",
+                    "top 100 k-pop",
+                    "most viewed kpop songs",
+                    "most viewed kpop",
+                    "루프탑뮤직",
+                    "Kpop추천",
+                    "Kpop playlist",
+                    "플레이리스트",
+                    "플리",
+                    "봄 플레이리스트",
+                    "케이팝플리",
+                    "케이팝 플레이리스트",
+                    "KPOP플리",
+                    "케이팝 플리",
+                    "청량",
+                    "청량 플리",
+                    "신나는",
+                    "신나는 음악",
+                    "신나는 노래",
+                    "신나는 플리",
+                    "노동요",
+                    "매장",
+                    "매장 음악",
+                    "카페",
+                    "카페음악",
+                    "매장음악",
+                    "카페 음악",
+                    "신나는 케이팝",
+                    "가을",
+                    "가을 플리",
+                    "가을 노래",
+                    "가을플리",
+                    "가을노래",
+                    "낙엽",
+                    "autumn",
+                    "Autumn",
+                    "겨울",
+                    "캐롤",
+                    "겨울노래",
+                    "겨울플리",
+                    "캐롤플리",
+                    "겨울 캐롤"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "◎ 𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁 지금 캐롤 안 들으면 언제 들으려고?? | 케이팝캐롤 아이돌캐롤 겨울노래",
+                    "description": "#플레이리스트 #캐롤 #케이팝 #겨울\n구독  https://goo.gl/xVBJcD\n\n\n\n🎤영상의 포함된 광고는 유튜브에서 자동으로 삽입됩니다.\n🎤해당 채널에서 발생된 모든 수익은 100% 원저작권자에 돌아갑니다. \n      혹시 음원 사용을 원치 않으시면 꼭 댓글로 남겨주세요"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1H35M15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "JP",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "283",
+                "likeCount": "9",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "DeQ7ulw1-b9OlhjsyVWKDt693jU",
+        "id": "UgxfvQDUfY-h_bIT8Lh4AaABAg",
+        "snippet": {
+            "channelId": "UCL_O5w1_yeGyukBIRB_1alw",
+            "videoId": "-uq_0A5UAfI",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "lB_klj_DCFKAaL4N-GtWxJrZPDo",
+                "id": "UgxfvQDUfY-h_bIT8Lh4AaABAg",
+                "snippet": {
+                    "channelId": "UCL_O5w1_yeGyukBIRB_1alw",
+                    "videoId": "-uq_0A5UAfI",
+                    "textDisplay": "Fr 😂",
+                    "textOriginal": "Fr 😂",
+                    "authorDisplayName": "@shamsaabdinur9738",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nG4_0Z9cwke-S0Is33LEs5ofZW9iCYpyExFGyxbKW7NUA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@shamsaabdinur9738",
+                    "authorChannelId": {
+                        "value": "UChqIPKg7LjNePHuL8wOjePA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-10-10T17:23:03Z",
+                    "updatedAt": "2025-10-10T17:23:03Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

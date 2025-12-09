@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "O5RxsSfmLGCydgt-O3_Ucwus2w0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Su4v5JaSR4UV6R790Ri6s-y3TIg",
+            "id": "xYjyOUR_QBU",
+            "snippet": {
+                "publishedAt": "2025-11-26T09:01:37Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "피아노 하면 빼놓을 수 없는 영화 OST",
+                "description": "#피아노커버 #pianocover #피아노연주 #QUIZ #피아노퀴즈 #노래퀴즈 \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xYjyOUR_QBU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xYjyOUR_QBU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xYjyOUR_QBU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xYjyOUR_QBU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xYjyOUR_QBU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "피아노",
+                    "피아노 연주",
+                    "piano",
+                    "피아노 악보",
+                    "piano cover",
+                    "피아노연주",
+                    "PIANO",
+                    "QUIZ",
+                    "피아노퀴즈",
+                    "노래퀴즈",
+                    "말할수없는비밀",
+                    "SECRET"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "피아노 하면 빼놓을 수 없는 영화 OST",
+                    "description": "#피아노커버 #pianocover #피아노연주 #QUIZ #피아노퀴즈 #노래퀴즈 \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT7S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "42983",
+                "likeCount": "144",
+                "favoriteCount": "0",
+                "commentCount": "33"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

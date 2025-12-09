@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "xdeZk5q-gOmfPx9Iu-KHTtY5H_s",
+        "id": "UgwAQQgd7YxQ7K84_T14AaABAg",
+        "snippet": {
+            "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+            "videoId": "suo7FqcGOqA",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "V3LwTSLTI0VSfgSfxeplc-uPmPs",
+                "id": "UgwAQQgd7YxQ7K84_T14AaABAg",
+                "snippet": {
+                    "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                    "videoId": "suo7FqcGOqA",
+                    "textDisplay": "Would you be okay with me using a 5 second sample of this for a video I'm composing? Will be credited of course.",
+                    "textOriginal": "Would you be okay with me using a 5 second sample of this for a video I'm composing? Will be credited of course.",
+                    "authorDisplayName": "@ElectricSwordfish",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ZVYOGseBBcQFAVMJYYKM3HMrLSjpBXmg9BhOBGuZer6aMD5jfb_RzfiYvr3U0CZPeuPBd3-7EA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@ElectricSwordfish",
+                    "authorChannelId": {
+                        "value": "UCGW5ZHCbtzksqDO7-I3Qifw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-14T17:18:37Z",
+                    "updatedAt": "2025-11-14T17:19:19Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 3,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "v6zj8xd92rB5I2qdMHiA4Fg62Z0",
+        "id": "Ugx5hpIbTjWEwHwrS2B4AaABAg",
+        "snippet": {
+            "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+            "videoId": "suo7FqcGOqA",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "f3g-3Cynh-M40ZnIeVjvMczkeHU",
+                "id": "Ugx5hpIbTjWEwHwrS2B4AaABAg",
+                "snippet": {
+                    "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                    "videoId": "suo7FqcGOqA",
+                    "textDisplay": "Yes! Keeping the song structure and melody of the originals makes these AI covers awesome!\nMixing the familiar + something new = the working formula!\nStevie Green Wonder Day! 😂",
+                    "textOriginal": "Yes! Keeping the song structure and melody of the originals makes these AI covers awesome!\nMixing the familiar + something new = the working formula!\nStevie Green Wonder Day! 😂",
+                    "authorDisplayName": "@davidp7005",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kaPCWtSL3MgbZldv0nm3abtPn1jEqoT5U6cpnDKg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@davidp7005",
+                    "authorChannelId": {
+                        "value": "UCQ-yWRC16DhG1J2dkirDaUw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-10-31T00:30:09Z",
+                    "updatedAt": "2025-10-31T00:30:09Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

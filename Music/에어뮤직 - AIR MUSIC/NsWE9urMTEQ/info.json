@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "i8MIPltTFT_6rerVa43KalZXmLw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "KEAt6dYZEVLclFseRJn-FSguu0Q",
+            "id": "NsWE9urMTEQ",
+            "snippet": {
+                "publishedAt": "2025-04-24T10:00:42Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "공기남 - My Favorite 인사말",
+                "description": "공기남의 My Favorite 인사영상이 도착했어요~~\n\n밝은 바이브의 곡과 그의 분위기를\n지금 한 번 만나러 가볼까요~?\n\n\n#공기남 #myfavorite #my#favorite #에어뮤직 #신곡 #인사말",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NsWE9urMTEQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NsWE9urMTEQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NsWE9urMTEQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NsWE9urMTEQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NsWE9urMTEQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "공기남 - My Favorite 인사말",
+                    "description": "공기남의 My Favorite 인사영상이 도착했어요~~\n\n밝은 바이브의 곡과 그의 분위기를\n지금 한 번 만나러 가볼까요~?\n\n\n#공기남 #myfavorite #my#favorite #에어뮤직 #신곡 #인사말"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT29S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "255",
+                "likeCount": "13",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

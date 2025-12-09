@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "OoDFMGsEjIl6uib5d-sBPodAhMk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "LtvfMI-wd1DThPmE12u1axd88zc",
+            "id": "ASCNIYn62m4",
+            "snippet": {
+                "publishedAt": "2023-08-20T08:06:37Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "Drawing Video #5",
+                "description": "Drawing Video #5\n\n\n🎨Picture \n  Illustrator 700 Artwork by@700_illust\n\n🎵Music \n  G.W",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ASCNIYn62m4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ASCNIYn62m4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ASCNIYn62m4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ASCNIYn62m4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ASCNIYn62m4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Drawing Video #5",
+                    "description": "Drawing Video #5\n\n\n🎨Picture \n  Illustrator 700 Artwork by@700_illust\n\n🎵Music \n  G.W"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "8186",
+                "likeCount": "261",
+                "favoriteCount": "0",
+                "commentCount": "27"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

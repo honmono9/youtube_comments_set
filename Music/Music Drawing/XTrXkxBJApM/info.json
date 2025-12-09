@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "3db4Fvx4GNBg0LBG7yBpkH7cUas",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "jUkNLJxnPEDIQO1PJwQuKQPPWc8",
+            "id": "XTrXkxBJApM",
+            "snippet": {
+                "publishedAt": "2025-10-30T12:01:07Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"잠들기 전, 내 마음을 돌보는 시간\" 당신을 위한 수면음악",
+                "description": "긴 하루가 지나고\n오롯이 나를 위한 지금 이시간!\n은은한 조명,\n포근한 나의 침대,\n방을 채우는 수증기..\n\n나를 위한 이 시간~\n오롯이 나만을 위로하는 시간이 되길 바라며!\n\nGood night! :)\n\n\n🎵음악 제목              \n01.My home\n02.With me\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #잠잘때듣는음악 #불면증에좋은음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XTrXkxBJApM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XTrXkxBJApM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XTrXkxBJApM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XTrXkxBJApM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XTrXkxBJApM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "SleepMusic",
+                    "SleepingMusic",
+                    "RelaxMusic",
+                    "RelaxingMusic",
+                    "PianoMusic",
+                    "피아노음악",
+                    "수면음악",
+                    "수면유도음악",
+                    "숙면음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"잠들기 전, 내 마음을 돌보는 시간\" 당신을 위한 수면음악",
+                    "description": "긴 하루가 지나고\n오롯이 나를 위한 지금 이시간!\n은은한 조명,\n포근한 나의 침대,\n방을 채우는 수증기..\n\n나를 위한 이 시간~\n오롯이 나만을 위로하는 시간이 되길 바라며!\n\nGood night! :)\n\n\n🎵음악 제목              \n01.My home\n02.With me\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #잠잘때듣는음악 #불면증에좋은음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9H31M26S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "72198",
+                "likeCount": "1360",
+                "favoriteCount": "0",
+                "commentCount": "72"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

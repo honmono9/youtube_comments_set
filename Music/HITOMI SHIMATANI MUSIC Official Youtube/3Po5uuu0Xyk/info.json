@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "D1mxdC7b4lGE8MoTINZjQ5w20oU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "jLTH_p5EK1P1A6B-Jn2K13ZcMSA",
+            "id": "3Po5uuu0Xyk",
+            "snippet": {
+                "publishedAt": "2023-07-05T09:00:03Z",
+                "channelId": "UC2QOMTJ0Gz5vJPMl7KXkWaA",
+                "title": "HITOMI SHIMATANI \"HEART BEART\"登場曲『Boon!Boon!Boon!』",
+                "description": "2023年6月2日(金) なかのZERO 大ホールにて開催された\n HITOMI SHIMATANI \"HEART BEART\"\n\n登場曲『Boon!Boon!Boon!』をちょっと出しで公開！\n\n \"HEART BEART\"のテーマカラー黒と黄色を中心として蜂のようなイメージの楽曲♪\nコンサート当日のドキドキ感が舞い戻ってくる！\nぜひお聞きください！\n\n#島谷ひとみ#heartbeat #se#なかのZERO#大ホール#楽曲",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3Po5uuu0Xyk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3Po5uuu0Xyk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3Po5uuu0Xyk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3Po5uuu0Xyk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3Po5uuu0Xyk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HITOMI SHIMATANI MUSIC Official Youtube",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "HITOMI SHIMATANI \"HEART BEART\"登場曲『Boon!Boon!Boon!』",
+                    "description": "2023年6月2日(金) なかのZERO 大ホールにて開催された\n HITOMI SHIMATANI \"HEART BEART\"\n\n登場曲『Boon!Boon!Boon!』をちょっと出しで公開！\n\n \"HEART BEART\"のテーマカラー黒と黄色を中心として蜂のようなイメージの楽曲♪\nコンサート当日のドキドキ感が舞い戻ってくる！\nぜひお聞きください！\n\n#島谷ひとみ#heartbeat #se#なかのZERO#大ホール#楽曲"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT1M48S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1186",
+                "likeCount": "74",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

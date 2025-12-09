@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "RfrjQzbxMqL6usfNH7CSS5b8yCc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "dIR2ITuu-EMybdE9rdwFDzbBV6U",
+            "id": "btoNFghmfA0",
+            "snippet": {
+                "publishedAt": "2024-11-19T07:53:42Z",
+                "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                "title": "[YAMAHA BUSKING ep.1] 제이슨 리 – Time to love❤",
+                "description": "가을밤 + 색소폰 = 낭만🎷제이슨 리와 함께한 야마하 버스킹\n\n🎵Time to Love – Jason Lee\n🎷Saxophone. YAS-82ZA \n\n음악과 도시가 하나가 된 특별한 순간,\n풀버전으로 만나보세요! \n\n\n#야마하 #야마하뮤직코리아 #제이슨리 #야마하버스킹\n#색소폰 #야마하색소폰 #색소포니스트 #버스킹\n#건대입구 #커먼그라운드 #Jasonlee",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/btoNFghmfA0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/btoNFghmfA0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/btoNFghmfA0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/btoNFghmfA0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/btoNFghmfA0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yamaha Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[YAMAHA BUSKING ep.1] 제이슨 리 – Time to love❤",
+                    "description": "가을밤 + 색소폰 = 낭만🎷제이슨 리와 함께한 야마하 버스킹\n\n🎵Time to Love – Jason Lee\n🎷Saxophone. YAS-82ZA \n\n음악과 도시가 하나가 된 특별한 순간,\n풀버전으로 만나보세요! \n\n\n#야마하 #야마하뮤직코리아 #제이슨리 #야마하버스킹\n#색소폰 #야마하색소폰 #색소포니스트 #버스킹\n#건대입구 #커먼그라운드 #Jasonlee"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1685",
+                "likeCount": "35",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

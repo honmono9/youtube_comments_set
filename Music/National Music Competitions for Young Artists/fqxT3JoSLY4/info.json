@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "dS213TnnC99H9MEetTvBtJB-Wbo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "s5ef45dEeRsVOohVVFkePYpp5Ek",
+            "id": "fqxT3JoSLY4",
+            "snippet": {
+                "publishedAt": "2025-12-09T02:30:40Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "See, the Raging Flames Arise - Kris Gonzales (1st Prize Winner) | NAMCYA 2025 Senior Voice A",
+                "description": "Kris John Paul Santos Gonzales, NCR\n1st Prize Winner of Senior Voice A Category\nNAMCYA 2025 FINALS\n\nNational Finals Performance \nSee the Raging Flames Arise – George Frideric Handel\n\nNovember 18, 2025 \nManila Pianos, Makati City",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fqxT3JoSLY4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fqxT3JoSLY4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fqxT3JoSLY4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fqxT3JoSLY4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fqxT3JoSLY4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "See, the Raging Flames Arise - Kris Gonzales (1st Prize Winner) | NAMCYA 2025 Senior Voice A",
+                    "description": "Kris John Paul Santos Gonzales, NCR\n1st Prize Winner of Senior Voice A Category\nNAMCYA 2025 FINALS\n\nNational Finals Performance \nSee the Raging Flames Arise – George Frideric Handel\n\nNovember 18, 2025 \nManila Pianos, Makati City"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "10",
+                "likeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

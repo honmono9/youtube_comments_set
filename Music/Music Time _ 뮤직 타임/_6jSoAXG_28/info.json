@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "WFTch8RQCTKvFDWilino3hbCUS8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "DwONmzcuYq7OOgYqjdNY6Q3ZHV4",
+            "id": "_6jSoAXG_28",
+            "snippet": {
+                "publishedAt": "2025-12-09T10:17:55Z",
+                "channelId": "UCYA3gLE34set7Xn_FVU8D0Q",
+                "title": "TRADE L, SEIN Feat. Jay Park (박재범) - 늘 먹던 걸로 (ROUGH PATCH) [가사]",
+                "description": "TRADE L, SEIN Feat. Jay Park (박재범) - 늘 먹던 걸로 (ROUGH PATCH) [가사]\n_\n아티스트:TRADE L , SEIN\n유형:정규\n장르:랩/힙합\n스타일:힙합\n발매일:2025.12.09\n유통사:YG PLUS\n기획사:TRADE L, SEIN\n_\n#TRADEL #SEIN #JayPark #박재범 #늘먹던걸로",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_6jSoAXG_28/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_6jSoAXG_28/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_6jSoAXG_28/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_6jSoAXG_28/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_6jSoAXG_28/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Time | 뮤직 타임",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "TRADE L, SEIN Feat. Jay Park (박재범) - 늘 먹던 걸로 (ROUGH PATCH) [가사]",
+                    "description": "TRADE L, SEIN Feat. Jay Park (박재범) - 늘 먹던 걸로 (ROUGH PATCH) [가사]\n_\n아티스트:TRADE L , SEIN\n유형:정규\n장르:랩/힙합\n스타일:힙합\n발매일:2025.12.09\n유통사:YG PLUS\n기획사:TRADE L, SEIN\n_\n#TRADEL #SEIN #JayPark #박재범 #늘먹던걸로"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "28",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

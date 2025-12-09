@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Qej3jYSD6X-VTR3250XWECWDCbM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "-0VOD00QYRwSOhn1Im-3QEB3lUs",
+            "id": "PF6RVtvG_xI",
+            "snippet": {
+                "publishedAt": "2025-12-09T08:00:28Z",
+                "channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
+                "title": "[HYPE JUSIL] INI 편 Coming Soon!｜#INI #U_MINE #하입주실 #HYPEJUSIL｜#Shorts",
+                "description": "[HYPE JUSIL] INI 편 Coming Soon!｜#INI #U_MINE #하입주실 #HYPEJUSIL｜#Shorts  \n\n#스톤뮤직 #stonemusicentertainment",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PF6RVtvG_xI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PF6RVtvG_xI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PF6RVtvG_xI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PF6RVtvG_xI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PF6RVtvG_xI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Stone Music Entertainment",
+                "tags": [
+                    "K-CULTURE",
+                    "korean Music",
+                    "MV",
+                    "Music Video",
+                    "K-Pop",
+                    "Kpop",
+                    "뮤비",
+                    "뮤직비디오",
+                    "Stone Music Entertainment"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[HYPE JUSIL] INI 편 Coming Soon!｜#INI #U_MINE #하입주실 #HYPEJUSIL｜#Shorts",
+                    "description": "[HYPE JUSIL] INI 편 Coming Soon!｜#INI #U_MINE #하입주실 #HYPEJUSIL｜#Shorts  \n\n#스톤뮤직 #stonemusicentertainment"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1027",
+                "likeCount": "141",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

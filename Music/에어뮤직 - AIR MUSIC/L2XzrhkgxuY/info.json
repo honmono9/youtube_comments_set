@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "E8rNn3amVntraJ0CWPQUqvAhHoA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Z2VODsvMq9UOe_Q5nxSt-liWoBQ",
+            "id": "L2XzrhkgxuY",
+            "snippet": {
+                "publishedAt": "2025-03-18T03:00:28Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "공기남 - 모래성 (Feat. 고남준, 쿠우키) [Audio]",
+                "description": "싱어송라이터 ‘공기남’이 전하는 감성 에세이 앨범.\n‘Freshman Series’ 그 여섯 번째 이야기. [모래성]\n\n“무해한 하늘과 바다 그리고 너와 나\n이 분명한 행운을 그리며”\n\nTrack list.\n01. 모래성 (Feat. 고남준, 쿠우키) (작사 : 공기남 / 작곡 : 공기남 / 편곡 : 공기남)\n02. 모래성 (Inst.) (작곡 : 공기남 / 편곡 : 공기남 )\n\n[Credits]\nExecutive producer 공기남\nLyrics by 공기남\nComposed by 공기남\nArranged by 공기남\nVocal by 고남준, 쿠우키\nChorus by 공기남\nPiano by 공기남\nGuitar by YOUNG\nBass by 공기남\nDrum by 공기남\nMidi Programing by 공기남\nRecorded by fovitz @AirMusic Studio\nMixed by fovitz @AirMusic Studio\nMastered by 권남우 @821 Sound\nAlbum artwork by 유시 @usee_pic\nManagement Airmusic\nTeam leader 박지호 @melanoalbinc\nDistributed by Wanermusic_Korea",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L2XzrhkgxuY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L2XzrhkgxuY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L2XzrhkgxuY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/L2XzrhkgxuY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/L2XzrhkgxuY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "공기남 - 모래성 (Feat. 고남준, 쿠우키) [Audio]",
+                    "description": "싱어송라이터 ‘공기남’이 전하는 감성 에세이 앨범.\n‘Freshman Series’ 그 여섯 번째 이야기. [모래성]\n\n“무해한 하늘과 바다 그리고 너와 나\n이 분명한 행운을 그리며”\n\nTrack list.\n01. 모래성 (Feat. 고남준, 쿠우키) (작사 : 공기남 / 작곡 : 공기남 / 편곡 : 공기남)\n02. 모래성 (Inst.) (작곡 : 공기남 / 편곡 : 공기남 )\n\n[Credits]\nExecutive producer 공기남\nLyrics by 공기남\nComposed by 공기남\nArranged by 공기남\nVocal by 고남준, 쿠우키\nChorus by 공기남\nPiano by 공기남\nGuitar by YOUNG\nBass by 공기남\nDrum by 공기남\nMidi Programing by 공기남\nRecorded by fovitz @AirMusic Studio\nMixed by fovitz @AirMusic Studio\nMastered by 권남우 @821 Sound\nAlbum artwork by 유시 @usee_pic\nManagement Airmusic\nTeam leader 박지호 @melanoalbinc\nDistributed by Wanermusic_Korea"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M5S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4010",
+                "likeCount": "59",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

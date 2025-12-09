@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "yvGLFQIzS-mch1Y20M-uzuTBTzg",
+        "id": "UgxvPWiKTtI48BLqfWN4AaABAg",
+        "snippet": {
+            "channelId": "UCuF5t0ziFf7QfoR9_xlti1w",
+            "videoId": "JdhiI-ibF-U",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "3ho_XQ0ve_mg1T2RFP7gppLIDe0",
+                "id": "UgxvPWiKTtI48BLqfWN4AaABAg",
+                "snippet": {
+                    "channelId": "UCuF5t0ziFf7QfoR9_xlti1w",
+                    "videoId": "JdhiI-ibF-U",
+                    "textDisplay": "野島樺乃さん最高じゃん",
+                    "textOriginal": "野島樺乃さん最高じゃん",
+                    "authorDisplayName": "@user-gc5xr1ny3z",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kjzlf1E_3HhyHwYV0OpXa6CG44Ow55cZXRVLQQJFQhz8XeUSedBXcrYBt16T_x8HC17OM=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@user-gc5xr1ny3z",
+                    "authorChannelId": {
+                        "value": "UC1PBdDKtTTTqZW_5pSmWH-w"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-11-15T13:40:05Z",
+                    "updatedAt": "2025-11-15T13:40:05Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

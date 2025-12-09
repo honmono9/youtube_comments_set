@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "uQSbXM_h6N8YzQeYKcrsWPtgzOI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "cNHuc5Ro1xdwhY_gV30dNwQyFsE",
+            "id": "vVidBsaXYm4",
+            "snippet": {
+                "publishedAt": "2025-05-23T10:06:11Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "공기남 - 시간 그 끝에서 [공기남.ver]",
+                "description": "짜쟌~\n수요일 발매된 신곡 [시간 그 끝에서]\n공기남님 버젼의 영상 선물이 도착했습니다💌\n\n다 같이 한 번 감상해보아요~",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vVidBsaXYm4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vVidBsaXYm4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vVidBsaXYm4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vVidBsaXYm4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vVidBsaXYm4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "공기남 - 시간 그 끝에서 [공기남.ver]",
+                    "description": "짜쟌~\n수요일 발매된 신곡 [시간 그 끝에서]\n공기남님 버젼의 영상 선물이 도착했습니다💌\n\n다 같이 한 번 감상해보아요~"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "314",
+                "likeCount": "11",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

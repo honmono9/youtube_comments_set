@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "sqWX7R5ZMlQ6y9VWpx-PAsfUTUI",
+        "id": "Ugx9p53BCZvsXenyAW54AaABAg",
+        "snippet": {
+            "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+            "videoId": "lRIHCthdJjg",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "kg-tbtV5vpXd7WwXJjcKBcIrlRw",
+                "id": "Ugx9p53BCZvsXenyAW54AaABAg",
+                "snippet": {
+                    "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+                    "videoId": "lRIHCthdJjg",
+                    "textDisplay": "아멘!ᆢ감사합니다 ❤",
+                    "textOriginal": "아멘!ᆢ감사합니다 ❤",
+                    "authorDisplayName": "@임옥순-j7d",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kH67Xc4xMnnVm6pGsa38RS3oIZ5O28ePztoKlLQeg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EC%9E%84%EC%98%A5%EC%88%9C-j7d",
+                    "authorChannelId": {
+                        "value": "UCYnZSGw6NvBwACRGHCLTPKA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-07-24T08:07:47Z",
+                    "updatedAt": "2025-07-24T08:07:47Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

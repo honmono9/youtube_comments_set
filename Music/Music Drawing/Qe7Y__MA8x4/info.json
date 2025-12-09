@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "LmAC1Di1eoOldm8U-mKw3R4uhBg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "HjQKIwSy9GhBIQEZ0VO_yYgaXNk",
+            "id": "Qe7Y__MA8x4",
+            "snippet": {
+                "publishedAt": "2025-03-05T11:30:30Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "긴 하루를 위로하는 수면음악",
+                "description": "오늘도 참 긴 하루였지? \n벌써 하루가 흘러가 버렸네.. \n긴 하루가 지난 지금 이 순간 만큼은 \n오롯이 너를 위한 시간이 되길 바라. \n내일 뛰기 위해서 오늘은 충분히 쉬어가길 바라.  \n지금은 푹 자도 돼~ 그래두 돼~\n\n\n🎵곡 제목                      \n01.긴 하루\n02.밤여행\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #편안한음악 #위로가되는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qe7Y__MA8x4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qe7Y__MA8x4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qe7Y__MA8x4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Qe7Y__MA8x4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Qe7Y__MA8x4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "수면유도음악",
+                    "수면음악",
+                    "편안한음악",
+                    "숙면음악",
+                    "잠잘때듣는음악",
+                    "위로음악",
+                    "SleepingMusic",
+                    "SleepMusic",
+                    "RelaxMusic",
+                    "RelaxingMusic",
+                    "PianoMusic",
+                    "피아노음악",
+                    "불면증음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "긴 하루를 위로하는 수면음악",
+                    "description": "오늘도 참 긴 하루였지? \n벌써 하루가 흘러가 버렸네.. \n긴 하루가 지난 지금 이 순간 만큼은 \n오롯이 너를 위한 시간이 되길 바라. \n내일 뛰기 위해서 오늘은 충분히 쉬어가길 바라.  \n지금은 푹 자도 돼~ 그래두 돼~\n\n\n🎵곡 제목                      \n01.긴 하루\n02.밤여행\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #편안한음악 #위로가되는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9H35M58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "692887",
+                "likeCount": "10664",
+                "favoriteCount": "0",
+                "commentCount": "322"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

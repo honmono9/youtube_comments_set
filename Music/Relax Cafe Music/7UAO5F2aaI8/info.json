@@ -1,0 +1,81 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "tzhpKzXLPDaKx8JbznfZqoK6eR0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ip_CvsUkyUt5ZxobvM5CRo_wwws",
+            "id": "7UAO5F2aaI8",
+            "snippet": {
+                "publishedAt": "2022-09-15T13:00:03Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Happy Autumn Jazz - Cozy Jazz & Bossa Nova Music for Good Morning",
+                "description": "The best playlist of happy autumn jazz and bossa nova music by Richard Freeman!\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#autumn #jazz #morning \nl141",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7UAO5F2aaI8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7UAO5F2aaI8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7UAO5F2aaI8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7UAO5F2aaI8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7UAO5F2aaI8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "tags": [
+                    "autumn jazz",
+                    "september jazz",
+                    "october jazz",
+                    "autumn bossa nova",
+                    "morning jazz",
+                    "happy jazz",
+                    "happy jazz piano"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Happy Autumn Jazz - Cozy Jazz & Bossa Nova Music for Good Morning",
+                    "description": "The best playlist of happy autumn jazz and bossa nova music by Richard Freeman!\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#autumn #jazz #morning \nl141"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "11810",
+                "likeCount": "165",
+                "favoriteCount": "0",
+                "commentCount": "14"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

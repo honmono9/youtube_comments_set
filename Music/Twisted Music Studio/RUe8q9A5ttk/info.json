@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "PQO9idvxNEMe95IznbsR7avvVIU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "-Yl_9wmH_aNELI6gh-gFqfboXhk",
+            "id": "RUe8q9A5ttk",
+            "snippet": {
+                "publishedAt": "2025-11-17T16:19:26Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Pearl Jam - Better Man | 60s Soul AI Cover",
+                "description": "Better Man by Pearl Jam twisted into that 60s Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nWaiting, watching the clock\nIt's four o'clock\nIt's got to stop\nTell him\n\"Take no more\"\nShe practices her speech as he opens the door\nShe rolls over\nPretends to sleep as he looks her over\n\nShe lies and says she's in love with him\nCan't find a better man\nShe dreams in color, she dreams in red\nCan't find a better man\nCan't find a better man\nCan't find a better man\nOh\n\nTalking to herself\n\"There's no one else who needs to know\"\nShe tells herself\nMemories back when she was bold and strong\nAnd waiting for the world to come along\nSwears she knew him, now she swears he's gone\n\nShe lies and says she's in love with him\nCan't find a better man\nShe dreams in color, she dreams in red\nCan't find a better man\nShe lies and says she still loves him\nCan't find a better man\nShe dreams in color, she dreams in red\nCan't find a better man\nCan't find a better man\nCan't find a better man\n\nShe loved him, yeah\nShe don't want to leave this way\nShe feeds him, yeah\nThat's why she'll be back again\n\nCan't find a better man (Can't find a better man)\nCan't find a better man (Can't find a better man)\nCan't find a better man (Can't find a better man)\nCan't find a better man",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RUe8q9A5ttk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RUe8q9A5ttk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RUe8q9A5ttk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RUe8q9A5ttk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RUe8q9A5ttk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Pearl Jam - Better Man | 60s Soul AI Cover",
+                    "description": "Better Man by Pearl Jam twisted into that 60s Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nWaiting, watching the clock\nIt's four o'clock\nIt's got to stop\nTell him\n\"Take no more\"\nShe practices her speech as he opens the door\nShe rolls over\nPretends to sleep as he looks her over\n\nShe lies and says she's in love with him\nCan't find a better man\nShe dreams in color, she dreams in red\nCan't find a better man\nCan't find a better man\nCan't find a better man\nOh\n\nTalking to herself\n\"There's no one else who needs to know\"\nShe tells herself\nMemories back when she was bold and strong\nAnd waiting for the world to come along\nSwears she knew him, now she swears he's gone\n\nShe lies and says she's in love with him\nCan't find a better man\nShe dreams in color, she dreams in red\nCan't find a better man\nShe lies and says she still loves him\nCan't find a better man\nShe dreams in color, she dreams in red\nCan't find a better man\nCan't find a better man\nCan't find a better man\n\nShe loved him, yeah\nShe don't want to leave this way\nShe feeds him, yeah\nThat's why she'll be back again\n\nCan't find a better man (Can't find a better man)\nCan't find a better man (Can't find a better man)\nCan't find a better man (Can't find a better man)\nCan't find a better man"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "586",
+                "likeCount": "11",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

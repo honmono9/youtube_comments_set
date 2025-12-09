@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "GHSlewdu2lK7yRXLAY5gLuzAiRo",
+        "id": "Ugx5dg1OQSve_3VEeed4AaABAg",
+        "snippet": {
+            "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+            "videoId": "8KfZ1z6YEYg",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "kQEOz4-lmfbSXwv2LZ6rVHOvJw8",
+                "id": "Ugx5dg1OQSve_3VEeed4AaABAg",
+                "snippet": {
+                    "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                    "videoId": "8KfZ1z6YEYg",
+                    "textDisplay": "Maybe mash this up with kiss from a rose. Lyrics seem to match during the verse",
+                    "textOriginal": "Maybe mash this up with kiss from a rose. Lyrics seem to match during the verse",
+                    "authorDisplayName": "@harrygoldsmith6792",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mLU6NKnDirzLhuyLyRFLsFCdHukHCTO3KHdufqxed4Jg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@harrygoldsmith6792",
+                    "authorChannelId": {
+                        "value": "UCo_9WZE8GrhtKZp9cbUNdoA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-29T04:05:30Z",
+                    "updatedAt": "2025-11-29T04:05:30Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "wLARQ_9naXFeWsIUCnmg3DgIOyc",
+        "id": "UgziajS2GfKvns8KkEt4AaABAg",
+        "snippet": {
+            "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+            "videoId": "8KfZ1z6YEYg",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "jFuZ1bdoFPXLlP60BP2mAkpROmA",
+                "id": "UgziajS2GfKvns8KkEt4AaABAg",
+                "snippet": {
+                    "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                    "videoId": "8KfZ1z6YEYg",
+                    "textDisplay": "Most excellent! Been hopeful to hear this song get the 70's soul treatment and this rendition checks all the boxes. The bridge building to the final chorus through the end was a nice touch. Sweet!",
+                    "textOriginal": "Most excellent! Been hopeful to hear this song get the 70's soul treatment and this rendition checks all the boxes. The bridge building to the final chorus through the end was a nice touch. Sweet!",
+                    "authorDisplayName": "@colorebelmusic",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mp8J1QndldK2MHamf3_XwWvkvHUxImOApULYxHDgY=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@colorebelmusic",
+                    "authorChannelId": {
+                        "value": "UCU2m_nrS6MQa3ntdHFvpynQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-24T20:23:38Z",
+                    "updatedAt": "2025-11-24T20:23:38Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,81 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "li8X5wiWNYJnzIbcmUbc7ul5D54",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "09nvUQgWS0KZKO3smfjN8ggyxzw",
+            "id": "sZcuz7_8eWw",
+            "snippet": {
+                "publishedAt": "2025-07-04T23:45:03Z",
+                "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+                "title": "장근희 - 당신은 자유",
+                "description": "#장근희 #당신은자유\n\n그는 광대하시나 내 머리카락을 세시네🥹",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sZcuz7_8eWw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sZcuz7_8eWw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sZcuz7_8eWw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sZcuz7_8eWw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sZcuz7_8eWw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HISKINGDOM MUSIC Official",
+                "tags": [
+                    "#장근희",
+                    "당신은 자유",
+                    "히스킹덤뮤직",
+                    "hiskingdom music",
+                    "kccm",
+                    "ccm",
+                    "찬양"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "장근희 - 당신은 자유",
+                    "description": "#장근희 #당신은자유\n\n그는 광대하시나 내 머리카락을 세시네🥹"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1302",
+                "likeCount": "21",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

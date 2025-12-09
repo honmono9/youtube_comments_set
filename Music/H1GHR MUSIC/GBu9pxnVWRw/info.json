@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "bzQEUz5HXzrXNc3xUrybOmI0JD4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "4dCs6D-iYSKozitfLDM2Hrz-JY4",
+            "id": "GBu9pxnVWRw",
+            "snippet": {
+                "publishedAt": "2025-09-08T11:07:45Z",
+                "channelId": "UC6TJkBRLMFJ-9c7pXehoZwg",
+                "title": "재범이형이랑",
+                "description": "pH-1 The 3rd Studio Album 【WHAT HAVE WE DONE】 is out! \nListen and download on your favorite platform : https://lnk.to/pH1_WHAT_HAVE_WE_DONE\n\nMore Information Here:\n\n@pH-1\nInstagram: / ph1boyyy \nTwitter: / ph1boyyy \n\n@H1GHRMUSIC\nInstagram: / h1ghrmusic \nFacebook: / h1ghrmusicofficial \nTwitter: / h1ghrmusic \nWeibo: https://www.weibo.com/h1ghrmusic\n\n#pH1 #피에이치원\n#H1GHRMUSIC #하이어뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GBu9pxnVWRw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GBu9pxnVWRw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GBu9pxnVWRw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GBu9pxnVWRw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GBu9pxnVWRw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "H1GHR MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "재범이형이랑",
+                    "description": "pH-1 The 3rd Studio Album 【WHAT HAVE WE DONE】 is out! \nListen and download on your favorite platform : https://lnk.to/pH1_WHAT_HAVE_WE_DONE\n\nMore Information Here:\n\n@pH-1\nInstagram: / ph1boyyy \nTwitter: / ph1boyyy \n\n@H1GHRMUSIC\nInstagram: / h1ghrmusic \nFacebook: / h1ghrmusicofficial \nTwitter: / h1ghrmusic \nWeibo: https://www.weibo.com/h1ghrmusic\n\n#pH1 #피에이치원\n#H1GHRMUSIC #하이어뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT10M57S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "100436",
+                "likeCount": "3311",
+                "favoriteCount": "0",
+                "commentCount": "299"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

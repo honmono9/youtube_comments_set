@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ZD8UMHDOJnYHmdyqL4uH0nU6c4I",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Stqn9kh2RqeYJS7DLYj_y5Fw9Xo",
+            "id": "CjPehF-enyU",
+            "snippet": {
+                "publishedAt": "2025-07-22T12:00:22Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "Deep night, Playing for you🌙Sleep Music",
+                "description": "\"The Darker the Night, the Brighter the Stars\"\n\n\n#SleepingMusic #RelaxMusic #StudyMusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CjPehF-enyU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CjPehF-enyU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CjPehF-enyU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CjPehF-enyU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CjPehF-enyU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "StudyMusic",
+                    "RelaxMusic",
+                    "SleepMusic",
+                    "SleepingMusic",
+                    "RelaxingMusic",
+                    "PianoMusic",
+                    "잠오는음악",
+                    "수면유도음악",
+                    "수면음악",
+                    "편안한음악",
+                    "자기전에듣는음악",
+                    "마음이편안해지는음악",
+                    "피아노음악",
+                    "평화로운음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Deep night, Playing for you🌙Sleep Music",
+                    "description": "\"The Darker the Night, the Brighter the Stars\"\n\n\n#SleepingMusic #RelaxMusic #StudyMusic"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT5H21M31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "30628",
+                "likeCount": "852",
+                "favoriteCount": "0",
+                "commentCount": "110"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

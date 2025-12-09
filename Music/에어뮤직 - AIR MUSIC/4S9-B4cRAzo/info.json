@@ -1,0 +1,91 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "lNPZHd6V9Ipkoc2Yj1J6OF17pqY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "eYuiyFkaR33RQQBO9qx55XiNvwY",
+            "id": "4S9-B4cRAzo",
+            "snippet": {
+                "publishedAt": "2024-08-06T03:00:05Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "[Lyric Video] 공기남 - Better (Feat. 1ho, 범준)",
+                "description": "[Lyric Video] 공기남 - Better (Feat. 1ho, 범준)\n\n싱어송라이터 ‘공기남’이 전하는 감성 에세이 앨범. ‘Freshman Series’ 그 세번째 이야기. [Better]\n\n더 나은 삶을 위한 better \n여러분 삶의 better가 되길 바라며…\n\n\nTrack list.\n01.  Better (작사: 공기남 / 작곡: 공기남 / 편곡: 공기남)\n[Credits]\nExecutive Producer 공기남\nLyric by 공기남\nComposed by  공기남\nArranged by 공기남\nVocal 공기남, 1ho, 범준\nChorus 공기남\nPiano 공기남\nGuitar by YOUNG\nBass 공기남\nDrum 공기남\nMidi Programing 공기남\nRecorded by 김도경 @Velvet studio\nMixed by 노양수\nMastered by 권남우 @821 Studio\nAlbum artwork by 유시 @usee_pic\nManagement Airmusic\nTeam leader 임원호 @1im1ho\nDistributed by Wanermusic_Korea",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4S9-B4cRAzo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4S9-B4cRAzo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4S9-B4cRAzo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4S9-B4cRAzo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "tags": [
+                    "공기남",
+                    "에어맨",
+                    "에어뮤직",
+                    "범준",
+                    "1ho",
+                    "airman",
+                    "airmusic",
+                    "soda",
+                    "better",
+                    "파란섬",
+                    "여름",
+                    "여름에듣기좋은곡",
+                    "청량한",
+                    "맑은",
+                    "시원한",
+                    "푸른",
+                    "인디",
+                    "인디음악",
+                    "최신곡",
+                    "최신가요",
+                    "명곡",
+                    "띵곡"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Lyric Video] 공기남 - Better (Feat. 1ho, 범준)",
+                    "description": "[Lyric Video] 공기남 - Better (Feat. 1ho, 범준)\n\n싱어송라이터 ‘공기남’이 전하는 감성 에세이 앨범. ‘Freshman Series’ 그 세번째 이야기. [Better]\n\n더 나은 삶을 위한 better \n여러분 삶의 better가 되길 바라며…\n\n\nTrack list.\n01.  Better (작사: 공기남 / 작곡: 공기남 / 편곡: 공기남)\n[Credits]\nExecutive Producer 공기남\nLyric by 공기남\nComposed by  공기남\nArranged by 공기남\nVocal 공기남, 1ho, 범준\nChorus 공기남\nPiano 공기남\nGuitar by YOUNG\nBass 공기남\nDrum 공기남\nMidi Programing 공기남\nRecorded by 김도경 @Velvet studio\nMixed by 노양수\nMastered by 권남우 @821 Studio\nAlbum artwork by 유시 @usee_pic\nManagement Airmusic\nTeam leader 임원호 @1im1ho\nDistributed by Wanermusic_Korea"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M2S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4951",
+                "likeCount": "112",
+                "favoriteCount": "0",
+                "commentCount": "17"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

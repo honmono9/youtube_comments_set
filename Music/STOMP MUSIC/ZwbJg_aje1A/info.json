@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "HIJ64CFffYxG2v1RYlnoP9B_DHk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "6fMRxloBtbY4_E7HrOnNw6wFGt4",
+            "id": "ZwbJg_aje1A",
+            "snippet": {
+                "publishedAt": "2023-09-08T10:10:20Z",
+                "channelId": "UCEhxA_aRk5gPi7PbzvmkSlg",
+                "title": "#쇼팽콩쿨2위 알렉산더 가지예프의 쇼팽 왈츠",
+                "description": "알렉산더 가지예프 연주 미리듣기 ✨\nF.Chopin - Waltz in A-flat Major, Op. 42\n\n2021년 쇼팽 국제 피아노 콩쿠르 2위와\n쇼팽 소나타 최고 연주상을 수상한\n피아니스트 #알렉산더가지예프\n\n10월 22일\n알렉산더 가지예프의 국내 첫 리사이틀로 초대합니다 😘",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZwbJg_aje1A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZwbJg_aje1A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZwbJg_aje1A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZwbJg_aje1A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZwbJg_aje1A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "STOMP MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "#쇼팽콩쿨2위 알렉산더 가지예프의 쇼팽 왈츠",
+                    "description": "알렉산더 가지예프 연주 미리듣기 ✨\nF.Chopin - Waltz in A-flat Major, Op. 42\n\n2021년 쇼팽 국제 피아노 콩쿠르 2위와\n쇼팽 소나타 최고 연주상을 수상한\n피아니스트 #알렉산더가지예프\n\n10월 22일\n알렉산더 가지예프의 국내 첫 리사이틀로 초대합니다 😘"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT26S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5740",
+                "likeCount": "77",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

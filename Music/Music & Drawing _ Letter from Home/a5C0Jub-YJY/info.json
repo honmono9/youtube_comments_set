@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ClnE8aOo_RFKXmdeeIAJp5u_SWY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "e_is75yk_eZWeAYiQBiYr9tIgys",
+            "id": "a5C0Jub-YJY",
+            "snippet": {
+                "publishedAt": "2025-09-06T10:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Romantic Jazz on the Shore | Saxophone & Piano Vintage Jazz Playlist",
+                "description": "Lose yourself in the timeless sound of saxophone and piano jazz — a nostalgic echo of the 1950s seaside. Smooth melodies flow like the tide, carrying both the fleeting emptiness of ebb and the joy of flow. 🌊🎷🎹\n\nPerfect for relaxing, studying, or enjoying a quiet evening by the shore, this vintage jazz playlist brings warmth and calm to your day.\n\n#jazz #saxophonejazz #pianojazz #vintagejazz #jazzplaylist #relaxingjazz #jazzmusic #seasidejazz #oldiesjazz #smoothjazz #romanticjazz #instrumentaljazz #relaxingmusic #saxophonemusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a5C0Jub-YJY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a5C0Jub-YJY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a5C0Jub-YJY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/a5C0Jub-YJY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/a5C0Jub-YJY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "guitar jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "saxophone jazz",
+                    "seaside jazz",
+                    "1950s jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Romantic Jazz on the Shore | Saxophone & Piano Vintage Jazz Playlist",
+                    "description": "Lose yourself in the timeless sound of saxophone and piano jazz — a nostalgic echo of the 1950s seaside. Smooth melodies flow like the tide, carrying both the fleeting emptiness of ebb and the joy of flow. 🌊🎷🎹\n\nPerfect for relaxing, studying, or enjoying a quiet evening by the shore, this vintage jazz playlist brings warmth and calm to your day.\n\n#jazz #saxophonejazz #pianojazz #vintagejazz #jazzplaylist #relaxingjazz #jazzmusic #seasidejazz #oldiesjazz #smoothjazz #romanticjazz #instrumentaljazz #relaxingmusic #saxophonemusic"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H26S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "926",
+                "likeCount": "24",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

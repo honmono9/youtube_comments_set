@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "7suO2jK8gygWFfJofgCjV2UAFwc",
+        "id": "Ugwz-dIb3__psWTNfZx4AaABAg",
+        "snippet": {
+            "channelId": "UCfrWVh-4M98j1WtDIR9IVNg",
+            "videoId": "uxKF5nwbzKQ",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "7t2WYL148ICVUZyEhGMb5Sz7md0",
+                "id": "Ugwz-dIb3__psWTNfZx4AaABAg",
+                "snippet": {
+                    "channelId": "UCfrWVh-4M98j1WtDIR9IVNg",
+                    "videoId": "uxKF5nwbzKQ",
+                    "textDisplay": "Wow ganda  naman",
+                    "textOriginal": "Wow ganda  naman",
+                    "authorDisplayName": "@MUSIKLIKES-f4g",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/X_a1dvw0t-M3DVrzTYUaybM-j8IR9ZAMoT1esGuaj4HLGC6Syflh9ojTa1CIoKC-5ol9fEQsDw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@MUSIKLIKES-f4g",
+                    "authorChannelId": {
+                        "value": "UCdiFGunTduHFOL0zne0Wvgw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-01T23:57:38Z",
+                    "updatedAt": "2025-11-01T23:57:38Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

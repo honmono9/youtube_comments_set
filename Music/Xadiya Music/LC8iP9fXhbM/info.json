@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "YX3RdXTUoEedJUY6hc0Yo31m_hE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "77TtxteMVPDJN7EoVOpKJ8v8_GA",
+            "id": "LC8iP9fXhbM",
+            "snippet": {
+                "publishedAt": "2025-12-09T07:14:15Z",
+                "channelId": "UCL_O5w1_yeGyukBIRB_1alw",
+                "title": "Smooth and sweet ✨ #romantic #jazz #nightmusic #candlenight",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LC8iP9fXhbM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LC8iP9fXhbM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LC8iP9fXhbM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LC8iP9fXhbM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LC8iP9fXhbM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Xadiya Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "id",
+                "localized": {
+                    "title": "Smooth and sweet ✨ #romantic #jazz #nightmusic #candlenight",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "id"
+            },
+            "contentDetails": {
+                "duration": "PT16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "28",
+                "likeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

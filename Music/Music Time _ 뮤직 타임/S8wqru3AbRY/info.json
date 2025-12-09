@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "jkUGGFPLtvsAnhu9SR0bT0sKo3Y",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "1GcjAUTfcdFdFCN21wn6vVWspqo",
+            "id": "S8wqru3AbRY",
+            "snippet": {
+                "publishedAt": "2025-12-03T19:19:58Z",
+                "channelId": "UCYA3gLE34set7Xn_FVU8D0Q",
+                "title": "THAMA (따마), SHINDRUM - Cityboy [가사]",
+                "description": "THAMA (따마), SHINDRUM - Cityboy [가사]\n_\n아티스트:THAMA , SHINDRUM\n유형:EP(미니)\n장르:알앤비/소울\n스타일:알앤비\n발매일:2025.12.03\n유통사:YG PLUS\n기획사:THAMA\n_\n#THAMA #따마 #SHINDRUM #Cityboy",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S8wqru3AbRY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S8wqru3AbRY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S8wqru3AbRY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/S8wqru3AbRY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/S8wqru3AbRY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Time | 뮤직 타임",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "THAMA (따마), SHINDRUM - Cityboy [가사]",
+                    "description": "THAMA (따마), SHINDRUM - Cityboy [가사]\n_\n아티스트:THAMA , SHINDRUM\n유형:EP(미니)\n장르:알앤비/소울\n스타일:알앤비\n발매일:2025.12.03\n유통사:YG PLUS\n기획사:THAMA\n_\n#THAMA #따마 #SHINDRUM #Cityboy"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT5M31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "322",
+                "likeCount": "13",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

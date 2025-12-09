@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "y89CRE2_C-MBA_vx6tEVG-Sc6uE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Vq9qM_mx86866Vdnpk7HpZHfvW0",
+            "id": "eCNbtFMHT6E",
+            "snippet": {
+                "publishedAt": "2022-09-08T13:00:19Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Cozy September Jazz - Morning Coffee Jazz Music for Autumn",
+                "description": "Relaxing jazz music playlist for cozy autumn morning by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\nl102",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eCNbtFMHT6E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eCNbtFMHT6E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eCNbtFMHT6E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eCNbtFMHT6E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eCNbtFMHT6E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Cozy September Jazz - Morning Coffee Jazz Music for Autumn",
+                    "description": "Relaxing jazz music playlist for cozy autumn morning by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\nl102"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "11285",
+                "likeCount": "161",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "0FoU42aGP4pBf38mkTPE7fCdHts",
+        "id": "Ugyllyu4-LNSRUgKAKZ4AaABAg",
+        "snippet": {
+            "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+            "videoId": "VC2FfEMG5cg",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "QeX85GF13yjsGbIYyeP80Bcsw4Y",
+                "id": "Ugyllyu4-LNSRUgKAKZ4AaABAg",
+                "snippet": {
+                    "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                    "videoId": "VC2FfEMG5cg",
+                    "textDisplay": "🤘🏻🎸🔊รับชมรับฟังเพลงเต็มได้แล้ววันนี้ ฝากกดติดตามกดไลค์กดแชร์ ด้วยน๊าา😊 ❤\nhttps://youtu.be/asrzcfVvImo?si=2AserfR1UE1toVPP",
+                    "textOriginal": "🤘🏻🎸🔊รับชมรับฟังเพลงเต็มได้แล้ววันนี้ ฝากกดติดตามกดไลค์กดแชร์ ด้วยน๊าา😊 ❤\nhttps://youtu.be/asrzcfVvImo?si=2AserfR1UE1toVPP",
+                    "authorDisplayName": "@BMAarena",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-roBiYFyedSn6ETMteOjdi1_pT5keQFkEeiv8tJFvSti2JSOuBmqVDnUf-k0lYXsqzdZe2trsQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@BMAarena",
+                    "authorChannelId": {
+                        "value": "UCGUvUVuthSVOk0Kq34krOGA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-10-18T16:26:04Z",
+                    "updatedAt": "2025-10-18T16:26:04Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "qcyxcIURe3AcZ4ox_kRXcT4aKZw",
+        "id": "UgyW7WbbYAZ7zm3vBMJ4AaABAg",
+        "snippet": {
+            "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+            "videoId": "VC2FfEMG5cg",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "B9x2zEuxs-RRBH0zbqEpVSEKLPQ",
+                "id": "UgyW7WbbYAZ7zm3vBMJ4AaABAg",
+                "snippet": {
+                    "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                    "videoId": "VC2FfEMG5cg",
+                    "textDisplay": "ให้กำลังใจทหารทุกท่านค่ะ ปลอดภัยค่ะ",
+                    "textOriginal": "ให้กำลังใจทหารทุกท่านค่ะ ปลอดภัยค่ะ",
+                    "authorDisplayName": "@ดารณีเหมือนเชตุ",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mjQf6fsBM_k2yKqYx8vKT58g_YaLzE5d2Uu7qlPYw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B8%B5%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%8A%E0%B8%95%E0%B8%B8",
+                    "authorChannelId": {
+                        "value": "UCxNCCjkqxYdEKTq6FuD1KUQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-10-20T01:07:14Z",
+                    "updatedAt": "2025-10-20T01:07:14Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "yUPCCda6R8LK6ObXxnVl5ZBBzic",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Pny7qWyg-e1iw3TUmwp9gRU-JYM",
+            "id": "MpjdfROaMZ0",
+            "snippet": {
+                "publishedAt": "2024-05-27T02:11:44Z",
+                "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                "title": "클래식 색소폰 거장! 노부야 스가와 리사이틀에 여러분을 초대합니다🎷#노부야스가와 #마스터클래스",
+                "description": "클래식 색소폰의 지평을 넓힌 세계적인 색소폰 거장, \n노부야 스가와(Nobuya Sugawa)의 내한공연이 6/14~6/15 이틀간 열립니다! \n\n🎫야마하 회원 한정 초대권 이벤트(5/24~6/2): https://yamaha.io/4bzIOKb\n\n6월 15일 거암아트홀 리사이틀의 경우,\n야마하 회원 한정 초대권 증정 이벤트를 진행하고 있으니 놓치지 말고 응모하세요❣\n\n[스가와 노부야 마스터클래스 & 리사이틀]\n📅 일시: 6월 15일 토요일 오후 4시 리사이틀 (마스터클래스는 오후 1시)\n📍 장소: 거암아트홀\n🎷연주: 노부야 스가와  \n🔗예매링크: https://bit.ly/4bUWcs8\n\n[브랜든 색소폰 오케스트라 제2회 정기연주회]\n📅 일시: 6월 14일 금요일 오후 7:30\n📍 장소: 영산아트홀\n🎷협연: 노부야 스가와  \n🎼지휘: 브랜든 최 \n🔗예매링크: https://bit.ly/3yx1Tyi\n\n#야마하 #야마하뮤직코리아 #노부야스가와 #클래식색소폰 \n#색소폰 #색소포니스트 #야마하색소폰 #마스터클래스\n#Yamaha #saxophone #색소폰마스터클래스 #색소폰리사이틀",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MpjdfROaMZ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MpjdfROaMZ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MpjdfROaMZ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MpjdfROaMZ0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MpjdfROaMZ0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yamaha Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "클래식 색소폰 거장! 노부야 스가와 리사이틀에 여러분을 초대합니다🎷#노부야스가와 #마스터클래스",
+                    "description": "클래식 색소폰의 지평을 넓힌 세계적인 색소폰 거장, \n노부야 스가와(Nobuya Sugawa)의 내한공연이 6/14~6/15 이틀간 열립니다! \n\n🎫야마하 회원 한정 초대권 이벤트(5/24~6/2): https://yamaha.io/4bzIOKb\n\n6월 15일 거암아트홀 리사이틀의 경우,\n야마하 회원 한정 초대권 증정 이벤트를 진행하고 있으니 놓치지 말고 응모하세요❣\n\n[스가와 노부야 마스터클래스 & 리사이틀]\n📅 일시: 6월 15일 토요일 오후 4시 리사이틀 (마스터클래스는 오후 1시)\n📍 장소: 거암아트홀\n🎷연주: 노부야 스가와  \n🔗예매링크: https://bit.ly/4bUWcs8\n\n[브랜든 색소폰 오케스트라 제2회 정기연주회]\n📅 일시: 6월 14일 금요일 오후 7:30\n📍 장소: 영산아트홀\n🎷협연: 노부야 스가와  \n🎼지휘: 브랜든 최 \n🔗예매링크: https://bit.ly/3yx1Tyi\n\n#야마하 #야마하뮤직코리아 #노부야스가와 #클래식색소폰 \n#색소폰 #색소포니스트 #야마하색소폰 #마스터클래스\n#Yamaha #saxophone #색소폰마스터클래스 #색소폰리사이틀"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "731",
+                "likeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

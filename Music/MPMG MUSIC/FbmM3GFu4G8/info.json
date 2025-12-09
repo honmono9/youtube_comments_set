@@ -1,0 +1,75 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "OhnyTVYM7_Jo2hcyI_EBU-vpwQY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "qXUrzH1MyC1sXe9IBknUH6Za_o0",
+            "id": "FbmM3GFu4G8",
+            "snippet": {
+                "publishedAt": "2025-07-12T17:22:17Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "영감노트 EP.01 '이준형의 다이어리'",
+                "description": "#shorts #이준형 #유다빈밴드",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FbmM3GFu4G8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FbmM3GFu4G8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FbmM3GFu4G8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FbmM3GFu4G8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FbmM3GFu4G8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "tags": [
+                    "#shorts"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "영감노트 EP.01 '이준형의 다이어리'",
+                    "description": "#shorts #이준형 #유다빈밴드"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1134",
+                "likeCount": "13",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

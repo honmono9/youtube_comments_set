@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "vOahDBc4TR6yqF6ZHhjlzEiEQN8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "TkYAn-mbdlLiBZ31WoBL_Eq0hYs",
+            "id": "lJrVgdMtNLs",
+            "snippet": {
+                "publishedAt": "2025-05-15T06:18:40Z",
+                "channelId": "UCATxSCJz65QdZ5GpfXnPOpQ",
+                "title": "เพลงใหม่ผู้กองหน้าฮ่าน #ล้างแค้นแฟนเก่า",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lJrVgdMtNLs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lJrVgdMtNLs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lJrVgdMtNLs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lJrVgdMtNLs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lJrVgdMtNLs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Pure Diamond Music",
+                "tags": [
+                    "กินเหล้าเมาเมาโทรหาแฟนเก่า",
+                    "ผู้กองหน้าฮ่านเพลงใหม่",
+                    "ล้างแค้นแฟนเก่า"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "เพลงใหม่ผู้กองหน้าฮ่าน #ล้างแค้นแฟนเก่า",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT32S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "15452",
+                "likeCount": "211",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

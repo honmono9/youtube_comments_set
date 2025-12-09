@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "zrzVQPl2-fo_mOH2XtlMme8t89A",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "WmzjY40QA7dj0rN-IjK59me7inQ",
+            "id": "s-uL0US1LPU",
+            "snippet": {
+                "publishedAt": "2023-03-20T09:00:28Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[Behind] 2023 서인국(Seo In Guk) Concert ‘Blending’ Behind the scenes #1",
+                "description": "2023 서인국(Seo In Guk) Concert ‘Blending’ Behind the scenes #1\n\n#SeoInGuk #서인국\n#Concert #Blending\n#BTS #Behindthescenes\n#AERMUSIC #아에르뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s-uL0US1LPU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s-uL0US1LPU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s-uL0US1LPU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/s-uL0US1LPU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/s-uL0US1LPU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Behind] 2023 서인국(Seo In Guk) Concert ‘Blending’ Behind the scenes #1",
+                    "description": "2023 서인국(Seo In Guk) Concert ‘Blending’ Behind the scenes #1\n\n#SeoInGuk #서인국\n#Concert #Blending\n#BTS #Behindthescenes\n#AERMUSIC #아에르뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT11M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "29033",
+                "likeCount": "1683",
+                "favoriteCount": "0",
+                "commentCount": "122"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

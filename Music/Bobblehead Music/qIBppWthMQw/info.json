@@ -1,0 +1,67 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "H5rAFofGznb8XqdsO-Likd-yti8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "12V6GWQxbwv7KFtpav3mCD7f5dI",
+            "id": "qIBppWthMQw",
+            "snippet": {
+                "publishedAt": "2022-06-19T08:53:46Z",
+                "channelId": "UC6DbQObO-YiG5y3ojp0nZyA",
+                "title": "KOALA (코알라) - '끄덕여 (GOOD 2 GO) Feat. Jay Park (박재범) MV Teaser 2",
+                "description": "KOALA (코알라) - '끄덕여 (GOOD 2 GO) Feat. Jay Park (박재범) MV Teaser 2\n\nKOALA Digital Single '끄덕여 (GOOD 2 GO) Feat. Jay Park '\n\n2022.06.21 (Tues) 6PM KST\n\n#KOALA #JayPark #GOOD2GO #G2GO #굿투고 #끄덕여",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qIBppWthMQw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qIBppWthMQw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qIBppWthMQw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qIBppWthMQw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Bobblehead Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "KOALA (코알라) - '끄덕여 (GOOD 2 GO) Feat. Jay Park (박재범) MV Teaser 2",
+                    "description": "KOALA (코알라) - '끄덕여 (GOOD 2 GO) Feat. Jay Park (박재범) MV Teaser 2\n\nKOALA Digital Single '끄덕여 (GOOD 2 GO) Feat. Jay Park '\n\n2022.06.21 (Tues) 6PM KST\n\n#KOALA #JayPark #GOOD2GO #G2GO #굿투고 #끄덕여"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT24S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6806",
+                "likeCount": "387",
+                "favoriteCount": "0",
+                "commentCount": "31"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

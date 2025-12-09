@@ -1,0 +1,108 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "XJ4beNQtJRQLAB_AbSjhqFX30KU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "PtmReBJLdpjnOHp7NRjmo0WOXwk",
+            "id": "R2tAreGh18g",
+            "snippet": {
+                "publishedAt": "2024-04-09T03:31:55Z",
+                "channelId": "UCsfYd7AVFk_ASiMudok6_sQ",
+                "title": "요코하마 재즈클럽 A.B Smile 에서 즉흥연주하기",
+                "description": "요코하마에 있는 재즈클럽 AB Smile에서 즐겁게 연주하였습니다\n\nIT could happen to you\n\n비브라폰 Shorin\n바이올린 유호정\n피아노 이석원\n베이스 나 \n색소폰 - 잼세션으로 참가해주셨습니다.\n\n협업문의\nchjh1234@gmail.com \n\n홈페이지\nwww.Jazzmusickorea.co.kr",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R2tAreGh18g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R2tAreGh18g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R2tAreGh18g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/R2tAreGh18g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/R2tAreGh18g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jazz Music Korea",
+                "tags": [
+                    "재즈",
+                    "재즈밴드",
+                    "재즈공연",
+                    "재즈밴드굿펠리스",
+                    "굿펠리스",
+                    "재즈밴드섭외",
+                    "재즈음악",
+                    "재즈뮤직코리아",
+                    "공연",
+                    "공연섭외",
+                    "재즈베이스",
+                    "콘트라베이스",
+                    "콘트라베이스최준혁",
+                    "재즈베이스최준혁",
+                    "워킹베이스",
+                    "jazz",
+                    "jazzband",
+                    "jazzmusic",
+                    "jazzmusickorea",
+                    "goodfellis",
+                    "uprightbass",
+                    "jazzbass",
+                    "choijunhyuk",
+                    "비브라폰",
+                    "livejazz",
+                    "jazzbandgoodfellis",
+                    "autumn leaves",
+                    "버스킹",
+                    "어텀리브스",
+                    "즉흥연주",
+                    "피렌체",
+                    "여행",
+                    "이태리",
+                    "italy"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "요코하마 재즈클럽 A.B Smile 에서 즉흥연주하기",
+                    "description": "요코하마에 있는 재즈클럽 AB Smile에서 즐겁게 연주하였습니다\n\nIT could happen to you\n\n비브라폰 Shorin\n바이올린 유호정\n피아노 이석원\n베이스 나 \n색소폰 - 잼세션으로 참가해주셨습니다.\n\n협업문의\nchjh1234@gmail.com \n\n홈페이지\nwww.Jazzmusickorea.co.kr"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT7M36S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4016",
+                "likeCount": "87",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

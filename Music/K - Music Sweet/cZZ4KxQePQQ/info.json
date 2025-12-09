@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "RorripG-g5DRy_V94BPbhg6HaIQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "5TlIbUWk1sHVU0nLuqKVt_oeyY4",
+            "id": "cZZ4KxQePQQ",
+            "snippet": {
+                "publishedAt": "2025-02-18T03:17:08Z",
+                "channelId": "UCYTNxR2Z4ryz88WRWiaPCdg",
+                "title": "1 Hour Remix Collection | K - Music Sweet | Anime, J-pop, Kawaii, Electronic",
+                "description": "🔊 If you find it interesting, Please Like Subscribe and Click on the notification bell 🔔 So you don't miss new videos :3\n⚡ Stream On Spotify : \n👉 Submit Demo : \n💁 Support - Copyright : \n____________________________________\n☆ Follow - \n→ Soundcloud : \n→ Youtube :\n→ Twitter : \n\n➥ Please Share this Mix on Social sites ( Tik Tok, Facebook, Twitter, Thread etc. ) to more person could listen it !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cZZ4KxQePQQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cZZ4KxQePQQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cZZ4KxQePQQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cZZ4KxQePQQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cZZ4KxQePQQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "K - Music Sweet",
+                "tags": [
+                    "KMS",
+                    "K Sweet Music",
+                    "J-Pop",
+                    "Japan Music",
+                    "Kawaii Music",
+                    "Cute Music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "1 Hour Remix Collection | K - Music Sweet | Anime, J-pop, Kawaii, Electronic",
+                    "description": "🔊 If you find it interesting, Please Like Subscribe and Click on the notification bell 🔔 So you don't miss new videos :3\n⚡ Stream On Spotify : \n👉 Submit Demo : \n💁 Support - Copyright : \n____________________________________\n☆ Follow - \n→ Soundcloud : \n→ Youtube :\n→ Twitter : \n\n➥ Please Share this Mix on Social sites ( Tik Tok, Facebook, Twitter, Thread etc. ) to more person could listen it !"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3825",
+                "likeCount": "145",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

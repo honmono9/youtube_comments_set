@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "9e301IK80H4wVC3eMWTbbdc79Dk",
+        "id": "UgzQe48BdlrHxJUplpV4AaABAg",
+        "snippet": {
+            "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+            "videoId": "KoJFKFOnAD0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Bn10xCMT8fEDxBN2TyCTkpZOM5A",
+                "id": "UgzQe48BdlrHxJUplpV4AaABAg",
+                "snippet": {
+                    "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+                    "videoId": "KoJFKFOnAD0",
+                    "textDisplay": "🎧⭐",
+                    "textOriginal": "🎧⭐",
+                    "authorDisplayName": "@vibemoments0",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/Ybeq-ybd9Q_LNyc_GCVXg3yHOSGnKiMXVL5hjLYnKkf8asGfcNHoXYj6m_3gHb2UK4ymfGxfQgM=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@vibemoments0",
+                    "authorChannelId": {
+                        "value": "UC-zGJs0KM7ylRw4dG5isAiQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-10-24T20:15:15Z",
+                    "updatedAt": "2025-10-24T20:15:15Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "pXbyi739ZOHl4wjWnPfTNBZDikc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "P2YccZ4nDn--HrG9-jVq8mGXIyY",
+            "id": "cbINNmD4AT8",
+            "snippet": {
+                "publishedAt": "2025-11-10T10:01:04Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "공기남 - 그대를 사랑한다는 건 [Teaser]   #음악 #kpop #노래",
+                "description": "[Teaser] 공기남 - 그대를 사랑한다는 건 \nAirman - You're my moonlight\n\n2025.11.12 l 6 PM (KST) Release",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cbINNmD4AT8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cbINNmD4AT8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cbINNmD4AT8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cbINNmD4AT8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cbINNmD4AT8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "tags": [
+                    "음악",
+                    "Music",
+                    "Kpop",
+                    "Ballad"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "공기남 - 그대를 사랑한다는 건 [Teaser]   #음악 #kpop #노래",
+                    "description": "[Teaser] 공기남 - 그대를 사랑한다는 건 \nAirman - You're my moonlight\n\n2025.11.12 l 6 PM (KST) Release"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M20S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "658",
+                "likeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

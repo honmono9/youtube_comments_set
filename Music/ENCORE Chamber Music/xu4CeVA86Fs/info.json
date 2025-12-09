@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "MsMdBwJKDwyYuUb9LFsCGo_5l7U",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "R4qvBlpy7eiRyqOjWK7UNeX_12E",
+            "id": "xu4CeVA86Fs",
+            "snippet": {
+                "publishedAt": "2018-08-27T22:09:16Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "062418 Schumann String Quartet Op.41 No.1 2nd mvt",
+                "description": "ENCORE Chamber Music 2018 Season 'Somewhere Over the Rainbow' String Quartet Intensive Blooming Artists Concert\n\nBunko Quartet\nJohnathan Wu, violin\nCameron Alan-Lee, violin\nTess Krope, viola\nWilliam Canayan, cello",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xu4CeVA86Fs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xu4CeVA86Fs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xu4CeVA86Fs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xu4CeVA86Fs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xu4CeVA86Fs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "062418 Schumann String Quartet Op.41 No.1 2nd mvt",
+                    "description": "ENCORE Chamber Music 2018 Season 'Somewhere Over the Rainbow' String Quartet Intensive Blooming Artists Concert\n\nBunko Quartet\nJohnathan Wu, violin\nCameron Alan-Lee, violin\nTess Krope, viola\nWilliam Canayan, cello"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M7S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "954",
+                "likeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

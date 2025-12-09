@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "LRIZd4WAy7v6kUYgDpGtZeBAN38",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "FUioY09QPFOY5F-SDsSiLegkJmE",
+            "id": "ZEu156yIUFY",
+            "snippet": {
+                "publishedAt": "2023-01-30T09:00:30Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "노래 가사처럼 시원하게 차트 올킬한 마일리 😎",
+                "description": "🌷 Miley Cyrus - Flowers\n\n#마일리사이러스 #빌보드차트 #영국차트 #동시1위 #MileyCyrus #Flowers #차트1위",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZEu156yIUFY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZEu156yIUFY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZEu156yIUFY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZEu156yIUFY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZEu156yIUFY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "노래 가사처럼 시원하게 차트 올킬한 마일리 😎",
+                    "description": "🌷 Miley Cyrus - Flowers\n\n#마일리사이러스 #빌보드차트 #영국차트 #동시1위 #MileyCyrus #Flowers #차트1위"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1146942",
+                "likeCount": "27981",
+                "favoriteCount": "0",
+                "commentCount": "214"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

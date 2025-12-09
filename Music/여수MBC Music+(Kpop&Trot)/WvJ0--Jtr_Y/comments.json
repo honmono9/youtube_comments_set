@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "bE-1SEvTEhkovNCUmkHvczGFoCo",
+        "id": "Ugw4t4vNkjgaqTMSzGZ4AaABAg",
+        "snippet": {
+            "channelId": "UCwIiyFphTd-eTeLBvh8riNw",
+            "videoId": "WvJ0--Jtr_Y",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "X5hV7AoLs0cGGjSQXLE2LcIQ_Yo",
+                "id": "Ugw4t4vNkjgaqTMSzGZ4AaABAg",
+                "snippet": {
+                    "channelId": "UCwIiyFphTd-eTeLBvh8riNw",
+                    "videoId": "WvJ0--Jtr_Y",
+                    "textDisplay": "요요미씨\n아름답고 귀엽다! ️\n😍💘💖💖💖🌹👍🐯",
+                    "textOriginal": "요요미씨\n아름답고 귀엽다! ️\n😍💘💖💖💖🌹👍🐯",
+                    "authorDisplayName": "@sabeltiger-t2b",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/AKN6gDBGMpEwE93UzLytKh8lqPNaEXRD5GXvlSgvPtADFpJfPs8pcwnpT9sQ7U4hqx2M4SfM=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@sabeltiger-t2b",
+                    "authorChannelId": {
+                        "value": "UCVHFqqJz8-PCPueEDxGvFjQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-08T06:08:27Z",
+                    "updatedAt": "2025-12-08T06:08:27Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "DZJp-B9x70U9J-DfkHSfp92jFVk",
+        "id": "UgzMyfDkrF1jwpiqc3t4AaABAg",
+        "snippet": {
+            "channelId": "UCwIiyFphTd-eTeLBvh8riNw",
+            "videoId": "WvJ0--Jtr_Y",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "SxvZdHvVua3bwodeihO3dwj-eTE",
+                "id": "UgzMyfDkrF1jwpiqc3t4AaABAg",
+                "snippet": {
+                    "channelId": "UCwIiyFphTd-eTeLBvh8riNw",
+                    "videoId": "WvJ0--Jtr_Y",
+                    "textDisplay": "Поже на \"Плот\" Юрия Лозы\"",
+                    "textOriginal": "Поже на \"Плот\" Юрия Лозы\"",
+                    "authorDisplayName": "@Aleksify1",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n4g2Yb8Dgi6YEdXAQ_kCelMi0amaBUZ_D2EIqY81NBFg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@Aleksify1",
+                    "authorChannelId": {
+                        "value": "UCIEAWNoGkYZH_78ZOgl1cvw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-08T03:03:17Z",
+                    "updatedAt": "2025-12-08T03:03:17Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,81 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "-YAb1p9__s_4o02htp-6KO9gmcI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "VmPdeWiE4X3z8LAS0strTekrfEs",
+            "id": "8cZun7AasaM",
+            "snippet": {
+                "publishedAt": "2025-11-08T09:00:14Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "슈퍼마리오 OST 🍄 피아노 건반 15개로 쉽게 연주하기 🎹",
+                "description": "#피아노커버 #pianocover #피아노연주 #슈퍼마리오 #슈퍼마리오브로스 #SUPERMARIO #SUPERMARIOBROS \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8cZun7AasaM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8cZun7AasaM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8cZun7AasaM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8cZun7AasaM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8cZun7AasaM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "피아노",
+                    "피아노연주",
+                    "piano",
+                    "슈퍼마리오",
+                    "supermario",
+                    "supermario bros",
+                    "슈퍼마리오 ost"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "슈퍼마리오 OST 🍄 피아노 건반 15개로 쉽게 연주하기 🎹",
+                    "description": "#피아노커버 #pianocover #피아노연주 #슈퍼마리오 #슈퍼마리오브로스 #SUPERMARIO #SUPERMARIOBROS \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "85927",
+                "likeCount": "977",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

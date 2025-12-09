@@ -1,0 +1,67 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "eaDzFkYVlQgmp5ZkY3CK2h_2Q_k",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "H1Q4G7aeV5orGz9RVF65vTyBndc",
+            "id": "JbxE5dx9Ayc",
+            "snippet": {
+                "publishedAt": "2024-06-03T00:38:19Z",
+                "channelId": "UCTAyNY6-yR1SfddUWWBs7KA",
+                "title": "June 2, 2024",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JbxE5dx9Ayc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JbxE5dx9Ayc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JbxE5dx9Ayc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JbxE5dx9Ayc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Madaan Music Official ",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "June 2, 2024",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "pa"
+            },
+            "contentDetails": {
+                "duration": "PT1M7S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "16",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

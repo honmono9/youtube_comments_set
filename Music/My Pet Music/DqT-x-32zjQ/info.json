@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "6jIr1m76-ndcgaozGa2_gtqVpkg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "lbRVQaeK8i4xH7fY6P9NyCLszoo",
+            "id": "DqT-x-32zjQ",
+            "snippet": {
+                "publishedAt": "2025-07-05T10:30:21Z",
+                "channelId": "UCo62tODW4YnxtszbusXyX-w",
+                "title": "(파도 소리)편안한 수면 힐링음악🐶강아지가 좋아하는 음악🎵외출할때 꼭 틀어 주세요!",
+                "description": "안녕하세요. My Pet Music 입니다.\n반려견을 편안하게 해주는 파도소리와 잔잔한 음악이예요 \n외출할때도 들려주면 좋을 것 같아요~ : )\n오늘도 반려견과 함께 행복한 시간 되세요! \n\n \"let's be happy together\"\n\n\n#강아지수면음악 #강아지음악 #강아지잠잘때음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DqT-x-32zjQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DqT-x-32zjQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DqT-x-32zjQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DqT-x-32zjQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DqT-x-32zjQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "My Pet Music",
+                "tags": [
+                    "강아지음악",
+                    "개음악",
+                    "강아지수면음악",
+                    "강아지편안한음악",
+                    "강아지힐링음악",
+                    "강아지잠잘때음악",
+                    "DogMusic",
+                    "DogsMusic",
+                    "DogSleepigMusic",
+                    "DogSleepMusic",
+                    "DogRelaxMusic",
+                    "DogRelaxingMusic",
+                    "PetMusic",
+                    "펫뮤직"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "(파도 소리)편안한 수면 힐링음악🐶강아지가 좋아하는 음악🎵외출할때 꼭 틀어 주세요!",
+                    "description": "안녕하세요. My Pet Music 입니다.\n반려견을 편안하게 해주는 파도소리와 잔잔한 음악이예요 \n외출할때도 들려주면 좋을 것 같아요~ : )\n오늘도 반려견과 함께 행복한 시간 되세요! \n\n \"let's be happy together\"\n\n\n#강아지수면음악 #강아지음악 #강아지잠잘때음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8H41M27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5993",
+                "likeCount": "52",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

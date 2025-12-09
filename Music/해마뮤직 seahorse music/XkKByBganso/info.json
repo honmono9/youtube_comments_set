@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ei_r0xLApqPkuM4OmMOw0rB_KmA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "H_r5kqEilgyCPAXjFQI1Lg-s9l4",
+            "id": "XkKByBganso",
+            "snippet": {
+                "publishedAt": "2025-11-27T09:00:50Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "Zoo (주토피아2 OST) 🐍 피아노 건반 5개로 쉽게 연주하기 🎹",
+                "description": "#피아노커버 #pianocover #피아노연주 #zootopia  #zootopia2 #주토피아 #주토피아2 #주디 #닉 #Zoo \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XkKByBganso/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XkKByBganso/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XkKByBganso/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XkKByBganso/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XkKByBganso/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "주토피아",
+                    "주토피아2",
+                    "ZOOTOPIA",
+                    "ZOOTOPIA2 OST",
+                    "zoo",
+                    "zootopia ost",
+                    "주토피아 노래",
+                    "zootopia zoo"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Zoo (주토피아2 OST) 🐍 피아노 건반 5개로 쉽게 연주하기 🎹",
+                    "description": "#피아노커버 #pianocover #피아노연주 #zootopia  #zootopia2 #주토피아 #주토피아2 #주디 #닉 #Zoo \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "43775",
+                "likeCount": "414",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

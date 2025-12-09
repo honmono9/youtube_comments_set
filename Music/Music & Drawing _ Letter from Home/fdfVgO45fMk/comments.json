@@ -1,0 +1,104 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "lr9sdvMpUiRJbL7umFlE8Ok2ZFM",
+        "id": "Ugy4ouaDKL-X1-1KuEt4AaABAg",
+        "snippet": {
+            "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+            "videoId": "fdfVgO45fMk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "xbPrWeuVjP-wx7vgQuKmWsZcbdk",
+                "id": "Ugy4ouaDKL-X1-1KuEt4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                    "videoId": "fdfVgO45fMk",
+                    "textDisplay": "Zawsze z dziewczyną jest kot! Dlaczego? 😻👋😀",
+                    "textOriginal": "Zawsze z dziewczyną jest kot! Dlaczego? 😻👋😀",
+                    "authorDisplayName": "@aloryt",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mBDPTjSST3uzjDYUH-oMCrtfhSMTHSxruu8RWiGuTfPA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@aloryt",
+                    "authorChannelId": {
+                        "value": "UCe24vR5n8ZcBvSTS-vIX89g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-08-31T09:53:13Z",
+                    "updatedAt": "2025-08-31T09:53:13Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 3,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "hQEIGxSLejpB7we-ykpwb4_Hd10",
+        "id": "UgyrI_jeH_t6whSClBR4AaABAg",
+        "snippet": {
+            "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+            "videoId": "fdfVgO45fMk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "WJ1cIatg2X0-dEaAramkLNFq0MQ",
+                "id": "UgyrI_jeH_t6whSClBR4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                    "videoId": "fdfVgO45fMk",
+                    "textDisplay": "Очень расслабляющий и приятный на слух джаз.",
+                    "textOriginal": "Очень расслабляющий и приятный на слух джаз.",
+                    "authorDisplayName": "@olgasemasko9847",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_noTn5R62t8CWUZjhQ-xGduzMUZogFthqniMOcRODwOpkuKXBfW9JT96sWLZe3gs2nANQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@olgasemasko9847",
+                    "authorChannelId": {
+                        "value": "UCEANrGmXRlrKWpChlc5vSXw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-08-31T08:33:07Z",
+                    "updatedAt": "2025-08-31T08:33:07Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "IvdKkI4fCJ1Ptf0wPcVV6JQ1Z7A",
+        "id": "UgxgPn1fs2XIp5-YyFd4AaABAg",
+        "snippet": {
+            "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+            "videoId": "fdfVgO45fMk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "h8b14Rf_Y1ICXeEddipUzySQLE8",
+                "id": "UgxgPn1fs2XIp5-YyFd4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                    "videoId": "fdfVgO45fMk",
+                    "textDisplay": "PARABÉNS OTIMA MUSICA",
+                    "textOriginal": "PARABÉNS OTIMA MUSICA",
+                    "authorDisplayName": "@CharlesPaiva-t6z",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l54JuFkfz_MPuEzHjXdxfvxURY00Junn3arhXrUYET02NzrFzJeqJsa24OyzDDUvdakg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@CharlesPaiva-t6z",
+                    "authorChannelId": {
+                        "value": "UCAzs_ZpCid-Zj11I6beTIMg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-08-30T21:17:05Z",
+                    "updatedAt": "2025-08-30T21:17:05Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

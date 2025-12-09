@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "eTC4gSDEnaqB5OEVf1NtcAgm-w0",
+        "id": "UgykaZKvP6aYdhYZtKt4AaABAg",
+        "snippet": {
+            "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+            "videoId": "m9apTHzVRq0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "YvEA924u668AvsrZLhK2RHzwezk",
+                "id": "UgykaZKvP6aYdhYZtKt4AaABAg",
+                "snippet": {
+                    "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+                    "videoId": "m9apTHzVRq0",
+                    "textDisplay": "Parabéns Deus a bençoe  lindo d+ som",
+                    "textOriginal": "Parabéns Deus a bençoe  lindo d+ som",
+                    "authorDisplayName": "@josebertodasilvaberto5648",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lQo1VadrLk0mGWyfbhGesjOyUrK3x6Zk_tfUcGJOA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@josebertodasilvaberto5648",
+                    "authorChannelId": {
+                        "value": "UCDpBeOoee7TahriomH3Qxzw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-10-01T11:11:43Z",
+                    "updatedAt": "2023-10-01T11:11:43Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "WiebXqqZk95LMDo_d4sfNUM9AWM",
+        "id": "UgyDEI8BI7bMslXkNAB4AaABAg",
+        "snippet": {
+            "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+            "videoId": "m9apTHzVRq0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "iuktRc8Wo0qhkG03s8RPhgLnnJU",
+                "id": "UgyDEI8BI7bMslXkNAB4AaABAg",
+                "snippet": {
+                    "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+                    "videoId": "m9apTHzVRq0",
+                    "textDisplay": "Thanks 👍!",
+                    "textOriginal": "Thanks 👍!",
+                    "authorDisplayName": "@timurorayev8212",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m8X9mT-HZG5lKIiCAJykIcmXqiL55IlVyGqWptac3ezJgf6r2Can8euNwXp4DTBFAbEw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@timurorayev8212",
+                    "authorChannelId": {
+                        "value": "UCbub1nAeK6KSjAeQZbJ3TCA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-08-31T17:51:49Z",
+                    "updatedAt": "2023-08-31T17:51:49Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

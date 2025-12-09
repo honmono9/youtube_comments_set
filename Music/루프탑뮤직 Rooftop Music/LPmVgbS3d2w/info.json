@@ -1,0 +1,106 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "2B_r9r8Yh9E1fcMVjClrmuSRsKs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "YeiCPO_RBE0pXMgHxYNhd7dsa5M",
+            "id": "LPmVgbS3d2w",
+            "snippet": {
+                "publishedAt": "2025-12-09T08:30:21Z",
+                "channelId": "UC3q6ETGnbbeQ9F_3G04_2ug",
+                "title": "◎ Shorts 나 진짜 앨범 나오는 날만을 기다렸어🤤",
+                "description": "#플레이리스트 #올데이프로젝트 #룩앳미\n구독  https://goo.gl/xVBJcD\n\n\n\n🎤영상의 포함된 광고는 유튜브에서 자동으로 삽입됩니다.\n🎤해당 채널에서 발생된 모든 수익은 100% 원저작권자에 돌아갑니다. \n      혹시 음원 사용을 원치 않으시면 꼭 댓글로 남겨주세요",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LPmVgbS3d2w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LPmVgbS3d2w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LPmVgbS3d2w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LPmVgbS3d2w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LPmVgbS3d2w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "루프탑뮤직 Rooftop Music",
+                "tags": [
+                    "shorts",
+                    "노래 추천",
+                    "플리모음",
+                    "KPOP",
+                    "케이팝",
+                    "kpop songs",
+                    "k-pop top",
+                    "kpop top",
+                    "most viewed kpop songs",
+                    "most viewed kpop",
+                    "Kpop추천",
+                    "Kpop playlist",
+                    "케이팝신곡",
+                    "신곡추천",
+                    "신곡음악",
+                    "신곡노래",
+                    "올데이프로젝트",
+                    "ALLDAY PROJECT",
+                    "LOOK AT ME",
+                    "올데이프로젝트 LOOK AT ME",
+                    "ALLDAY PROJECT LOOK AT ME",
+                    "올데이프로젝트 신곡",
+                    "올데이프로젝트 뮤비",
+                    "ALLDAY PROJECT 신곡",
+                    "ALLDAY PROJECT 뮤비",
+                    "올데이프로젝트 LOOK AT ME 뮤비",
+                    "ALLDAY PROJECT LOOK AT ME 뮤비",
+                    "LOOK AT ME 뮤비",
+                    "LOOK AT ME Music Video",
+                    "올데이프로젝트 LOOK AT ME MV",
+                    "ALLDAY PROJECT LOOK AT ME Music Video",
+                    "ALLDAY PROJECT LOOK AT ME MV"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "◎ Shorts 나 진짜 앨범 나오는 날만을 기다렸어🤤",
+                    "description": "#플레이리스트 #올데이프로젝트 #룩앳미\n구독  https://goo.gl/xVBJcD\n\n\n\n🎤영상의 포함된 광고는 유튜브에서 자동으로 삽입됩니다.\n🎤해당 채널에서 발생된 모든 수익은 100% 원저작권자에 돌아갑니다. \n      혹시 음원 사용을 원치 않으시면 꼭 댓글로 남겨주세요"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT57S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "59",
+                "likeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

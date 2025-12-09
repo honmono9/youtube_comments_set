@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "tvFr3ZU5bBAH6cnYwc70wMV1syE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "aw0zLDfHhO90djtpBWNrRStbPWY",
+            "id": "zaJeGI5KH3g",
+            "snippet": {
+                "publishedAt": "2025-12-07T10:32:25Z",
+                "channelId": "UCYA3gLE34set7Xn_FVU8D0Q",
+                "title": "SIN YE YOUNG (신예영) - 12월 32일 (December 32 days) [가사]",
+                "description": "SIN YE YOUNG (신예영) - 12월 32일 (December 32 days) [가사]\n_\n아티스트:신예영\n유형:싱글\n장르:발라드\n스타일:발라드\n발매일:2025.12.07\n유통사:지니뮤직\n기획사:+기억 프로젝트\n_\n#SINYEYOUNG #신예영 #12월32일",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zaJeGI5KH3g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zaJeGI5KH3g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zaJeGI5KH3g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zaJeGI5KH3g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zaJeGI5KH3g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Time | 뮤직 타임",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "SIN YE YOUNG (신예영) - 12월 32일 (December 32 days) [가사]",
+                    "description": "SIN YE YOUNG (신예영) - 12월 32일 (December 32 days) [가사]\n_\n아티스트:신예영\n유형:싱글\n장르:발라드\n스타일:발라드\n발매일:2025.12.07\n유통사:지니뮤직\n기획사:+기억 프로젝트\n_\n#SINYEYOUNG #신예영 #12월32일"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M47S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1868",
+                "likeCount": "48",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

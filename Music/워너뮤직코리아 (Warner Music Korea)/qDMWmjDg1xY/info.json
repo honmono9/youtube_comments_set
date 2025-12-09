@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Kq_6O3ELW3cT6VxLNqwkPJHJ5ws",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "3i8CBjUyq8M7c9AqEbMlmkUew2o",
+            "id": "qDMWmjDg1xY",
+            "snippet": {
+                "publishedAt": "2025-12-09T09:35:41Z",
+                "channelId": "UCLvhr40dgoBcV4XBlOhauNw",
+                "title": "세이 나우 (Say Now) - Supermarket 가사 번역 뮤직비디오",
+                "description": "세이 나우 (Say Now) - Supermarket 가사 번역 뮤직비디오",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qDMWmjDg1xY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qDMWmjDg1xY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qDMWmjDg1xY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qDMWmjDg1xY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qDMWmjDg1xY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "워너뮤직코리아 (Warner Music Korea)",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "세이 나우 (Say Now) - Supermarket 가사 번역 뮤직비디오",
+                    "description": "세이 나우 (Say Now) - Supermarket 가사 번역 뮤직비디오"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M48S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "regionRestriction": {
+                    "allowed": [
+                        "KP",
+                        "KR"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "122",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

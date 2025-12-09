@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "2zcb7iwORsynoUKqadhG-d1EeC0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "aZMKOctKBiBDyAEd5NBiPmBjgKk",
+            "id": "fm4_6oxk-6g",
+            "snippet": {
+                "publishedAt": "2025-07-23T16:37:09Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "Cafe Playlist ☕ 7월의 어느 날, 카페에서 듣기 좋은 플레이리스트 🎶🌿 ㅣ A Peaceful July Day at the Cafe 🎵☀️",
+                "description": "Welcome to a calm and cozy cafe atmosphere 🌿\nThis playlist is perfect for a peaceful July day –\nwhether you're working, relaxing, or just enjoying a cup of coffee.\n\nLet the gentle tunes fill your space and make your day feel lighter.\nEnjoy the vibe, and stay with us a little longer ☕🎶",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fm4_6oxk-6g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fm4_6oxk-6g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fm4_6oxk-6g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fm4_6oxk-6g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fm4_6oxk-6g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Cafe Playlist ☕ 7월의 어느 날, 카페에서 듣기 좋은 플레이리스트 🎶🌿 ㅣ A Peaceful July Day at the Cafe 🎵☀️",
+                    "description": "Welcome to a calm and cozy cafe atmosphere 🌿\nThis playlist is perfect for a peaceful July day –\nwhether you're working, relaxing, or just enjoying a cup of coffee.\n\nLet the gentle tunes fill your space and make your day feel lighter.\nEnjoy the vibe, and stay with us a little longer ☕🎶"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT11H54M56S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9459",
+                "likeCount": "64",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

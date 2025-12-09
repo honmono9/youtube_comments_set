@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "LdA3vtTSe-Y_Oq9Cw9uoa4scZHk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "WFhO0tRbG6UXzTXa-6eNkIlIeLY",
+            "id": "c2jHYrp51kE",
+            "snippet": {
+                "publishedAt": "2025-12-08T09:12:14Z",
+                "channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
+                "title": "[🌹발매 인사 영상] 김필 - Dry Flower｜#Shorts",
+                "description": "보사노바풍의 재즈 장르를 바탕으로\n김필의 감성을 담아온 노래라니🌹\n\n[🌹발매 인사 영상] 김필 - Dry Flower｜#Shorts \n\n#스톤뮤직 #stonemusicentertainment \n#김필 #Dry_Flower #KIM_FEEL",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c2jHYrp51kE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c2jHYrp51kE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c2jHYrp51kE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c2jHYrp51kE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/c2jHYrp51kE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Stone Music Entertainment",
+                "tags": [
+                    "K-CULTURE",
+                    "korean Music",
+                    "MV",
+                    "Music Video",
+                    "K-Pop",
+                    "Kpop",
+                    "뮤비",
+                    "뮤직비디오",
+                    "Stone Music Entertainment"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[🌹발매 인사 영상] 김필 - Dry Flower｜#Shorts",
+                    "description": "보사노바풍의 재즈 장르를 바탕으로\n김필의 감성을 담아온 노래라니🌹\n\n[🌹발매 인사 영상] 김필 - Dry Flower｜#Shorts \n\n#스톤뮤직 #stonemusicentertainment \n#김필 #Dry_Flower #KIM_FEEL"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3532",
+                "likeCount": "69",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

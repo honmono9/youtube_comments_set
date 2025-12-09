@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "gUGC_NSH0bdBVdXazEwojj_jE1Q",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "jsLKQl64P2ZQT24U295vUYdw0rY",
+            "id": "PpjOTqUm4Vc",
+            "snippet": {
+                "publishedAt": "2025-08-03T23:00:19Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "Cafe Playlist 🎧 틀기만 해도 여름 분위기 완성되는 잔잔한 카페 음악",
+                "description": "잔잔한 음악으로 오늘 하루의 분위기를 채워보세요.\n커피 한 잔과 함께 듣기 좋은 감성적인 선곡으로, 조용한 시간에 어울리는 카페 플레이리스트입니다.\n\n—\n\n저작권 안내\n이 영상의 모든 음악 저작권은 체리뮤직(Cherry Music)에게 있습니다.\n\n⸻\n\n해시태그\n#카페음악 #잔잔한음악 #감성플레이리스트 #CafePlaylist #ChillMusic #감성카페 #체리뮤직 #공부할때듣기좋은노래 #작업할때음악 #휴식음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PpjOTqUm4Vc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PpjOTqUm4Vc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PpjOTqUm4Vc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PpjOTqUm4Vc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PpjOTqUm4Vc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Cafe Playlist 🎧 틀기만 해도 여름 분위기 완성되는 잔잔한 카페 음악",
+                    "description": "잔잔한 음악으로 오늘 하루의 분위기를 채워보세요.\n커피 한 잔과 함께 듣기 좋은 감성적인 선곡으로, 조용한 시간에 어울리는 카페 플레이리스트입니다.\n\n—\n\n저작권 안내\n이 영상의 모든 음악 저작권은 체리뮤직(Cherry Music)에게 있습니다.\n\n⸻\n\n해시태그\n#카페음악 #잔잔한음악 #감성플레이리스트 #CafePlaylist #ChillMusic #감성카페 #체리뮤직 #공부할때듣기좋은노래 #작업할때음악 #휴식음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3H3M27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "19425",
+                "likeCount": "115",
+                "favoriteCount": "0",
+                "commentCount": "21"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

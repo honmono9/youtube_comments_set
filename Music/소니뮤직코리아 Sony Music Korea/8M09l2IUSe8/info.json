@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "j7gY6mHlxJ-XrUJu5lzZsYx4onA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "-Z43D_6JOoMsERgW7ehioRoUX20",
+            "id": "8M09l2IUSe8",
+            "snippet": {
+                "publishedAt": "2024-06-11T09:00:09Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "JISU, 신애(Sinae) - 'mong' Official Music video",
+                "description": "내가 꾼 꿈이 알고 보니 예지몽이었던 건에 대하여...\n\n\n [Credit]\n\nComposed by JISU, 신애(Sinae)\nLyrics by 신애(Sinae)\nArranged by JISU\n\n\nInstrumental Mixed by 박현태 @gusxoqkr\nVocal Mixed by 해일(Haeil) @77aeil_\nMastered by Aepmah @afmlaboratory\n\n\nDrums by JISU\nBass by JISU\nSynth by JISU\nKeyboard by JISU\nMidi Programming by JISU\nVocal by 신애(Sinae) \nChorus by 신애(Sinae)\n\nRecorded at Sinae’s room",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8M09l2IUSe8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8M09l2IUSe8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8M09l2IUSe8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8M09l2IUSe8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8M09l2IUSe8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "JISU, 신애(Sinae) - 'mong' Official Music video",
+                    "description": "내가 꾼 꿈이 알고 보니 예지몽이었던 건에 대하여...\n\n\n [Credit]\n\nComposed by JISU, 신애(Sinae)\nLyrics by 신애(Sinae)\nArranged by JISU\n\n\nInstrumental Mixed by 박현태 @gusxoqkr\nVocal Mixed by 해일(Haeil) @77aeil_\nMastered by Aepmah @afmlaboratory\n\n\nDrums by JISU\nBass by JISU\nSynth by JISU\nKeyboard by JISU\nMidi Programming by JISU\nVocal by 신애(Sinae) \nChorus by 신애(Sinae)\n\nRecorded at Sinae’s room"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1185",
+                "likeCount": "55",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "HTAYBxjXNP1u_nK1id4iuG9Jt6s",
+        "id": "UgxBf48FUheuG3_71gp4AaABAg",
+        "snippet": {
+            "channelId": "UCxWfuzrNR2jjAnWUh8o8ycA",
+            "videoId": "yuOsEd0hHaA",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "fSNxFOMxQex45xkHYcwJ-6D6TGQ",
+                "id": "UgxBf48FUheuG3_71gp4AaABAg",
+                "snippet": {
+                    "channelId": "UCxWfuzrNR2jjAnWUh8o8ycA",
+                    "videoId": "yuOsEd0hHaA",
+                    "textDisplay": "Muito ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤\nLindo ❤❤❤❤❤❤❤❤❤❤❤❤❤❤",
+                    "textOriginal": "Muito ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤\nLindo ❤❤❤❤❤❤❤❤❤❤❤❤❤❤",
+                    "authorDisplayName": "@EscolaePerfil888",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/srxYmifMqW93FF3WS2Kb3mjE1qaU7QRlNFIfBTUCChfLLLRG1GPCeC3IlZSR3CX1S323lr1c=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@EscolaePerfil888",
+                    "authorChannelId": {
+                        "value": "UC04K6bajl9cVL11BbuFj_4A"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-21T18:59:45Z",
+                    "updatedAt": "2025-11-21T18:59:45Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

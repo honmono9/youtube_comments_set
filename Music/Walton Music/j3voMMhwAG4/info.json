@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "0kEkq0QlsFABLBL7RbfrDQZg8QU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "cg_wv-oXeqtuLFkZ0ATjBXkYpD0",
+            "id": "j3voMMhwAG4",
+            "snippet": {
+                "publishedAt": "2025-09-05T13:01:35Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Swilo Yini (SATB) | arr. Michael Barrett",
+                "description": "Swilo Yini is a traditional Tsonga song from South Africa that is linked to the sinking of a steamship which carried black South African troops to fight against the Germans during World War I. The story speaks of angry passengers on board blaming the boat keeper for the poor condition of the ship. The addition of improvised drum and dancing adds to the expression of this story.\n\nThis arrangement is for SATB voicing, unaccompanied. Also available for TTBB voicing, unaccompanied. \n\nPurchase the music: https://giamusic.com/resource/swilo-yini-satb-printed-music-ww2103\n\n#waltonmusic #southafricanmusic #mixedchoir #michaelbarrett",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j3voMMhwAG4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j3voMMhwAG4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j3voMMhwAG4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/j3voMMhwAG4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/j3voMMhwAG4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Swilo Yini (SATB) | arr. Michael Barrett",
+                    "description": "Swilo Yini is a traditional Tsonga song from South Africa that is linked to the sinking of a steamship which carried black South African troops to fight against the Germans during World War I. The story speaks of angry passengers on board blaming the boat keeper for the poor condition of the ship. The addition of improvised drum and dancing adds to the expression of this story.\n\nThis arrangement is for SATB voicing, unaccompanied. Also available for TTBB voicing, unaccompanied. \n\nPurchase the music: https://giamusic.com/resource/swilo-yini-satb-printed-music-ww2103\n\n#waltonmusic #southafricanmusic #mixedchoir #michaelbarrett"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "479",
+                "likeCount": "14",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

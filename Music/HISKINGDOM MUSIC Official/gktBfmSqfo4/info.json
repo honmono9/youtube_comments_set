@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "PQf8Re7uVyhhfwrAyg7P9OjrtT0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "FjZlNEPDKOneB5IbhS_Bepvksd8",
+            "id": "gktBfmSqfo4",
+            "snippet": {
+                "publishedAt": "2025-07-26T05:10:31Z",
+                "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+                "title": "아는 사람만 안다는 비행 꿀팁(?)",
+                "description": "절대 따라하지 마시오",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gktBfmSqfo4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gktBfmSqfo4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gktBfmSqfo4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gktBfmSqfo4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gktBfmSqfo4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HISKINGDOM MUSIC Official",
+                "tags": [
+                    "비행 꿀팁",
+                    "위탁수하물",
+                    "찬양사역자",
+                    "찬양",
+                    "ccm",
+                    "히스킹덤뮤직",
+                    "수하물 꿀팁",
+                    "개그",
+                    "유머",
+                    "재미",
+                    "브이로그",
+                    "가수",
+                    "가수 브이로그"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "아는 사람만 안다는 비행 꿀팁(?)",
+                    "description": "절대 따라하지 마시오"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "10462",
+                "likeCount": "36",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

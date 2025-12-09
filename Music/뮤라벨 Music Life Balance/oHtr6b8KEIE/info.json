@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "AtuTABQbjQ6IgR474mj7czYvn3s",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "bYL_Rz6aRlEy1O5ErwyUbs6cL3E",
+            "id": "oHtr6b8KEIE",
+            "snippet": {
+                "publishedAt": "2024-09-28T01:36:45Z",
+                "channelId": "UCk--BIdDhezTY294iDOwunQ",
+                "title": "뮤라벨 정기연주회 두번째 (실시간/ 성인전문음악학원)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oHtr6b8KEIE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oHtr6b8KEIE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oHtr6b8KEIE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oHtr6b8KEIE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oHtr6b8KEIE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뮤라벨 Music Life Balance",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "뮤라벨 정기연주회 두번째 (실시간/ 성인전문음악학원)",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT2H27M59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3516",
+                "likeCount": "59",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

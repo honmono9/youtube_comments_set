@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "I_h9df5t__29853hptuNgzvCF1s",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "bl6VwxbqYxBbmk1SEbFOKHfGwUI",
+            "id": "NH5KdNL2mY8",
+            "snippet": {
+                "publishedAt": "2024-06-19T11:45:01Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"내 방에서 듣는 포근한 자장가\" 따뜻한 수면음악",
+                "description": "작은 내 방에 노을이 지고\n달빛이 찾아 오면,\n나는 깜빡이는 램프와\n포근한 자장가를 준비해\n\n그러면 오늘은 또 어떤 꿈이 찾아올지 기대가 돼~\n모두 모두 굿나잇♡\n\n\n#수면유도음악 #잠잘때듣는음악 #잠오는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NH5KdNL2mY8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NH5KdNL2mY8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NH5KdNL2mY8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NH5KdNL2mY8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NH5KdNL2mY8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "수면음악",
+                    "수면유도음악",
+                    "편안한음악",
+                    "잠오는음악",
+                    "불면증음악",
+                    "자기전에듣는음악",
+                    "SleepMusic",
+                    "SleepingMusic",
+                    "RelaxMusic",
+                    "RelaxingMusic",
+                    "PianoMusic",
+                    "피아노음악",
+                    "숙면음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"내 방에서 듣는 포근한 자장가\" 따뜻한 수면음악",
+                    "description": "작은 내 방에 노을이 지고\n달빛이 찾아 오면,\n나는 깜빡이는 램프와\n포근한 자장가를 준비해\n\n그러면 오늘은 또 어떤 꿈이 찾아올지 기대가 돼~\n모두 모두 굿나잇♡\n\n\n#수면유도음악 #잠잘때듣는음악 #잠오는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8H52M50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "858668",
+                "likeCount": "8178",
+                "favoriteCount": "0",
+                "commentCount": "296"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

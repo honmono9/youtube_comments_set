@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "JvuQ1cX3TUbYw_IYQ1k3nt6Cbu8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "vg8TzoWdbz7L2IAH49cgLFzGVO0",
+            "id": "rl4DP4eM3p4",
+            "snippet": {
+                "publishedAt": "2025-07-01T05:01:04Z",
+                "channelId": "UCEhxA_aRk5gPi7PbzvmkSlg",
+                "title": "[공연 실황🔴] 말러 피아노 4중주 가단조 I G. Mahler : Piano Quartet in a minor",
+                "description": "▪️classic\n\n*그리스 로마 신화, 클래식을 만나다* 공연 실황\nMay 11th, 2025\n\n말러 피아노 4중주 가단조\nG. Mahler - Piano Quartet in a minor\n\nVn 이우일, Va 이신규, Vc 박건우, Pf 정한빈\n\nCopyright © 2025 STOMP MUSIC. All rights reserved.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rl4DP4eM3p4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rl4DP4eM3p4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rl4DP4eM3p4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rl4DP4eM3p4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rl4DP4eM3p4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "STOMP MUSIC",
+                "tags": [
+                    "클래식",
+                    "클래식 공연",
+                    "클래식 실황",
+                    "클래식 라이브",
+                    "말러 실내악",
+                    "실내악곡"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[공연 실황🔴] 말러 피아노 4중주 가단조 I G. Mahler : Piano Quartet in a minor",
+                    "description": "▪️classic\n\n*그리스 로마 신화, 클래식을 만나다* 공연 실황\nMay 11th, 2025\n\n말러 피아노 4중주 가단조\nG. Mahler - Piano Quartet in a minor\n\nVn 이우일, Va 이신규, Vc 박건우, Pf 정한빈\n\nCopyright © 2025 STOMP MUSIC. All rights reserved."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT12M58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "671",
+                "likeCount": "13",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

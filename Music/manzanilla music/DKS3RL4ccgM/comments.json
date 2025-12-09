@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "PUf4uedK3a-0uwpI7Femq157BWw",
+        "id": "Ugx7ET5Fo01DoCJIyqx4AaABAg",
+        "snippet": {
+            "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+            "videoId": "DKS3RL4ccgM",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "tdVVioF2dfeTWmgJgAWgOs1ha2E",
+                "id": "Ugx7ET5Fo01DoCJIyqx4AaABAg",
+                "snippet": {
+                    "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+                    "videoId": "DKS3RL4ccgM",
+                    "textDisplay": "🏝🏝",
+                    "textOriginal": "🏝🏝",
+                    "authorDisplayName": "@Laty29.68",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/m_wc4zdSHTooYpx3cZz4kY4d1kn3WAWHUcQDDcDGBzvjZhlIA38yJxSgd__BEHySh_D2DR0bg9o=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@Laty29.68",
+                    "authorChannelId": {
+                        "value": "UCBU80hUcmz6MKl4Wej4ZOvw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-07-10T04:19:52Z",
+                    "updatedAt": "2025-07-10T04:19:52Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "uEpuKmIH5Pt50rRPtsDgOLXjies",
+        "id": "UgyD2MkSX9MGSrNHp514AaABAg",
+        "snippet": {
+            "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+            "videoId": "DKS3RL4ccgM",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Vsbmoba83tfc5Nx0B6qkXBlWcCE",
+                "id": "UgyD2MkSX9MGSrNHp514AaABAg",
+                "snippet": {
+                    "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+                    "videoId": "DKS3RL4ccgM",
+                    "textDisplay": "初めまして。素敵な音楽を動画に使用させていただきたいのですが、載せていらっしゃるものは全て、著作権フリーになりますでしょうか。1曲、ショート動画で使わせていただきました。本日アップ予定です。もちろん、クレジット表記させていただだいております。",
+                    "textOriginal": "初めまして。素敵な音楽を動画に使用させていただきたいのですが、載せていらっしゃるものは全て、著作権フリーになりますでしょうか。1曲、ショート動画で使わせていただきました。本日アップ予定です。もちろん、クレジット表記させていただだいております。",
+                    "authorDisplayName": "@brownsugarcooking",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/n4HgitYMC7jW3iDhn0tE0f403SO_5EDVMHnB9143hulX6sLvUdHLdNPv7LEiwqO1t4kMwAvvYQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@brownsugarcooking",
+                    "authorChannelId": {
+                        "value": "UCQnVM-SXFDPvqJVuEftOILQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-07-03T05:55:52Z",
+                    "updatedAt": "2025-07-03T06:28:15Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 2,
+            "isPublic": true
+        }
+    }
+]

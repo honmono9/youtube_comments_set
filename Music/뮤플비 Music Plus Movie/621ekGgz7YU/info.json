@@ -1,0 +1,94 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "SGVjj5SYYnc22ZtFlvlMjuNY74s",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "L_s74W_RhTkLewcN04MABwwAPJU",
+            "id": "621ekGgz7YU",
+            "snippet": {
+                "publishedAt": "2025-08-03T14:33:00Z",
+                "channelId": "UClbjf4pXBzXVk3ImyeBa__w",
+                "title": "[𝐃𝐎𝐎𝐌𝐄𝐑 𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 왜 이렇게 사는게 힘들기만 한지",
+                "description": "0:03 Queen - Bohemian Rhapsody Live Aid 1985 (Doomer Wave)\n0:03 Queen - Bohemian Rhapsody Live Aid 1985 (Doomer Wave)\n\n3:06 Oasis - Don't Look Back In Anger (Doomer)\n3:06 Oasis - Don't Look Back In Anger (Doomer)\n\n8:49 the loser ( doomer wave & slowed)\n8:49 the loser ( doomer wave & slowed)\n\n11:30 Mr Lonley (DOOMER) (by Renegate)\n11:30 Mr Lonley (DOOMER) (by Renegate)\n\n16:18 Let Down - Radiohead (Doomer Wave)\n16:18 Let Down - Radiohead (Doomer Wave)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/621ekGgz7YU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/621ekGgz7YU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/621ekGgz7YU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/621ekGgz7YU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/621ekGgz7YU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뮤플비 Music Plus Movie",
+                "tags": [
+                    "팝송",
+                    "영화",
+                    "팝송가사해석",
+                    "가사해석",
+                    "두머",
+                    "우울팝송",
+                    "우울한플리",
+                    "이별팝송",
+                    "이별플리",
+                    "우울증",
+                    "우울",
+                    "슬픈",
+                    "슬픈팝송",
+                    "슬픈플리",
+                    "눈물"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[𝐃𝐎𝐎𝐌𝐄𝐑 𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 왜 이렇게 사는게 힘들기만 한지",
+                    "description": "0:03 Queen - Bohemian Rhapsody Live Aid 1985 (Doomer Wave)\n0:03 Queen - Bohemian Rhapsody Live Aid 1985 (Doomer Wave)\n\n3:06 Oasis - Don't Look Back In Anger (Doomer)\n3:06 Oasis - Don't Look Back In Anger (Doomer)\n\n8:49 the loser ( doomer wave & slowed)\n8:49 the loser ( doomer wave & slowed)\n\n11:30 Mr Lonley (DOOMER) (by Renegate)\n11:30 Mr Lonley (DOOMER) (by Renegate)\n\n16:18 Let Down - Radiohead (Doomer Wave)\n16:18 Let Down - Radiohead (Doomer Wave)"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT22M15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "22630",
+                "likeCount": "388",
+                "favoriteCount": "0",
+                "commentCount": "37"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

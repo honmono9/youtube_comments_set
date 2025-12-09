@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "qUW8EcULvUhB3fv5_ZnOlfdkJs4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "lC_c7Lsc0_itotw0wwzkCoG_mLY",
+            "id": "M-nGGQmXP7E",
+            "snippet": {
+                "publishedAt": "2025-11-27T15:40:25Z",
+                "channelId": "UC3fPnB3ds2xBY1PTtgkCCYw",
+                "title": "요즘 핫한 테크하우스(TECH HOUSE)모음 | DJ ASTER🎧",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M-nGGQmXP7E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M-nGGQmXP7E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M-nGGQmXP7E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/M-nGGQmXP7E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/M-nGGQmXP7E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ASTER MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "요즘 핫한 테크하우스(TECH HOUSE)모음 | DJ ASTER🎧",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "regionRestriction": {
+                    "blocked": [
+                        "AS",
+                        "BY",
+                        "GU",
+                        "MP",
+                        "PR",
+                        "RU",
+                        "UM",
+                        "US",
+                        "VI"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "13589",
+                "likeCount": "136",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "MS1X3ZV0T0Zdz84lviEAmYFljzY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "iAJcq-FyYkoFzIxvVgf7K8zM13E",
+            "id": "gRSr--o7XeM",
+            "snippet": {
+                "publishedAt": "2025-11-22T08:47:51Z",
+                "channelId": "UCH1VQkBY5lN73--RjIwIHqw",
+                "title": "Limber crip X Teddy Yo | new official remix music 2025 |",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gRSr--o7XeM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gRSr--o7XeM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gRSr--o7XeM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gRSr--o7XeM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "KMEM Music ቅመም🕳",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "arc",
+                "localized": {
+                    "title": "Limber crip X Teddy Yo | new official remix music 2025 |",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M2S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "334",
+                "likeCount": "15",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

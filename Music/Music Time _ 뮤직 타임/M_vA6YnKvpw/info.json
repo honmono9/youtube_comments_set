@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "bAvR1gQikV_FpG7DdW0uVLPjflo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "v00Wsy99zVaix_GyP2DlgxiJyJY",
+            "id": "M_vA6YnKvpw",
+            "snippet": {
+                "publishedAt": "2025-12-09T06:45:07Z",
+                "channelId": "UCYA3gLE34set7Xn_FVU8D0Q",
+                "title": "Jeong Hyo Bean (정효빈) - 편지 (The Letter) [가사]",
+                "description": "Jeong Hyo Bean (정효빈) - 편지 (The Letter) [가사]\n_\n아티스트:정효빈\n유형:싱글\n장르:발라드, 인디\n스타일:발라드, 인디 팝\n발매일:2025.12.07\n유통사:카카오엔터테인먼트\n기획사:Label A\n_\n#JeongHyoBean #정효빈 #편지",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M_vA6YnKvpw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M_vA6YnKvpw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M_vA6YnKvpw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/M_vA6YnKvpw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/M_vA6YnKvpw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Time | 뮤직 타임",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Jeong Hyo Bean (정효빈) - 편지 (The Letter) [가사]",
+                    "description": "Jeong Hyo Bean (정효빈) - 편지 (The Letter) [가사]\n_\n아티스트:정효빈\n유형:싱글\n장르:발라드, 인디\n스타일:발라드, 인디 팝\n발매일:2025.12.07\n유통사:카카오엔터테인먼트\n기획사:Label A\n_\n#JeongHyoBean #정효빈 #편지"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "108",
+                "likeCount": "11",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

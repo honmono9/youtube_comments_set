@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "8UKe_eRhSjLhAVoPFFHe7s5bw1E",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "wFyJu8AKgBlp-mMMksNSr2TumYc",
+            "id": "Ur2tCBCgX8Q",
+            "snippet": {
+                "publishedAt": "2024-07-18T00:11:03Z",
+                "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                "title": "[야마하 AG series] 라이브 스트리밍 인터페이스 AG시리즈 OBS 인증 획득&스폰서십 메시지✉",
+                "description": "야마하의 라이브 스트리밍 인터페이스\nAG01 / AG03mk2 / AG06mk2 제품이 \n전세계에서 가장 사랑받는 스트리밍 소프트웨어 OBS의 인증을 획득,  \n야마하가 다이아몬드 스폰서십이 되었습니다!👏👏 \n\n✔고성능 믹서가 통합된 라이브 스트리밍 USB마이크 AG01\n✔USB 오디오 인터페이스 기능의 3채널 라이브 스트리밍 믹서 AG03mk2\n✔AG03에서 더욱 편리해진 컨트롤과 마이크 프리앰프가 추가된 AG06mk2\n\n간편한 사용과 뛰어난 품질, 이제 호환성과 안정성까지 인정받은\nAG시리즈와 함께 여러분만의 콘텐츠를 쉽고 빠르게 제작해 보시기 바랍니다🎥\n\nAG시리즈에 대해 궁금하다면?\n🔗블로그 링크 : https://bit.ly/3WgRDm2\n🔗제품 바로가기 : https://bit.ly/3V6OinG\n\n#야마하 #Yamaha #오디오인터페이스 #오인페 \n#스트리밍 #스트리머 #인터넷방송 \n#유튜버 #방송장비 #믹서 #라이브스트리밍 #AG시리즈",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ur2tCBCgX8Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ur2tCBCgX8Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ur2tCBCgX8Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ur2tCBCgX8Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ur2tCBCgX8Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yamaha Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[야마하 AG series] 라이브 스트리밍 인터페이스 AG시리즈 OBS 인증 획득&스폰서십 메시지✉",
+                    "description": "야마하의 라이브 스트리밍 인터페이스\nAG01 / AG03mk2 / AG06mk2 제품이 \n전세계에서 가장 사랑받는 스트리밍 소프트웨어 OBS의 인증을 획득,  \n야마하가 다이아몬드 스폰서십이 되었습니다!👏👏 \n\n✔고성능 믹서가 통합된 라이브 스트리밍 USB마이크 AG01\n✔USB 오디오 인터페이스 기능의 3채널 라이브 스트리밍 믹서 AG03mk2\n✔AG03에서 더욱 편리해진 컨트롤과 마이크 프리앰프가 추가된 AG06mk2\n\n간편한 사용과 뛰어난 품질, 이제 호환성과 안정성까지 인정받은\nAG시리즈와 함께 여러분만의 콘텐츠를 쉽고 빠르게 제작해 보시기 바랍니다🎥\n\nAG시리즈에 대해 궁금하다면?\n🔗블로그 링크 : https://bit.ly/3WgRDm2\n🔗제품 바로가기 : https://bit.ly/3V6OinG\n\n#야마하 #Yamaha #오디오인터페이스 #오인페 \n#스트리밍 #스트리머 #인터넷방송 \n#유튜버 #방송장비 #믹서 #라이브스트리밍 #AG시리즈"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "143",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

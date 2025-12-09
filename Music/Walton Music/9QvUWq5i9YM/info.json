@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "egWR33b8DnQ3keVlLtRdZttOIjI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "qQ2ad44DuDmtm5b-c9C2SyyNiwQ",
+            "id": "9QvUWq5i9YM",
+            "snippet": {
+                "publishedAt": "2025-11-10T14:00:14Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Healing Heart | Jacob Narverud",
+                "description": "Healing Heart composed by Jacob Narverud for unaccompanied SATB divisi voices. \n\nhttps://www.giamusic.com/store/resour...\n\nThe healing power of time is beautifully represented in this tender piece for unaccompanied chorus. Narverud’s gentle repetitions of the words “healing heart” show us how, with each new breath and every heartbeat, the pain of life’s disappointments is transformed into hope.\n\nHealing Heart\n\nHere, time is moving\nIn quiet breaths and\nIn the long, slow turn of seasons.\n\nHere, the pain of love’s arrow,\nOnce scarlet,\nFades to memory.\n\nHere, the sigh of tides\nAnd fall’s surrender into snow\nMark a white forgetting.\n\nHere, layers of wonder\nAnd the heart’s gentle song\nCall us out again\nInto the morning\nInto the light.\n\n#WaltonMusic #Choir #Choral",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9QvUWq5i9YM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9QvUWq5i9YM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9QvUWq5i9YM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9QvUWq5i9YM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9QvUWq5i9YM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Healing Heart | Jacob Narverud",
+                    "description": "Healing Heart composed by Jacob Narverud for unaccompanied SATB divisi voices. \n\nhttps://www.giamusic.com/store/resour...\n\nThe healing power of time is beautifully represented in this tender piece for unaccompanied chorus. Narverud’s gentle repetitions of the words “healing heart” show us how, with each new breath and every heartbeat, the pain of life’s disappointments is transformed into hope.\n\nHealing Heart\n\nHere, time is moving\nIn quiet breaths and\nIn the long, slow turn of seasons.\n\nHere, the pain of love’s arrow,\nOnce scarlet,\nFades to memory.\n\nHere, the sigh of tides\nAnd fall’s surrender into snow\nMark a white forgetting.\n\nHere, layers of wonder\nAnd the heart’s gentle song\nCall us out again\nInto the morning\nInto the light.\n\n#WaltonMusic #Choir #Choral"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M43S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "144",
+                "likeCount": "7",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

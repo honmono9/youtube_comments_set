@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "msBV-Dp4jr5E-V_4lpz-IbRwKbM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "vYe8vtCorGUa9TYRus1Y5tubD0Y",
+            "id": "dLZPsE2PALM",
+            "snippet": {
+                "publishedAt": "2025-12-08T08:17:43Z",
+                "channelId": "UC5oWa6pisfCuXtGmPWhPNMg",
+                "title": "🌹🌹।। ले चालू मारा बलमा जोधपुरिया का बंदा कूद कूद कर नाबाद ।। Singar aasaram mehara kakod ।।💥💥",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dLZPsE2PALM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dLZPsE2PALM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dLZPsE2PALM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dLZPsE2PALM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dLZPsE2PALM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": " JAY BALA JI MUSIC KAKOD.",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "hi",
+                "localized": {
+                    "title": "🌹🌹।। ले चालू मारा बलमा जोधपुरिया का बंदा कूद कूद कर नाबाद ।। Singar aasaram mehara kakod ।।💥💥",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "contentDetails": {
+                "duration": "PT6M5S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "89",
+                "likeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

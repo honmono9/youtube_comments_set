@@ -1,0 +1,75 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "nn9LGdJ8luAUwHaDsLFi9ltFvPA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "T7mZRZkK6_PmJMBaa2OOuwwhHmc",
+            "id": "CGs9c6PpLvs",
+            "snippet": {
+                "publishedAt": "2025-05-16T08:00:12Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "#Drumming Techniques #drummer #เทคนิคขั้นสูงในการตีกลอง ตีตามคำร้อง",
+                "description": "#Drumming Techniques #drummer #เทคนิคขั้นสูงในการตีกลอง ตีตามคำร้อง ยังไงให้กระชับ และสนุกฟังแล้ว รู้สึกถึงความแข็งแรง",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CGs9c6PpLvs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CGs9c6PpLvs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CGs9c6PpLvs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CGs9c6PpLvs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CGs9c6PpLvs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "tags": [
+                    "#Drumming Techniques #drummer #เทคนิคขั้นสูงในการตีกลอง ตีตามคำร้อง"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "#Drumming Techniques #drummer #เทคนิคขั้นสูงในการตีกลอง ตีตามคำร้อง",
+                    "description": "#Drumming Techniques #drummer #เทคนิคขั้นสูงในการตีกลอง ตีตามคำร้อง ยังไงให้กระชับ และสนุกฟังแล้ว รู้สึกถึงความแข็งแรง"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "12801",
+                "likeCount": "137",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

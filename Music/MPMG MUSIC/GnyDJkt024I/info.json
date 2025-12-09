@@ -1,0 +1,94 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "IfsGZmd02S2s06n9NfWxBd7n9Ig",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "1PksUw2aQIDiOvE5hvMVqEH7YK4",
+            "id": "GnyDJkt024I",
+            "snippet": {
+                "publishedAt": "2021-05-20T02:30:01Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "[PLAYLIST] 당근이세요..? 🥕 당근 첫 거래 가는 길에 듣는 노래",
+                "description": "첫 당근은 너무 떨리잖아요 ,, \n성공적인 첫 거래를 위해 이 노래들을 가져가세요 !\n\n🎧 PLAYLIST\n00:00 소란 - 있어주면 (Be with me)\n04:39 LambC - Fortune Teller (Feat. 스텔라장) \n07:26 데이브레이크 - 팝콘\n11:22 소란 - 고백직전\n14:54 노리플라이 - 눈부셔 \n20:09 Lacuna - 나는바보같고멍청하지만진심으로네가좋아\n21:54 구만 - 너에게로\n\n🐰 HAPPY ROBOT RECORDS 🐰\nhttp://happyrobot.co.kr\nhttps://www.instagram.com/happy_robot_records/\nhttps://www.facebook.com/HappyRobotRecords\n\n#해피로봇레코드 #플레이리스트 #당근마켓 #PLAYLIST",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GnyDJkt024I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GnyDJkt024I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GnyDJkt024I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GnyDJkt024I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GnyDJkt024I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "tags": [
+                    "해피로봇레코드",
+                    "플레이리스트",
+                    "playlist",
+                    "당근마켓",
+                    "당근",
+                    "당근 거래",
+                    "당근이세요",
+                    "소란",
+                    "구만",
+                    "노리플라이",
+                    "데이브레이크",
+                    "라쿠나",
+                    "lacuna",
+                    "soran",
+                    "daybreak",
+                    "no reply",
+                    "happy robot records",
+                    "해피로봇",
+                    "music",
+                    "음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[PLAYLIST] 당근이세요..? 🥕 당근 첫 거래 가는 길에 듣는 노래",
+                    "description": "첫 당근은 너무 떨리잖아요 ,, \n성공적인 첫 거래를 위해 이 노래들을 가져가세요 !\n\n🎧 PLAYLIST\n00:00 소란 - 있어주면 (Be with me)\n04:39 LambC - Fortune Teller (Feat. 스텔라장) \n07:26 데이브레이크 - 팝콘\n11:22 소란 - 고백직전\n14:54 노리플라이 - 눈부셔 \n20:09 Lacuna - 나는바보같고멍청하지만진심으로네가좋아\n21:54 구만 - 너에게로\n\n🐰 HAPPY ROBOT RECORDS 🐰\nhttp://happyrobot.co.kr\nhttps://www.instagram.com/happy_robot_records/\nhttps://www.facebook.com/HappyRobotRecords\n\n#해피로봇레코드 #플레이리스트 #당근마켓 #PLAYLIST"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT25M38S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2730",
+                "likeCount": "61",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

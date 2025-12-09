@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "6xfp5cf5EuVIWhxn-H07jC7MVFs",
+        "id": "UgxvJE1w5yX3elaqePp4AaABAg",
+        "snippet": {
+            "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+            "videoId": "cWhKyJQHyPs",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "AUp_a5LwttuU3PygVWC7yVlNWME",
+                "id": "UgxvJE1w5yX3elaqePp4AaABAg",
+                "snippet": {
+                    "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+                    "videoId": "cWhKyJQHyPs",
+                    "textDisplay": "😍 hoş",
+                    "textOriginal": "😍 hoş",
+                    "authorDisplayName": "@EsmaBatur_",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lXCpv9R4B07OCtxS5nKbqTd2dOphEMw5_JbLklUmIjhy4uMx4EL0dgbCbWmLeygOLbOQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@EsmaBatur_",
+                    "authorChannelId": {
+                        "value": "UCvklFs9Ok-T5lFQekbfrH_w"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-09-02T21:26:20Z",
+                    "updatedAt": "2025-09-02T21:26:20Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

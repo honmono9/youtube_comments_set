@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "0TJULTrlaj4XoaRGBsOGgomP2z4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "tlR6kvPSfoPr1wYqmZT8NttOSIY",
+            "id": "GhkPbEqAcwU",
+            "snippet": {
+                "publishedAt": "2024-11-27T09:00:16Z",
+                "channelId": "UC6TJkBRLMFJ-9c7pXehoZwg",
+                "title": "심아론 '건널목 즈음에서' LIVE ver#심아론 #simaron#차례 #TURN#건널목즈음에서 #Crosswalk#H1GHRMUSIC #하이어뮤직 #shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GhkPbEqAcwU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GhkPbEqAcwU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GhkPbEqAcwU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GhkPbEqAcwU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GhkPbEqAcwU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "H1GHR MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "심아론 '건널목 즈음에서' LIVE ver#심아론 #simaron#차례 #TURN#건널목즈음에서 #Crosswalk#H1GHRMUSIC #하이어뮤직 #shorts",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT56S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1065",
+                "likeCount": "56",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

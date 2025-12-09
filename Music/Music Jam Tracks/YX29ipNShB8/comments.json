@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "6qkOK6EYWqARPXiju1JFhuxcixc",
+        "id": "UgwAJeZBUXQFGo9bv254AaABAg",
+        "snippet": {
+            "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+            "videoId": "YX29ipNShB8",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "cJfBte4KPgZB9U21CBCV2D-wRb8",
+                "id": "UgwAJeZBUXQFGo9bv254AaABAg",
+                "snippet": {
+                    "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+                    "videoId": "YX29ipNShB8",
+                    "textDisplay": "Hi! This track is very good backing track! So I recorded a video while I play along with this video and afterwards I noticed there is a link to the Band Camp where I can buy the track. I think I need to buy the backing track if I want to upload the video? Sorry for not reading the description carefully before recording...",
+                    "textOriginal": "Hi! This track is very good backing track! So I recorded a video while I play along with this video and afterwards I noticed there is a link to the Band Camp where I can buy the track. I think I need to buy the backing track if I want to upload the video? Sorry for not reading the description carefully before recording...",
+                    "authorDisplayName": "@jeffbaek0523",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/clHMDh8Jb-OUVcYj95EchcQI2yaYyOto5A1CKRdwqvIpTPZgGsoEvoQcvIbkvSgaDwdZ70bp=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@jeffbaek0523",
+                    "authorChannelId": {
+                        "value": "UCTOzwMtM2-6NgVzvUSm3Jqw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2024-04-27T11:15:37Z",
+                    "updatedAt": "2024-04-27T11:15:37Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

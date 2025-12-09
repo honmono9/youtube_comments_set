@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "sNAfqCXAx-DsigX3KV44LxCrztE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "t04t2svGjg0N6DuMDjeThK8rl4g",
+            "id": "7J5L5kR7_1w",
+            "snippet": {
+                "publishedAt": "2025-08-28T22:30:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Stumbling Upon a Cozy Café on a Beautiful Day… Bossa Nova Saxophone Jazz Vibes",
+                "description": "Imagine stumbling upon a cozy café on a beautiful day, where smooth Bossa Nova Saxophone Jazz fills the air. This playlist blends vintage romance and 1950s oldies jazz vibes, perfect for relaxing, studying, or enjoying coffee time. Let the nostalgic saxophone melodies and gentle Bossa Nova rhythms take you into a timeless atmosphere of love and music.\n\n#jazz #jazzinstrumental #bossanova #bossanovajazz #saxophone  #saxophonejazz #saxophonemusic #vintagemusic #vintagejazz #oldies #relaxingjazz #nightjazz #nightmusic #autumnjazz #cafejazz #coffeejazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7J5L5kR7_1w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7J5L5kR7_1w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7J5L5kR7_1w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7J5L5kR7_1w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7J5L5kR7_1w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "guitar jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "rain jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "saxophone jazz",
+                    "bossa nova"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Stumbling Upon a Cozy Café on a Beautiful Day… Bossa Nova Saxophone Jazz Vibes",
+                    "description": "Imagine stumbling upon a cozy café on a beautiful day, where smooth Bossa Nova Saxophone Jazz fills the air. This playlist blends vintage romance and 1950s oldies jazz vibes, perfect for relaxing, studying, or enjoying coffee time. Let the nostalgic saxophone melodies and gentle Bossa Nova rhythms take you into a timeless atmosphere of love and music.\n\n#jazz #jazzinstrumental #bossanova #bossanovajazz #saxophone  #saxophonejazz #saxophonemusic #vintagemusic #vintagejazz #oldies #relaxingjazz #nightjazz #nightmusic #autumnjazz #cafejazz #coffeejazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H51S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "600",
+                "likeCount": "19",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

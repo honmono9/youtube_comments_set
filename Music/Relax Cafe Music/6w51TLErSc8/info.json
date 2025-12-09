@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "7Fxr_M4tSM9tZKUy1PS8U4rdwwg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "OtaFOHHCiUNf71mcmpr_yt2iEk0",
+            "id": "6w51TLErSc8",
+            "snippet": {
+                "publishedAt": "2022-06-06T13:00:05Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Elegant Summer Jazz - Relaxing Jazz Coffee Music for Exquisite Mood",
+                "description": "The Best Playlist of elegant summer jazz music! Enjoy 10 hours of relaxing jazz cafe music by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #elegantjazz #relaxingjazz \n\nl036",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6w51TLErSc8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6w51TLErSc8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6w51TLErSc8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6w51TLErSc8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6w51TLErSc8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "tags": [
+                    "elegant jazz",
+                    "summer jazz",
+                    "exquisite jazz",
+                    "jazz coffee",
+                    "jazz music",
+                    "relaxing jazz",
+                    "coffee time jazz",
+                    "hot day vibes jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Elegant Summer Jazz - Relaxing Jazz Coffee Music for Exquisite Mood",
+                    "description": "The Best Playlist of elegant summer jazz music! Enjoy 10 hours of relaxing jazz cafe music by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #elegantjazz #relaxingjazz \n\nl036"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "11602",
+                "likeCount": "252",
+                "favoriteCount": "0",
+                "commentCount": "11"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

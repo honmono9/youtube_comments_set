@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "BSnY1Pksju0SNUpNagiZyOa7hio",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "haGjB0eKxKu2_ZdlzL-JkYqsr_Q",
+            "id": "_7hJ3coDiz8",
+            "snippet": {
+                "publishedAt": "2025-12-05T08:30:30Z",
+                "channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
+                "title": "얼마나 별거 아닌가 했는데 진짜 별거 아니잖아?｜#환승연애 #OST #환승연애4 #EXchange4 #JAY_B #제이비 #Velvet_Trigger｜#Shorts",
+                "description": "얼마나 별거 아닌가 했는데 진짜 별거 아니잖아?｜#환승연애 #OST #환승연애4 #EXchange4 #JAY_B #제이비 #Velvet_Trigger｜#Shorts \n\n#스톤뮤직 #stonemusicentertainment",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_7hJ3coDiz8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_7hJ3coDiz8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_7hJ3coDiz8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_7hJ3coDiz8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_7hJ3coDiz8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Stone Music Entertainment",
+                "tags": [
+                    "K-CULTURE",
+                    "korean Music",
+                    "MV",
+                    "Music Video",
+                    "K-Pop",
+                    "Kpop",
+                    "뮤비",
+                    "뮤직비디오",
+                    "Stone Music Entertainment"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "얼마나 별거 아닌가 했는데 진짜 별거 아니잖아?｜#환승연애 #OST #환승연애4 #EXchange4 #JAY_B #제이비 #Velvet_Trigger｜#Shorts",
+                    "description": "얼마나 별거 아닌가 했는데 진짜 별거 아니잖아?｜#환승연애 #OST #환승연애4 #EXchange4 #JAY_B #제이비 #Velvet_Trigger｜#Shorts \n\n#스톤뮤직 #stonemusicentertainment"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "13091",
+                "likeCount": "56",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

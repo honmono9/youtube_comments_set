@@ -1,0 +1,99 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "YOLU0PbXdZ_d_DeDsD2KUmYwmPU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "3RhBtH1gH3HrxcmvbS6V_zhX0Xw",
+            "id": "4bZ3QLXT8SM",
+            "snippet": {
+                "publishedAt": "2025-10-15T08:30:05Z",
+                "channelId": "UC3q6ETGnbbeQ9F_3G04_2ug",
+                "title": "◎ Shorts 역시 YG는 쇠맛이지 😎",
+                "description": "#플레이리스트 #베이비몬스터 #위고업\n구독  https://goo.gl/xVBJcD\n\n\n🎤영상의 포함된 광고는 유튜브에서 자동으로 삽입됩니다.\n🎤해당 채널에서 발생된 모든 수익은 100% 원저작권자에 돌아갑니다. \n      혹시 음원 사용을 원치 않으시면 꼭 댓글로 남겨주세요",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4bZ3QLXT8SM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4bZ3QLXT8SM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4bZ3QLXT8SM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4bZ3QLXT8SM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4bZ3QLXT8SM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "루프탑뮤직 Rooftop Music",
+                "tags": [
+                    "베이비몬스터",
+                    "BABYMONSTER",
+                    "WE GO UP",
+                    "WE GO UP (위고업)",
+                    "베이비몬스터 WE GO UP",
+                    "BABYMONSTER WE GO UP",
+                    "베이비몬스터 신곡",
+                    "베이비몬스터 뮤비",
+                    "BABYMONSTER 신곡",
+                    "BABYMONSTER 뮤비",
+                    "베이비몬스터 WE GO UP 뮤비",
+                    "BABYMONSTER WE GO UP 뮤비",
+                    "WE GO UP 뮤비",
+                    "WE GO UP Music Video",
+                    "위고업 뮤비",
+                    "베이비몬스터 위고업 뮤비",
+                    "BABYMONSTER 위고업 MV",
+                    "위고업 MV",
+                    "베이비몬스터 WE GO UP MV",
+                    "BABYMONSTER WE GO UP Music Video",
+                    "BABYMONSTER WE GO UP MV",
+                    "베이비몬스터 위고업",
+                    "베이비몬스터 위고업 MV",
+                    "베이비몬스터 위고업 MUSIC VIDEO",
+                    "베이비몬스터 위고업 Music Video"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "◎ Shorts 역시 YG는 쇠맛이지 😎",
+                    "description": "#플레이리스트 #베이비몬스터 #위고업\n구독  https://goo.gl/xVBJcD\n\n\n🎤영상의 포함된 광고는 유튜브에서 자동으로 삽입됩니다.\n🎤해당 채널에서 발생된 모든 수익은 100% 원저작권자에 돌아갑니다. \n      혹시 음원 사용을 원치 않으시면 꼭 댓글로 남겨주세요"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2025",
+                "likeCount": "22",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

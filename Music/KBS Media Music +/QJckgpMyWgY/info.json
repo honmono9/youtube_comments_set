@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "EXyeTVGSS-O3EMasobjU8Qa0gIA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "n2SqlkVjXYLmPEoSwT8LaNSJL_U",
+            "id": "QJckgpMyWgY",
+            "snippet": {
+                "publishedAt": "2025-06-23T03:00:23Z",
+                "channelId": "UC9LkgSReKybPl-gABo3fbRQ",
+                "title": "[Official Audio] 강소정 - 사랑으로",
+                "description": "☑ 신청곡은 커뮤니티 댓글로 적어주세요  ▶https://www.youtube.com/@kbsmediamusicplus/community\n\n사랑스러운 우리 가족 콜라! 매일 우리만을 기다리고 우리만을 바라보며 사랑으로 만져달라고 한다. 이렇게 평생 사랑으로 함께하고 싶다.\n\n[Credit]\n\nExecutive Producer 강대헌 (로빈엔터테인먼트)\nMusic Producer 강소정\n\nLyrics by 강소정\nComposed by 강소정, WonO\nArranged by WonO\n\nChorus 강소정\nDrum 정원호\nBass 정원호\nPiano 정원호\nGuitar 정원호\nSynth 정원호\n\nRecorded by 유재범 @ Robin Music Studio\nMixed by WillCome @ Robin Music Studio\nMastered by L-R\n\n\n\n#KBS미디어뮤직플러스 #KBSMEDIAMUSICPLUS #케이비에스미디어뮤직플러스 #강소정 #사랑으로 #로빈엔터테인먼트 #WonO #ballad",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QJckgpMyWgY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QJckgpMyWgY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QJckgpMyWgY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QJckgpMyWgY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QJckgpMyWgY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS Media Music +",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Official Audio] 강소정 - 사랑으로",
+                    "description": "☑ 신청곡은 커뮤니티 댓글로 적어주세요  ▶https://www.youtube.com/@kbsmediamusicplus/community\n\n사랑스러운 우리 가족 콜라! 매일 우리만을 기다리고 우리만을 바라보며 사랑으로 만져달라고 한다. 이렇게 평생 사랑으로 함께하고 싶다.\n\n[Credit]\n\nExecutive Producer 강대헌 (로빈엔터테인먼트)\nMusic Producer 강소정\n\nLyrics by 강소정\nComposed by 강소정, WonO\nArranged by WonO\n\nChorus 강소정\nDrum 정원호\nBass 정원호\nPiano 정원호\nGuitar 정원호\nSynth 정원호\n\nRecorded by 유재범 @ Robin Music Studio\nMixed by WillCome @ Robin Music Studio\nMastered by L-R\n\n\n\n#KBS미디어뮤직플러스 #KBSMEDIAMUSICPLUS #케이비에스미디어뮤직플러스 #강소정 #사랑으로 #로빈엔터테인먼트 #WonO #ballad"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "113",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

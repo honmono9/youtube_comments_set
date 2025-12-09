@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "K9xvnkwKO3T3mhx4rIc0dAAhRfQ",
+        "id": "Ugwb1v7coe2QyukzHNp4AaABAg",
+        "snippet": {
+            "channelId": "UCh_8srMF2Q-i1nORhHI8zdw",
+            "videoId": "ZFJaLEAMM9Y",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "4r2TiY8_D1sxGzTuCDkT26aAGq8",
+                "id": "Ugwb1v7coe2QyukzHNp4AaABAg",
+                "snippet": {
+                    "channelId": "UCh_8srMF2Q-i1nORhHI8zdw",
+                    "videoId": "ZFJaLEAMM9Y",
+                    "textDisplay": "안녕하세요!올만에 인사글 남겨요❤날씨가 점점 추워지고 있어요.여름에 물난리 났다고 글 적은지 엊그제 같은데 시간이 벌써 겨울로 향하네요.나이를 더 먹겠죠😢😢그래도 날마다 행복하고 건강한 하루하루 되시길 기도할게요😊😊",
+                    "textOriginal": "안녕하세요!올만에 인사글 남겨요❤날씨가 점점 추워지고 있어요.여름에 물난리 났다고 글 적은지 엊그제 같은데 시간이 벌써 겨울로 향하네요.나이를 더 먹겠죠😢😢그래도 날마다 행복하고 건강한 하루하루 되시길 기도할게요😊😊",
+                    "authorDisplayName": "@oliviaryu7",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k-DA391bm12pPRvUUuYc1QdUZO8KauGOC9T3XO9wj8hOM=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@oliviaryu7",
+                    "authorChannelId": {
+                        "value": "UCvkO7roPX4c46wrfo3pE-0w"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-17T08:22:13Z",
+                    "updatedAt": "2025-11-17T08:22:13Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

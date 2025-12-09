@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "KUYaS8WMKoNfpnsxGOee7l2oDvE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "v4EGit-KAruE2CD4L_sfgJDuGHs",
+            "id": "_uuMoa9sN1k",
+            "snippet": {
+                "publishedAt": "2025-02-14T14:00:48Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "🌙𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲 #5 | #솔루션스 #naru",
+                "description": "[𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲]\n\n여러분을 좋은 꿈으로 데려가 줄 오늘의 아티스트는\n솔루션스의 naru님입니다.\n\nnaru님의 저녁 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n모두 좋은 꿈 꾸세요!🌙\n\n[00:00] Close Days Finale #5 naru\n[11:08] Pink Floyd - Time\n[18:00] Radiohead - Pyramid Song\n[22:52] Chemical Brothers - Wide Open\n[28:45] 星野源 (호시노 겐) -アイデア(Idea)\n[33:20] Coaltar Of The Deepers - Good Morning\n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#CloseDaysFinale #솔루션스 #naru",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_uuMoa9sN1k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_uuMoa9sN1k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_uuMoa9sN1k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_uuMoa9sN1k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_uuMoa9sN1k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🌙𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲 #5 | #솔루션스 #naru",
+                    "description": "[𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲]\n\n여러분을 좋은 꿈으로 데려가 줄 오늘의 아티스트는\n솔루션스의 naru님입니다.\n\nnaru님의 저녁 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n모두 좋은 꿈 꾸세요!🌙\n\n[00:00] Close Days Finale #5 naru\n[11:08] Pink Floyd - Time\n[18:00] Radiohead - Pyramid Song\n[22:52] Chemical Brothers - Wide Open\n[28:45] 星野源 (호시노 겐) -アイデア(Idea)\n[33:20] Coaltar Of The Deepers - Good Morning\n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#CloseDaysFinale #솔루션스 #naru"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT37M48S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "512",
+                "likeCount": "51",
+                "favoriteCount": "0",
+                "commentCount": "15"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

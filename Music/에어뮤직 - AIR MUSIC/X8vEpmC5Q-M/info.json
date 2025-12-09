@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "rAYlFI2nqlxNUmE19NzZWL_I1kQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Pm7kqCwU2sEuUloJplYAmIma2VA",
+            "id": "X8vEpmC5Q-M",
+            "snippet": {
+                "publishedAt": "2025-07-09T10:42:47Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "공기남 - 어디든 좋아 (Feat. Akita) [lo-fi video]",
+                "description": "“어디든 좋아 너만 있다면”\n\n싱어송라이터 ‘공기남’이 전하는 감성 에세이 앨범.\n‘Freshman Series’ 그 아홉 번째 이야기. [어디든 좋아]\n\nTrack list.\n01. 어디든 좋아 (Feat. Akita) (작사 : 공기남 / 작곡 : 공기남 / 편곡 : 공기남, 양혁, KOO)\n02. 어디든 좋아 (Inst.) (작곡 : 공기남 / 편곡 : 공기남, 양혁, KOO)\n\n[Credits]\nExecutive producer 공기남\nLyrics by 공기남\nComposed by 공기남\nArranged by 공기남, 양혁, KOO\nVocal by 공기남, AkitaChorus by 공기남, Akita, 양혁\nPiano by 공기남\nGuitar by 양혁\nBass by 공기남, KOO\nDrum by 공기남, 양혁, KOO\nMidi Programing by 공기남, 양혁, KOO\nRecorded by fovitz @AirMusic Studio\nMixed by fovitz @AirMusic Studio\nMastered by 권남우 @821 Sound\nAlbum artwork by 이진 @leejin468\nManagement Airmusic\nTeam leader 박지호 @melanoalbinc\nDistributed by Wanermusic_Korea\n\n#공기남 #어디든좋아 #Akita #에어뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X8vEpmC5Q-M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X8vEpmC5Q-M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X8vEpmC5Q-M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/X8vEpmC5Q-M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/X8vEpmC5Q-M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "공기남 - 어디든 좋아 (Feat. Akita) [lo-fi video]",
+                    "description": "“어디든 좋아 너만 있다면”\n\n싱어송라이터 ‘공기남’이 전하는 감성 에세이 앨범.\n‘Freshman Series’ 그 아홉 번째 이야기. [어디든 좋아]\n\nTrack list.\n01. 어디든 좋아 (Feat. Akita) (작사 : 공기남 / 작곡 : 공기남 / 편곡 : 공기남, 양혁, KOO)\n02. 어디든 좋아 (Inst.) (작곡 : 공기남 / 편곡 : 공기남, 양혁, KOO)\n\n[Credits]\nExecutive producer 공기남\nLyrics by 공기남\nComposed by 공기남\nArranged by 공기남, 양혁, KOO\nVocal by 공기남, AkitaChorus by 공기남, Akita, 양혁\nPiano by 공기남\nGuitar by 양혁\nBass by 공기남, KOO\nDrum by 공기남, 양혁, KOO\nMidi Programing by 공기남, 양혁, KOO\nRecorded by fovitz @AirMusic Studio\nMixed by fovitz @AirMusic Studio\nMastered by 권남우 @821 Sound\nAlbum artwork by 이진 @leejin468\nManagement Airmusic\nTeam leader 박지호 @melanoalbinc\nDistributed by Wanermusic_Korea\n\n#공기남 #어디든좋아 #Akita #에어뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "543",
+                "likeCount": "26",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

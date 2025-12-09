@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "FB-64ZsQ_9zjp5r2edn27kx_hmQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "kagFe0Saxk8utFx6LrVzLMqm_54",
+            "id": "YKhfddM-F2c",
+            "snippet": {
+                "publishedAt": "2025-05-23T15:35:26Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "กีต้าแปดสาย โอ้มายก็อต OMG บอกเลยว่าสุดจริง #Music relax26 #guitarsolo  #guitarrock",
+                "description": "กีต้าแปดสาย โอ้มายก็อต OMG บอกเลยว่าสุดจริง #Music relax26 #guitarsolo  #rock \n#มือกีต้าขั้นเทพ #guitarsolo #กีต้าแปดสาย8สาย",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YKhfddM-F2c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YKhfddM-F2c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YKhfddM-F2c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YKhfddM-F2c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YKhfddM-F2c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "tags": [
+                    "กีต้าแปดสาย โอ้มายก็อต OMG บอกเลยว่าสุดจริง #Music relax26 #guitarsolo #rock",
+                    "มือกีีต้าขั้นเทพ",
+                    "มือกีต้าโซโล่"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "กีต้าแปดสาย โอ้มายก็อต OMG บอกเลยว่าสุดจริง #Music relax26 #guitarsolo  #guitarrock",
+                    "description": "กีต้าแปดสาย โอ้มายก็อต OMG บอกเลยว่าสุดจริง #Music relax26 #guitarsolo  #rock \n#มือกีต้าขั้นเทพ #guitarsolo #กีต้าแปดสาย8สาย"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT39S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3152",
+                "likeCount": "64",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

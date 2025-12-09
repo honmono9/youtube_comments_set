@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "rEI39aUA68Y3Yg_3YlG1l6yZmmw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "NSckP9foV0xwfDCLWlbflvgv7RU",
+            "id": "7au3bq_oTdI",
+            "snippet": {
+                "publishedAt": "2025-11-06T18:54:57Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Green Day - Welcome To Paradise | Soul AI Cover",
+                "description": "Welcome To Paradise by Green Day twisted into Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\nDear mother,\nCan you hear me whining?\nIt's been three whole weeks\nSince that I have left your home\nThis sudden fear has left me trembling\n'Cause now it seems that I am out here on my own\nAnd I'm feeling so alone\n\nPay attention to the cracked streets and the broken homes\nSome call it slums\nSome call it nice\nI want to take you through a wasteland I like to call my home\nWelcome to paradise\n\nA gunshot rings out at the station\nAnother urchin snaps and left dead on his own\nIt makes me wonder why I'm still here\nFor some strange reason it's now\nFeeling like my home\nAnd I'm never gonna go\n\nPay attention to the cracked streets and the broken homes\nSome call it slums\nSome call it nice\nI want to take you through a wasteland I like to call my home\nWelcome to paradise\n\nDear mother,\nCan you hear me laughing?\nIt's been six whole months\nSince that I have left your home\nIt makes me wonder why I'm still here\nFor some strange reason it's now\nFeeling like my home\nAnd I'm never gonna go\n\nPay attention to the cracked streets and the broken homes\nSome call it slums\nSome call it nice\nI want to take you through a wasteland I like to call my home\nWelcome to paradise\nOh, paradise",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7au3bq_oTdI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7au3bq_oTdI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7au3bq_oTdI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7au3bq_oTdI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7au3bq_oTdI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Green Day - Welcome To Paradise | Soul AI Cover",
+                    "description": "Welcome To Paradise by Green Day twisted into Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\nDear mother,\nCan you hear me whining?\nIt's been three whole weeks\nSince that I have left your home\nThis sudden fear has left me trembling\n'Cause now it seems that I am out here on my own\nAnd I'm feeling so alone\n\nPay attention to the cracked streets and the broken homes\nSome call it slums\nSome call it nice\nI want to take you through a wasteland I like to call my home\nWelcome to paradise\n\nA gunshot rings out at the station\nAnother urchin snaps and left dead on his own\nIt makes me wonder why I'm still here\nFor some strange reason it's now\nFeeling like my home\nAnd I'm never gonna go\n\nPay attention to the cracked streets and the broken homes\nSome call it slums\nSome call it nice\nI want to take you through a wasteland I like to call my home\nWelcome to paradise\n\nDear mother,\nCan you hear me laughing?\nIt's been six whole months\nSince that I have left your home\nIt makes me wonder why I'm still here\nFor some strange reason it's now\nFeeling like my home\nAnd I'm never gonna go\n\nPay attention to the cracked streets and the broken homes\nSome call it slums\nSome call it nice\nI want to take you through a wasteland I like to call my home\nWelcome to paradise\nOh, paradise"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "362",
+                "likeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

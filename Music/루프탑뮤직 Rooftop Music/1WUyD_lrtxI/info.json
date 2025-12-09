@@ -1,0 +1,97 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "PhvEPbABxp54Bi_i5Jkz97tWMRo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "lWUyFnRfVHA1rWCPeSgXS0HPgug",
+            "id": "1WUyD_lrtxI",
+            "snippet": {
+                "publishedAt": "2025-09-25T08:30:01Z",
+                "channelId": "UC3q6ETGnbbeQ9F_3G04_2ug",
+                "title": "◎ Shorts 음악도 돌고 도는거야! 90년대 감성 소환🤗",
+                "description": "#플레이리스트 #하츠투하츠 #프리티플리즈\n구독  https://goo.gl/xVBJcD\n\n\n🎤영상의 포함된 광고는 유튜브에서 자동으로 삽입됩니다.\n🎤해당 채널에서 발생된 모든 수익은 100% 원저작권자에 돌아갑니다. \n      혹시 음원 사용을 원치 않으시면 꼭 댓글로 남겨주세요",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1WUyD_lrtxI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1WUyD_lrtxI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1WUyD_lrtxI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1WUyD_lrtxI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1WUyD_lrtxI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "루프탑뮤직 Rooftop Music",
+                "tags": [
+                    "Hearts2Hearts",
+                    "하츠투하츠",
+                    "Pretty Please",
+                    "Pretty Please (프리티플리즈)",
+                    "Hearts2Hearts Pretty Please",
+                    "하츠투하츠 Pretty Please",
+                    "Hearts2Hearts 신곡",
+                    "Hearts2Hearts 뮤비",
+                    "하츠투하츠 신곡",
+                    "하츠투하츠 뮤비",
+                    "Hearts2Hearts Pretty Please 뮤비",
+                    "하츠투하츠 Pretty Please 뮤비",
+                    "Pretty Please 뮤비",
+                    "Pretty Please Music Video",
+                    "프리티플리즈 뮤비",
+                    "Hearts2Hearts 프리티플리즈 뮤비",
+                    "하츠투하츠 프리티플리즈 MV",
+                    "프리티플리즈 MV",
+                    "Hearts2Hearts Pretty Please MV",
+                    "하츠투하츠 Pretty Please Music Video",
+                    "하츠투하츠 Pretty Please MV",
+                    "Hearts2Hearts 프리티플리즈",
+                    "Hearts2Hearts 프리티플리즈 MV"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "◎ Shorts 음악도 돌고 도는거야! 90년대 감성 소환🤗",
+                    "description": "#플레이리스트 #하츠투하츠 #프리티플리즈\n구독  https://goo.gl/xVBJcD\n\n\n🎤영상의 포함된 광고는 유튜브에서 자동으로 삽입됩니다.\n🎤해당 채널에서 발생된 모든 수익은 100% 원저작권자에 돌아갑니다. \n      혹시 음원 사용을 원치 않으시면 꼭 댓글로 남겨주세요"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2263",
+                "likeCount": "14",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

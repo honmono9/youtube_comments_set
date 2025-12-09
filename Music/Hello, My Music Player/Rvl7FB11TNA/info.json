@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "cc3UhyW9ndJVNjmvMOxWvJUe1YE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "nMTt64dciokALlYrB0oiamrY8rY",
+            "id": "Rvl7FB11TNA",
+            "snippet": {
+                "publishedAt": "2024-03-03T11:00:18Z",
+                "channelId": "UCoMDPTbC_7aTEWy0D80oO_Q",
+                "title": "한올 (Han All) - 생 떼 (SAENG DDE) | 가사",
+                "description": "한올 (Han All) - 생 떼 (SAENG DDE) | 오디오/Audio/MP3\n\n💟 Artist : 한올\n💟 작사 : 한올\n💟 작곡 : 한올\n💟 편곡 : 박민주\n💟 Album : 겨울밤에\n💟 발매일 : 2016.12.19\n💟 장르 : 인디\n💟 스타일 : 인디 팝\n\n날 혼자 두지 말아요\n어둠에 내버려두지 말아요\n\n그대가 없는 이 곳은\n내겐 아무런 의미가 없어요\n\n저 먼발치에 떨어져\n내가 오기를 기다리지 말아요\n\n손을 잡아주지 않으면\n비틀거릴테니까요\n\n왜 항상 그대는 나를 내버려두는지\n캄캄한 이 길을 가려면 그대가 필요해요\n\n벌써 몇 시간 째 어두운 방에서\n그대를 기다리고있어요 빨리 와줘요\n\n날 혼자 두지 말아요\n아무데도 가지 말아요\n\n아침에 일어나 깊이 잠들 때까지\n곁에 있어줘요 내게 머물러요\n\n⭐ insta : https://www.instagram.com/hellomy.music/\n\n✅ 영상에 광고가 있는 경우, 해당 영상에 대한 수익은 저작권자에게 돌아갑니다. 업로더가 영상에 대한 수익을 창출하지 않습니다.\n\n#한올 #생떼 #인디음악 #노래모음 #인디노래 #노래 #음악 #Kindie #music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Rvl7FB11TNA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Rvl7FB11TNA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Rvl7FB11TNA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Rvl7FB11TNA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Rvl7FB11TNA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hello, My Music Player",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "한올 (Han All) - 생 떼 (SAENG DDE) | 가사",
+                    "description": "한올 (Han All) - 생 떼 (SAENG DDE) | 오디오/Audio/MP3\n\n💟 Artist : 한올\n💟 작사 : 한올\n💟 작곡 : 한올\n💟 편곡 : 박민주\n💟 Album : 겨울밤에\n💟 발매일 : 2016.12.19\n💟 장르 : 인디\n💟 스타일 : 인디 팝\n\n날 혼자 두지 말아요\n어둠에 내버려두지 말아요\n\n그대가 없는 이 곳은\n내겐 아무런 의미가 없어요\n\n저 먼발치에 떨어져\n내가 오기를 기다리지 말아요\n\n손을 잡아주지 않으면\n비틀거릴테니까요\n\n왜 항상 그대는 나를 내버려두는지\n캄캄한 이 길을 가려면 그대가 필요해요\n\n벌써 몇 시간 째 어두운 방에서\n그대를 기다리고있어요 빨리 와줘요\n\n날 혼자 두지 말아요\n아무데도 가지 말아요\n\n아침에 일어나 깊이 잠들 때까지\n곁에 있어줘요 내게 머물러요\n\n⭐ insta : https://www.instagram.com/hellomy.music/\n\n✅ 영상에 광고가 있는 경우, 해당 영상에 대한 수익은 저작권자에게 돌아갑니다. 업로더가 영상에 대한 수익을 창출하지 않습니다.\n\n#한올 #생떼 #인디음악 #노래모음 #인디노래 #노래 #음악 #Kindie #music"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6413",
+                "likeCount": "91",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

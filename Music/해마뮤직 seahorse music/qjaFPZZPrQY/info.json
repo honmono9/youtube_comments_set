@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "0T3xy3MAi7Cd--Hmt1EIQzIaTV8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "z6iu3hIzuB__uzF5U5oJOnF4ZIw",
+            "id": "qjaFPZZPrQY",
+            "snippet": {
+                "publishedAt": "2025-09-12T11:01:38Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "'귀칼'하면 생각나는 OST는?",
+                "description": "#피아노커버 #pianocover #피아노연주 #귀멸의칼날 #귀칼 #KimetsunoYaiba #鬼滅の刃 \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qjaFPZZPrQY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qjaFPZZPrQY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qjaFPZZPrQY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qjaFPZZPrQY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qjaFPZZPrQY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "피아노",
+                    "피아노 연주",
+                    "piano",
+                    "피아노 악보",
+                    "piano cover",
+                    "귀칼",
+                    "귀멸의칼날",
+                    "鬼滅の刃",
+                    "Kimetsu no Yaiba",
+                    "탄지로의노래",
+                    "TANJIRO NO UTA",
+                    "탄지로의노래 피아노"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "'귀칼'하면 생각나는 OST는?",
+                    "description": "#피아노커버 #pianocover #피아노연주 #귀멸의칼날 #귀칼 #KimetsunoYaiba #鬼滅の刃 \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "47123",
+                "likeCount": "221",
+                "favoriteCount": "0",
+                "commentCount": "50"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

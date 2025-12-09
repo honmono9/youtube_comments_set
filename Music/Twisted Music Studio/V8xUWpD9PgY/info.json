@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Tjg7x4LwesMLw7V809pwcTZjbcE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "_v9VwGNjhzHJ_aqmSHpJyIWfSII",
+            "id": "V8xUWpD9PgY",
+            "snippet": {
+                "publishedAt": "2025-11-18T19:11:44Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Tool - Sober | Funk AI Cover",
+                "description": "Sober by Tool twisted into Funk\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nThere's a shadow just behind me,\nShrouding every step I take,\nMaking every promise empty,\nPointing every finger at me.\nWaiting like a stalking butler\nWho upon the finger rests.\nMurder now the path of \"must we\"\nJust because the son has come.\n\nJesus, won't you fucking whistle\nSomething but the past is done?\nJesus, won't you fucking whistle\nSomething but the past is done?\n\nWhy can't we not be sober?\nI just want to start this over.\nWhy can't we drink forever?\nI just want to start this over.\n\nI am just a worthless liar.\nI am just an imbecile.\nI will only complicate you.\nTrust in me and fall as well.\nI will find a center in you.\nI will chew it up and leave,\nI will work to elevate you\nJust enough to bring you down.\n\nMother Mary, won't you whisper\nSomething but the past is done?\nMother Mary, won't you whisper\nSomething but the past is done?\n\nWhy can't we not be sober?\nI just want to start this over.\nWhy can't we sleep forever?\nI just want to start this over.\n\nI am just a worthless liar.\nI am just an imbecile.\nI will only complicate you.\nTrust in me and fall as well.\nI will find a center in you.\nI will chew it up and leave,\nTrust me [5x]\n\nWhy can't we not be sober?\nI just want to start things over.\nWhy can't we sleep forever?\nI just want to start this over.\n\nI want what I want [4x]",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V8xUWpD9PgY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V8xUWpD9PgY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V8xUWpD9PgY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/V8xUWpD9PgY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/V8xUWpD9PgY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Tool - Sober | Funk AI Cover",
+                    "description": "Sober by Tool twisted into Funk\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nThere's a shadow just behind me,\nShrouding every step I take,\nMaking every promise empty,\nPointing every finger at me.\nWaiting like a stalking butler\nWho upon the finger rests.\nMurder now the path of \"must we\"\nJust because the son has come.\n\nJesus, won't you fucking whistle\nSomething but the past is done?\nJesus, won't you fucking whistle\nSomething but the past is done?\n\nWhy can't we not be sober?\nI just want to start this over.\nWhy can't we drink forever?\nI just want to start this over.\n\nI am just a worthless liar.\nI am just an imbecile.\nI will only complicate you.\nTrust in me and fall as well.\nI will find a center in you.\nI will chew it up and leave,\nI will work to elevate you\nJust enough to bring you down.\n\nMother Mary, won't you whisper\nSomething but the past is done?\nMother Mary, won't you whisper\nSomething but the past is done?\n\nWhy can't we not be sober?\nI just want to start this over.\nWhy can't we sleep forever?\nI just want to start this over.\n\nI am just a worthless liar.\nI am just an imbecile.\nI will only complicate you.\nTrust in me and fall as well.\nI will find a center in you.\nI will chew it up and leave,\nTrust me [5x]\n\nWhy can't we not be sober?\nI just want to start things over.\nWhy can't we sleep forever?\nI just want to start this over.\n\nI want what I want [4x]"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1245",
+                "likeCount": "34",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

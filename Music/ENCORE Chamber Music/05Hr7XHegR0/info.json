@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "BCGq2TVmAPSH5okCNggwk-oaJcI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "gV3eykUrAcu-p7RnVQzxmOVh8WA",
+            "id": "05Hr7XHegR0",
+            "snippet": {
+                "publishedAt": "2021-11-05T03:05:34Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "Michael Cleveland & Flamekeeper Plays Orange Blossom!",
+                "description": "FOURTH OF JULY, 2021\n\nMichael Cleveland & Flamekeeper\nChris Douglas, bass\nNathan Livers, mandolin\nJosh Richards, guitar\nJasiah Shrode, banjo\nMichael Cleveland, fiddle/mandolin",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/05Hr7XHegR0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/05Hr7XHegR0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/05Hr7XHegR0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/05Hr7XHegR0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/05Hr7XHegR0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Michael Cleveland & Flamekeeper Plays Orange Blossom!",
+                    "description": "FOURTH OF JULY, 2021\n\nMichael Cleveland & Flamekeeper\nChris Douglas, bass\nNathan Livers, mandolin\nJosh Richards, guitar\nJasiah Shrode, banjo\nMichael Cleveland, fiddle/mandolin"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT5M4S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3577",
+                "likeCount": "63",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

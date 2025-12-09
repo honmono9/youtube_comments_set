@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "3fVHbMJHnot6NgJRfy0tIMRHwJA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "erifNjE8QnnYgMetcLnQKTyAW6s",
+            "id": "jaHQDSKZ97c",
+            "snippet": {
+                "publishedAt": "2025-05-18T12:01:12Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "공기남 - 시간 그 끝에서 [Teaser]",
+                "description": "공기남 - 시간 그 끝에서 [Teaser]\n\n2025. 5. 21. (Wed) 12PM",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jaHQDSKZ97c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jaHQDSKZ97c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jaHQDSKZ97c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jaHQDSKZ97c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jaHQDSKZ97c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "공기남 - 시간 그 끝에서 [Teaser]",
+                    "description": "공기남 - 시간 그 끝에서 [Teaser]\n\n2025. 5. 21. (Wed) 12PM"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "156",
+                "likeCount": "14",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

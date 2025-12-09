@@ -1,0 +1,94 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "iElHbnzLqG3kNjfMbN4lulKue2w",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "uAZINxFwCBx_cHBh-k6wVO8kvOM",
+            "id": "LqqD86VLgRg",
+            "snippet": {
+                "publishedAt": "2025-07-21T02:55:01Z",
+                "channelId": "UClbjf4pXBzXVk3ImyeBa__w",
+                "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 방학 첫날부터 미친듯이 달려버리기",
+                "description": "0:00 Sage the Gemini - Tick Tick Boom (feat. BygTwo3)\n0:00 Sage the Gemini - Tick Tick Boom (feat. BygTwo3)\n\n2:07 Armani White - BILLIE EILISH.\n2:07 Armani White - BILLIE EILISH.\n\n3:45 Kanye West - Famous\n3:45 Kanye West - Famous\n\n6:59 Tommy Richman - MILLION DOLLAR BABY\n6:59 Tommy Richman - MILLION DOLLAR BABY\n\n9:33 NF - When I Grow Up\n9:33 NF - When I Grow Up\n\n12:48 Diplo - Welcome to the Party\n12:48 Diplo - Welcome to the Party\n\n15:45 Vo Williams - Finisher\n15:45 Vo Williams - Finisher\n\n19:00 Eminem - Till I Collapse\n19:00 Eminem - Till I Collapse\n\n23:58 Dr. Dre - Still D.R.E.\n23:58 Dr. Dre - Still D.R.E.\n\n28:28 Eminem - Godzilla (Feat. Juice WRLD)\n28:28 Eminem - Godzilla (Feat. Juice WRLD)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LqqD86VLgRg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LqqD86VLgRg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LqqD86VLgRg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LqqD86VLgRg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LqqD86VLgRg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뮤플비 Music Plus Movie",
+                "tags": [
+                    "팝송",
+                    "영화",
+                    "팝송가사해석",
+                    "가사해석",
+                    "외힙",
+                    "힙합",
+                    "힙합플리이르슽",
+                    "플리",
+                    "힘합플리",
+                    "운동플리",
+                    "공부플리",
+                    "외힙플리",
+                    "신나는플리",
+                    "드라이브플리"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 방학 첫날부터 미친듯이 달려버리기",
+                    "description": "0:00 Sage the Gemini - Tick Tick Boom (feat. BygTwo3)\n0:00 Sage the Gemini - Tick Tick Boom (feat. BygTwo3)\n\n2:07 Armani White - BILLIE EILISH.\n2:07 Armani White - BILLIE EILISH.\n\n3:45 Kanye West - Famous\n3:45 Kanye West - Famous\n\n6:59 Tommy Richman - MILLION DOLLAR BABY\n6:59 Tommy Richman - MILLION DOLLAR BABY\n\n9:33 NF - When I Grow Up\n9:33 NF - When I Grow Up\n\n12:48 Diplo - Welcome to the Party\n12:48 Diplo - Welcome to the Party\n\n15:45 Vo Williams - Finisher\n15:45 Vo Williams - Finisher\n\n19:00 Eminem - Till I Collapse\n19:00 Eminem - Till I Collapse\n\n23:58 Dr. Dre - Still D.R.E.\n23:58 Dr. Dre - Still D.R.E.\n\n28:28 Eminem - Godzilla (Feat. Juice WRLD)\n28:28 Eminem - Godzilla (Feat. Juice WRLD)"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT32M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5318",
+                "likeCount": "130",
+                "favoriteCount": "0",
+                "commentCount": "11"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

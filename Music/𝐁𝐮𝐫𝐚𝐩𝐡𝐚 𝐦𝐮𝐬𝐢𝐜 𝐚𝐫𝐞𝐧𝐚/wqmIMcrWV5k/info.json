@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "zV2mmojxENYw7hlALMbyfeGleBo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "jB64ciS2FrTAQOjum2lFMqi6Geo",
+            "id": "wqmIMcrWV5k",
+            "snippet": {
+                "publishedAt": "2025-10-11T23:59:01Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "Defender of the land (ผู้พิทักษ์แผ่นดิน)พบกันคืนวันศุกร์ นี้ MV เต็ม #cinematicrock #thaimusic",
+                "description": "ผู้พิทักษ์แผ่นดิน (Defender of the land) จะรักษาไว้เพื่อลูกหลานสืบไป แด่ทหารกล้า #rock #mv  #cinematicrock #thairock #cinematic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wqmIMcrWV5k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wqmIMcrWV5k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wqmIMcrWV5k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wqmIMcrWV5k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wqmIMcrWV5k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "Defender of the land (ผู้พิทักษ์แผ่นดิน)พบกันคืนวันศุกร์ นี้ MV เต็ม #cinematicrock #thaimusic",
+                    "description": "ผู้พิทักษ์แผ่นดิน (Defender of the land) จะรักษาไว้เพื่อลูกหลานสืบไป แด่ทหารกล้า #rock #mv  #cinematicrock #thairock #cinematic"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT52S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "12631",
+                "likeCount": "409",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

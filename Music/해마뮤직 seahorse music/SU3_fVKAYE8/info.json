@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "dozDlsHvDgOfsDsVZb5kuZ_sq-E",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "eRwpIC7yJZ22JMUfme_E6IZi9jk",
+            "id": "SU3_fVKAYE8",
+            "snippet": {
+                "publishedAt": "2025-09-04T09:00:43Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "하지마 챌린지 😎 피아노 건반 6개로 쉽게 연주하기 🎹",
+                "description": "#피아노커버 #pianocover #피아노연주 #하지마챌린지 #하지마 #화장하지마 #릴러말즈 \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SU3_fVKAYE8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SU3_fVKAYE8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SU3_fVKAYE8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SU3_fVKAYE8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SU3_fVKAYE8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "하지마",
+                    "하지마챌린지",
+                    "릴러말즈",
+                    "챌린지",
+                    "피아노",
+                    "challenge"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "하지마 챌린지 😎 피아노 건반 6개로 쉽게 연주하기 🎹",
+                    "description": "#피아노커버 #pianocover #피아노연주 #하지마챌린지 #하지마 #화장하지마 #릴러말즈 \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "106614",
+                "likeCount": "874",
+                "favoriteCount": "0",
+                "commentCount": "21"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

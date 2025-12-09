@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "f051gVRoVJU6HUwzQbNFZII0Ti8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "qzlmMdkeq5PcbAhqzLK16vCPq8E",
+            "id": "HtX5tcKkwFQ",
+            "snippet": {
+                "publishedAt": "2023-10-11T11:15:02Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[온앤오프] 군대 다시 가기 vs 연습생 다시 하기",
+                "description": "💜 It's Live B-Side: https://youtu.be/imqHXtZeCIc?feature=shared\n💜서울뮤직: https://www.youtube.com/@SEOULMUSIC\n#온앤오프 #ONF #잇츠라이브 #ItsLive_Bside #kpop",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HtX5tcKkwFQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HtX5tcKkwFQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HtX5tcKkwFQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HtX5tcKkwFQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HtX5tcKkwFQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "tags": [
+                    "동영상",
+                    "공유",
+                    "카메라폰",
+                    "동영상폰",
+                    "무료",
+                    "올리기"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[온앤오프] 군대 다시 가기 vs 연습생 다시 하기",
+                    "description": "💜 It's Live B-Side: https://youtu.be/imqHXtZeCIc?feature=shared\n💜서울뮤직: https://www.youtube.com/@SEOULMUSIC\n#온앤오프 #ONF #잇츠라이브 #ItsLive_Bside #kpop"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "20133",
+                "likeCount": "971",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

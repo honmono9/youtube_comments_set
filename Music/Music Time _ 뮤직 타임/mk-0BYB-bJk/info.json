@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ylF0_p_89fdYZ7IeEbnJjupsfY0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "7qhY_hETpzwQHu4PeyFIkH89Fk4",
+            "id": "mk-0BYB-bJk",
+            "snippet": {
+                "publishedAt": "2025-12-09T09:53:02Z",
+                "channelId": "UCYA3gLE34set7Xn_FVU8D0Q",
+                "title": "DOYOUNG (도영) Feat. BELLE (벨) of KISS OF LIFE - Whistle [가사]",
+                "description": "DOYOUNG (도영) Feat. BELLE (벨) of KISS OF LIFE - Whistle [가사]\n_\n아티스트:도영 (DOYOUNG)\n유형:싱글\n장르:발라드, 알앤비/소울\n스타일:발라드, 알앤비\n발매일:2025.12.09\n유통사:카카오엔터테인먼트\n기획사:SM ENTERTAINMENT\n_\n#DOYOUNG #도영 #BELLE #벨 #KISSOFLIFE #Whistle",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mk-0BYB-bJk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mk-0BYB-bJk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mk-0BYB-bJk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mk-0BYB-bJk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mk-0BYB-bJk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Time | 뮤직 타임",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "DOYOUNG (도영) Feat. BELLE (벨) of KISS OF LIFE - Whistle [가사]",
+                    "description": "DOYOUNG (도영) Feat. BELLE (벨) of KISS OF LIFE - Whistle [가사]\n_\n아티스트:도영 (DOYOUNG)\n유형:싱글\n장르:발라드, 알앤비/소울\n스타일:발라드, 알앤비\n발매일:2025.12.09\n유통사:카카오엔터테인먼트\n기획사:SM ENTERTAINMENT\n_\n#DOYOUNG #도영 #BELLE #벨 #KISSOFLIFE #Whistle"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "64",
+                "likeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

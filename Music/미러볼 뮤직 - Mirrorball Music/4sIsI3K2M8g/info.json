@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "8y6HFgrv1UhJLB1qr8HKQ3CcGyY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "FnOPamduIUX5wj3OU3ihvx7UyQU",
+            "id": "4sIsI3K2M8g",
+            "snippet": {
+                "publishedAt": "2025-12-08T03:00:11Z",
+                "channelId": "UCnhZuoNcL89qNax7YlWvavQ",
+                "title": "[Official Audio] NOGAL (노갈) - Scattered Song (Bossa nova Ver.) (흩어진 노래)",
+                "description": "Artist : 노갈 (NOGAL)\nAlbum Title : 흩어진 노래 (Scattered Song (Bossa nova Ver.))\nRelease Date : 2025-12-08\nGenre : Jazz\n\n#jazz #재즈\n\n■ Mirrorball Music\nhttp://mirrorballmusic.co.kr/\nhttps://www.facebook.com/mirrorballmusic\nhttps://twitter.com/mirrorballmusic\nhttps://www.instagram.com/mirrorballmusic_official/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4sIsI3K2M8g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4sIsI3K2M8g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4sIsI3K2M8g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4sIsI3K2M8g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4sIsI3K2M8g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "미러볼 뮤직 - Mirrorball Music",
+                "tags": [
+                    "Indie Music",
+                    "Indie Rock",
+                    "Indie Pop",
+                    "Indie Folk",
+                    "Indie Film",
+                    "Indie",
+                    "Music",
+                    "Rock Music",
+                    "Electronic",
+                    "HipHop",
+                    "Rap",
+                    "Music Video",
+                    "Rock&Roll"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Official Audio] NOGAL (노갈) - Scattered Song (Bossa nova Ver.) (흩어진 노래)",
+                    "description": "Artist : 노갈 (NOGAL)\nAlbum Title : 흩어진 노래 (Scattered Song (Bossa nova Ver.))\nRelease Date : 2025-12-08\nGenre : Jazz\n\n#jazz #재즈\n\n■ Mirrorball Music\nhttp://mirrorballmusic.co.kr/\nhttps://www.facebook.com/mirrorballmusic\nhttps://twitter.com/mirrorballmusic\nhttps://www.instagram.com/mirrorballmusic_official/"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "232",
+                "likeCount": "20",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

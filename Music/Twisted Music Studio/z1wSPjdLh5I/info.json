@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "DzJ6Tp_q5R3jYTpJgm4OBOFIhLk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Jc-tAVhS_KhHYNbF4gljDcPu_eY",
+            "id": "z1wSPjdLh5I",
+            "snippet": {
+                "publishedAt": "2025-10-28T15:20:05Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Radiohead - Creep | Soul AI Cover",
+                "description": "Creep by Radiohead twisted into Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\nWhen you were here before\nCouldn't look you in the eye\nYou're just like an angel\nYour skin makes me cry\nYou float like a feather\nIn a beautiful world\nI wish I was special\nYou're so very special\n\nBut I'm a creep\nI'm a weirdo\nWhat the hell am I doing here?\nI don't belong here\n\nI don't care if it hurts\nI want to have control\nI want a perfect body\nI want a perfect soul\nI want you to notice\nWhen I'm not around\nYou're so very special\nI wish I was special\n\nBut I'm a creep\nI'm a weirdo\nWhat the hell am I doing here?\nI don't belong here\n\nOh, oh\n\nShe's running out the door\nShe's running out\nShe run, run, run, run\nRun\n\nWhatever makes you happy\nWhatever you want\nYou're so very special\nI wish I was special\n\nBut I'm a creep\nI'm a weirdo\nWhat the hell am I doing here?\nI don't belong here\nI don't belong here",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z1wSPjdLh5I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z1wSPjdLh5I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z1wSPjdLh5I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/z1wSPjdLh5I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/z1wSPjdLh5I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Radiohead - Creep | Soul AI Cover",
+                    "description": "Creep by Radiohead twisted into Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\nWhen you were here before\nCouldn't look you in the eye\nYou're just like an angel\nYour skin makes me cry\nYou float like a feather\nIn a beautiful world\nI wish I was special\nYou're so very special\n\nBut I'm a creep\nI'm a weirdo\nWhat the hell am I doing here?\nI don't belong here\n\nI don't care if it hurts\nI want to have control\nI want a perfect body\nI want a perfect soul\nI want you to notice\nWhen I'm not around\nYou're so very special\nI wish I was special\n\nBut I'm a creep\nI'm a weirdo\nWhat the hell am I doing here?\nI don't belong here\n\nOh, oh\n\nShe's running out the door\nShe's running out\nShe run, run, run, run\nRun\n\nWhatever makes you happy\nWhatever you want\nYou're so very special\nI wish I was special\n\nBut I'm a creep\nI'm a weirdo\nWhat the hell am I doing here?\nI don't belong here\nI don't belong here"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1984",
+                "likeCount": "53",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

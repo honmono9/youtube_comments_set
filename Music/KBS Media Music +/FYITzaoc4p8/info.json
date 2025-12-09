@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "YIR98v-mPF0XI5ERqqaWkwIlxwQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "v7rSfbu8oLopq9EuBoVEe0hYSs0",
+            "id": "FYITzaoc4p8",
+            "snippet": {
+                "publishedAt": "2025-07-20T03:00:15Z",
+                "channelId": "UC9LkgSReKybPl-gABo3fbRQ",
+                "title": "[경음악] 국악으로 엮어본 그리운 멜로디 경음악 - 짝사랑",
+                "description": "☑ 신청곡은 커뮤니티 댓글로 적어주세요  ▶https://www.youtube.com/@kbsmediamusicplus/community\n\n국악으로 엮어본 그리운 멜로디 경음악 - 짝사랑\n\n#국악으로엮어본그리운멜로디경음악 #짝사랑 #지구레코드",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FYITzaoc4p8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FYITzaoc4p8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FYITzaoc4p8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FYITzaoc4p8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FYITzaoc4p8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS Media Music +",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[경음악] 국악으로 엮어본 그리운 멜로디 경음악 - 짝사랑",
+                    "description": "☑ 신청곡은 커뮤니티 댓글로 적어주세요  ▶https://www.youtube.com/@kbsmediamusicplus/community\n\n국악으로 엮어본 그리운 멜로디 경음악 - 짝사랑\n\n#국악으로엮어본그리운멜로디경음악 #짝사랑 #지구레코드"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "216",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

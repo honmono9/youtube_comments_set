@@ -1,0 +1,102 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "kb-_QmDhltMhd0GmSuJSgriTA3o",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "CZ8aSBmSV-PeeVhkyDNEk7agMts",
+            "id": "GEUrY3D5kOo",
+            "snippet": {
+                "publishedAt": "2025-03-16T13:57:27Z",
+                "channelId": "UClbjf4pXBzXVk3ImyeBa__w",
+                "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 우리 좀 힐링하면서 쉬엄쉬엄 삽시다",
+                "description": "0:00 Surfaces, Tai Verdes - Sheesh!\n0:00 Surfaces, Tai Verdes - Sheesh!\n\n2:25 Nic D - Fine Apple\n2:25 Nic D - Fine Apple\n\n4:54 Paige - Too Much To H8\n4:54 Paige - Too Much To H8\n\n7:41 Jake Scott - Favorite T-Shirt\n7:41 Jake Scott - Favorite T-Shirt\n\n10:41 PRETTYMUCH - Summer on You\n10:41 PRETTYMUCH - Summer on You\n\n14:01 Peach Tree Rascals - Mariposa\n14:01 Peach Tree Rascals - Mariposa\n\n17:34 Jonas Brothers - Sucker\n17:34 Jonas Brothers - Sucker\n\n20:30 BoyWithUke - Long Drives\n20:30 BoyWithUke - Long Drives\n\n23:06 vaultboy - everything sucks\n23:06 vaultboy - everything sucks",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GEUrY3D5kOo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GEUrY3D5kOo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GEUrY3D5kOo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GEUrY3D5kOo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GEUrY3D5kOo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뮤플비 Music Plus Movie",
+                "tags": [
+                    "팝송",
+                    "영화",
+                    "팝송가사해석",
+                    "가사해석",
+                    "힐링",
+                    "힐링 팝송",
+                    "힐링되는 음악",
+                    "플리",
+                    "힐링플리",
+                    "팝송플리",
+                    "신나는팝송",
+                    "신나는플리",
+                    "운동할때듣는노래",
+                    "드라이브 플리",
+                    "드라이브 플레이리스트",
+                    "운동",
+                    "공부할때 듣는 음악",
+                    "공부플리",
+                    "공부플레이리스트",
+                    "심슨플리",
+                    "힙플리",
+                    "뮤플비 플레이리스트"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 우리 좀 힐링하면서 쉬엄쉬엄 삽시다",
+                    "description": "0:00 Surfaces, Tai Verdes - Sheesh!\n0:00 Surfaces, Tai Verdes - Sheesh!\n\n2:25 Nic D - Fine Apple\n2:25 Nic D - Fine Apple\n\n4:54 Paige - Too Much To H8\n4:54 Paige - Too Much To H8\n\n7:41 Jake Scott - Favorite T-Shirt\n7:41 Jake Scott - Favorite T-Shirt\n\n10:41 PRETTYMUCH - Summer on You\n10:41 PRETTYMUCH - Summer on You\n\n14:01 Peach Tree Rascals - Mariposa\n14:01 Peach Tree Rascals - Mariposa\n\n17:34 Jonas Brothers - Sucker\n17:34 Jonas Brothers - Sucker\n\n20:30 BoyWithUke - Long Drives\n20:30 BoyWithUke - Long Drives\n\n23:06 vaultboy - everything sucks\n23:06 vaultboy - everything sucks"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT25M38S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6432",
+                "likeCount": "164",
+                "favoriteCount": "0",
+                "commentCount": "13"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

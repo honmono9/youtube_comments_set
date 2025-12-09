@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "B0xdOJ47Iqz91TlitIWa95Z6RXE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Dq7rk17Xr7YidzLwfxN3-dBlvEA",
+            "id": "DxiZG2KP1ZY",
+            "snippet": {
+                "publishedAt": "2015-07-01T13:00:00Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "Brand New Day Vol.7 - BUMKEY & FRIENDS [공연/Concert]",
+                "description": "Brand New Day Vol.7 - BUMKEY & FRIENDS의 예매가 진행중입니다! '느껴'로 돌아온 소울대세 #범키 와 브랜뉴뮤직의 버벌진트, 산이, 이루펀트,  트로이의 무대에 실력파 대세 걸그룹 마마무의 무대까지 준비되어 있습니다. 많이 즐겨주세요!\n_\n일시 : 2015년 7월 11일(토) 7PM\n장소 : 홍대 YES24 무브홀\n게스트 : 버벌진트, 산이, 이루펀트, 트로이, 마마무\n가격 : 예매 30,000원 / 현매 35,000원\n예매처 : 인터파크(ticket.interpark.com)\n티켓오픈 : 6월 19일(금) PM 8:00\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DxiZG2KP1ZY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DxiZG2KP1ZY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DxiZG2KP1ZY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DxiZG2KP1ZY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DxiZG2KP1ZY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Brand New Day Vol.7 - BUMKEY & FRIENDS [공연/Concert]",
+                    "description": "Brand New Day Vol.7 - BUMKEY & FRIENDS의 예매가 진행중입니다! '느껴'로 돌아온 소울대세 #범키 와 브랜뉴뮤직의 버벌진트, 산이, 이루펀트,  트로이의 무대에 실력파 대세 걸그룹 마마무의 무대까지 준비되어 있습니다. 많이 즐겨주세요!\n_\n일시 : 2015년 7월 11일(토) 7PM\n장소 : 홍대 YES24 무브홀\n게스트 : 버벌진트, 산이, 이루펀트, 트로이, 마마무\n가격 : 예매 30,000원 / 현매 35,000원\n예매처 : 인터파크(ticket.interpark.com)\n티켓오픈 : 6월 19일(금) PM 8:00\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT48S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1926",
+                "likeCount": "71",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

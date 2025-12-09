@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Qtw8zXegbRMDT0wwgN9wqkn5ik8",
+        "id": "UgwA6VGEaBjM-JjFo1R4AaABAg",
+        "snippet": {
+            "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+            "videoId": "yLTzT6xC8ew",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "L6mCRDVLSyInYGhkuk4erIr9-h0",
+                "id": "UgwA6VGEaBjM-JjFo1R4AaABAg",
+                "snippet": {
+                    "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+                    "videoId": "yLTzT6xC8ew",
+                    "textDisplay": "Evlat acısı, Rabbim kimseye yaşatmasın 😢",
+                    "textOriginal": "Evlat acısı, Rabbim kimseye yaşatmasın 😢",
+                    "authorDisplayName": "@DARKFACE-g5s",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/EoLcV-cxnWEZjp20V2y81Wmoaky0VBfM-zRpC-2Tr5KPwrtsoEKJKGmuMkb6jD55kaS2saVY=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@DARKFACE-g5s",
+                    "authorChannelId": {
+                        "value": "UCKWnN5vpWeDVlfOzh7NNYbA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-29T12:42:40Z",
+                    "updatedAt": "2025-11-29T12:42:40Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,67 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "63gMLTZE2wJPJwxUI2F3_6aGJbQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "nHmIagtLJPPefHOMJeg2XdT9h-I",
+            "id": "JoEGdsxDFLw",
+            "snippet": {
+                "publishedAt": "2020-09-19T13:22:25Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "Singing Philippine Folksongs with Bamboo Instruments  (no copyright infringement intended)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JoEGdsxDFLw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JoEGdsxDFLw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JoEGdsxDFLw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Singing Philippine Folksongs with Bamboo Instruments  (no copyright infringement intended)",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "und"
+            },
+            "contentDetails": {
+                "duration": "PT1H29M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "268",
+                "likeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

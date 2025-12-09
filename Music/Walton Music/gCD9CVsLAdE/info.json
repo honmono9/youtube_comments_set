@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "VjWZStdmnoop4oVPfYoeywjHIuk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "wDgi-mxJ2EQ1yMdqGiycB9wnWgo",
+            "id": "gCD9CVsLAdE",
+            "snippet": {
+                "publishedAt": "2025-12-01T14:01:20Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Nature Boy | arr. Anders Adenroth",
+                "description": "Nature Boy music and lyrics by Eden Ahbez, arranged by Anders Edenroth of the Real Group for a capella SATBB voices.\n\nhttps://www.giamusic.com/store/resour...\n\nThe greatest thing you'll ever learn is just to love and be loved in return. This beautiful song was written by eden ahbez and made famous by Nat King Cole. This arrangement by Anders Edenroth was created for performance by The Real Group and translates well to full choir.\n\nNature Boy\n\nThere was a boy.\nA very strange, enchanted boy.\nThey say he wandered very far,\nOver land and sea.\nA little shy and sad of eyes,\nBut very wise was he.\n\nAnd then, one day,\nOne magic day, he passed my way,\nAnd while we spoke of many things,\nFools and kings,\nThis, he said to me:\n“The greatest thing you’ll ever learn\nIs just to love and be loved in return.”",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gCD9CVsLAdE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gCD9CVsLAdE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gCD9CVsLAdE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gCD9CVsLAdE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gCD9CVsLAdE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Nature Boy | arr. Anders Adenroth",
+                    "description": "Nature Boy music and lyrics by Eden Ahbez, arranged by Anders Edenroth of the Real Group for a capella SATBB voices.\n\nhttps://www.giamusic.com/store/resour...\n\nThe greatest thing you'll ever learn is just to love and be loved in return. This beautiful song was written by eden ahbez and made famous by Nat King Cole. This arrangement by Anders Edenroth was created for performance by The Real Group and translates well to full choir.\n\nNature Boy\n\nThere was a boy.\nA very strange, enchanted boy.\nThey say he wandered very far,\nOver land and sea.\nA little shy and sad of eyes,\nBut very wise was he.\n\nAnd then, one day,\nOne magic day, he passed my way,\nAnd while we spoke of many things,\nFools and kings,\nThis, he said to me:\n“The greatest thing you’ll ever learn\nIs just to love and be loved in return.”"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "53",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

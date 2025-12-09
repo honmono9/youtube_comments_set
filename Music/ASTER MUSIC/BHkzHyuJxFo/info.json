@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "m7Enh0tPLXL-mbzfWAyYaG3p7xI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ZwueTZXQkn0lRG9LY1U-KAAj3bc",
+            "id": "BHkzHyuJxFo",
+            "snippet": {
+                "publishedAt": "2025-09-19T09:00:29Z",
+                "channelId": "UC3fPnB3ds2xBY1PTtgkCCYw",
+                "title": "요즘 클럽에서 제일 핫한노래! 𝘼𝙎𝙏𝙀𝙍-𝘽𝙊𝙊𝙈 𝙎𝙃𝘼𝙆𝘼𝙇𝘼𝙆𝘼(붐샤카라카) | 롯데아웃송",
+                "description": "#아스터 #붐샤카라카 #DJ아스터 #boomshakalaka \n𝘼𝙎𝙏𝙀𝙍-𝘽𝙊𝙊𝙈 𝙎𝙃𝘼𝙆𝘼𝙇𝘼𝙆𝘼\n\n인스타그램(INSTAGRAM)\n@aster_djofficial\n\n스트리밍사이트\nhttps://fanlink.tv/wqe5",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BHkzHyuJxFo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BHkzHyuJxFo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BHkzHyuJxFo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BHkzHyuJxFo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BHkzHyuJxFo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ASTER MUSIC",
+                "tags": [
+                    "클럽노래",
+                    "클럽에서 유행하는노래",
+                    "DJ아스터",
+                    "네오",
+                    "아웃송",
+                    "롯데아웃송",
+                    "롯데 응원가",
+                    "롯데자이언츠 노래",
+                    "클럽음악",
+                    "신나는 노래",
+                    "드라이브 노래"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "요즘 클럽에서 제일 핫한노래! 𝘼𝙎𝙏𝙀𝙍-𝘽𝙊𝙊𝙈 𝙎𝙃𝘼𝙆𝘼𝙇𝘼𝙆𝘼(붐샤카라카) | 롯데아웃송",
+                    "description": "#아스터 #붐샤카라카 #DJ아스터 #boomshakalaka \n𝘼𝙎𝙏𝙀𝙍-𝘽𝙊𝙊𝙈 𝙎𝙃𝘼𝙆𝘼𝙇𝘼𝙆𝘼\n\n인스타그램(INSTAGRAM)\n@aster_djofficial\n\n스트리밍사이트\nhttps://fanlink.tv/wqe5"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "43777",
+                "likeCount": "230",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

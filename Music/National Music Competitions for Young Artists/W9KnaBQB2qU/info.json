@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "y6waf0volP_qgsSByA4oXbHtdfM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "WklHXJG-GVd1vaG2AxnU7QyFZ3A",
+            "id": "W9KnaBQB2qU",
+            "snippet": {
+                "publishedAt": "2024-11-28T23:55:01Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "2024 NAMCYA Brass (Open) Category Finals Competition",
+                "description": "2024 NAMCYA: 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐁𝐫𝐚𝐬𝐬 (𝐎𝐩𝐞𝐧) 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲 𝐅𝐢𝐧𝐚𝐥𝐬 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧\n—\nThe 2024 National Music Competitions for Young Artists (NAMCYA): 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐁𝐫𝐚𝐬𝐬 (𝐎𝐩𝐞𝐧) 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲 𝐅𝐢𝐧𝐚𝐥𝐬 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧 is in partnership with the National Commission for Culture and the Arts and the Cultural Center of the Philippines, and in cooperation with The Metropolitan Theater and DepEd Philippines.\n\n#NAMCYA\n#NAMCYA2024\n#SalinlahingMusika\n#GalingNAMCYA\n#NAMCYAatTheMet\n#YoungArtists\n#MusicalExcellence",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W9KnaBQB2qU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W9KnaBQB2qU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W9KnaBQB2qU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/W9KnaBQB2qU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/W9KnaBQB2qU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "2024 NAMCYA Brass (Open) Category Finals Competition",
+                    "description": "2024 NAMCYA: 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐁𝐫𝐚𝐬𝐬 (𝐎𝐩𝐞𝐧) 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲 𝐅𝐢𝐧𝐚𝐥𝐬 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧\n—\nThe 2024 National Music Competitions for Young Artists (NAMCYA): 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐁𝐫𝐚𝐬𝐬 (𝐎𝐩𝐞𝐧) 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲 𝐅𝐢𝐧𝐚𝐥𝐬 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧 is in partnership with the National Commission for Culture and the Arts and the Cultural Center of the Philippines, and in cooperation with The Metropolitan Theater and DepEd Philippines.\n\n#NAMCYA\n#NAMCYA2024\n#SalinlahingMusika\n#GalingNAMCYA\n#NAMCYAatTheMet\n#YoungArtists\n#MusicalExcellence"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H40M15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "99",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

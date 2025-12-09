@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "2ntI8P_jyKecVYGXOmQb8f-Uyfg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Jvek7eVNBlryvDRefXZ5ai4xqHc",
+            "id": "uxKF5nwbzKQ",
+            "snippet": {
+                "publishedAt": "2025-11-01T22:48:18Z",
+                "channelId": "UCfrWVh-4M98j1WtDIR9IVNg",
+                "title": "PAWIS||RAP AND REGGAE REMIX||@MUSICFRANZ @Rabzmusics @MusicprinceFR ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uxKF5nwbzKQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uxKF5nwbzKQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uxKF5nwbzKQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uxKF5nwbzKQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uxKF5nwbzKQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MUSIC FRANZ ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "PAWIS||RAP AND REGGAE REMIX||@MUSICFRANZ @Rabzmusics @MusicprinceFR ",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT40M49S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "533",
+                "likeCount": "23",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "bY8AQAuQniSTZ7hLQWCksbyZBnM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "J7NtBbCq5597169SPOGCtgFiO_w",
+            "id": "K0LqbgJA1d0",
+            "snippet": {
+                "publishedAt": "2022-07-14T18:23:47Z",
+                "channelId": "UCwdmcaOcWQ7PW8_wuaB8Cjw",
+                "title": "Julian Sommer - Dicht im Flieger (SEBASTIAN SPENCER X PORNOBASS CLUB EDIT)",
+                "description": "Disclaimer: All rights and credits go to the original owners, producers and other involved acts.\n\nSebastian Spencer X Pornobass Remix\n\nproduced by Sebastian Spencer & DJ NICK",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K0LqbgJA1d0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K0LqbgJA1d0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K0LqbgJA1d0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K0LqbgJA1d0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K0LqbgJA1d0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sebastian Spencer Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Julian Sommer - Dicht im Flieger (SEBASTIAN SPENCER X PORNOBASS CLUB EDIT)",
+                    "description": "Disclaimer: All rights and credits go to the original owners, producers and other involved acts.\n\nSebastian Spencer X Pornobass Remix\n\nproduced by Sebastian Spencer & DJ NICK"
+                },
+                "defaultAudioLanguage": "de"
+            },
+            "contentDetails": {
+                "duration": "PT3M44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "32597",
+                "likeCount": "337",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

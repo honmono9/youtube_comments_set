@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "v1_zktzcOrwdAKGc_TJYDROoduo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "GLR0dLyZxWxkOCDG6RG91a3SyYU",
+            "id": "F35rqAMP3TU",
+            "snippet": {
+                "publishedAt": "2025-12-09T03:00:15Z",
+                "channelId": "UCnhZuoNcL89qNax7YlWvavQ",
+                "title": "[Official Audio] Skinny Chase - Above the clouds (feat. TAEO, DJ Vamos)",
+                "description": "Artist : Skinny Chase \nAlbum Title : GHOOK: G is silent \nRelease Date : 2025-12-09 \nGenre : Hiphop \n\n#hiphop #indie #힙합 #인디\n\n■ Mirrorball Music\nhttp://mirrorballmusic.co.kr/\nhttps://www.facebook.com/mirrorballmusic\nhttps://twitter.com/mirrorballmusic\nhttps://www.instagram.com/mirrorballmusic_official/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F35rqAMP3TU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F35rqAMP3TU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F35rqAMP3TU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/F35rqAMP3TU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/F35rqAMP3TU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "미러볼 뮤직 - Mirrorball Music",
+                "tags": [
+                    "Indie Music",
+                    "Indie Rock",
+                    "Indie Pop",
+                    "Indie Folk",
+                    "Indie Film",
+                    "Indie",
+                    "Music",
+                    "Rock Music",
+                    "Electronic",
+                    "HipHop",
+                    "Rap",
+                    "Music Video",
+                    "Rock&Roll"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Official Audio] Skinny Chase - Above the clouds (feat. TAEO, DJ Vamos)",
+                    "description": "Artist : Skinny Chase \nAlbum Title : GHOOK: G is silent \nRelease Date : 2025-12-09 \nGenre : Hiphop \n\n#hiphop #indie #힙합 #인디\n\n■ Mirrorball Music\nhttp://mirrorballmusic.co.kr/\nhttps://www.facebook.com/mirrorballmusic\nhttps://twitter.com/mirrorballmusic\nhttps://www.instagram.com/mirrorballmusic_official/"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M36S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "55",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

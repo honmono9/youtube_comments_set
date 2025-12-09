@@ -1,0 +1,67 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "-RNWKc3BeRBTzG3C8PXFoC76BKU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "aJfXU4v9zQS0jHsIZlUTQbq_tvA",
+            "id": "WaCsM1qw3Hs",
+            "snippet": {
+                "publishedAt": "2018-02-28T12:04:58Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "장난꾸러기 카밀라의 전화로 팬 속이기 ㅋㅋㅋㅋㅋ",
+                "description": "@ 소니뮤직코리아 페이스북 : https://www.facebook.com/sonymusickorea/\n\n@ 소니뮤직코리아 인스타그램 :\nhttps://www.instagram.com/sonymusickorea/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WaCsM1qw3Hs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WaCsM1qw3Hs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WaCsM1qw3Hs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WaCsM1qw3Hs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "장난꾸러기 카밀라의 전화로 팬 속이기 ㅋㅋㅋㅋㅋ",
+                    "description": "@ 소니뮤직코리아 페이스북 : https://www.facebook.com/sonymusickorea/\n\n@ 소니뮤직코리아 인스타그램 :\nhttps://www.instagram.com/sonymusickorea/"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT51S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "26581",
+                "likeCount": "459",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

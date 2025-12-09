@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "YeBMHVjSbqRC6Q_AeWpMXhZD2q4",
+        "id": "UgwMuByuVCDhv_Lklhp4AaABAg",
+        "snippet": {
+            "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+            "videoId": "OOy5JmpjBWY",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "hwHFvc0UYWWJUczg0paslf2qiYs",
+                "id": "UgwMuByuVCDhv_Lklhp4AaABAg",
+                "snippet": {
+                    "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+                    "videoId": "OOy5JmpjBWY",
+                    "textDisplay": "可愛らしい曲ですね～🍭\nガールズトークが聞こえてきそう😊",
+                    "textOriginal": "可愛らしい曲ですね～🍭\nガールズトークが聞こえてきそう😊",
+                    "authorDisplayName": "@まさよたかだ",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ks8mnHjSYrvJhXw6w2OAW7W8FdJLMOsufzk9NQQLl35vi55YYjYN49fekhp8bbmqzBOCPn=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%E3%81%BE%E3%81%95%E3%82%88%E3%81%9F%E3%81%8B%E3%81%A0",
+                    "authorChannelId": {
+                        "value": "UCrD80EAsGYLpiDMGAyLQRHg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-06-22T09:08:23Z",
+                    "updatedAt": "2025-06-22T09:08:23Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "OCOndMZ5NJhlbG3ozKE3t_cvS8I",
+        "id": "UgyIukNHU-mA9FJLONR4AaABAg",
+        "snippet": {
+            "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+            "videoId": "OOy5JmpjBWY",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "N8TPhMTP9NkIkT4-RzPPWD16weg",
+                "id": "UgyIukNHU-mA9FJLONR4AaABAg",
+                "snippet": {
+                    "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+                    "videoId": "OOy5JmpjBWY",
+                    "textDisplay": "今回も素敵ですね〜🎵",
+                    "textOriginal": "今回も素敵ですね〜🎵",
+                    "authorDisplayName": "@a.n_GIXXER250",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nFyo9VPxnyYNRub2-gubeNmCjyuiA60DHxy_i70fhEz8w=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@a.n_GIXXER250",
+                    "authorChannelId": {
+                        "value": "UCkqXnkKjWUWfgnIoBgtJOVA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 5,
+                    "publishedAt": "2025-06-20T13:16:32Z",
+                    "updatedAt": "2025-06-20T13:16:32Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

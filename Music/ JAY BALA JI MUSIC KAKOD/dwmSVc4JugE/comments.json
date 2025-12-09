@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "nNnL4rXB0X6bdw9Ov8VX48Qu2VU",
+        "id": "UgzU1wP8W2DmcSXsBfR4AaABAg",
+        "snippet": {
+            "channelId": "UC5oWa6pisfCuXtGmPWhPNMg",
+            "videoId": "dwmSVc4JugE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "l30V3lz96zODjgfHQGcJB7W3yJQ",
+                "id": "UgzU1wP8W2DmcSXsBfR4AaABAg",
+                "snippet": {
+                    "channelId": "UC5oWa6pisfCuXtGmPWhPNMg",
+                    "videoId": "dwmSVc4JugE",
+                    "textDisplay": "❤️",
+                    "textOriginal": "❤️",
+                    "authorDisplayName": "@AjayPrajapat-le3pt",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/o_Ef5RpjjSdUCrtEvtaeu28_RC0CmyZPBR539gRlgNOWhzu1IrDs_7En44jsj1fw3E3PTmYRUQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@AjayPrajapat-le3pt",
+                    "authorChannelId": {
+                        "value": "UC-QJP7_NoilKU8Ir4Kx7jPg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-10-29T14:26:16Z",
+                    "updatedAt": "2025-10-29T14:26:16Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

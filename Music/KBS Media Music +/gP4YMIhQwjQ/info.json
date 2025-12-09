@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "3sVi0ZjOB4IX0nyv0E7ED9MCcyg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "sMn-no72aFadf2Xzi1OqTb66d3Y",
+            "id": "gP4YMIhQwjQ",
+            "snippet": {
+                "publishedAt": "2025-06-22T03:00:50Z",
+                "channelId": "UC9LkgSReKybPl-gABo3fbRQ",
+                "title": "[가사비디오 / Lyric Video] 남우진 - 하얀마음 하얀사랑",
+                "description": "☑ 신청곡은 커뮤니티 댓글로 적어주세요  ▶https://www.youtube.com/@kbsmediamusicplus/community\n\n하얀마음 하얀사랑\n고이고이 엮어서\n비둘기처럼 다정히\n사랑을 하리 그대와\n\n하늘에 별 하나 별 둘\n찬란하게 빛나면\n별 하나 별 둘 헤면서\n밤 깊은 줄 모르네\n\n하얀마음 하얀사랑\n고이고이 엮어서\n비둘기처럼 다정히\n사랑을 하리 그대와\n\n하늘에 별 하나 별 둘\n찬란하게 빛나면\n별 하나 별 둘 헤면서\n밤 깊은 줄 모르네\n\n하얀마음 하얀사랑\n고이고이 엮어서\n비둘기처럼 다정히\n사랑을 하리 그대와\n\n\n#남우진 #하얀마음하얀사랑 #지구레코드",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gP4YMIhQwjQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gP4YMIhQwjQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gP4YMIhQwjQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gP4YMIhQwjQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gP4YMIhQwjQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS Media Music +",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[가사비디오 / Lyric Video] 남우진 - 하얀마음 하얀사랑",
+                    "description": "☑ 신청곡은 커뮤니티 댓글로 적어주세요  ▶https://www.youtube.com/@kbsmediamusicplus/community\n\n하얀마음 하얀사랑\n고이고이 엮어서\n비둘기처럼 다정히\n사랑을 하리 그대와\n\n하늘에 별 하나 별 둘\n찬란하게 빛나면\n별 하나 별 둘 헤면서\n밤 깊은 줄 모르네\n\n하얀마음 하얀사랑\n고이고이 엮어서\n비둘기처럼 다정히\n사랑을 하리 그대와\n\n하늘에 별 하나 별 둘\n찬란하게 빛나면\n별 하나 별 둘 헤면서\n밤 깊은 줄 모르네\n\n하얀마음 하얀사랑\n고이고이 엮어서\n비둘기처럼 다정히\n사랑을 하리 그대와\n\n\n#남우진 #하얀마음하얀사랑 #지구레코드"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "193",
+                "likeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

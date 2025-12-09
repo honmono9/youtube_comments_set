@@ -1,0 +1,84 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "DanufC1X9rjLro9XFUAemu98Sz8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ExVLIyQ4CAqiCxPkUnK4trVJ0H4",
+            "id": "bNc6ZbnrWzM",
+            "snippet": {
+                "publishedAt": "2025-08-23T10:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Romantic Autumn Jazz in New York Café | Vintage Smooth Saxophone Jazz Playlist",
+                "description": "Step into 1950s New York, where autumn nights glow with romance and the smooth sound of saxophone jazz fills the cafés. 🎷🍂\nThis vintage playlist is perfect for cozy evenings, studying, working, or simply relaxing with a cup of coffee.\nLet the timeless charm of romantic autumn jazz carry you through the city lights and golden fall memories. 🌆✨\n\n#jazz #jazzinstrumental #autumnjazz #relaxingjazz #saxophonejazz #saxophonemusic #Romanticjazz #VintageJazz #SmoothSaxophoneJazz\n#NewYorkCaféjazz #FallJazzMusic #RomanticJazzMusic #VintageJazz #CozyEveningJazz #RomanticSmoothJazzSaxophone #AutumnJazzCaféPlaylist #relaxnightjazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bNc6ZbnrWzM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bNc6ZbnrWzM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bNc6ZbnrWzM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bNc6ZbnrWzM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "guitar jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "rain jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "saxophone jazz",
+                    "autumn jazz",
+                    "new york jazz",
+                    "1950s jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Romantic Autumn Jazz in New York Café | Vintage Smooth Saxophone Jazz Playlist",
+                    "description": "Step into 1950s New York, where autumn nights glow with romance and the smooth sound of saxophone jazz fills the cafés. 🎷🍂\nThis vintage playlist is perfect for cozy evenings, studying, working, or simply relaxing with a cup of coffee.\nLet the timeless charm of romantic autumn jazz carry you through the city lights and golden fall memories. 🌆✨\n\n#jazz #jazzinstrumental #autumnjazz #relaxingjazz #saxophonejazz #saxophonemusic #Romanticjazz #VintageJazz #SmoothSaxophoneJazz\n#NewYorkCaféjazz #FallJazzMusic #RomanticJazzMusic #VintageJazz #CozyEveningJazz #RomanticSmoothJazzSaxophone #AutumnJazzCaféPlaylist #relaxnightjazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "944",
+                "likeCount": "24",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "9osGVV2Co_zNK-mx34ic3Ot1Rsg",
+        "id": "Ugx1duy9bRC5caG2Fox4AaABAg",
+        "snippet": {
+            "channelId": "UCXj1cdrw4nVpiqi3ffc-ZCw",
+            "videoId": "1iDDdeDoQCw",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "QoQ0nNUu67SE74hFeKk4rmNdo8s",
+                "id": "Ugx1duy9bRC5caG2Fox4AaABAg",
+                "snippet": {
+                    "channelId": "UCXj1cdrw4nVpiqi3ffc-ZCw",
+                    "videoId": "1iDDdeDoQCw",
+                    "textDisplay": "Súper ✨",
+                    "textOriginal": "Súper ✨",
+                    "authorDisplayName": "@ImparStudio",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l01BbL5lABX-SbH32JPbtxYFTw0q_8IG6OWmxVRCh7FG4ikXjaFwgCw3dicMdaW20FGg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@ImparStudio",
+                    "authorChannelId": {
+                        "value": "UCOEP0ZqJwY9lbrFwLmLzw1w"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-01T10:45:17Z",
+                    "updatedAt": "2025-11-01T10:45:17Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

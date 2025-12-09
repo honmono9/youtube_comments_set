@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Wg1Ju9wiCQj0b4Yy9CVIS_MKYFg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "D15imkxhk2Bo2frMKJ5CtS9lSho",
+            "id": "2ACT-Q9Z1Rg",
+            "snippet": {
+                "publishedAt": "2020-12-20T10:06:50Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "달콤한 꿈속에서 만난 떠돌이 행성",
+                "description": "관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd9W1lu_7wrifRHYdYEYdzcu\n\n이미지: Brian Mcgowan",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2ACT-Q9Z1Rg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2ACT-Q9Z1Rg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2ACT-Q9Z1Rg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2ACT-Q9Z1Rg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2ACT-Q9Z1Rg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "팝송 모음",
+                    "플레이리스트",
+                    "잔잔한 팝송",
+                    "겨울 팝송",
+                    "팝송",
+                    "best songs",
+                    "playlist",
+                    "alternative songs",
+                    "얼터너티브 팝송",
+                    "우주",
+                    "우주 노래",
+                    "달달한 팝송"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "달콤한 꿈속에서 만난 떠돌이 행성",
+                    "description": "관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd9W1lu_7wrifRHYdYEYdzcu\n\n이미지: Brian Mcgowan"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT27M28S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "31942",
+                "likeCount": "853",
+                "favoriteCount": "0",
+                "commentCount": "87"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

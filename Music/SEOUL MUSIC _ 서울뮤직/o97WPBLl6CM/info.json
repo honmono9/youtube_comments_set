@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "z7QlepQGr9UoNw_3KTJie9UckFA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Pz8_CDYhYu9EmO4h3GMZG-akTl0",
+            "id": "o97WPBLl6CM",
+            "snippet": {
+                "publishedAt": "2022-08-01T03:00:20Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[MV] 수현(유키스) (SooHyun(UKISS)) - 소주의 요정 (The Soju Fairy) / Official Music Video",
+                "description": "[MV] 수현(유키스) (SooHyun(UKISS)) - 소주의 요정 (The Soju Fairy) / Official Music Video\n\nLyrics by 김미진, 강이든\nComposed by Jamie Song\nArranged by Jamie Song\n\n이번 앨범의 타이틀곡 '소주의 요정'은 록 기반의 팝 댄스 곡으로, 재즈, 블루스적인 요소들을 곡에 가미하여 음악적으로 풍성한 느낌을 주는 곡이다. 남자가 사랑에 빠지는 과정을 소주를 마시면서 취하는 감정의 변화로 표현한 재밌고 독특한 설정의 곡이다. 특히 이 곡은 밴드 '빛과 소금'의 명곡인 '샴푸의 요정'의 제목을 오마주한 곡이기도 하다.\n\n#수현 #유키스 #SooHyun #UKISS #소주의요정 #newrelease",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o97WPBLl6CM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o97WPBLl6CM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o97WPBLl6CM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/o97WPBLl6CM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/o97WPBLl6CM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "tags": [
+                    "new release",
+                    "kpop",
+                    "수현",
+                    "유키스",
+                    "유키스 수현",
+                    "소주의 요정",
+                    "SooHyun",
+                    "UKISS",
+                    "The Soju Fairy",
+                    "COUNT ON ME",
+                    "댄스",
+                    "Kpop dance",
+                    "kpop idol"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[MV] 수현(유키스) (SooHyun(UKISS)) - 소주의 요정 (The Soju Fairy) / Official Music Video",
+                    "description": "[MV] 수현(유키스) (SooHyun(UKISS)) - 소주의 요정 (The Soju Fairy) / Official Music Video\n\nLyrics by 김미진, 강이든\nComposed by Jamie Song\nArranged by Jamie Song\n\n이번 앨범의 타이틀곡 '소주의 요정'은 록 기반의 팝 댄스 곡으로, 재즈, 블루스적인 요소들을 곡에 가미하여 음악적으로 풍성한 느낌을 주는 곡이다. 남자가 사랑에 빠지는 과정을 소주를 마시면서 취하는 감정의 변화로 표현한 재밌고 독특한 설정의 곡이다. 특히 이 곡은 밴드 '빛과 소금'의 명곡인 '샴푸의 요정'의 제목을 오마주한 곡이기도 하다.\n\n#수현 #유키스 #SooHyun #UKISS #소주의요정 #newrelease"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "16571",
+                "likeCount": "1083",
+                "favoriteCount": "0",
+                "commentCount": "128"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "seHhzXvQtas3_YcmLGAGvshn6Vs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "22JSt--3kx0iQZSYf3-WCvHSeJ8",
+            "id": "KHe8oS4fMNw",
+            "snippet": {
+                "publishedAt": "2025-12-01T09:00:34Z",
+                "channelId": "UCwIiyFphTd-eTeLBvh8riNw",
+                "title": "[김희재 - 꽃을 든 남자/최석준] #트로트클라쓰 #trotclass #k_music #고흥유자페스타",
+                "description": "✨트로트클라쓰X고흥유자축제✨TV방송 159회 💙TROT CLASS\n📌11/28(금) 오후 6시5분~ 여수MBC TV+유튜브 최초공개!\n★출연 - 마이진/김희재/이미리/류기진/MC양성화\n🎬장소 - 고흥 유자공원 축제장\n전체보기▶https://youtu.be/peCPkove8SM\n\n#트로트클라쓰 #트로트클라쓰공개방송 #고흥유자축제 #고흥유자페스타 #trotclass",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KHe8oS4fMNw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KHe8oS4fMNw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KHe8oS4fMNw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KHe8oS4fMNw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KHe8oS4fMNw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "여수MBC Music+(Kpop&Trot)",
+                "tags": [
+                    "여수MBC",
+                    "여수MBC뮤직",
+                    "여수MBC Music+",
+                    "뮤직플러스",
+                    "트로트",
+                    "트로트메들리",
+                    "인기트로트",
+                    "trot",
+                    "ktrot"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[김희재 - 꽃을 든 남자/최석준] #트로트클라쓰 #trotclass #k_music #고흥유자페스타",
+                    "description": "✨트로트클라쓰X고흥유자축제✨TV방송 159회 💙TROT CLASS\n📌11/28(금) 오후 6시5분~ 여수MBC TV+유튜브 최초공개!\n★출연 - 마이진/김희재/이미리/류기진/MC양성화\n🎬장소 - 고흥 유자공원 축제장\n전체보기▶https://youtu.be/peCPkove8SM\n\n#트로트클라쓰 #트로트클라쓰공개방송 #고흥유자축제 #고흥유자페스타 #trotclass"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "562",
+                "likeCount": "81",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

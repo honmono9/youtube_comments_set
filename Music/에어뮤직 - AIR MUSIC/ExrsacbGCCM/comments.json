@@ -1,0 +1,104 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "dRVZtpnTWJB-vqoHO2hPpZUEtgM",
+        "id": "Ugz4AjUsCGTmjXtSxSR4AaABAg",
+        "snippet": {
+            "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+            "videoId": "ExrsacbGCCM",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "CP-o8kQoyPS6d1g52sRUUJIhBDY",
+                "id": "Ugz4AjUsCGTmjXtSxSR4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                    "videoId": "ExrsacbGCCM",
+                    "textDisplay": "Better ❤️❤️❤️",
+                    "textOriginal": "Better ❤️❤️❤️",
+                    "authorDisplayName": "@polianatavaresalves1864",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/Sqt9M5rCH_Cu9TL_ITBuhwwKYRwnYDUTnJFq7zOmJi2r0Wuj1Vsc3lj_tS4vPn-gFBgRXxHf2Q=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@polianatavaresalves1864",
+                    "authorChannelId": {
+                        "value": "UCCvXB-yGKzbutE_9YcjK8sQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2024-08-23T22:11:31Z",
+                    "updatedAt": "2024-08-23T22:11:31Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "lX9Wd7tNLbYvbDMZcdSffMSpeKI",
+        "id": "UgwpG6XpMOJaMmQWlpp4AaABAg",
+        "snippet": {
+            "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+            "videoId": "ExrsacbGCCM",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "pKvdGKEio5Zno69Sus1qSW2K3Eo",
+                "id": "UgwpG6XpMOJaMmQWlpp4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                    "videoId": "ExrsacbGCCM",
+                    "textDisplay": "Poderia ter a tradução pra português né",
+                    "textOriginal": "Poderia ter a tradução pra português né",
+                    "authorDisplayName": "@Prirmcarvalho",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/yRAWnpKgCyQn-REEv9d0Hb2SJjxutSoh45U671BA6CcUGm6XaHjlw_tiU8h2DoZXnoK07Tagig=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@Prirmcarvalho",
+                    "authorChannelId": {
+                        "value": "UCRpt77aCXyJ_vhATSSX_ZLw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2024-08-23T10:46:37Z",
+                    "updatedAt": "2024-08-23T10:46:37Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "nWdDTLVBu_yjGolAoJZv9-ZnG0Q",
+        "id": "Ugyp52JjTT5Ty_jEyed4AaABAg",
+        "snippet": {
+            "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+            "videoId": "ExrsacbGCCM",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Df7ERoKIbEyrn8CU-L172h5ksB0",
+                "id": "Ugyp52JjTT5Ty_jEyed4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                    "videoId": "ExrsacbGCCM",
+                    "textDisplay": "❤❤❤",
+                    "textOriginal": "❤❤❤",
+                    "authorDisplayName": "@sacdnd-am2000",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/9j6U4oDx_qx7RBNMa8hWps8qcz3cImOSxHvMnpuyozT8_oJJJbTvJcv276H2ua23THpapkRZ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@sacdnd-am2000",
+                    "authorChannelId": {
+                        "value": "UCWtjr09vbyaZaCgmKXXb8CA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2024-08-21T16:43:08Z",
+                    "updatedAt": "2024-08-21T16:43:08Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

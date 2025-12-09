@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "1XjQQ-b1ck_J208mPERBQ71s5vY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "UUvmw29wi6B9SOVfyUWao9D-emw",
+            "id": "NfHb78gKmNY",
+            "snippet": {
+                "publishedAt": "2025-11-17T20:12:07Z",
+                "channelId": "UCfrWVh-4M98j1WtDIR9IVNg",
+                "title": "TOP 5/Rap and Reggae Remix/MUSIC FRANZ/@MusicprinceFR @Rabzmusics @TopTrending ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NfHb78gKmNY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NfHb78gKmNY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NfHb78gKmNY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NfHb78gKmNY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NfHb78gKmNY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MUSIC FRANZ ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "TOP 5/Rap and Reggae Remix/MUSIC FRANZ/@MusicprinceFR @Rabzmusics @TopTrending ",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT13M36S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "91",
+                "likeCount": "8",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

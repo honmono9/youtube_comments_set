@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "u-thvMGyqR1Q4VJb-Pinsxk1-EI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "6b9u70NGaYxUgr-jNOyyebvdICk",
+            "id": "4X-VUwr8Qbg",
+            "snippet": {
+                "publishedAt": "2023-06-02T09:00:15Z",
+                "channelId": "UCE4IM82TdhmOl4Qtn8nsaGQ",
+                "title": "[Official M/V] 키드밀리 (Kid Milli) - HONDA !",
+                "description": "#KidMilli \n#HONDA ! #MV\n\n#키드밀리 (Kid Milli) - HONDA !\nAvailable on all streaming platforms.\n_______________________________________________\n\n[ Credit ]\n\nMV Directed by Lafic @lafic\n_\n\nLyrics by Kid Milli, Raf Sandou, wnsday\nComposed by Coa White, Kid Milli, Raf Sandou, wnsday\nArranged by Coa White\n\nMix & mastered by sAewoo @ WDP Studio\n\nExecutive Producer Jihoon Moon\nA&R Changmo Kwon\nManagement by Jinhyeok Kim\n\n_______________________________________________\n\n[ Official Channel ]\n\nKid Milli ㅣ https://www.instagram.com/kidcozyboy\n\nIndigo Music  ㅣ  https://www.instagram.com/indigomusic\nAP Alchemy  ㅣ  https://www.instagram.com/ap_alchemy\n\n\n(C) 2023 Indigo Music Corp.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4X-VUwr8Qbg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4X-VUwr8Qbg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4X-VUwr8Qbg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4X-VUwr8Qbg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "AP Alchemy It's Indigo Music",
+                "tags": [
+                    "키드밀리",
+                    "Kid Milli",
+                    "HONDA !",
+                    "BEIGE",
+                    "키드밀리 뮤비",
+                    "키드밀리 혼다 뮤비",
+                    "키드밀리 베이지 뮤비",
+                    "인디고뮤직"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[Official M/V] 키드밀리 (Kid Milli) - HONDA !",
+                    "description": "#KidMilli \n#HONDA ! #MV\n\n#키드밀리 (Kid Milli) - HONDA !\nAvailable on all streaming platforms.\n_______________________________________________\n\n[ Credit ]\n\nMV Directed by Lafic @lafic\n_\n\nLyrics by Kid Milli, Raf Sandou, wnsday\nComposed by Coa White, Kid Milli, Raf Sandou, wnsday\nArranged by Coa White\n\nMix & mastered by sAewoo @ WDP Studio\n\nExecutive Producer Jihoon Moon\nA&R Changmo Kwon\nManagement by Jinhyeok Kim\n\n_______________________________________________\n\n[ Official Channel ]\n\nKid Milli ㅣ https://www.instagram.com/kidcozyboy\n\nIndigo Music  ㅣ  https://www.instagram.com/indigomusic\nAP Alchemy  ㅣ  https://www.instagram.com/ap_alchemy\n\n\n(C) 2023 Indigo Music Corp."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M9S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "125737",
+                "likeCount": "3577",
+                "favoriteCount": "0",
+                "commentCount": "164"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

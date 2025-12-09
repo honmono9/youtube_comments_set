@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "6beBM8mMFl5tHn0-2roau9Vpx_k",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "MnIMVmTzPbIpsnrDxp5WBsaxJX8",
+            "id": "EuZHFxUt5Z0",
+            "snippet": {
+                "publishedAt": "2025-10-27T15:25:06Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Soundgarden - Spoonman | Soul AI Cover",
+                "description": "Spoonman by Soundgarden twisted into Soul Music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\n(Ow, uh)\n\nFeel the rhythm with your hands\n(Steal the rhythm while you can)\nSpoonman\nSpeak the rhythm on your own\n(Speak the rhythm all alone)\nSpoonman\n\nSpoonman, come together with your hands\nSave me, I'm together with your plan\nSave me\nSave, oh\n\nAll my friends are Indians\n(All my friends are brown and red)\nSpoonman\nAnd all my friends are skeletons\n(And beat the rhythm with their bones)\nSpoonman, oh oh\n\nSpoonman, come together with your hands\nSave me, I'm together with your plan\nSave me\nSave, save me\nSave me, yeah\nSave\n\nWith your- (C'mon, c'mon, c'mon\nC'mon, c'mon, c'mon\nC'mon, c'mon, c'mon\nC'mon, c'mon, c'mon)\nWith your hands\nWith your hands\nC'mon, c'mon, c'mon, c'mon.... -hands\n\nCome on while I get off, come on while I get off\nCome on while I get off, come on while I get off\nCome on while I get off, come on while I get off\nCome on while I get off, come on while I get off!\n\nSpoonman, come together with your hands\nSave me, I'm together with your plan\nSave me\nSave, yeah!\nSave me\nWith your, with your hands\n\nFeel the rhythm with your hands\n(Steal the rhythm while you can)\nSpoonman",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EuZHFxUt5Z0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EuZHFxUt5Z0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EuZHFxUt5Z0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EuZHFxUt5Z0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EuZHFxUt5Z0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Soundgarden - Spoonman | Soul AI Cover",
+                    "description": "Spoonman by Soundgarden twisted into Soul Music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\n(Ow, uh)\n\nFeel the rhythm with your hands\n(Steal the rhythm while you can)\nSpoonman\nSpeak the rhythm on your own\n(Speak the rhythm all alone)\nSpoonman\n\nSpoonman, come together with your hands\nSave me, I'm together with your plan\nSave me\nSave, oh\n\nAll my friends are Indians\n(All my friends are brown and red)\nSpoonman\nAnd all my friends are skeletons\n(And beat the rhythm with their bones)\nSpoonman, oh oh\n\nSpoonman, come together with your hands\nSave me, I'm together with your plan\nSave me\nSave, save me\nSave me, yeah\nSave\n\nWith your- (C'mon, c'mon, c'mon\nC'mon, c'mon, c'mon\nC'mon, c'mon, c'mon\nC'mon, c'mon, c'mon)\nWith your hands\nWith your hands\nC'mon, c'mon, c'mon, c'mon.... -hands\n\nCome on while I get off, come on while I get off\nCome on while I get off, come on while I get off\nCome on while I get off, come on while I get off\nCome on while I get off, come on while I get off!\n\nSpoonman, come together with your hands\nSave me, I'm together with your plan\nSave me\nSave, yeah!\nSave me\nWith your, with your hands\n\nFeel the rhythm with your hands\n(Steal the rhythm while you can)\nSpoonman"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5361",
+                "likeCount": "154",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

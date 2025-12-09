@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "XfgzhvnZ1LQbNmT3y-D-2n53DhE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "mFL8beKe3Yu4Jje3NtE4l7MsGAY",
+            "id": "9U1bXe0kS04",
+            "snippet": {
+                "publishedAt": "2020-07-14T11:04:12Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "어느 칵테일 바에서 흘러나오는 감각적인 일렉",
+                "description": "- Photo by Kit Suman\n\n- 맬러리 뮤직 Mallory Music\ninstagram: https://instagram.com/mallory_playlist\nspotify: https://open.spotify.com/user/vu7nka2udi3uow4uwbf1dub4b?si=ITQBaM5yRZKHlX63reNEnw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9U1bXe0kS04/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9U1bXe0kS04/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9U1bXe0kS04/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9U1bXe0kS04/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9U1bXe0kS04/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "여름 팝송",
+                    "여름 노래",
+                    "summer songs",
+                    "감성 팝송",
+                    "여름 일렉",
+                    "일렉",
+                    "summer electronica",
+                    "best summer popular song",
+                    "신나는 팝송",
+                    "플레이리스트"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "어느 칵테일 바에서 흘러나오는 감각적인 일렉",
+                    "description": "- Photo by Kit Suman\n\n- 맬러리 뮤직 Mallory Music\ninstagram: https://instagram.com/mallory_playlist\nspotify: https://open.spotify.com/user/vu7nka2udi3uow4uwbf1dub4b?si=ITQBaM5yRZKHlX63reNEnw"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT26M48S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "134895",
+                "likeCount": "3394",
+                "favoriteCount": "0",
+                "commentCount": "133"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

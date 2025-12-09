@@ -1,0 +1,102 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "lvAHr7BZ0FojpZZdK7lYrBTKXjU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "kb895t3JbngHyj2lYoNlU1rJiIo",
+            "id": "ANZn-1ZzYps",
+            "snippet": {
+                "publishedAt": "2025-08-20T09:00:23Z",
+                "channelId": "UC3fPnB3ds2xBY1PTtgkCCYw",
+                "title": "2025클럽에서 유행하는 노래#3",
+                "description": "#아스터 #2025클럽에서유행하는노래 #네오\n좋아요 구독 댓글은 사랑입니다..❤\n\n00:01 ━━❚━━━━━━ 01:06:34(광고제거 클릭) 📌\n ⇆ ⠀⠀⠀⠀⠀◃ ❚❚ ▹ ⠀⠀⠀⠀ ↻\n\n수익 및 광고가 없는 영상이지만\n음원 저작권과 조회수에 따라 유튜브에서 자체적으로 광고가 삽입될 수 있습니다! \n 01:06:34클릭후 다시 00:01 앞으로 돌아가시면 광고가 사라집니다!!\n\n00:03 DJ아스터 & DJ네오\n23:30 DJ브릭스 & DJ허밋\n46:00 DJ요섭 & DJ미닛\n\n인스타그램\n아스터 @ASTER_DJOFFICIAL\n네오 @NEO_KOR  \n브릭스 @BRIXX_INSTA\n허밋 @H_HXRMXT\n요섭 @YOSUP_00\n미닛 @KYUN9MINUTE",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ANZn-1ZzYps/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ANZn-1ZzYps/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ANZn-1ZzYps/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ANZn-1ZzYps/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ANZn-1ZzYps/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ASTER MUSIC",
+                "tags": [
+                    "클럽에서 유행하는 노래",
+                    "아스터",
+                    "네오",
+                    "롯데 아웃송",
+                    "뛰어 remix",
+                    "블랙핑크 노래",
+                    "올데프",
+                    "신나는 노래",
+                    "과제할때노래",
+                    "과제할때",
+                    "드라이브 할떄",
+                    "운전할때",
+                    "클럽음악",
+                    "신나는",
+                    "스트레스 노래",
+                    "춤출때 노래",
+                    "dj aster",
+                    "dj neo",
+                    "arkins",
+                    "tpa",
+                    "페스티벌",
+                    "워터밤"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "2025클럽에서 유행하는 노래#3",
+                    "description": "#아스터 #2025클럽에서유행하는노래 #네오\n좋아요 구독 댓글은 사랑입니다..❤\n\n00:01 ━━❚━━━━━━ 01:06:34(광고제거 클릭) 📌\n ⇆ ⠀⠀⠀⠀⠀◃ ❚❚ ▹ ⠀⠀⠀⠀ ↻\n\n수익 및 광고가 없는 영상이지만\n음원 저작권과 조회수에 따라 유튜브에서 자체적으로 광고가 삽입될 수 있습니다! \n 01:06:34클릭후 다시 00:01 앞으로 돌아가시면 광고가 사라집니다!!\n\n00:03 DJ아스터 & DJ네오\n23:30 DJ브릭스 & DJ허밋\n46:00 DJ요섭 & DJ미닛\n\n인스타그램\n아스터 @ASTER_DJOFFICIAL\n네오 @NEO_KOR  \n브릭스 @BRIXX_INSTA\n허밋 @H_HXRMXT\n요섭 @YOSUP_00\n미닛 @KYUN9MINUTE"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1H6M34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "725925",
+                "likeCount": "5299",
+                "favoriteCount": "0",
+                "commentCount": "288"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

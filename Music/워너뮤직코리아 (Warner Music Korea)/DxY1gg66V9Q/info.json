@@ -1,0 +1,71 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "AZ3YkK5pJpUBWYQIS8jqILGpL3k",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "aHrO6RbaX4jp6Jg5-sEMEcANbK4",
+            "id": "DxY1gg66V9Q",
+            "snippet": {
+                "publishedAt": "2025-12-06T03:00:18Z",
+                "channelId": "UCLvhr40dgoBcV4XBlOhauNw",
+                "title": "제이창 (Jay Chang) - Runaway [Video]",
+                "description": "#JayChang #제이창 #Runaway\nJay Chang 1st Digital Single ‘Runaway’\n\n[Credit] \nLyrics by ONE.KI, Jay Chang \nComposed by RODA, ONE.KI\nArranged by RODA\n\n#JayChang #제이창 #Runaway",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DxY1gg66V9Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DxY1gg66V9Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DxY1gg66V9Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DxY1gg66V9Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DxY1gg66V9Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "워너뮤직코리아 (Warner Music Korea)",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "제이창 (Jay Chang) - Runaway [Video]",
+                    "description": "#JayChang #제이창 #Runaway\nJay Chang 1st Digital Single ‘Runaway’\n\n[Credit] \nLyrics by ONE.KI, Jay Chang \nComposed by RODA, ONE.KI\nArranged by RODA\n\n#JayChang #제이창 #Runaway"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1043",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

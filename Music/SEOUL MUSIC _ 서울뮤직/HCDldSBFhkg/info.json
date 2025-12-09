@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "0QhdhNUe3BdFgsysi1qYlr1PF9A",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Kd1w5XoVwkRUqBUcspHlMqoKLrQ",
+            "id": "HCDldSBFhkg",
+            "snippet": {
+                "publishedAt": "2023-06-09T09:30:03Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[Weekly] 6월 2주차 신곡 하이라이트",
+                "description": "🎧 이번 주 서울뮤직의 신곡을 들어보세요!\n\n1. 네이비쿼카 (NavyQuokka) - Happy today\n2. SHIRT, whvts - 도화지 (Feat. Lotionmoney)\n3. 스내키챈 (Snacky Chan) - Delorean (Prod. Liquor well)\n4. 윤누구 - 슬럼프\n5. 홈보이 (Homeboy),swimmingpxxl (스위밍풀) - payboy (prod. edenbyeden)\n\n#weekly #seoulmusic #newrelease #shorts",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HCDldSBFhkg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HCDldSBFhkg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HCDldSBFhkg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HCDldSBFhkg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HCDldSBFhkg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "tags": [
+                    "weekly",
+                    "위클리",
+                    "서울뮤직",
+                    "위클리 서울뮤직",
+                    "서울뮤직 위클리",
+                    "네이비쿼카",
+                    "shirt",
+                    "whvts",
+                    "스내키챈",
+                    "윤누구",
+                    "홈보이"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Weekly] 6월 2주차 신곡 하이라이트",
+                    "description": "🎧 이번 주 서울뮤직의 신곡을 들어보세요!\n\n1. 네이비쿼카 (NavyQuokka) - Happy today\n2. SHIRT, whvts - 도화지 (Feat. Lotionmoney)\n3. 스내키챈 (Snacky Chan) - Delorean (Prod. Liquor well)\n4. 윤누구 - 슬럼프\n5. 홈보이 (Homeboy),swimmingpxxl (스위밍풀) - payboy (prod. edenbyeden)\n\n#weekly #seoulmusic #newrelease #shorts"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "254",
+                "likeCount": "8",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

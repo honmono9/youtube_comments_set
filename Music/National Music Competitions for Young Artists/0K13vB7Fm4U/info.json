@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "K9RZpO-feheN--9EidN4yVMbVnA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "nxz8bKePG92U52rSyv6Pl-R2Av4",
+            "id": "0K13vB7Fm4U",
+            "snippet": {
+                "publishedAt": "2025-12-09T02:45:01Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "An Chloë - Andrey Sto. Domingo (2nd Prize Winner) | NAMCYA 2025 Senior Voice A",
+                "description": "Andrey Dela Peña Sto. Domingo, Region V\n2nd Prize Winner of Senior Voice A Category\nNAMCYA 2025 FINALS\n\nNational Finals Performance \nAn Chloë – Wolfgang Amadeus Mozart\n\n\nNovember 18, 2025 \nManila Pianos, Makati City",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0K13vB7Fm4U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0K13vB7Fm4U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0K13vB7Fm4U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0K13vB7Fm4U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0K13vB7Fm4U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "An Chloë - Andrey Sto. Domingo (2nd Prize Winner) | NAMCYA 2025 Senior Voice A",
+                    "description": "Andrey Dela Peña Sto. Domingo, Region V\n2nd Prize Winner of Senior Voice A Category\nNAMCYA 2025 FINALS\n\nNational Finals Performance \nAn Chloë – Wolfgang Amadeus Mozart\n\n\nNovember 18, 2025 \nManila Pianos, Makati City"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2",
+                "likeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

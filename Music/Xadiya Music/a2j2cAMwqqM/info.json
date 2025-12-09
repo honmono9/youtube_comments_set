@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "QiNTl4reYzD-E2OFYyHSijwApYM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "uL0QdxEnjqmp7wI9AjT0ZIrBmow",
+            "id": "a2j2cAMwqqM",
+            "snippet": {
+                "publishedAt": "2025-10-19T18:10:47Z",
+                "channelId": "UCL_O5w1_yeGyukBIRB_1alw",
+                "title": "Get to Sleep now!! #music #deepsleep #musicforsleep #relaxing #calm #musicforsleep",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a2j2cAMwqqM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a2j2cAMwqqM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a2j2cAMwqqM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/a2j2cAMwqqM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/a2j2cAMwqqM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Xadiya Music",
+                "tags": [
+                    "music for sleep",
+                    "chill music",
+                    "piano music",
+                    "calm music",
+                    "deep sleep"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Get to Sleep now!! #music #deepsleep #musicforsleep #relaxing #calm #musicforsleep",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "id"
+            },
+            "contentDetails": {
+                "duration": "PT1M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "43",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

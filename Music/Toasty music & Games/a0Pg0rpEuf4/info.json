@@ -1,0 +1,76 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "YfwiqikDT2un3i9DpxbZjyf0Aa4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "bRi_Ii7szHCrT73SRGETL7eFOt0",
+            "id": "a0Pg0rpEuf4",
+            "snippet": {
+                "publishedAt": "2025-06-03T18:49:12Z",
+                "channelId": "UCTOiofhGz26Nn4uARfKI_Mg",
+                "title": "Nebula",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a0Pg0rpEuf4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a0Pg0rpEuf4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a0Pg0rpEuf4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/a0Pg0rpEuf4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/a0Pg0rpEuf4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Toasty music & Games",
+                "tags": [
+                    "music",
+                    "soundtrap"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Nebula",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "16",
+                "likeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

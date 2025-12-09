@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "V7Ypbvopcx5SFK17mD4h-RdoeuA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "eQJZlXic12XCtHeBPDQ8kDQHmNc",
+            "id": "SwBfcfqs4YI",
+            "snippet": {
+                "publishedAt": "2025-06-23T05:00:28Z",
+                "channelId": "UC6TJkBRLMFJ-9c7pXehoZwg",
+                "title": "세상이 요지경 어쩔래 🤷",
+                "description": "🎧 Out now on all streaming platforms \n🔗 https://lnk.to/BIGNaughty_DS_MUSIC\n\n#BIGNaughty #빅나티 #서동현#LEECHANHYUK #이찬혁#MUSIC #H1GHRMUSIC #하이어뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SwBfcfqs4YI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SwBfcfqs4YI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SwBfcfqs4YI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SwBfcfqs4YI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SwBfcfqs4YI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "H1GHR MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "세상이 요지경 어쩔래 🤷",
+                    "description": "🎧 Out now on all streaming platforms \n🔗 https://lnk.to/BIGNaughty_DS_MUSIC\n\n#BIGNaughty #빅나티 #서동현#LEECHANHYUK #이찬혁#MUSIC #H1GHRMUSIC #하이어뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "228332",
+                "likeCount": "3458",
+                "favoriteCount": "0",
+                "commentCount": "58"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

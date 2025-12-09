@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "K9laqW2z40xgP7caOLo94lwGH90",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "6qjqIbShoj8MmcMoQCp12EQORMI",
+            "id": "K2ciew7IVDo",
+            "snippet": {
+                "publishedAt": "2025-10-31T13:00:48Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Ndangero | arr. Eslon Hindundu",
+                "description": "Ndangero a traditional Namibian Song arranged by Eslon Hindunu for SATB voices.\n\nhttps://www.giamusic.com/store/resour...\n\nEslon Hindundu of Namibia has beautifully arranged this song from his country for SATB choir and solos. Sounding both other-worldly and peaceful, this interesting work has great appeal for a wide variety of audiences. The repetitive nature of both the music and the text will make Ndangero easy to learn for many levels.\n\nNdangero\n\nHe is the Lord who has died for my sins,\nHe is my Savior who created all.\nThe Lord who has done wonders \nin my life.\nI will give him praise, \nfor he is the hope in which we abide.\n\n#WaltonMusic #Choir #Choral",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K2ciew7IVDo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K2ciew7IVDo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K2ciew7IVDo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K2ciew7IVDo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K2ciew7IVDo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Ndangero | arr. Eslon Hindundu",
+                    "description": "Ndangero a traditional Namibian Song arranged by Eslon Hindunu for SATB voices.\n\nhttps://www.giamusic.com/store/resour...\n\nEslon Hindundu of Namibia has beautifully arranged this song from his country for SATB choir and solos. Sounding both other-worldly and peaceful, this interesting work has great appeal for a wide variety of audiences. The repetitive nature of both the music and the text will make Ndangero easy to learn for many levels.\n\nNdangero\n\nHe is the Lord who has died for my sins,\nHe is my Savior who created all.\nThe Lord who has done wonders \nin my life.\nI will give him praise, \nfor he is the hope in which we abide.\n\n#WaltonMusic #Choir #Choral"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "103",
+                "likeCount": "5",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

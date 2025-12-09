@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ACQxC6lNvU8RHsCnBX8BXxuL6nY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "eckiu5bYUCVcaM19i-TA05fEe40",
+            "id": "dscBPSv3he0",
+            "snippet": {
+                "publishedAt": "2025-11-09T11:13:56Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "Silver Rain {ฝนสีเทา} | Official Mv Coming soon 11-11-25 ฟังพร้อมกัน🎧🌧️ #rock #music #cinematicrock",
+                "description": "เมื่อท้องฟ้าร้องแทนเสียงหัวใจที่ยังไม่ลืม🌧️ #ฝนสีเทา #rock #cinematicrock #music #silverrain",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dscBPSv3he0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dscBPSv3he0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dscBPSv3he0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dscBPSv3he0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dscBPSv3he0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "tags": [
+                    "rain",
+                    "ฝนสีเทา",
+                    "เพลงรัก",
+                    "thai rock",
+                    "cinematic rock",
+                    "burapha music arena",
+                    "BMAarena",
+                    "Silver Rain"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "Silver Rain {ฝนสีเทา} | Official Mv Coming soon 11-11-25 ฟังพร้อมกัน🎧🌧️ #rock #music #cinematicrock",
+                    "description": "เมื่อท้องฟ้าร้องแทนเสียงหัวใจที่ยังไม่ลืม🌧️ #ฝนสีเทา #rock #cinematicrock #music #silverrain"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "10855",
+                "likeCount": "18",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

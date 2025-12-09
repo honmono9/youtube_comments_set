@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "wSxuuJ7jk-NBgbwu3z4HguBYFVI",
+        "id": "UgzwZ8aiXN9t4_XsjJJ4AaABAg",
+        "snippet": {
+            "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+            "videoId": "XkKByBganso",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "AFbr0b3WVdpxsvsSmub8umcFmuo",
+                "id": "UgzwZ8aiXN9t4_XsjJJ4AaABAg",
+                "snippet": {
+                    "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                    "videoId": "XkKByBganso",
+                    "textDisplay": "노래 좋더라고요",
+                    "textOriginal": "노래 좋더라고요",
+                    "authorDisplayName": "@예린이-hi",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ZhTVCgTHprrbZflnsGXeLYP8Q-7HRuf_OfHshj9KfYaFO4in4ZVT5-lWeVu2burObfFVH4DK=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EC%98%88%EB%A6%B0%EC%9D%B4-hi",
+                    "authorChannelId": {
+                        "value": "UClvVazzniY2_6KqMTY6Wd-A"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 3,
+                    "publishedAt": "2025-11-30T12:04:36Z",
+                    "updatedAt": "2025-11-30T12:04:36Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "lmFSUWHe2QPI6W7ca4c4C9Y-kKw",
+        "id": "Ugz0p8TqN8Dp1egi9Hh4AaABAg",
+        "snippet": {
+            "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+            "videoId": "XkKByBganso",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "SQzo4nd4soA9kMP2UWhTZ6UPEac",
+                "id": "Ugz0p8TqN8Dp1egi9Hh4AaABAg",
+                "snippet": {
+                    "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                    "videoId": "XkKByBganso",
+                    "textDisplay": "넘 잘춰요❤",
+                    "textOriginal": "넘 잘춰요❤",
+                    "authorDisplayName": "@체리-u1k3t",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/mm4vUsmrQ3oP-EVQJH9LnrKYn78_kFvdrVR5LmUMlhWxbNeOVnfeLrNAVpdaEYgzedmGRkBQywI=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EC%B2%B4%EB%A6%AC-u1k3t",
+                    "authorChannelId": {
+                        "value": "UCE25s9WvuyLhM5HVvIi-uug"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 5,
+                    "publishedAt": "2025-11-27T11:24:47Z",
+                    "updatedAt": "2025-11-27T11:24:47Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

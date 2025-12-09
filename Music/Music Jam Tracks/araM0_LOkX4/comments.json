@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "QAw7sfzTLfka1wLICIWczYjHtsY",
+        "id": "Ugx6vcljXe94w08SAfx4AaABAg",
+        "snippet": {
+            "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+            "videoId": "araM0_LOkX4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Ma7H0cBAxx5qbCgG0DBuDzpDn8A",
+                "id": "Ugx6vcljXe94w08SAfx4AaABAg",
+                "snippet": {
+                    "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+                    "videoId": "araM0_LOkX4",
+                    "textDisplay": "Clicked the ‘no bass’ link and it says it’s private…fyi.",
+                    "textOriginal": "Clicked the ‘no bass’ link and it says it’s private…fyi.",
+                    "authorDisplayName": "@brian-c-pearl",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ne34i6ehxqNPmMJZ5w7lMz-2XrANra1nHuUmg2lXvkomM=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@brian-c-pearl",
+                    "authorChannelId": {
+                        "value": "UC1q0tLi0pRr9guLhKZO_7LQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-08-03T14:57:23Z",
+                    "updatedAt": "2025-08-03T14:57:23Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

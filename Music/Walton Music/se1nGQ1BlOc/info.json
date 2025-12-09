@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "yXTrtY8DNAPnE2A8cjsEeUYRGVs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "uB7KQF32E0PeaTAWWBJpG99OKkI",
+            "id": "se1nGQ1BlOc",
+            "snippet": {
+                "publishedAt": "2025-07-25T13:01:48Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Travelin' Shoes | arr. Faith Zimmer",
+                "description": "Travelin' Shoes arranged by Faith Zimmer (Morgan) for SATB choirs.  \n\nThis arrangement of Travelin' Shoes is a driving and unique interpretation. Excellent vocal construction makes for vocal lines that are fun to sing and highly achievable. A dramatic addition to your concert program\n\nPurchase the music: https://www.giamusic.com/store/resource/travelin-shoes-print-ww1692\n\n#waltonmusic #choral #giamusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/se1nGQ1BlOc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/se1nGQ1BlOc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/se1nGQ1BlOc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/se1nGQ1BlOc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/se1nGQ1BlOc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Travelin' Shoes | arr. Faith Zimmer",
+                    "description": "Travelin' Shoes arranged by Faith Zimmer (Morgan) for SATB choirs.  \n\nThis arrangement of Travelin' Shoes is a driving and unique interpretation. Excellent vocal construction makes for vocal lines that are fun to sing and highly achievable. A dramatic addition to your concert program\n\nPurchase the music: https://www.giamusic.com/store/resource/travelin-shoes-print-ww1692\n\n#waltonmusic #choral #giamusic"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M9S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "171",
+                "likeCount": "5",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

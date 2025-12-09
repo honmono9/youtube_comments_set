@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "KGftWG6vYgd2eBYX5ycsJ8nfdvw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "VXG4L2XpJe_x4Q5dS61kPeMZXcE",
+            "id": "2AxjmLogZ8o",
+            "snippet": {
+                "publishedAt": "2020-09-06T03:00:00Z",
+                "channelId": "UC8gRco988IELoTNTl4OBd2w",
+                "title": "Bizzy '아름다운' 본인 등판 MV 리액션 (feat.트루퍼)",
+                "description": "비지 Bizzy 본인 등판! 그리고 걔/트루퍼의 정체! \nBizzy '아름다운 (once in my lifetime)' 뮤직비디오 리액션! \nBizzy and the stormtropper reacts to 'ONCE IN MY LIFE' 🕛🍴\n-\nBizzy\n아름다운(ONCE IN MY LIFE) 🕛🍴\n국내 외 모든 음원 스트리밍 사이트에서 감상 가능합니다. \n-\n@bizzionary\n#아름다운 #비지 #Bizzy #onceinmylife",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2AxjmLogZ8o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2AxjmLogZ8o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2AxjmLogZ8o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2AxjmLogZ8o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2AxjmLogZ8o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Feel Ghood Music [필굿뮤직]",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Bizzy '아름다운' 본인 등판 MV 리액션 (feat.트루퍼)",
+                    "description": "비지 Bizzy 본인 등판! 그리고 걔/트루퍼의 정체! \nBizzy '아름다운 (once in my lifetime)' 뮤직비디오 리액션! \nBizzy and the stormtropper reacts to 'ONCE IN MY LIFE' 🕛🍴\n-\nBizzy\n아름다운(ONCE IN MY LIFE) 🕛🍴\n국내 외 모든 음원 스트리밍 사이트에서 감상 가능합니다. \n-\n@bizzionary\n#아름다운 #비지 #Bizzy #onceinmylife"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M56S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "956",
+                "likeCount": "81",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

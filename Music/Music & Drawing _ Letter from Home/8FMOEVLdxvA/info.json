@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "uQbwQz8A0q3crsIGinzI73Of3NQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Pyc1ObNLSemknkj2EFM-UH9Z9nY",
+            "id": "8FMOEVLdxvA",
+            "snippet": {
+                "publishedAt": "2025-08-22T10:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Romantic Saxophone Jazz in Paris Café • Vintage Smooth Jazz for Autumn Evenings",
+                "description": "Experience the timeless charm of Paris with smooth vintage saxophone jazz by the Seine.\nImagine yourself at a riverside café, with the Eiffel Tower glowing in the distance, as warm saxophone melodies fill the evening air. Perfect for relaxing, studying, or enjoying a quiet romantic night.\n\n#jazz #instrumentaljazz #jazzinstrumental #nightjazz #nightmusic #jazzcafé #saxophonejazz #Seineriver #jazzsaxophone #relaxingjazz #saxophonemusic #romanticjazz #1950soldiesjazz #smoothjazz #autumnjazz #retrojazz #vintagemusic #vintagejazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8FMOEVLdxvA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8FMOEVLdxvA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8FMOEVLdxvA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8FMOEVLdxvA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8FMOEVLdxvA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "guitar jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "rain jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "saxophone jazz",
+                    "autumn jazz",
+                    "paris jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Romantic Saxophone Jazz in Paris Café • Vintage Smooth Jazz for Autumn Evenings",
+                    "description": "Experience the timeless charm of Paris with smooth vintage saxophone jazz by the Seine.\nImagine yourself at a riverside café, with the Eiffel Tower glowing in the distance, as warm saxophone melodies fill the evening air. Perfect for relaxing, studying, or enjoying a quiet romantic night.\n\n#jazz #instrumentaljazz #jazzinstrumental #nightjazz #nightmusic #jazzcafé #saxophonejazz #Seineriver #jazzsaxophone #relaxingjazz #saxophonemusic #romanticjazz #1950soldiesjazz #smoothjazz #autumnjazz #retrojazz #vintagemusic #vintagejazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H1M9S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "766",
+                "likeCount": "17",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

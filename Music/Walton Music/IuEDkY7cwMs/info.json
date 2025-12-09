@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "-WTr1uOu2-_nivuTHEcCd4i9rMs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ljz6_IjTNV2zno4DyL99AWEu7OM",
+            "id": "IuEDkY7cwMs",
+            "snippet": {
+                "publishedAt": "2025-08-12T18:25:15Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Can We Sing the Darkness to Light (full performance) | Kyle Pederson",
+                "description": "Enjoy this performance of Can We Sing the Darkness to Light by Kyle Pederson, performed by Transept, conducted by Timothy J. Campbell. This work is composed for SATB choir with divisi and piano. \n\nFor a mini-documentary about the piece, please go to https://www.youtube.com/watch?v=xpr94jBne6k.\n\nVideo production by Brian Gaukel. \n\nPurchase the music: https://giamusic.com/resource/can-we-sing-the-darkness-to-light-print-ww1736",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IuEDkY7cwMs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IuEDkY7cwMs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IuEDkY7cwMs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IuEDkY7cwMs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IuEDkY7cwMs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Can We Sing the Darkness to Light (full performance) | Kyle Pederson",
+                    "description": "Enjoy this performance of Can We Sing the Darkness to Light by Kyle Pederson, performed by Transept, conducted by Timothy J. Campbell. This work is composed for SATB choir with divisi and piano. \n\nFor a mini-documentary about the piece, please go to https://www.youtube.com/watch?v=xpr94jBne6k.\n\nVideo production by Brian Gaukel. \n\nPurchase the music: https://giamusic.com/resource/can-we-sing-the-darkness-to-light-print-ww1736"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT5M27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "511",
+                "likeCount": "13",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "spMiiYb1MA_uu-mKORFK2NMJFkE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "9PJ5tFtb_J8jpULkPG7tGp7MtTY",
+            "id": "uoH_Yb8T-uc",
+            "snippet": {
+                "publishedAt": "2023-09-06T10:00:42Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[MV] hiko - 날 사랑하는 너에게 / Official Music Video",
+                "description": "[MV] hiko - 날 사랑하는 너에게 / Official Music Video\n\ncredit :\n\nproduced by hiko, hoiwave\nlyrics by hiko\ncomposed by hiko, hoiwave\narranged by hiko, hoiwave\npiano, guitar, drum, bass, string by hoiwave\nchorus by hiko\n\nVideo Production : Studio Tintin\nVideo Director : 양예찬\nAssistant Director : 이지원\n\nSpecial Thanks to 신신예식장(최필순, 백남문)\n하영식, 이지원, 남윤걸, 장진영, 박기식, 양성미\n\nmixed by 고현정 @ KOKO Sound Studio\nmastered by 권남우 @ 821 Sound Mastering\n \nExecutive Producer : Jun Beck\nA&R : 윤성호, 임소연\nArtist Management : 김현철,정기열,박태일\n\n\n#hiko #newrelease",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uoH_Yb8T-uc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uoH_Yb8T-uc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uoH_Yb8T-uc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uoH_Yb8T-uc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uoH_Yb8T-uc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "tags": [
+                    "hiko",
+                    "날 사랑하는 너에게",
+                    "new release",
+                    "kpop",
+                    "최신곡",
+                    "노래 추천",
+                    "Kpop",
+                    "신곡",
+                    "인기곡",
+                    "인기 신곡",
+                    "최신음악",
+                    "뮤직비디오",
+                    "mv",
+                    "최신뮤비"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[MV] hiko - 날 사랑하는 너에게 / Official Music Video",
+                    "description": "[MV] hiko - 날 사랑하는 너에게 / Official Music Video\n\ncredit :\n\nproduced by hiko, hoiwave\nlyrics by hiko\ncomposed by hiko, hoiwave\narranged by hiko, hoiwave\npiano, guitar, drum, bass, string by hoiwave\nchorus by hiko\n\nVideo Production : Studio Tintin\nVideo Director : 양예찬\nAssistant Director : 이지원\n\nSpecial Thanks to 신신예식장(최필순, 백남문)\n하영식, 이지원, 남윤걸, 장진영, 박기식, 양성미\n\nmixed by 고현정 @ KOKO Sound Studio\nmastered by 권남우 @ 821 Sound Mastering\n \nExecutive Producer : Jun Beck\nA&R : 윤성호, 임소연\nArtist Management : 김현철,정기열,박태일\n\n\n#hiko #newrelease"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4416",
+                "likeCount": "155",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

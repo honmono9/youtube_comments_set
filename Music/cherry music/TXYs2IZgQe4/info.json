@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Phu2YbG9LTJJPKV4VZmdJQ0RF68",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "_tJkfCS70Sk3dbtxcRUWSnBvhIM",
+            "id": "TXYs2IZgQe4",
+            "snippet": {
+                "publishedAt": "2025-08-07T23:17:13Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "Cafe Playlist ☕ 사장님, 이 노래 제목 뭐에요? 자꾸 귀에 맴도는 카페 음악 🎶🌿",
+                "description": "📝 설명\n한 곡 한 곡 다 저장하고 싶어지는 오늘의 카페 음악.\n잔잔하지만 분위기를 꽉 채우는 선율들로, 귀가 먼저 반하고 마음이 따라옵니다.\n사장님께 괜히 물어보고 싶은 그 노래, 지금 이 플레이리스트에 있어요 ☕🎶\n\n🎧 이 플레이리스트의 모든 음악 저작권은 체리(CHERRY)에게 있습니다.\n\n00:00 Deadline  \n02:29 Zigzag  \n04:39 So I Stayed  \n07:54 Peace Instead  \n10:38 So I Hoped  \n13:56 A Letter  \n17:16 Do You Like Me  \n20:48 Time Rolls  \n25:02 My World  \n27:32 Scribbled  \n30:07 In Your Eyes  \n33:01 Stay  \n35:25 Find Your Way  \n39:00 On the Glass  \n41:50 Lovely Surprise  \n45:44 That Mean  \n47:58 You’re Joking Right  \n51:44 Cartoon  \n54:41 Far Away  \n57:09 Said We’d Meet  \n59:41 Into Your Dream  \n1:03:11 All Song Repeat\n\n📎 해시태그\n#카페플리 #감성음악 #CafePlaylist #사장님이틀어놓은노래 #ChillVibes #잔잔한노래 #카페음악 #CherryMusic #감성플레이리스트 #오늘의음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TXYs2IZgQe4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TXYs2IZgQe4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TXYs2IZgQe4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TXYs2IZgQe4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TXYs2IZgQe4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Cafe Playlist ☕ 사장님, 이 노래 제목 뭐에요? 자꾸 귀에 맴도는 카페 음악 🎶🌿",
+                    "description": "📝 설명\n한 곡 한 곡 다 저장하고 싶어지는 오늘의 카페 음악.\n잔잔하지만 분위기를 꽉 채우는 선율들로, 귀가 먼저 반하고 마음이 따라옵니다.\n사장님께 괜히 물어보고 싶은 그 노래, 지금 이 플레이리스트에 있어요 ☕🎶\n\n🎧 이 플레이리스트의 모든 음악 저작권은 체리(CHERRY)에게 있습니다.\n\n00:00 Deadline  \n02:29 Zigzag  \n04:39 So I Stayed  \n07:54 Peace Instead  \n10:38 So I Hoped  \n13:56 A Letter  \n17:16 Do You Like Me  \n20:48 Time Rolls  \n25:02 My World  \n27:32 Scribbled  \n30:07 In Your Eyes  \n33:01 Stay  \n35:25 Find Your Way  \n39:00 On the Glass  \n41:50 Lovely Surprise  \n45:44 That Mean  \n47:58 You’re Joking Right  \n51:44 Cartoon  \n54:41 Far Away  \n57:09 Said We’d Meet  \n59:41 Into Your Dream  \n1:03:11 All Song Repeat\n\n📎 해시태그\n#카페플리 #감성음악 #CafePlaylist #사장님이틀어놓은노래 #ChillVibes #잔잔한노래 #카페음악 #CherryMusic #감성플레이리스트 #오늘의음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3H9M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "45326",
+                "likeCount": "213",
+                "favoriteCount": "0",
+                "commentCount": "15"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

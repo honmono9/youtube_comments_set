@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Hs5HrEMDW_JmJVfo66RAtJvdbwM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "xDaGsOTHwZCUx0Z9N6VZ4NfiLaY",
+            "id": "cFfPbSNqNlo",
+            "snippet": {
+                "publishedAt": "2025-08-19T06:54:06Z",
+                "channelId": "UC9LkgSReKybPl-gABo3fbRQ",
+                "title": "[가사비디오 / Lyric Video] 넷소리 걸작 제 1집 - 밀양아리랑",
+                "description": "KBS MEDIA에서 새롭게 선보이는 음원들을 구독하고 만나보세요 '◡' ! \n   /   @KBSMEDIAMUSICPLUS\n\n날 좀 날 좀\n보소 보소\n내님아\n\n날 좀 날 좀\n보소 보소\n내님아\n\n야\n\n동지섣달\n꽃 본 듯이\n날 좀 보 소\n내님아\n\n정든 님이 오셨는데\n인사를 못해\n\n행주치마 입에 물고\n입만 빵긋빵긋\n\n아리 아리랑 스리 스리랑\n아라리가 났네\n\n아리 아리랑\n고개 고개를\n넘어 넘어 간다\n\n동지섣달\n꽃 본 듯이\n날 좀 보 소\n내님아\n\n정든 님이 오셨는데\n인사를 못해\n\n행주치마 입에 물고\n입만 빵긋빵긋\n\n아리 아리랑 스리 스리랑\n아라리가 났네\n\n아리 아리랑\n고개 고개를\n넘어 넘어 간다\n\n야\n\n\n\n#KBS미디어뮤직플러스 #KBSMEDIAMUSICPLUS #케이비에스미디어뮤직플러스 \n#넷소리걸작제1집 #밀양아리랑 #지구레코드",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cFfPbSNqNlo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cFfPbSNqNlo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cFfPbSNqNlo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cFfPbSNqNlo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cFfPbSNqNlo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS Media Music +",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[가사비디오 / Lyric Video] 넷소리 걸작 제 1집 - 밀양아리랑",
+                    "description": "KBS MEDIA에서 새롭게 선보이는 음원들을 구독하고 만나보세요 '◡' ! \n   /   @KBSMEDIAMUSICPLUS\n\n날 좀 날 좀\n보소 보소\n내님아\n\n날 좀 날 좀\n보소 보소\n내님아\n\n야\n\n동지섣달\n꽃 본 듯이\n날 좀 보 소\n내님아\n\n정든 님이 오셨는데\n인사를 못해\n\n행주치마 입에 물고\n입만 빵긋빵긋\n\n아리 아리랑 스리 스리랑\n아라리가 났네\n\n아리 아리랑\n고개 고개를\n넘어 넘어 간다\n\n동지섣달\n꽃 본 듯이\n날 좀 보 소\n내님아\n\n정든 님이 오셨는데\n인사를 못해\n\n행주치마 입에 물고\n입만 빵긋빵긋\n\n아리 아리랑 스리 스리랑\n아라리가 났네\n\n아리 아리랑\n고개 고개를\n넘어 넘어 간다\n\n야\n\n\n\n#KBS미디어뮤직플러스 #KBSMEDIAMUSICPLUS #케이비에스미디어뮤직플러스 \n#넷소리걸작제1집 #밀양아리랑 #지구레코드"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M24S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "107",
+                "likeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

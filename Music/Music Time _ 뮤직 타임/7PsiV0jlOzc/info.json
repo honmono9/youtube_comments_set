@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "BfkykV5xswpZZpuCQoHxtCBdzcM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "MuaxQFGOmJbp4sGszSvYFtXWu28",
+            "id": "7PsiV0jlOzc",
+            "snippet": {
+                "publishedAt": "2025-12-07T08:26:25Z",
+                "channelId": "UCYA3gLE34set7Xn_FVU8D0Q",
+                "title": "crybaby - YOU. [가사]",
+                "description": "crybaby - YOU. [가사]\n_\n아티스트:crybaby\n유형:싱글\n장르:알앤비/소울\n스타일:소울 팝\n발매일:2025.12.06\n유통사:워너뮤직코리아\n기획사:(주)스톤쉽\n_\n#crybaby #YOU",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7PsiV0jlOzc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7PsiV0jlOzc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7PsiV0jlOzc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7PsiV0jlOzc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7PsiV0jlOzc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Time | 뮤직 타임",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "crybaby - YOU. [가사]",
+                    "description": "crybaby - YOU. [가사]\n_\n아티스트:crybaby\n유형:싱글\n장르:알앤비/소울\n스타일:소울 팝\n발매일:2025.12.06\n유통사:워너뮤직코리아\n기획사:(주)스톤쉽\n_\n#crybaby #YOU"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M57S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "247",
+                "likeCount": "5",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

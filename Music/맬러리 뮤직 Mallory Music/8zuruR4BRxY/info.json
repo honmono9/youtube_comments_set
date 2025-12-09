@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "dQvMo_RJuX4gM8mUGi6bVvON8fE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "BAwjMrh9z1pY6e54Dnn4-gP5G_0",
+            "id": "8zuruR4BRxY",
+            "snippet": {
+                "publishedAt": "2022-10-19T11:00:03Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "잠 못드는 당신을 위한 몽글몽글한 자장가",
+                "description": "📸 Wesley Shen",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8zuruR4BRxY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8zuruR4BRxY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8zuruR4BRxY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8zuruR4BRxY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8zuruR4BRxY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "잔잔한 팝송",
+                    "잠잘때 듣는 음악",
+                    "팝송 추천",
+                    "playlist",
+                    "밤 플리",
+                    "late night song",
+                    "good night song"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "잠 못드는 당신을 위한 몽글몽글한 자장가",
+                    "description": "📸 Wesley Shen"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT30M27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "22185",
+                "likeCount": "448",
+                "favoriteCount": "0",
+                "commentCount": "42"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

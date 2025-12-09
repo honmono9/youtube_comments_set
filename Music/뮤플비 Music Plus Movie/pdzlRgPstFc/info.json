@@ -1,0 +1,105 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "eAi1Lnvw0YUhxwgb8i6R5oaZcSk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "_P4f6fOedmyIx_JSIjzK503fWlQ",
+            "id": "pdzlRgPstFc",
+            "snippet": {
+                "publishedAt": "2025-02-27T12:01:21Z",
+                "channelId": "UClbjf4pXBzXVk3ImyeBa__w",
+                "title": "🕸💥중독성 미쳐버린 친스파 오프닝 곡 : The Math Club - Neighbor Like Me [가사/번역/해석/Lyrics]",
+                "description": "🎧이어폰 착용은 필수입니다!\n📺화질을 1080p로 설정 후 시청해주세요!\n😁구독과 좋아요는 큰 힘이 됩니다!\n📝노래 가사에 오역이 있을 수 있습니다!\n\n\n[🎬영상자료🎬]\n당신의 친절한 이웃 스파이더맨 (2025)\n\n[🎶노래🎶]\nThe Math Club - Neighbor Like Me",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pdzlRgPstFc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pdzlRgPstFc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pdzlRgPstFc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pdzlRgPstFc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pdzlRgPstFc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뮤플비 Music Plus Movie",
+                "tags": [
+                    "팝송",
+                    "영화",
+                    "팝송가사해석",
+                    "가사해석",
+                    "당신의 친절한 이웃 스파이더맨 오프닝곡",
+                    "Your Friendly Neighborhood Spider-Man",
+                    "스파이더맨",
+                    "스파이더맨노웨이홈",
+                    "친스파",
+                    "친절한이웃스파이더맨",
+                    "스파이더맨오프닝",
+                    "친절한이웃스파이더맨오프닝",
+                    "당신의 친절한 이웃 스파이더맨ost",
+                    "피터파커",
+                    "마블",
+                    "피터",
+                    "The Math Club",
+                    "Neighbor Like Me 노래",
+                    "Neighbor Like Me 가사",
+                    "Neighbor Like Me",
+                    "The Math Club - Neighbor Like Me 가사",
+                    "The Math Club - Neighbor Like Me",
+                    "스파이더맨테마",
+                    "스파이더맨ost",
+                    "당신의 친절한 이웃 스파이더맨"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🕸💥중독성 미쳐버린 친스파 오프닝 곡 : The Math Club - Neighbor Like Me [가사/번역/해석/Lyrics]",
+                    "description": "🎧이어폰 착용은 필수입니다!\n📺화질을 1080p로 설정 후 시청해주세요!\n😁구독과 좋아요는 큰 힘이 됩니다!\n📝노래 가사에 오역이 있을 수 있습니다!\n\n\n[🎬영상자료🎬]\n당신의 친절한 이웃 스파이더맨 (2025)\n\n[🎶노래🎶]\nThe Math Club - Neighbor Like Me"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "85290",
+                "likeCount": "1927",
+                "favoriteCount": "0",
+                "commentCount": "46"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

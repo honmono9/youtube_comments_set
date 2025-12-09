@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ALNPer83OqUY2jlQfuYhFK5cDS8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "z3P0GVoZj-i-XnkzIQF9mdHeAE0",
+            "id": "PHzuWv6Q0wE",
+            "snippet": {
+                "publishedAt": "2019-10-29T03:40:23Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "062319 Tchaikovsky String Quartet No. 1 in D major Op. 11, mvt 1",
+                "description": "ENCORE Chamber Music 2019 Season 'La bohème' \nString Quartet Intensive Blooming Artists Concert\n\nCornell Quartet \nCarson McHaney, violin\nMayson Lane, violin\nAnders Cornell, viola\nMaya Enstad, cello",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PHzuWv6Q0wE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PHzuWv6Q0wE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PHzuWv6Q0wE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PHzuWv6Q0wE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PHzuWv6Q0wE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "tags": [
+                    "string quartet",
+                    "chamber music",
+                    "classical music",
+                    "violin",
+                    "viola",
+                    "cello"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "062319 Tchaikovsky String Quartet No. 1 in D major Op. 11, mvt 1",
+                    "description": "ENCORE Chamber Music 2019 Season 'La bohème' \nString Quartet Intensive Blooming Artists Concert\n\nCornell Quartet \nCarson McHaney, violin\nMayson Lane, violin\nAnders Cornell, viola\nMaya Enstad, cello"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT9M8S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "445",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

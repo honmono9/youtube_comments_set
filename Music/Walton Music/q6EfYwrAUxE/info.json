@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "GsXnYZPgr4ep_Iz35jVzZFxsTtA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "LWDjIpxIE4KnC1GDn_uGH19oo3c",
+            "id": "q6EfYwrAUxE",
+            "snippet": {
+                "publishedAt": "2025-11-21T14:01:26Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Steal Away | arr. Patrick Quigley",
+                "description": "This beautiful arrangement marries the traditional African-American Spiritual melody of Steal Away with a quasi-improvisational ostinato accompaniment. Suitable for both church and concert, this will be a wonderful addition to your choral library. Jo-Michael Scheibe Choral Series.\n\nhttps://www.giamusic.com/store/resour...\n\n#choir #choral #singing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q6EfYwrAUxE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q6EfYwrAUxE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q6EfYwrAUxE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/q6EfYwrAUxE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/q6EfYwrAUxE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Steal Away | arr. Patrick Quigley",
+                    "description": "This beautiful arrangement marries the traditional African-American Spiritual melody of Steal Away with a quasi-improvisational ostinato accompaniment. Suitable for both church and concert, this will be a wonderful addition to your choral library. Jo-Michael Scheibe Choral Series.\n\nhttps://www.giamusic.com/store/resour...\n\n#choir #choral #singing"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "53",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

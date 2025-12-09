@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "c51hEBSD_wiqefmyXmWIYTjmRmQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "PM2Bhmjvc6F4WkEKVpCTf9-OPnQ",
+            "id": "K9NH5a6LBlw",
+            "snippet": {
+                "publishedAt": "2025-07-31T23:00:19Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "Cafe Playlist ☕요즘 여름 카페에서는 다 이 노래 들어요 🎶🧊",
+                "description": "요즘 여름 카페에서는 이 노래들이 분위기를 책임지고 있어요.\n감성 가득한 멜로디와 함께 여유로운 시간 보내세요.\n커피 한 잔, 선선한 바람, 그리고 이 플레이리스트면 충분해요. 🌿☕💛\n\n\n#여름카페 #카페음악 #CafePlaylist #감성플리 #여름음악 #잔잔한노래 #여름브금 #카페브금 #여름감성 #Playlist\n\n🎧(Copyright © Cherry Music. All rights reserved.)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K9NH5a6LBlw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K9NH5a6LBlw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K9NH5a6LBlw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K9NH5a6LBlw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K9NH5a6LBlw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Cafe Playlist ☕요즘 여름 카페에서는 다 이 노래 들어요 🎶🧊",
+                    "description": "요즘 여름 카페에서는 이 노래들이 분위기를 책임지고 있어요.\n감성 가득한 멜로디와 함께 여유로운 시간 보내세요.\n커피 한 잔, 선선한 바람, 그리고 이 플레이리스트면 충분해요. 🌿☕💛\n\n\n#여름카페 #카페음악 #CafePlaylist #감성플리 #여름음악 #잔잔한노래 #여름브금 #카페브금 #여름감성 #Playlist\n\n🎧(Copyright © Cherry Music. All rights reserved.)"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3H9M11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "30162",
+                "likeCount": "167",
+                "favoriteCount": "0",
+                "commentCount": "22"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

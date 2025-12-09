@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "zi8JDNEjNJVcGh6EAsIE_iwZYOo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "UNFEcTdfI-uEYwwllRd324TxKnA",
+            "id": "aINNnYwDuDY",
+            "snippet": {
+                "publishedAt": "2022-02-26T23:30:48Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "다가오는 봄처럼 설레고 여유로운 팝송 함께 들어요 :)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aINNnYwDuDY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aINNnYwDuDY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aINNnYwDuDY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aINNnYwDuDY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aINNnYwDuDY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "봄 팝송",
+                    "봄 플리",
+                    "봄에 듣는 팝송",
+                    "팝송 모음",
+                    "봄 노래",
+                    "플레이리스트"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "다가오는 봄처럼 설레고 여유로운 팝송 함께 들어요 :)",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT24M34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "151955",
+                "likeCount": "1127",
+                "favoriteCount": "0",
+                "commentCount": "67"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

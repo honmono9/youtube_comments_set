@@ -1,0 +1,84 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "DbXC7QOmlBe-dw1DTEs_F4nbX3I",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "1qGJ7g-k-g4_Io2No-d98kFUr7g",
+            "id": "hjN7iTMLurE",
+            "snippet": {
+                "publishedAt": "2017-05-07T14:05:12Z",
+                "channelId": "UCquS6S5yOGk2j5YS6WHj6eA",
+                "title": "Antonello -  Track 2 & 5 Vocal Demo",
+                "description": "https://www.facebook.com/SiegfriedSongOfficial/\n\nHey, everyone. I had been pretty busy with my new business and lots of music projects. Sorry for not posting music for a while.\n\nI'm forming a new band and we have already a dozen of killer songs written by mighty Antonello Cimbasso.\n\nWe are currently looking for dedicated band members so anyone who has interest please PM me.\n\nHope you all have a great one!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hjN7iTMLurE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hjN7iTMLurE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hjN7iTMLurE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hjN7iTMLurE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hjN7iTMLurE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Siegfried Song",
+                "tags": [
+                    "Siegfried Song",
+                    "Antonello",
+                    "Antonello Cimbasso",
+                    "Symmetric Chaos",
+                    "SMG",
+                    "Spectre Media Group",
+                    "Gear Gods",
+                    "Warren Huart",
+                    "Shadowland",
+                    "Kamelot"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Antonello -  Track 2 & 5 Vocal Demo",
+                    "description": "https://www.facebook.com/SiegfriedSongOfficial/\n\nHey, everyone. I had been pretty busy with my new business and lots of music projects. Sorry for not posting music for a while.\n\nI'm forming a new band and we have already a dozen of killer songs written by mighty Antonello Cimbasso.\n\nWe are currently looking for dedicated band members so anyone who has interest please PM me.\n\nHope you all have a great one!"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2336",
+                "likeCount": "96",
+                "favoriteCount": "0",
+                "commentCount": "45"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "AizTMK9LG9Mtgl0rsdTN7Pl8KlU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "-IQ_mBxHJvNcGLIC5uZpAUsJUTE",
+            "id": "Qk7d_LH10j0",
+            "snippet": {
+                "publishedAt": "2025-08-26T10:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "As it was that day, the rain falls again – Vintage Bossa Nova Saxophone Jazz",
+                "description": "That night the rain fell, and the warm sound of vintage Bossa Nova saxophone filled the city. Smooth rhythms and romantic melodies create the perfect mood for rainy evenings, relaxation, study, or quiet moments with coffee. Let the nostalgic charm of jazz carry you into the night.\n\n#RainyNightJazz #BossaNovaSaxophone #VintageJazz #RomanticJazz #SmoothJazz #Rainjazz #StudyJazz #RelaxingJazz #JazzforCoffee #Jazzin theRain #NightJazzPlaylist #OldiesJazz #VintageBossaNova #bossanova #jazzinstrumental #autumnjazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qk7d_LH10j0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qk7d_LH10j0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qk7d_LH10j0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Qk7d_LH10j0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Qk7d_LH10j0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "guitar jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "rain jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "saxophone jazz",
+                    "autumn jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "As it was that day, the rain falls again – Vintage Bossa Nova Saxophone Jazz",
+                    "description": "That night the rain fell, and the warm sound of vintage Bossa Nova saxophone filled the city. Smooth rhythms and romantic melodies create the perfect mood for rainy evenings, relaxation, study, or quiet moments with coffee. Let the nostalgic charm of jazz carry you into the night.\n\n#RainyNightJazz #BossaNovaSaxophone #VintageJazz #RomanticJazz #SmoothJazz #Rainjazz #StudyJazz #RelaxingJazz #JazzforCoffee #Jazzin theRain #NightJazzPlaylist #OldiesJazz #VintageBossaNova #bossanova #jazzinstrumental #autumnjazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT58M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1076",
+                "likeCount": "36",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

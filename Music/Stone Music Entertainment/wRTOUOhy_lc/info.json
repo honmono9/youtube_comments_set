@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "g5OBNr-f3cuy8poX3TOm3y2Bmd4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "x-fi6cR8vuovNCiV6XIst4F77f4",
+            "id": "wRTOUOhy_lc",
+            "snippet": {
+                "publishedAt": "2025-12-08T09:01:35Z",
+                "channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
+                "title": "김필 (KIM FEEL) - Dry Flower MV",
+                "description": "김필 (KIM FEEL) - Dry Flower MV\n\n﻿전해지지 못한, \n전해지지 못할.﻿\n\n\n[Dry Flower]\n\nLyrics by 김필\nComposed by 김필, 전성우\nArranged by 박중훈\n\nDrums by 정동윤\nBass by 장승호\nPiano by 박중훈\nNylon Guitar by 최원석\nFlugelhorn by 박준규\nString by 융스트링\nString Arranged by 박중훈\n\nVocal Recorded by 최초이\nDrums, Bass Recorded by 오형석, 박정호 at Titan Recording Studio\nString Recorded by 정기홍, 주예찬 at Seoul Studio\nDigital Editing by 박정호 at Bliss Music\nMixed by 오형석 at Titan Recording Studio\nMastered by 오형석 at Titan Recording Studio\n\n#김필 #KIMFEEL #DryFlower",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wRTOUOhy_lc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wRTOUOhy_lc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wRTOUOhy_lc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wRTOUOhy_lc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wRTOUOhy_lc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Stone Music Entertainment",
+                "tags": [
+                    "K-CULTURE",
+                    "korean Music",
+                    "MV",
+                    "Music Video",
+                    "K-Pop",
+                    "Kpop",
+                    "뮤비",
+                    "뮤직비디오",
+                    "Stone Music Entertainment",
+                    "김필 (KIM FEEL)",
+                    "Dry Flower"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "김필 (KIM FEEL) - Dry Flower MV",
+                    "description": "김필 (KIM FEEL) - Dry Flower MV\n\n﻿전해지지 못한, \n전해지지 못할.﻿\n\n\n[Dry Flower]\n\nLyrics by 김필\nComposed by 김필, 전성우\nArranged by 박중훈\n\nDrums by 정동윤\nBass by 장승호\nPiano by 박중훈\nNylon Guitar by 최원석\nFlugelhorn by 박준규\nString by 융스트링\nString Arranged by 박중훈\n\nVocal Recorded by 최초이\nDrums, Bass Recorded by 오형석, 박정호 at Titan Recording Studio\nString Recorded by 정기홍, 주예찬 at Seoul Studio\nDigital Editing by 박정호 at Bliss Music\nMixed by 오형석 at Titan Recording Studio\nMastered by 오형석 at Titan Recording Studio\n\n#김필 #KIMFEEL #DryFlower"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT6M6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1428",
+                "likeCount": "87",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

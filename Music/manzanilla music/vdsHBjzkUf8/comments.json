@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "LkL9Jd3R1BJhbqzIzeFjyl5EFmo",
+        "id": "UgzrFJJlX57pI59HiUZ4AaABAg",
+        "snippet": {
+            "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+            "videoId": "vdsHBjzkUf8",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "j7WJo9yJK1YddJn5eKDH5o0r-0g",
+                "id": "UgzrFJJlX57pI59HiUZ4AaABAg",
+                "snippet": {
+                    "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+                    "videoId": "vdsHBjzkUf8",
+                    "textDisplay": "ストレイキャッツ",
+                    "textOriginal": "ストレイキャッツ",
+                    "authorDisplayName": "@juggler.kuidaore",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/jLAAIUHoMBUOoju0itiOwaDhzN0YZ7c-wITC6VBTtdb7GPvK43KMMvQ50h9VX-YX0ybe97Tq=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@juggler.kuidaore",
+                    "authorChannelId": {
+                        "value": "UCBcFAPVKLexppUzQa709SYg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-11-08T04:07:52Z",
+                    "updatedAt": "2025-11-08T04:07:52Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "vqZPIT6QgDJS1OmEIpKUQCjniQ4",
+        "id": "UgygMYWGpcii6VYpPBp4AaABAg",
+        "snippet": {
+            "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+            "videoId": "vdsHBjzkUf8",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "D75UjXcJxUj1EG5haCiVWyfQgdc",
+                "id": "UgygMYWGpcii6VYpPBp4AaABAg",
+                "snippet": {
+                    "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+                    "videoId": "vdsHBjzkUf8",
+                    "textDisplay": "いい曲ばかりです！！作業用に使わせていただきます🥺",
+                    "textOriginal": "いい曲ばかりです！！作業用に使わせていただきます🥺",
+                    "authorDisplayName": "@元栗モドクリ棒引ボウヤ",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nxCPitbanvEoLl3Obb-OKI_2c7gGkdKpcLjbnjAZk=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%E5%85%83%E6%A0%97%E3%83%A2%E3%83%89%E3%82%AF%E3%83%AA%E6%A3%92%E5%BC%95%E3%83%9C%E3%82%A6%E3%83%A4",
+                    "authorChannelId": {
+                        "value": "UCeIsxVhjMdGEk8z7LCZygiQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-09-23T01:38:26Z",
+                    "updatedAt": "2025-09-23T01:38:26Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

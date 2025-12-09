@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "xYzhOdTtqpxTEIyUUOrAIVDpSYg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ptsbrhzIw7O9Yf2Mvyt8FZyutaM",
+            "id": "A2YQc2kP-hQ",
+            "snippet": {
+                "publishedAt": "2025-11-03T06:56:31Z",
+                "channelId": "UCL_O5w1_yeGyukBIRB_1alw",
+                "title": "Kamu dan Aku ❤✨ (Chill guitar Pop) #music #song #chill #lovesong #indosong #lovemusic #chillmusic",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A2YQc2kP-hQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A2YQc2kP-hQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A2YQc2kP-hQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/A2YQc2kP-hQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/A2YQc2kP-hQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Xadiya Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "id",
+                "localized": {
+                    "title": "Kamu dan Aku ❤✨ (Chill guitar Pop) #music #song #chill #lovesong #indosong #lovemusic #chillmusic",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "id"
+            },
+            "contentDetails": {
+                "duration": "PT1M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "343",
+                "likeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

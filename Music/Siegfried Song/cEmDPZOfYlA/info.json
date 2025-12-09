@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "6fN9k7FvxyWrKpf9zGzBa1EIymo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "wqGsDqp0JuAvaj43w0-qN_hmuUw",
+            "id": "cEmDPZOfYlA",
+            "snippet": {
+                "publishedAt": "2019-12-12T10:20:25Z",
+                "channelId": "UCquS6S5yOGk2j5YS6WHj6eA",
+                "title": "Frozen 2 - Into The Unknown (Vocal Cover by SIEG)",
+                "description": "Siegfried Song Facebook : http://www.facebook.com/SiegfriedSong...\nSymmetric Chaos Facebook : http://www.facebook.com/SymmetricChaos\n\nHello, I'm Siegfried Song and this is my cover of the Frozen 2 song \"Into The Unknown\" by Panic At The Disco \n\nIt's little bit more aggressive than the original version and it's been also my intention to make this cover an individual thing and not a direct copy of the original vocals. It's up to you to decide whether the attempt has been successful or not.\n\nIf you like this song, please visit my facebook page.\nThank You.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cEmDPZOfYlA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cEmDPZOfYlA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cEmDPZOfYlA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cEmDPZOfYlA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cEmDPZOfYlA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Siegfried Song",
+                "tags": [
+                    "Siegfried",
+                    "Song",
+                    "Disney",
+                    "Frozen Cover",
+                    "Metal"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Frozen 2 - Into The Unknown (Vocal Cover by SIEG)",
+                    "description": "Siegfried Song Facebook : http://www.facebook.com/SiegfriedSong...\nSymmetric Chaos Facebook : http://www.facebook.com/SymmetricChaos\n\nHello, I'm Siegfried Song and this is my cover of the Frozen 2 song \"Into The Unknown\" by Panic At The Disco \n\nIt's little bit more aggressive than the original version and it's been also my intention to make this cover an individual thing and not a direct copy of the original vocals. It's up to you to decide whether the attempt has been successful or not.\n\nIf you like this song, please visit my facebook page.\nThank You."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M9S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "11100",
+                "likeCount": "391",
+                "favoriteCount": "0",
+                "commentCount": "74"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

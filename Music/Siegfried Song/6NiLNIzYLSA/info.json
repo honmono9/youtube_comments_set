@@ -1,0 +1,76 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "lMLsRk9wfXJ0lRB6KsER-EktfG8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "kuryEHqGgruCrcFSL5Yi_0ZRqJ4",
+            "id": "6NiLNIzYLSA",
+            "snippet": {
+                "publishedAt": "2019-11-16T16:30:34Z",
+                "channelId": "UCquS6S5yOGk2j5YS6WHj6eA",
+                "title": "X-Japan - Endless Rain (Vocal Cover by SIEG)",
+                "description": "In high school, I was preparing my first live performance on school festival days. It's just a cover song, but a bit shy, so it took a lot of effort to sing in front of the crowd. Nevertheless, I sang this song during the rehearsal and received a lot of applause, and my first attempts seemed to go pretty well until the actual show. I couldn't get on stage without knowing why. After the show, the moderator gave me a reason. One teacher didn't like Japanese songs and he asked to cancel. Since then I have lost my confidence and needed seven more years to get on stage.\n\nI have lived a life of being denied myself by others. I had been rotting in obscurity for too long to say, \"It's just a matter of time. I haven't had any luck yet.\" I might reaching my peak without any sound. There is no time left.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6NiLNIzYLSA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6NiLNIzYLSA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6NiLNIzYLSA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6NiLNIzYLSA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6NiLNIzYLSA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Siegfried Song",
+                "tags": [
+                    "Siegfried",
+                    "Song"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "X-Japan - Endless Rain (Vocal Cover by SIEG)",
+                    "description": "In high school, I was preparing my first live performance on school festival days. It's just a cover song, but a bit shy, so it took a lot of effort to sing in front of the crowd. Nevertheless, I sang this song during the rehearsal and received a lot of applause, and my first attempts seemed to go pretty well until the actual show. I couldn't get on stage without knowing why. After the show, the moderator gave me a reason. One teacher didn't like Japanese songs and he asked to cancel. Since then I have lost my confidence and needed seven more years to get on stage.\n\nI have lived a life of being denied myself by others. I had been rotting in obscurity for too long to say, \"It's just a matter of time. I haven't had any luck yet.\" I might reaching my peak without any sound. There is no time left."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT6M40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "25584",
+                "likeCount": "589",
+                "favoriteCount": "0",
+                "commentCount": "154"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

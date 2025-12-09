@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "U_wPMpuyu30WLWKsj_CM4VECDGM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "L2MEwfhjaPIcUgwQQRBUifSWlHc",
+            "id": "gS03FPgNnnI",
+            "snippet": {
+                "publishedAt": "2023-12-14T09:00:33Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[Teaser] 2BIC(투빅) - 그대, 그대, 그대  / Official Teaser",
+                "description": "[Teaser] 2BIC(투빅) - 그대, 그대, 그대  / Official Teaser\n\n2BIC(투빅)의 싱글 앨범 '그대, 그대, 그대'가 12월 17일 (일) 오후 6시에 공개됩니다!\n\n2BIC's single album 'You, You, You' will be released on December 17th (SUN) 6 PM KST.\n\n#투빅 #2BIC #teaser",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gS03FPgNnnI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gS03FPgNnnI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gS03FPgNnnI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gS03FPgNnnI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gS03FPgNnnI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "tags": [
+                    "투빅",
+                    "2bic",
+                    "그대그대그대",
+                    "그대 그대 그대",
+                    "투빅 그대 그대 그대",
+                    "new release",
+                    "최신곡",
+                    "최신음악",
+                    "뮤직비디오",
+                    "mv",
+                    "최신뮤비",
+                    "new"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Teaser] 2BIC(투빅) - 그대, 그대, 그대  / Official Teaser",
+                    "description": "[Teaser] 2BIC(투빅) - 그대, 그대, 그대  / Official Teaser\n\n2BIC(투빅)의 싱글 앨범 '그대, 그대, 그대'가 12월 17일 (일) 오후 6시에 공개됩니다!\n\n2BIC's single album 'You, You, You' will be released on December 17th (SUN) 6 PM KST.\n\n#투빅 #2BIC #teaser"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT38S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2375",
+                "likeCount": "42",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

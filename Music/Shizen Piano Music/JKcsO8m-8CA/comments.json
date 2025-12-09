@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "XE1BWBQXDrbOq0HVOQJJUflRutQ",
+        "id": "UgyrKaaaMtdMcywwymB4AaABAg",
+        "snippet": {
+            "channelId": "UCPxPvjsXfa6UJ30L3NAN-nQ",
+            "videoId": "JKcsO8m-8CA",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "-BuVn5IEMSXJLIGsNKXg3Qey8vo",
+                "id": "UgyrKaaaMtdMcywwymB4AaABAg",
+                "snippet": {
+                    "channelId": "UCPxPvjsXfa6UJ30L3NAN-nQ",
+                    "videoId": "JKcsO8m-8CA",
+                    "textDisplay": "めっちゃ広告入ってくるんですけど。。",
+                    "textOriginal": "めっちゃ広告入ってくるんですけど。。",
+                    "authorDisplayName": "@kenkumashiro4311",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mhTW6NJMc3yZJJPafZUdx8CP44iCMELpYDBbR7vgc=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@kenkumashiro4311",
+                    "authorChannelId": {
+                        "value": "UCYubKKZQbPYKlpSdon6MkSA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-09-11T14:02:45Z",
+                    "updatedAt": "2025-09-11T14:02:45Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

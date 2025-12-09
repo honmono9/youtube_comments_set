@@ -1,0 +1,92 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "BbFKl_p_0gnjB8jiHC4u_kuVjHk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "b0-LruVrMGx_C3L-o-1SgAPdPS0",
+            "id": "dBlQCLBkcRI",
+            "snippet": {
+                "publishedAt": "2022-01-24T09:36:00Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "눈 덮인 사막 위 아름답게 흐르는 팝송 발라드",
+                "description": "Photo by Rafael Cerqueira\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd-0KQd-tQHqCE5suxgjZ2b4\n\n편안한 저녁시간 되세요 :)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dBlQCLBkcRI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dBlQCLBkcRI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dBlQCLBkcRI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dBlQCLBkcRI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dBlQCLBkcRI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "겨울 팝송",
+                    "잔잔한 팝송",
+                    "새벽 팝송",
+                    "팝송 추천",
+                    "플레이리스트",
+                    "팝 발라드",
+                    "눈 팝송",
+                    "눈 오는날 노래",
+                    "playlist",
+                    "relax song",
+                    "winter song",
+                    "pop song"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "눈 덮인 사막 위 아름답게 흐르는 팝송 발라드",
+                    "description": "Photo by Rafael Cerqueira\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd-0KQd-tQHqCE5suxgjZ2b4\n\n편안한 저녁시간 되세요 :)"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT27M36S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "27721",
+                "likeCount": "630",
+                "favoriteCount": "0",
+                "commentCount": "48"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

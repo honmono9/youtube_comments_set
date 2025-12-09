@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ZiHRWKD1AeSaQyeqe2nRAdyV_qQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "y3cDxizCB0RMaQyDvD2O3HDqPxc",
+            "id": "eXPp8CczgP4",
+            "snippet": {
+                "publishedAt": "2023-04-07T09:12:06Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[OFFICIAL AUDIO] 난아진 - LEAD | 조선변호사 오리지널 사운드 트랙 2",
+                "description": "난아진 - LEAD | 조선변호사 오리지널 사운드 트랙 2\n\n#MBC드라마 #조선변호사\n#OST #오리지널사운드트랙 #Release\n#난아진 #LEAD\n#아에르뮤직 #AERMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eXPp8CczgP4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eXPp8CczgP4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eXPp8CczgP4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eXPp8CczgP4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eXPp8CczgP4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[OFFICIAL AUDIO] 난아진 - LEAD | 조선변호사 오리지널 사운드 트랙 2",
+                    "description": "난아진 - LEAD | 조선변호사 오리지널 사운드 트랙 2\n\n#MBC드라마 #조선변호사\n#OST #오리지널사운드트랙 #Release\n#난아진 #LEAD\n#아에르뮤직 #AERMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2963",
+                "likeCount": "130",
+                "favoriteCount": "0",
+                "commentCount": "13"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "tYb8XiXYy9eaAfL5vWUssnkE7l4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "iJ-A2NSYD4iXyIdA13zXAj7iK9I",
+            "id": "Mo0e-JCmb38",
+            "snippet": {
+                "publishedAt": "2021-07-18T10:08:31Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "2021 Summer Academy Blooming Artist Concert #1",
+                "description": "Cheer on the students of ENCORE's 2021 Online Academy as they perform their solo repertoire!\n\nLucas Candelino - J.S. Bach (1685-1750): Violin Partita No. 3 in E major, I. Preludio.\n\nNatalie Bryan - Edward Elgar (1857-1934): Concerto Op. 85, I. Adagio-Moderato. Alexis Zingale, piano.\n\nMorgan Bennett - J. S. Bach: Violin Sonata No.2 in A minor, I. Grave, II. Fuga.\n\nErika Liu - Antonin Dvorak (1841-1904): Violin Concerto, I. Allegro ma non troppo. Chris Thompson, Piano.\n\nMaya Irizarry Lambright - J. S. Bach: Violin Partita No. 2 in D minor, IV. Gigue.\n\nJulian Casas - J.S. Bach: Cello Suite No. 3, I. Prelude.\n\nCiara McGuire - Eugéne Ysaÿe (1858-1931): Sonata No. 5 for Solo Violin, I. L'Aurore II. Danse Rustique.\n\nTravon DeLeon - J.S. Bach: Violin Sonata No. 1 in G Minor, I. Adagio, II. Fugue.\n\nAlex Fiszer - Luigi Boccherini (1743-1805): Concerto in Bb Major, I. Allegro moderato. Asela Zamorano, Piano.\n\nCassidy Walther - J.S. Bach: Cello Suite No. 3, IV. Sarabande.\n\nChanmin (Joel) Park - Gaspar Cassadó (1897-1966): Suite for Cello Solo, III. Intermezzo e danza finale.\n\nChanhee (Joy) Park - W.A. Mozart (1756-1791): VIolin Concerto in A Major, I. Allegro aperto. Sunny Suh, Piano.\n\nCarlos Walker - J.S. Bach: Cello Suite No. 6, I. Prelude.\n\nKenny Fujii - Max Reger (1873-1916): Suite No. 1 in G minor for Solo Viola, I. Molto Sostenuto, II. Vivace, III. Andante sostenuto, IV. Molto vivace.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Mo0e-JCmb38/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Mo0e-JCmb38/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Mo0e-JCmb38/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Mo0e-JCmb38/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Mo0e-JCmb38/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "2021 Summer Academy Blooming Artist Concert #1",
+                    "description": "Cheer on the students of ENCORE's 2021 Online Academy as they perform their solo repertoire!\n\nLucas Candelino - J.S. Bach (1685-1750): Violin Partita No. 3 in E major, I. Preludio.\n\nNatalie Bryan - Edward Elgar (1857-1934): Concerto Op. 85, I. Adagio-Moderato. Alexis Zingale, piano.\n\nMorgan Bennett - J. S. Bach: Violin Sonata No.2 in A minor, I. Grave, II. Fuga.\n\nErika Liu - Antonin Dvorak (1841-1904): Violin Concerto, I. Allegro ma non troppo. Chris Thompson, Piano.\n\nMaya Irizarry Lambright - J. S. Bach: Violin Partita No. 2 in D minor, IV. Gigue.\n\nJulian Casas - J.S. Bach: Cello Suite No. 3, I. Prelude.\n\nCiara McGuire - Eugéne Ysaÿe (1858-1931): Sonata No. 5 for Solo Violin, I. L'Aurore II. Danse Rustique.\n\nTravon DeLeon - J.S. Bach: Violin Sonata No. 1 in G Minor, I. Adagio, II. Fugue.\n\nAlex Fiszer - Luigi Boccherini (1743-1805): Concerto in Bb Major, I. Allegro moderato. Asela Zamorano, Piano.\n\nCassidy Walther - J.S. Bach: Cello Suite No. 3, IV. Sarabande.\n\nChanmin (Joel) Park - Gaspar Cassadó (1897-1966): Suite for Cello Solo, III. Intermezzo e danza finale.\n\nChanhee (Joy) Park - W.A. Mozart (1756-1791): VIolin Concerto in A Major, I. Allegro aperto. Sunny Suh, Piano.\n\nCarlos Walker - J.S. Bach: Cello Suite No. 6, I. Prelude.\n\nKenny Fujii - Max Reger (1873-1916): Suite No. 1 in G minor for Solo Viola, I. Molto Sostenuto, II. Vivace, III. Andante sostenuto, IV. Molto vivace."
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT2H7M15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1136",
+                "likeCount": "12",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

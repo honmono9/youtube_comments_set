@@ -1,0 +1,67 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "gpzXGll8rVjwiIQ6agwyn1yFwjs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "u7HMUlQ_QGphxQQOPQWpAufF47k",
+            "id": "2CAaO16QCPA",
+            "snippet": {
+                "publishedAt": "2021-11-26T20:06:10Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "Senior Piano",
+                "description": "Senior Piano\n\nNO COPYRIGHT INFRINGEMENT INTENDED",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2CAaO16QCPA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2CAaO16QCPA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2CAaO16QCPA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2CAaO16QCPA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Senior Piano",
+                    "description": "Senior Piano\n\nNO COPYRIGHT INFRINGEMENT INTENDED"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H58M9S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "575",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

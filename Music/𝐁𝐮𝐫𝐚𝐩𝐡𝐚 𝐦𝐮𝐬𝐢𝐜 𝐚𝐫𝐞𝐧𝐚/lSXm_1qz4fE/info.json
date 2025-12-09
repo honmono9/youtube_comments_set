@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "s7t9CB9ucT4XEcOkncxe_o1HD0g",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "nceccyEiylQ6cSgMQyl7rAmP7rE",
+            "id": "lSXm_1qz4fE",
+            "snippet": {
+                "publishedAt": "2025-10-06T12:20:20Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "ของรักที่หายไป — ความทรงจำที่ยังไม่จาง 🎧 ดูเต็มได้ที่ช่องเรา @BMAarena  #rock #music",
+                "description": "ของรักที่หายไป - เวลาหลุดลอยไปเหมือนน้ำไหล… ทุกความทรงจำที่ฉันทนไม่ได้  #rock #aimusic #BMAarena",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lSXm_1qz4fE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lSXm_1qz4fE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lSXm_1qz4fE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lSXm_1qz4fE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lSXm_1qz4fE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "tags": [
+                    "ของรักที่หายไป",
+                    "Burapha Music Arena",
+                    "love songs",
+                    "Mv Official"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "ของรักที่หายไป — ความทรงจำที่ยังไม่จาง 🎧 ดูเต็มได้ที่ช่องเรา @BMAarena  #rock #music",
+                    "description": "ของรักที่หายไป - เวลาหลุดลอยไปเหมือนน้ำไหล… ทุกความทรงจำที่ฉันทนไม่ได้  #rock #aimusic #BMAarena"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT48S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2732",
+                "likeCount": "8",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

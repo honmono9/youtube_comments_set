@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ZwHu4MIm0cfEXfNXBwT7YtWVHPE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "QqTY2yH25t83ZdYEpeSL8LcuiVU",
+            "id": "8UJqGFtShic",
+            "snippet": {
+                "publishedAt": "2025-06-06T20:15:27Z",
+                "channelId": "UCirSyikc3MSAjkJNdFBcR-g",
+                "title": "Eu sunt GIGOLO la țară și am MERCEDES la scară !😁🔥 #IDLV",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8UJqGFtShic/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8UJqGFtShic/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8UJqGFtShic/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8UJqGFtShic/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8UJqGFtShic/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Luxor Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ro",
+                "localized": {
+                    "title": "Eu sunt GIGOLO la țară și am MERCEDES la scară !😁🔥 #IDLV",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ro"
+            },
+            "contentDetails": {
+                "duration": "PT54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1875",
+                "likeCount": "20",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

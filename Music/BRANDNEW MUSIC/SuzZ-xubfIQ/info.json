@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "10C4Dog3G4vUap0RADSP4WRcCDg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "OP5HbyCpoFgVvM3it0Bl-rQPmL4",
+            "id": "SuzZ-xubfIQ",
+            "snippet": {
+                "publishedAt": "2015-07-21T09:49:32Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "강민희 (Kang Min Hee) '야해 (Feat. 지민 Of AOA)' OFFICIAL PREVIEW",
+                "description": "강민희 (Kang Min Hee) '야해 (Feat. 지민 Of AOA)' OFFICIAL PREVIEW\n\n강민희 '야해' 2015.07.22 12PM RELEASE\n\n\n강민희(Kang Min Hee) Official @\nhttp://www.instagram.com/miniggong\nhttp://twitter.com/miniggong\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SuzZ-xubfIQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SuzZ-xubfIQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SuzZ-xubfIQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SuzZ-xubfIQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SuzZ-xubfIQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "강민희 (Kang Min Hee) '야해 (Feat. 지민 Of AOA)' OFFICIAL PREVIEW",
+                    "description": "강민희 (Kang Min Hee) '야해 (Feat. 지민 Of AOA)' OFFICIAL PREVIEW\n\n강민희 '야해' 2015.07.22 12PM RELEASE\n\n\n강민희(Kang Min Hee) Official @\nhttp://www.instagram.com/miniggong\nhttp://twitter.com/miniggong\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "13777",
+                "likeCount": "301",
+                "favoriteCount": "0",
+                "commentCount": "21"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

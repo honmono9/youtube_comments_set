@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "c52bg4MLS4D4UuLL6JWjAJIcYTI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "_UMVjagPBlIE_LUfcg-bHa5FA1I",
+            "id": "-xF2DwDu670",
+            "snippet": {
+                "publishedAt": "2025-12-07T09:00:01Z",
+                "channelId": "UCS6GXGMTU9MeDI00PvjH7Rw",
+                "title": "🎧 원하고 원하던 원위(ONEWE)의 무대! ✨",
+                "description": "🌙 야행성 – 고요한 밤을 헤매는 마음의 소리를 담은 서정적 멜로디\n🏠 룸메이트 – 같은 공간을 나누는 사이, 말하지 못한 감정들을 조용히 꺼내는 순간\n🧺 기억 세탁소 – 묵은 기억을 씻어내듯 마음을 정리하게 만드는 따뜻한 위로\n\n세 곡이 전하는 감정의 결이 무대를 꽉 채우며,\n깊고 서정적인 색을 다시 한번 보여준 원위(ONEWE)! 🎤💫\n\n#한국콘텐츠진흥원 #코카 #KOCCA #코카뮤직 #KOCCAMUSIC\n#ONEWE #원위 #야행성 #룸메이트 #기억세탁소\n#밴드추천 #라이브맛집 #셋리맛집 #K밴드 #감성밴드 #MUSICIAN",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-xF2DwDu670/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-xF2DwDu670/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-xF2DwDu670/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-xF2DwDu670/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-xF2DwDu670/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KOCCA MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🎧 원하고 원하던 원위(ONEWE)의 무대! ✨",
+                    "description": "🌙 야행성 – 고요한 밤을 헤매는 마음의 소리를 담은 서정적 멜로디\n🏠 룸메이트 – 같은 공간을 나누는 사이, 말하지 못한 감정들을 조용히 꺼내는 순간\n🧺 기억 세탁소 – 묵은 기억을 씻어내듯 마음을 정리하게 만드는 따뜻한 위로\n\n세 곡이 전하는 감정의 결이 무대를 꽉 채우며,\n깊고 서정적인 색을 다시 한번 보여준 원위(ONEWE)! 🎤💫\n\n#한국콘텐츠진흥원 #코카 #KOCCA #코카뮤직 #KOCCAMUSIC\n#ONEWE #원위 #야행성 #룸메이트 #기억세탁소\n#밴드추천 #라이브맛집 #셋리맛집 #K밴드 #감성밴드 #MUSICIAN"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2318",
+                "likeCount": "53",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

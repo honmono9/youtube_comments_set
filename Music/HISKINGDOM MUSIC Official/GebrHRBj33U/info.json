@@ -1,0 +1,101 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "5LKkV6uGQhHjGuY9d1YS59cQHxw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "L6m_oVFJCd1lVivu7Zv7OKyX8Fw",
+            "id": "GebrHRBj33U",
+            "snippet": {
+                "publishedAt": "2025-10-29T08:45:01Z",
+                "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+                "title": "사랑의 깊이(조찬미)",
+                "description": "#사랑의깊이 #조찬미 #옥합 #전선아 #전영훈\n\n전선아,전영훈 사, 전영훈 곡",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GebrHRBj33U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GebrHRBj33U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GebrHRBj33U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GebrHRBj33U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GebrHRBj33U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HISKINGDOM MUSIC Official",
+                "tags": [
+                    "#히스킹덤뮤직",
+                    "#같이걸어가기",
+                    "#찬양 추천",
+                    "#추천 CCM",
+                    "#CCM 추천",
+                    "#K-CCM",
+                    "#HISKINGDOM MUSIC",
+                    "#기독교 컨텐츠",
+                    "찬양",
+                    "국내 찬양",
+                    "찬양 실황",
+                    "국내 CCM",
+                    "K-CCM",
+                    "K-GOSPEL",
+                    "CCM",
+                    "Christian Contemporary Music",
+                    "염평안",
+                    "조찬미",
+                    "오벧",
+                    "기독교 음악",
+                    "korean ccm",
+                    "찬양 릴스",
+                    "찬양 쇼츠",
+                    "사랑의 깊이",
+                    "옥합 사랑의 깊이",
+                    "전선아",
+                    "전영훈"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "사랑의 깊이(조찬미)",
+                    "description": "#사랑의깊이 #조찬미 #옥합 #전선아 #전영훈\n\n전선아,전영훈 사, 전영훈 곡"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2010",
+                "likeCount": "33",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

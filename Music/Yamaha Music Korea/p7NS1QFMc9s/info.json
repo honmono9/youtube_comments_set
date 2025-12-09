@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "0hCxSovujPrWBJ9zutcOMiQ7Q04",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "kz7jHQ-4CEVlZsr3B8TW-KXnbzY",
+            "id": "p7NS1QFMc9s",
+            "snippet": {
+                "publishedAt": "2025-09-23T04:31:45Z",
+                "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                "title": "💬피아노 듀오면 연주 위치는 어떻게 정하나요?🤔❓ | 피아니스트 신박듀오 짧은 #인터뷰",
+                "description": "피아니스트라면 궁금했을 이야기!\n신박듀오의 짧은 인터뷰로 알아왔습니다! 📢\n\n📖 악보 볼 때 패드 or 종이악보 신박듀오의 선택은?\n💬 포핸즈나 투피아노 연주 시 두 분의 연주 위치는 어떻게 정하시나요?\n👀 신박듀오에게 서로의 존재는 어떤 의미인가요?\n\n신박듀오가 답하는 Q&A,\n지금 영상에서 확인해보세요!\n\n🔗인터뷰 전문 바로가기 : https://bit.ly/47RBKtB\n\n#야마하뮤직코리아\n#피아니스트 #피아노연주 \n#신박듀오 #신미정 #박상욱 \n#뵈젠도르퍼 #그랜드피아노 #피아노듀오 \n#신박 #인터뷰 #아티스트인터뷰 #shinparkduo \n#야마하 #야마하피아노",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p7NS1QFMc9s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p7NS1QFMc9s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p7NS1QFMc9s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/p7NS1QFMc9s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/p7NS1QFMc9s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yamaha Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "💬피아노 듀오면 연주 위치는 어떻게 정하나요?🤔❓ | 피아니스트 신박듀오 짧은 #인터뷰",
+                    "description": "피아니스트라면 궁금했을 이야기!\n신박듀오의 짧은 인터뷰로 알아왔습니다! 📢\n\n📖 악보 볼 때 패드 or 종이악보 신박듀오의 선택은?\n💬 포핸즈나 투피아노 연주 시 두 분의 연주 위치는 어떻게 정하시나요?\n👀 신박듀오에게 서로의 존재는 어떤 의미인가요?\n\n신박듀오가 답하는 Q&A,\n지금 영상에서 확인해보세요!\n\n🔗인터뷰 전문 바로가기 : https://bit.ly/47RBKtB\n\n#야마하뮤직코리아\n#피아니스트 #피아노연주 \n#신박듀오 #신미정 #박상욱 \n#뵈젠도르퍼 #그랜드피아노 #피아노듀오 \n#신박 #인터뷰 #아티스트인터뷰 #shinparkduo \n#야마하 #야마하피아노"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M4S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "717",
+                "likeCount": "5",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

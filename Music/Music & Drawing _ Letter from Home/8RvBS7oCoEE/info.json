@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "aMJGyvm6lnfyjS-4WD7B-OFKFuI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "-1Iu7Hr1x1QrsTWSBl0l6mMvgZM",
+            "id": "8RvBS7oCoEE",
+            "snippet": {
+                "publishedAt": "2025-09-03T10:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Romantic Saxophone Jazz, Autumn in New York | Oldies Vintage Piano Café Jazz",
+                "description": "Step into a 1950s New York sidewalk café on a crisp autumn evening.\nThe warm sound of saxophone and piano jazz fills the night air, blending perfectly with the nostalgic city lights. 🍂✨\n\nWhether you’re working, studying, or simply unwinding with a cup of coffee, this playlist will bring you comfort and timeless jazz vibes.\nEnjoy the charm of vintage New York nights, the glow of autumn leaves, and the soothing rhythm of oldies jazz.\n\n#autumnjazz #newyorkjazz #jazz #jazzplaylist #caféjazz #saxophonejazz #saxophonemusic #1950sjazz #vintagejazz #falljazz #jazzmusic #relaxingjazz #cafémusic #smoothjazz #romanticjazz #classicjazz #timelessjazz #autumnleaves",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8RvBS7oCoEE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8RvBS7oCoEE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8RvBS7oCoEE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8RvBS7oCoEE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8RvBS7oCoEE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "guitar jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "rain jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Romantic Saxophone Jazz, Autumn in New York | Oldies Vintage Piano Café Jazz",
+                    "description": "Step into a 1950s New York sidewalk café on a crisp autumn evening.\nThe warm sound of saxophone and piano jazz fills the night air, blending perfectly with the nostalgic city lights. 🍂✨\n\nWhether you’re working, studying, or simply unwinding with a cup of coffee, this playlist will bring you comfort and timeless jazz vibes.\nEnjoy the charm of vintage New York nights, the glow of autumn leaves, and the soothing rhythm of oldies jazz.\n\n#autumnjazz #newyorkjazz #jazz #jazzplaylist #caféjazz #saxophonejazz #saxophonemusic #1950sjazz #vintagejazz #falljazz #jazzmusic #relaxingjazz #cafémusic #smoothjazz #romanticjazz #classicjazz #timelessjazz #autumnleaves"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "10977",
+                "likeCount": "155",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

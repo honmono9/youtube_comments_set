@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "W8cFqNJmf8L_I6BgQdvKuY8C5GU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "qLTOgcwiMp19r5U4xcihNIIYESY",
+            "id": "oMvLoWaEWbY",
+            "snippet": {
+                "publishedAt": "2023-03-04T15:40:08Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "March Jazz - Relaxing Jazz Cafe Music for Cozy Spring Day",
+                "description": "Instrumental Jazz and Bossa Nova music by Richard Freeman.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\nl163",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oMvLoWaEWbY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oMvLoWaEWbY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oMvLoWaEWbY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oMvLoWaEWbY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oMvLoWaEWbY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "March Jazz - Relaxing Jazz Cafe Music for Cozy Spring Day",
+                    "description": "Instrumental Jazz and Bossa Nova music by Richard Freeman.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\nl163"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT10H1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "18621",
+                "likeCount": "147",
+                "favoriteCount": "0",
+                "commentCount": "25"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "OYTrmutj12e3UHvFLnHghCIg234",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "P-F47baOZ869aCRNogFb2Ed_PI4",
+            "id": "5BpoB9lp2Ns",
+            "snippet": {
+                "publishedAt": "2025-11-10T17:20:01Z",
+                "channelId": "UCL_O5w1_yeGyukBIRB_1alw",
+                "title": "Do you wanna my sign? 💪✨ (By Abby) #kpopdemonhunter #music #kpop #netflix #huntrix #sajaboys #abby",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5BpoB9lp2Ns/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5BpoB9lp2Ns/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5BpoB9lp2Ns/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5BpoB9lp2Ns/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5BpoB9lp2Ns/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Xadiya Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Do you wanna my sign? 💪✨ (By Abby) #kpopdemonhunter #music #kpop #netflix #huntrix #sajaboys #abby",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "vi"
+            },
+            "contentDetails": {
+                "duration": "PT19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1472",
+                "likeCount": "35",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

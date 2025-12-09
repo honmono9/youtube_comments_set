@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "cGTK_E7la2sp9LUnsu78dWj3WLk",
+        "id": "UgxLxoiFOoT9ORm76Cp4AaABAg",
+        "snippet": {
+            "channelId": "UCxWfuzrNR2jjAnWUh8o8ycA",
+            "videoId": "OlByFI4JYGU",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "WolBJEkm32I-yzhQwDiNiaxskNk",
+                "id": "UgxLxoiFOoT9ORm76Cp4AaABAg",
+                "snippet": {
+                    "channelId": "UCxWfuzrNR2jjAnWUh8o8ycA",
+                    "videoId": "OlByFI4JYGU",
+                    "textDisplay": "*Pours bourbon neat* Time to relax and close my eyes.",
+                    "textOriginal": "*Pours bourbon neat* Time to relax and close my eyes.",
+                    "authorDisplayName": "@laststopformadness",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mjcja_57vKOMNxOEfEbSzGdrg1qJ9i_5j65GCBEkZxiOI=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@laststopformadness",
+                    "authorChannelId": {
+                        "value": "UCe6H6Mb-ZpXt8tYYOnEQuZw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-10-14T19:32:50Z",
+                    "updatedAt": "2025-10-14T19:32:50Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ZZEJqPwJCBilDiE9aEBUMP3AO2g",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "qj0fYt7wcZEiHcL217EZFJMwRFU",
+            "id": "AxxhwxGKoyQ",
+            "snippet": {
+                "publishedAt": "2025-12-08T07:53:18Z",
+                "channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
+                "title": "더보이즈식 캐롤은 정말 좋은 느낌을 줌...🤍 더비들은 좋겠다 이렇게 팬바보 남자들이 좋아해줘서｜#Shorts",
+                "description": "더보이즈식 캐롤은 정말 좋은 느낌을 줌...🤍\n더비들은 좋겠다 이렇게 팬바보 남자들이 좋아해줘서｜#Shorts \n\n✅ 25.12.6 (Sat) 6PM Special Single [Still Love You] Released!\n\n#스톤뮤직 #stonemusicentertainment\n#THEBOYZ #더보이즈 #StillLoveYou",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AxxhwxGKoyQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AxxhwxGKoyQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AxxhwxGKoyQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AxxhwxGKoyQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AxxhwxGKoyQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Stone Music Entertainment",
+                "tags": [
+                    "K-CULTURE",
+                    "korean Music",
+                    "MV",
+                    "Music Video",
+                    "K-Pop",
+                    "Kpop",
+                    "뮤비",
+                    "뮤직비디오",
+                    "Stone Music Entertainment"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "더보이즈식 캐롤은 정말 좋은 느낌을 줌...🤍 더비들은 좋겠다 이렇게 팬바보 남자들이 좋아해줘서｜#Shorts",
+                    "description": "더보이즈식 캐롤은 정말 좋은 느낌을 줌...🤍\n더비들은 좋겠다 이렇게 팬바보 남자들이 좋아해줘서｜#Shorts \n\n✅ 25.12.6 (Sat) 6PM Special Single [Still Love You] Released!\n\n#스톤뮤직 #stonemusicentertainment\n#THEBOYZ #더보이즈 #StillLoveYou"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4693",
+                "likeCount": "48",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

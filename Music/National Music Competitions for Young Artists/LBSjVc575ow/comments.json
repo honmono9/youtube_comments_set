@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "sMk3xL7FZy-CT4QIHI78uP3EbxU",
+        "id": "Ugx7O7gUUgXNlv9yj2B4AaABAg",
+        "snippet": {
+            "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+            "videoId": "LBSjVc575ow",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "bnoF0PGEtC9X0w8x35ZGD5Yd4MM",
+                "id": "Ugx7O7gUUgXNlv9yj2B4AaABAg",
+                "snippet": {
+                    "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                    "videoId": "LBSjVc575ow",
+                    "textDisplay": "Bravoooooo! 🎉🎉🎉",
+                    "textOriginal": "Bravoooooo! 🎉🎉🎉",
+                    "authorDisplayName": "@angelibenipayo1467",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/DXk8oZMkg75Geyf-QtA9lS6UFaPZgxuatL8tLEYQhM0vBLgt8mn_LKIXmi_Qf6AQVZlJLjJvcIw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@angelibenipayo1467",
+                    "authorChannelId": {
+                        "value": "UC9rnZJh4l2Ql6JihvwdHY2g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2024-11-28T06:18:38Z",
+                    "updatedAt": "2024-11-28T06:18:38Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

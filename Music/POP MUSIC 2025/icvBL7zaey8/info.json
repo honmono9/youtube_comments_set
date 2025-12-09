@@ -1,0 +1,101 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "AQ4tGPbDPvqKj6Lryd3LewXF1EA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "bItRvTsB1lRCYtMj88E6aj1wMRQ",
+            "id": "icvBL7zaey8",
+            "snippet": {
+                "publishedAt": "2025-12-09T07:38:07Z",
+                "channelId": "UC-LM2wK0vsaaDPEWtuSeQsQ",
+                "title": "50 MEJORES VILLANCICOS NAVIDEÑOS 2026 🎄🎅 FELIZ NAVIDAD VILLANCICO 🔔🎁 MÚSICA NAVIDEÑA",
+                "description": "#Villancicos #RinconcitoNavideño #navidad\n\n🎅 FELIZ NAVIDAD 2026 🎄\n\nCelebra la magia de la Navidad con esta hermosa selección de los 100 mejores villancicos navideños en español.\nDisfruta de una mezcla llena de alegría, esperanza y espíritu festivo con canciones clásicas y modernas que llenarán tu hogar de amor y felicidad. ✨\n\nEsta playlist es perfecta para acompañar tus momentos navideños, decorar el árbol, reunirte con familia o simplemente sentir la calidez de estas fechas. 🎁❤️\n\n👉 No olvides dejar tu like, compartir y suscribirte para más música navideña y villancicos inolvidables. 🌟🎶",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/icvBL7zaey8/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/icvBL7zaey8/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/icvBL7zaey8/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/icvBL7zaey8/sddefault_live.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/icvBL7zaey8/maxresdefault_live.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "POP MUSIC 2025",
+                "tags": [
+                    "las 100 mejores éxitos villancicos navideños",
+                    "música de navidad en español",
+                    "feliz navidad 2026",
+                    "música navideña",
+                    "navidad canciones",
+                    "navidad",
+                    "villancicos de navidad",
+                    "villancicos tradicionales",
+                    "canciones navideñas",
+                    "musica navidad",
+                    "villancicos",
+                    "feliz navidad villancico",
+                    "musica navideña mix",
+                    "navidad en español",
+                    "feliz navidad",
+                    "cancion feliz navidad",
+                    "villancicos navideños",
+                    "feliz navidad christmas song",
+                    "villancicos populares",
+                    "cancion navidad",
+                    "música de navidad",
+                    "noche de paz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "50 MEJORES VILLANCICOS NAVIDEÑOS 2026 🎄🎅 FELIZ NAVIDAD VILLANCICO 🔔🎁 MÚSICA NAVIDEÑA",
+                    "description": "#Villancicos #RinconcitoNavideño #navidad\n\n🎅 FELIZ NAVIDAD 2026 🎄\n\nCelebra la magia de la Navidad con esta hermosa selección de los 100 mejores villancicos navideños en español.\nDisfruta de una mezcla llena de alegría, esperanza y espíritu festivo con canciones clásicas y modernas que llenarán tu hogar de amor y felicidad. ✨\n\nEsta playlist es perfecta para acompañar tus momentos navideños, decorar el árbol, reunirte con familia o simplemente sentir la calidez de estas fechas. 🎁❤️\n\n👉 No olvides dejar tu like, compartir y suscribirte para más música navideña y villancicos inolvidables. 🌟🎶"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H13M49S",
+                "dimension": "2d",
+                "definition": "sd",
+                "caption": "false",
+                "licensedContent": true,
+                "regionRestriction": {
+                    "blocked": [
+                        "VN"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4",
+                "likeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

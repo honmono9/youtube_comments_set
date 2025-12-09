@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ACR6HarXNbQwqR8Nmv8U3UaAbhU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "wgORl873v2DXau5oh_5d0p1PNdc",
+            "id": "jlCmih6nHoo",
+            "snippet": {
+                "publishedAt": "2025-02-19T05:30:16Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"조금 쉬어가도 괜찮아!\" 당신의 하루를 위한 힐링음악",
+                "description": "오늘은 쉬어가자!\n그 동안 쉼 없이 달려온 만큼~\n숨이 찰 만큼 뛰어온 만큼~\n오늘은 모든 일들 다 내려놓고\n\n나를 위한 하루가 되자!\n \"Take a break!\"\n\n\n🎵곡명                         \n\"휴식\" \n\"A Moment\"        \n\n🌙'Music Drawing' 의 음악과 그림을 통해 \n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#힐링음악 #편안한음악 #휴식할때듣는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jlCmih6nHoo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jlCmih6nHoo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jlCmih6nHoo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jlCmih6nHoo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jlCmih6nHoo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "힐링음악",
+                    "편안한음악",
+                    "편안한피아노음악",
+                    "위로음악",
+                    "휴식음악",
+                    "피아노음악",
+                    "스트레스해소음악",
+                    "PianoMusic",
+                    "RelaxMusic",
+                    "RelaxingMusic",
+                    "평화로운음악",
+                    "휴식할때듣는음악",
+                    "Healing music",
+                    "Stress relief music",
+                    "Relaxation music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"조금 쉬어가도 괜찮아!\" 당신의 하루를 위한 힐링음악",
+                    "description": "오늘은 쉬어가자!\n그 동안 쉼 없이 달려온 만큼~\n숨이 찰 만큼 뛰어온 만큼~\n오늘은 모든 일들 다 내려놓고\n\n나를 위한 하루가 되자!\n \"Take a break!\"\n\n\n🎵곡명                         \n\"휴식\" \n\"A Moment\"        \n\n🌙'Music Drawing' 의 음악과 그림을 통해 \n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#힐링음악 #편안한음악 #휴식할때듣는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3H23M42S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "47279",
+                "likeCount": "1626",
+                "favoriteCount": "0",
+                "commentCount": "96"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

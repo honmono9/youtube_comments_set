@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "NE_x9AJLdF2mwDP_qFM84NGYLQk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "F-CvcyO4pDTXjrpYKs2deRQaw4Y",
+            "id": "RQtcaGQcGjk",
+            "snippet": {
+                "publishedAt": "2025-11-09T20:57:43Z",
+                "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+                "title": "SAYGI VE ÖZLEMLE ANIYORUZ  AÇTIĞIN YOLDA İLELEBET CUMHURİYETİN BEKÇİLERİ OLACAĞIZ #mustafa #atatürk",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RQtcaGQcGjk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RQtcaGQcGjk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RQtcaGQcGjk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RQtcaGQcGjk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RQtcaGQcGjk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Obsidya Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "SAYGI VE ÖZLEMLE ANIYORUZ  AÇTIĞIN YOLDA İLELEBET CUMHURİYETİN BEKÇİLERİ OLACAĞIZ #mustafa #atatürk",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "contentDetails": {
+                "duration": "PT14S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "753",
+                "likeCount": "38",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

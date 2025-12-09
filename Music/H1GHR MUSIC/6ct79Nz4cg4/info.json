@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "PUV3s9ohKI0U_vgVd48KxDSDrD4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "meKSamOdSkEvI26AW7bygAsJN10",
+            "id": "6ct79Nz4cg4",
+            "snippet": {
+                "publishedAt": "2025-08-18T11:00:11Z",
+                "channelId": "UC6TJkBRLMFJ-9c7pXehoZwg",
+                "title": "pH-1 'KEEP IT ON THE LOW (Feat. 릴보이 (lIlBOI))' LIVE CLIP",
+                "description": "pH-1 The 3rd Studio Album 【WHAT HAVE WE DONE】 is out! \nListen and download on your favorite platform : https://lnk.to/pH1_WHAT_HAVE_WE_DONE \n\nMore Information Here:\n\n@pH-1\nInstagram : https://www.instagram.com/ph1boyyy\nTwitter : https://twitter.com/ph1boyyy \n\n@lIlBOI\nInstagram: https://www.instagram.com/lilboi91/\nTwitter: https://twitter.com/lilbo2\n\n@H1GHRMUSIC\nInstagram : https://www.instagram.com/h1ghrmusic\nFacebook : https://www.facebook.com/H1GHRMUSICOFFICIAL\nTwitter:https ://twitter.com/H1GHRMUSIC\nWeibo : https://www.weibo.com/h1ghrmusic\n\n#pH1 #피에이치원 \n#lIlBOI #릴보이 \n#KEEP_IT_ON_THE_LOW\n#WHAT_HAVE_WE_DONE\n#H1GHRMUSIC #하이어뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6ct79Nz4cg4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6ct79Nz4cg4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6ct79Nz4cg4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6ct79Nz4cg4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6ct79Nz4cg4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "H1GHR MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "pH-1 'KEEP IT ON THE LOW (Feat. 릴보이 (lIlBOI))' LIVE CLIP",
+                    "description": "pH-1 The 3rd Studio Album 【WHAT HAVE WE DONE】 is out! \nListen and download on your favorite platform : https://lnk.to/pH1_WHAT_HAVE_WE_DONE \n\nMore Information Here:\n\n@pH-1\nInstagram : https://www.instagram.com/ph1boyyy\nTwitter : https://twitter.com/ph1boyyy \n\n@lIlBOI\nInstagram: https://www.instagram.com/lilboi91/\nTwitter: https://twitter.com/lilbo2\n\n@H1GHRMUSIC\nInstagram : https://www.instagram.com/h1ghrmusic\nFacebook : https://www.facebook.com/H1GHRMUSICOFFICIAL\nTwitter:https ://twitter.com/H1GHRMUSIC\nWeibo : https://www.weibo.com/h1ghrmusic\n\n#pH1 #피에이치원 \n#lIlBOI #릴보이 \n#KEEP_IT_ON_THE_LOW\n#WHAT_HAVE_WE_DONE\n#H1GHRMUSIC #하이어뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "118853",
+                "likeCount": "2969",
+                "favoriteCount": "0",
+                "commentCount": "110"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

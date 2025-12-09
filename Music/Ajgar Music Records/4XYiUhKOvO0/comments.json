@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "ZSoFmOFSHPsOsE14v9ZTi61nRMo",
+        "id": "Ugywpsh_ZiWcMza4azx4AaABAg",
+        "snippet": {
+            "channelId": "UCCgvGC3qecoN6kn64Q-dpsw",
+            "videoId": "4XYiUhKOvO0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "zTP8MaLPKCSKT5zNDN7h7fcXEZI",
+                "id": "Ugywpsh_ZiWcMza4azx4AaABAg",
+                "snippet": {
+                    "channelId": "UCCgvGC3qecoN6kn64Q-dpsw",
+                    "videoId": "4XYiUhKOvO0",
+                    "textDisplay": "❤❤❤❤",
+                    "textOriginal": "❤❤❤❤",
+                    "authorDisplayName": "@Balidhadhiya",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kx7LRXG9JxEQPwGG5Y-3-amHKIcX2nDJF5PElO758mf4e-_81WiP_1aIdW3MoO0j1Pgg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@Balidhadhiya",
+                    "authorChannelId": {
+                        "value": "UCdqX-sA7N3Oe-zcWDT3ZyaQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-10-23T02:03:52Z",
+                    "updatedAt": "2025-10-23T02:03:52Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

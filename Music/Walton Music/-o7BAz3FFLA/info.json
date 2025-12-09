@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "VYuWQ81_A_k1Vme78ZghM5-nH_g",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "mnAeodsI8V3tnL5TLrTahpO-izc",
+            "id": "-o7BAz3FFLA",
+            "snippet": {
+                "publishedAt": "2025-10-08T13:00:01Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Balibele | arr. Sizwe Mondlane",
+                "description": "Balibele arranged by Sizwe Mondlane for SATB divisi, unaccompanied. \n\nThis traditional Zulu song about God's mercy has been expertly arranged here by South African composer Sizwe Mondlane. This arrangement was premiered by the University of Pretoria TUKS Camerata.\n\nPurchase the music: https://giamusic.com/resource/balibele-printed-music-ww2124",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-o7BAz3FFLA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-o7BAz3FFLA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-o7BAz3FFLA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-o7BAz3FFLA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-o7BAz3FFLA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Balibele | arr. Sizwe Mondlane",
+                    "description": "Balibele arranged by Sizwe Mondlane for SATB divisi, unaccompanied. \n\nThis traditional Zulu song about God's mercy has been expertly arranged here by South African composer Sizwe Mondlane. This arrangement was premiered by the University of Pretoria TUKS Camerata.\n\nPurchase the music: https://giamusic.com/resource/balibele-printed-music-ww2124"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M4S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "134",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

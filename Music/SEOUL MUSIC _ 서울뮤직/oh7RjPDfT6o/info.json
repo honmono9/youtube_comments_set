@@ -1,0 +1,91 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "0biTMOyb6I8A6S3hIa5-_KTQeHE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "usEH8Sv60sdZkNZCdcJSNZNkhGs",
+            "id": "oh7RjPDfT6o",
+            "snippet": {
+                "publishedAt": "2025-01-03T09:00:50Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[MV] Horim (호림) - hi, again / Official Music Video",
+                "description": "[MV] Horim (호림) - hi, again / Official Music Video\n\nHorim - hi, again\n\n 떠남을 마주하는 이들에게 들려주는, 노래 \n\n*\n Produced by Horim, Konquest\n\n Composed by Konquest, DoDoL, Horim\n Lyrics by Horim, Jisoo Lim\n Arranged by Konquest, DoDoL, Horim\n Piano by DoDoL \n\n Vocal Recorded at East Seoul Studios \n Mixed, Mastered by B.A. Wheeler at East Seoul Studios  \n\n Album Cover by Minwoo Tommy Choi \n Photographer : Minwoo Tommy Choi\n\n* \n  Music Video\n  Directer : Changjin Yoo \n  D.O.P : Changjin Yoo\n  A.D : Woojin Kim\nEdit & D.I : Changjin Yoo\n\n\n#Horim #호림 #newrelease",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oh7RjPDfT6o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oh7RjPDfT6o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oh7RjPDfT6o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oh7RjPDfT6o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oh7RjPDfT6o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "tags": [
+                    "new release",
+                    "최신곡",
+                    "최신음악",
+                    "뮤직비디오",
+                    "mv",
+                    "최신뮤비",
+                    "잇츠라이브",
+                    "its live",
+                    "딩고",
+                    "new",
+                    "플레이리스트",
+                    "playlist",
+                    "호림",
+                    "Horim",
+                    "hi again",
+                    "호림 hi again",
+                    "horim hi again"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[MV] Horim (호림) - hi, again / Official Music Video",
+                    "description": "[MV] Horim (호림) - hi, again / Official Music Video\n\nHorim - hi, again\n\n 떠남을 마주하는 이들에게 들려주는, 노래 \n\n*\n Produced by Horim, Konquest\n\n Composed by Konquest, DoDoL, Horim\n Lyrics by Horim, Jisoo Lim\n Arranged by Konquest, DoDoL, Horim\n Piano by DoDoL \n\n Vocal Recorded at East Seoul Studios \n Mixed, Mastered by B.A. Wheeler at East Seoul Studios  \n\n Album Cover by Minwoo Tommy Choi \n Photographer : Minwoo Tommy Choi\n\n* \n  Music Video\n  Directer : Changjin Yoo \n  D.O.P : Changjin Yoo\n  A.D : Woojin Kim\nEdit & D.I : Changjin Yoo\n\n\n#Horim #호림 #newrelease"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2112",
+                "likeCount": "103",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

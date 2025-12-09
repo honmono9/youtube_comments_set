@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "aIm-fG4ytXn0T4XIZIlFJ_TyccU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "JxYACHnTUyQPtr7JubeBo3liSf4",
+            "id": "QeFArT_rXUs",
+            "snippet": {
+                "publishedAt": "2022-04-21T13:00:16Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Happy Jazz Music - Relaxing Playlist of Jazz and Bossa Nova Music for Positive Mood",
+                "description": "The best of happy jazz and bossa nova music by Richard Freeman! \n\nInstrumental Jazz and Bossa Nova music by Richard Freeman.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #happyjazz #relaxingjazz\n\nl042",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QeFArT_rXUs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QeFArT_rXUs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QeFArT_rXUs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QeFArT_rXUs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QeFArT_rXUs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "tags": [
+                    "happy jazz",
+                    "relaxing jazz",
+                    "bossa nova music",
+                    "positive jazz music",
+                    "jazz playlist",
+                    "jazz music",
+                    "good mood jazz",
+                    "spring season jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Happy Jazz Music - Relaxing Playlist of Jazz and Bossa Nova Music for Positive Mood",
+                    "description": "The best of happy jazz and bossa nova music by Richard Freeman! \n\nInstrumental Jazz and Bossa Nova music by Richard Freeman.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #happyjazz #relaxingjazz\n\nl042"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "68868",
+                "likeCount": "452",
+                "favoriteCount": "0",
+                "commentCount": "18"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

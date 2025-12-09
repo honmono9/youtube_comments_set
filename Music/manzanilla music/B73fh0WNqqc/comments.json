@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Z62kZbhnrQt63qy69teN4zdvWO4",
+        "id": "Ugzze7S-MoUGCvFV_Yh4AaABAg",
+        "snippet": {
+            "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+            "videoId": "B73fh0WNqqc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "WyTXliyv_uPlTMrUwYa15b-JNeY",
+                "id": "Ugzze7S-MoUGCvFV_Yh4AaABAg",
+                "snippet": {
+                    "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+                    "videoId": "B73fh0WNqqc",
+                    "textDisplay": "いつも音楽をありがとね。朝の始まりに聞いてるよっ♡",
+                    "textOriginal": "いつも音楽をありがとね。朝の始まりに聞いてるよっ♡",
+                    "authorDisplayName": "@japanesehomerice2112",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nujaU6duTDdeGwzVzsxgQA2mZ7IK7tMTbFjkxbS2bqbUI=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@japanesehomerice2112",
+                    "authorChannelId": {
+                        "value": "UCS8LDjrRAzZghPAr5Axm8HQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 9,
+                    "publishedAt": "2025-08-01T21:46:59Z",
+                    "updatedAt": "2025-08-01T21:46:59Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

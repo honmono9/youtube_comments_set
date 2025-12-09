@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "7Wuh6HwtnhzWpPMuTdD0y9XYr3M",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "LyuMoZ-XZem0-dECKztamZo3QuA",
+            "id": "3ONnI4vx8uw",
+            "snippet": {
+                "publishedAt": "2019-11-01T06:23:49Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "[한글자막라이브] AJ Mitchell - Like Strangers Do",
+                "description": "#ajmitchell #에이제이미첼 #Likestrangersdo #한글자막뮤비\n\n떠오르는 고막남친 AJ Mitchell의 Like Strangers Do\n감미로운 라이브 듣기 ♥\n\n🎧 앨범 듣기 : http://kko.to/3EmS8vsjM\n\n🔗 소뮤코 공식 채널 팔로우\n▶ YouTube: https://www.youtube.com/channel/UCpoV...\n▶ Instagram: https://www.instagram.com/sonymusickorea \n▶ Facebook: https://www.facebook.com/sonymusickorea\n▶ Twitter: https://twitter.com/SonyMusicKr_POP",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3ONnI4vx8uw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3ONnI4vx8uw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3ONnI4vx8uw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3ONnI4vx8uw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3ONnI4vx8uw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[한글자막라이브] AJ Mitchell - Like Strangers Do",
+                    "description": "#ajmitchell #에이제이미첼 #Likestrangersdo #한글자막뮤비\n\n떠오르는 고막남친 AJ Mitchell의 Like Strangers Do\n감미로운 라이브 듣기 ♥\n\n🎧 앨범 듣기 : http://kko.to/3EmS8vsjM\n\n🔗 소뮤코 공식 채널 팔로우\n▶ YouTube: https://www.youtube.com/channel/UCpoV...\n▶ Instagram: https://www.instagram.com/sonymusickorea \n▶ Facebook: https://www.facebook.com/sonymusickorea\n▶ Twitter: https://twitter.com/SonyMusicKr_POP"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M47S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "56407",
+                "likeCount": "1098",
+                "favoriteCount": "0",
+                "commentCount": "25"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

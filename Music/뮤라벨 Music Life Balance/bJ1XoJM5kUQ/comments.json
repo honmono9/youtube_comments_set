@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "BHtNSr-49Cp9hw8VNYEayb0YzI4",
+        "id": "UgzlExdI2lltCswrHjZ4AaABAg",
+        "snippet": {
+            "channelId": "UCk--BIdDhezTY294iDOwunQ",
+            "videoId": "bJ1XoJM5kUQ",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "BB0HtHPZIDSWGWDCxkZvGOOjIts",
+                "id": "UgzlExdI2lltCswrHjZ4AaABAg",
+                "snippet": {
+                    "channelId": "UCk--BIdDhezTY294iDOwunQ",
+                    "videoId": "bJ1XoJM5kUQ",
+                    "textDisplay": "장시간 연습하는 연주자에게는 피아노 의자가 매우 중요합니다.\n의자가 불편하면 피로도가 빨리 옵니다.\n저품질 중국산 보다 국내산 BH2 유압의자를 사용하시길 추천합니다.\n국내 대학.홀.스튜디오에서 사용하고 있습니다.\n피아노 연주자분들 응원합니다.",
+                    "textOriginal": "장시간 연습하는 연주자에게는 피아노 의자가 매우 중요합니다.\n의자가 불편하면 피로도가 빨리 옵니다.\n저품질 중국산 보다 국내산 BH2 유압의자를 사용하시길 추천합니다.\n국내 대학.홀.스튜디오에서 사용하고 있습니다.\n피아노 연주자분들 응원합니다.",
+                    "authorDisplayName": "@yespiano88",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_niZR1rULsuHVJ1xvU_3kSHFuBsnzHsoZdlfFLlg2M0eok=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@yespiano88",
+                    "authorChannelId": {
+                        "value": "UCTQtf5m0Ig_vMW6Ec8QSVlg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2024-10-28T01:49:58Z",
+                    "updatedAt": "2024-10-28T01:49:58Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "amrCOqYGMxF9be8Ud3NhKlfP2K0",
+        "id": "UgxV6FAmQ7TPmm242D94AaABAg",
+        "snippet": {
+            "channelId": "UCk--BIdDhezTY294iDOwunQ",
+            "videoId": "bJ1XoJM5kUQ",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "SuwpjJ4rh5QIOVfcIqVoS7oDFFY",
+                "id": "UgxV6FAmQ7TPmm242D94AaABAg",
+                "snippet": {
+                    "channelId": "UCk--BIdDhezTY294iDOwunQ",
+                    "videoId": "bJ1XoJM5kUQ",
+                    "textDisplay": "저 지금 피아노 연습실 대관해서 연습하고 쉬고 있었는데 여기 유압식 의자에요!",
+                    "textOriginal": "저 지금 피아노 연습실 대관해서 연습하고 쉬고 있었는데 여기 유압식 의자에요!",
+                    "authorDisplayName": "@yulpianokim",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/RuMI3UqT00fXBTotE_JhrZCe83sThHgHSG1LtCqfA896Fyq_vLuD869EFAnAoi4xtX5lPIk3kQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@yulpianokim",
+                    "authorChannelId": {
+                        "value": "UCD_fZ3DiK4xT0hGr7EaTReA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2024-10-27T09:17:05Z",
+                    "updatedAt": "2024-10-27T09:17:05Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,75 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "u1E_nDKfxVc3v69Mh2wOODBBt6w",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "bT6_HVKNAjyug_AVivdBULOEkAE",
+            "id": "JTy_rVzfWYE",
+            "snippet": {
+                "publishedAt": "2022-03-08T23:48:56Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "여유롭고 잔잔한 감성 팝 음악 with 호아킨 소로야",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JTy_rVzfWYE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JTy_rVzfWYE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JTy_rVzfWYE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JTy_rVzfWYE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "잔잔한 팝송",
+                    "잔잔한 노래",
+                    "팝송 모음",
+                    "여유로운 팝송",
+                    "주말 팝송",
+                    "감성 팝송"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "여유롭고 잔잔한 감성 팝 음악 with 호아킨 소로야",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT27M5S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "88535",
+                "likeCount": "1531",
+                "favoriteCount": "0",
+                "commentCount": "78"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

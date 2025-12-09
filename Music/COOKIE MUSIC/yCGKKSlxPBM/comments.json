@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "NU1s0rl7Mh4yDY2hVpY_QxaIxw8",
+        "id": "Ugxt-l1E4IiAbjfgXpF4AaABAg",
+        "snippet": {
+            "channelId": "UCd9lGAZOEOYB4KRgIRDOHag",
+            "videoId": "yCGKKSlxPBM",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "5uPgyIzXGvVaSAPG82myEpRPdUk",
+                "id": "Ugxt-l1E4IiAbjfgXpF4AaABAg",
+                "snippet": {
+                    "channelId": "UCd9lGAZOEOYB4KRgIRDOHag",
+                    "videoId": "yCGKKSlxPBM",
+                    "textDisplay": "첫곡부터 취저다",
+                    "textOriginal": "첫곡부터 취저다",
+                    "authorDisplayName": "@lovely8682",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kCqeZxZKlyIbwF8AzRycTGkgYFiH2gXuy57ntiJ1M=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@lovely8682",
+                    "authorChannelId": {
+                        "value": "UCjnaq7Mi483g_HytQT-h0rQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-07-04T11:03:22Z",
+                    "updatedAt": "2025-07-04T11:03:22Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

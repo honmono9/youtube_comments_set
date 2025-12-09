@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "_LxOI9aHCe0yqdQbXJQ7I1Uxqyo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "mVVvLflCPtGIwFEq8mPgSitDxQE",
+            "id": "jYwrAkFAjTM",
+            "snippet": {
+                "publishedAt": "2019-08-02T00:24:52Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "071419 Saint-Saens Violin Concerto No. 3 in B minor, Op. 61",
+                "description": "ENCORE Chamber Music 2019 Season 'La bohème' \nSummer Academy Blooming Artists Concert\n\nCalvin Alexander, violin (age 14)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jYwrAkFAjTM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jYwrAkFAjTM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jYwrAkFAjTM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jYwrAkFAjTM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jYwrAkFAjTM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "071419 Saint-Saens Violin Concerto No. 3 in B minor, Op. 61",
+                    "description": "ENCORE Chamber Music 2019 Season 'La bohème' \nSummer Academy Blooming Artists Concert\n\nCalvin Alexander, violin (age 14)"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT8M54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1561",
+                "likeCount": "17",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "hwnE72cx-4m6aXyZ8Hml1TOR4n0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "EXW85SNWcrWTiZoK3WsgEL9dahw",
+            "id": "3mRrgFqA9vo",
+            "snippet": {
+                "publishedAt": "2024-11-08T05:01:56Z",
+                "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                "title": "🎧모두의 소리는 잠시 노이즈 캔슬링 [오프더레코드 : 야마하 플레이룸] #밑미 #전시",
+                "description": "무엇인가 시작하고 싶은데, 용기가 나지 않았다면\n다른 사람들의 솔직한 이야기가 도움이 될지도 몰라요. \n\n언젠가 배워보고 싶었던 드럼부터🥁\n어릴 때 잠깐 배우다 그만둔 피아노🎹\n잡기만 해도 멋있어지는 기타🎸\n강렬한 일렉 바이올린까지 🎻\n\n[오프더레코드 : 야마하 플레이룸]에서 \n다시 음악과 가까워지는 시간을 가져보세요🎵\n\n📆 2024년 10월 26일(토) ~ 11월 14일(목)\n🕐 평일 12:00 ~ 20:00\n🕐 주말 11:00 ~ 19:00\n📍 서울 종로구 자하문로 13길 4 사사사가\n\n#야마하 #야마하뮤직코리아\n#오프더레코드 #밑미\n#서촌 #서촌여행 #악기연주 \n#서촌팝업 #팝업전시 \n#취미연주 #야마하피아노 #야마하디지털피아노\n#디지털피아노 #하이브리드피아노\n#일렉기타 #기타앰프 #퍼시피카 #사일런트기타\n#일렉바이올린 #드럼 #전자드럼\n#NU1XA #P525 #PACS12M\n#THR30II #SLG200 #YEV104PRO #DTX452K",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3mRrgFqA9vo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3mRrgFqA9vo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3mRrgFqA9vo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3mRrgFqA9vo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3mRrgFqA9vo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yamaha Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🎧모두의 소리는 잠시 노이즈 캔슬링 [오프더레코드 : 야마하 플레이룸] #밑미 #전시",
+                    "description": "무엇인가 시작하고 싶은데, 용기가 나지 않았다면\n다른 사람들의 솔직한 이야기가 도움이 될지도 몰라요. \n\n언젠가 배워보고 싶었던 드럼부터🥁\n어릴 때 잠깐 배우다 그만둔 피아노🎹\n잡기만 해도 멋있어지는 기타🎸\n강렬한 일렉 바이올린까지 🎻\n\n[오프더레코드 : 야마하 플레이룸]에서 \n다시 음악과 가까워지는 시간을 가져보세요🎵\n\n📆 2024년 10월 26일(토) ~ 11월 14일(목)\n🕐 평일 12:00 ~ 20:00\n🕐 주말 11:00 ~ 19:00\n📍 서울 종로구 자하문로 13길 4 사사사가\n\n#야마하 #야마하뮤직코리아\n#오프더레코드 #밑미\n#서촌 #서촌여행 #악기연주 \n#서촌팝업 #팝업전시 \n#취미연주 #야마하피아노 #야마하디지털피아노\n#디지털피아노 #하이브리드피아노\n#일렉기타 #기타앰프 #퍼시피카 #사일런트기타\n#일렉바이올린 #드럼 #전자드럼\n#NU1XA #P525 #PACS12M\n#THR30II #SLG200 #YEV104PRO #DTX452K"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT33S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "345",
+                "likeCount": "9",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

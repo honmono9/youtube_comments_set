@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "jI40Uoxk2YNB6_E_RQ15p6XTAMQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "BSlto486WzCBydP9qUb1I3ElCQ0",
+            "id": "nt31XZZK7Nk",
+            "snippet": {
+                "publishedAt": "2023-04-06T13:00:37Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "April Jazz - Chill out Coffee Music for Work and Study",
+                "description": "The best playlist of relaxing april jazz music! Work and Study with relaxing coffee shop music by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\nl169",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nt31XZZK7Nk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nt31XZZK7Nk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nt31XZZK7Nk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nt31XZZK7Nk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nt31XZZK7Nk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "April Jazz - Chill out Coffee Music for Work and Study",
+                    "description": "The best playlist of relaxing april jazz music! Work and Study with relaxing coffee shop music by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\nl169"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "17820",
+                "likeCount": "156",
+                "favoriteCount": "0",
+                "commentCount": "26"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

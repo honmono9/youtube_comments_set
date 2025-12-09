@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "OL4r0OvwhGuGF3KbWnGPc1iPxYs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "sT2SzVH-VOWtpdpf3_nL4sVHRvg",
+            "id": "vH_IL3dtzwE",
+            "snippet": {
+                "publishedAt": "2025-06-30T10:01:24Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "[Teaser] 공기남 - 어디든 좋아 (Feat. Akita)",
+                "description": "[Teaser] 공기남 - 어디든 좋아 (Feat. Akita)\n2025. 7. 2. Wed. 12PM release\n\n#공기남 #어디든좋아 #teaser #에어뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vH_IL3dtzwE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vH_IL3dtzwE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vH_IL3dtzwE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vH_IL3dtzwE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vH_IL3dtzwE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Teaser] 공기남 - 어디든 좋아 (Feat. Akita)",
+                    "description": "[Teaser] 공기남 - 어디든 좋아 (Feat. Akita)\n2025. 7. 2. Wed. 12PM release\n\n#공기남 #어디든좋아 #teaser #에어뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "104",
+                "likeCount": "5",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

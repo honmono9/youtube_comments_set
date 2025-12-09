@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "YA47Q3TJRHb5R2D1Q3HorFiEfyw",
+        "id": "Ugx4ZI8Ow6mjs719yRB4AaABAg",
+        "snippet": {
+            "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+            "videoId": "80V9lJom_QM",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "IYQibhs8fZU9-U6vzJscmaODj3Y",
+                "id": "Ugx4ZI8Ow6mjs719yRB4AaABAg",
+                "snippet": {
+                    "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+                    "videoId": "80V9lJom_QM",
+                    "textDisplay": "❤",
+                    "textOriginal": "❤",
+                    "authorDisplayName": "@jiyoongraceyulia",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/69m5-OZ73Ug3SDKX6uMAi_nydipmtkhEg5cGA8AT76JI9hct_QzLv3DE1CEWgVFiG-3lg4WL0A=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@jiyoongraceyulia",
+                    "authorChannelId": {
+                        "value": "UC0lvpof0ioLpfxVtLef7r7w"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-08-15T11:23:40Z",
+                    "updatedAt": "2025-08-15T11:23:40Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

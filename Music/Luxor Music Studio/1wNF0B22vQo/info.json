@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "n--BxRuhgu0Al2uf68rHiiYN_5U",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Uwamt5jYe_KG3jiD7S9BvncVuqI",
+            "id": "1wNF0B22vQo",
+            "snippet": {
+                "publishedAt": "2025-03-21T18:42:30Z",
+                "channelId": "UCirSyikc3MSAjkJNdFBcR-g",
+                "title": "Vorbe frumoase și adevărate pentru toți care se regăsesc! ❤️ #IDLV  @IULIANDELAVRANCEA",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1wNF0B22vQo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1wNF0B22vQo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1wNF0B22vQo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1wNF0B22vQo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1wNF0B22vQo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Luxor Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ro",
+                "localized": {
+                    "title": "Vorbe frumoase și adevărate pentru toți care se regăsesc! ❤️ #IDLV  @IULIANDELAVRANCEA",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ro"
+            },
+            "contentDetails": {
+                "duration": "PT1M5S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "671",
+                "likeCount": "11",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Qz5A5JHxwQhqqjJvwQ9zLDf6X88",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "H6dacgaq4vllsnXJz2801b3134s",
+            "id": "hGNIO60W1W8",
+            "snippet": {
+                "publishedAt": "2025-03-10T11:00:20Z",
+                "channelId": "UCYTNxR2Z4ryz88WRWiaPCdg",
+                "title": "Yanamie - Ohayo :3 Onii - chan",
+                "description": "Yanamie - Ohayo :3 Onii - chan\n\n🔊 If you find it interesting, Please Like Subscribe and Click on the notification bell 🔔 So you don't miss new videos :3\n⚡ Stream On Spotify : \n👉 Submit Demo to Intensity : \n💁 Support - Copyright : \n____________________________________\n☆ Follow - \n→ Soundcloud : \n→ Youtube :\n→ Twitter : \n\n➥ Please Share this Mix on Social sites ( Tik Tok, Facebook, Twitter, Thread etc. ) to more person could listen it !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hGNIO60W1W8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hGNIO60W1W8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hGNIO60W1W8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hGNIO60W1W8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hGNIO60W1W8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "K - Music Sweet",
+                "tags": [
+                    "KMS",
+                    "K Sweet Music",
+                    "J-Pop",
+                    "Japan Music",
+                    "Kawaii Music",
+                    "Cute Music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Yanamie - Ohayo :3 Onii - chan",
+                    "description": "Yanamie - Ohayo :3 Onii - chan\n\n🔊 If you find it interesting, Please Like Subscribe and Click on the notification bell 🔔 So you don't miss new videos :3\n⚡ Stream On Spotify : \n👉 Submit Demo to Intensity : \n💁 Support - Copyright : \n____________________________________\n☆ Follow - \n→ Soundcloud : \n→ Youtube :\n→ Twitter : \n\n➥ Please Share this Mix on Social sites ( Tik Tok, Facebook, Twitter, Thread etc. ) to more person could listen it !"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3174",
+                "likeCount": "166",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

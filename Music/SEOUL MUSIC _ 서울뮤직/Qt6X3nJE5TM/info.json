@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "cevODeEqbYPqO3kFmlvqrMneEqI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "wT-r-xj1y6LjT57jOBeKXb1QGVs",
+            "id": "Qt6X3nJE5TM",
+            "snippet": {
+                "publishedAt": "2021-07-31T13:00:21Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[Live Clip] 이현 ‘내꺼중에 최고 (You are the best of my life)'",
+                "description": "[Live Clip] 이현 ‘내꺼중에 최고 (You are the best of my life)'\n\n♬ '내꺼중에 최고' 들어보기 Listen to 'You are the best of my life'\n\n▶Apple Music : https://apple.co/3fgL9ie\n▶멜론 : http://kko.to/Y8a5UVjf0\n▶지니 : http://www.genie.co.kr/5OBQE2\n▶바이브 : https://vibe.naver.com/album/189971\n▶플로 : http://flomuz.io/s/a.bgTX\n▶벅스 : https://music.bugs.co.kr/album/264231\n\nConnect with LeeHyun:\nhttps://ibighit.com/leehyun/\nhttps://twitter.com/LeeHyun_bighit\nhttps://twitter.com/thehyun11\nhttps://www.facebook.com/Leehyun.official\n\n#이현 #LeeHyun #내꺼중에_최고 #You_are_the_best_of_my_life",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qt6X3nJE5TM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qt6X3nJE5TM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qt6X3nJE5TM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Qt6X3nJE5TM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Qt6X3nJE5TM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "tags": [
+                    "이현",
+                    "lee hyun",
+                    "내꺼중에 최고",
+                    "You are the best of my life",
+                    "이현 라이브",
+                    "이현 노래",
+                    "노래방",
+                    "kpop"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Live Clip] 이현 ‘내꺼중에 최고 (You are the best of my life)'",
+                    "description": "[Live Clip] 이현 ‘내꺼중에 최고 (You are the best of my life)'\n\n♬ '내꺼중에 최고' 들어보기 Listen to 'You are the best of my life'\n\n▶Apple Music : https://apple.co/3fgL9ie\n▶멜론 : http://kko.to/Y8a5UVjf0\n▶지니 : http://www.genie.co.kr/5OBQE2\n▶바이브 : https://vibe.naver.com/album/189971\n▶플로 : http://flomuz.io/s/a.bgTX\n▶벅스 : https://music.bugs.co.kr/album/264231\n\nConnect with LeeHyun:\nhttps://ibighit.com/leehyun/\nhttps://twitter.com/LeeHyun_bighit\nhttps://twitter.com/thehyun11\nhttps://www.facebook.com/Leehyun.official\n\n#이현 #LeeHyun #내꺼중에_최고 #You_are_the_best_of_my_life"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "787",
+                "likeCount": "45",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

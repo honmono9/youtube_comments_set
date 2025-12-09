@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "A__ld_5Cti0PDsxuUbXcbjaEk1w",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Y5Qb4vRRtD1hsoswPuvXxCXWE2o",
+            "id": "2PQgLoPE99c",
+            "snippet": {
+                "publishedAt": "2025-02-10T23:00:01Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "🌞𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀! #2 | #라쿠나 #오이삭",
+                "description": "[𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀!]\n\n여러분의 아침을 열어줄 오늘의 아티스트는\n라쿠나의 오이삭님입니다.\n\n이삭님의 아침 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n좋은 아침 되세요!🌞\n\n[00:00]  Good Morning my Firends #2 오이삭\n[03:04] キリンジ(키린지) - グッデイ・グッバイ (Good Day Good Bye)\n[08:32] BLU-SWING - 満ちていく体温 (Michiteku Tauon)\n[12:17] Jamiroquai - Virtual Insanity\n[16:09] Michael Jackson - Love Never Felt So Good\n[20:09] Lacuna (라쿠나) - bow-wow \n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#GoodMorningmyFriends #라쿠나 #오이삭",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2PQgLoPE99c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2PQgLoPE99c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2PQgLoPE99c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2PQgLoPE99c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2PQgLoPE99c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🌞𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀! #2 | #라쿠나 #오이삭",
+                    "description": "[𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀!]\n\n여러분의 아침을 열어줄 오늘의 아티스트는\n라쿠나의 오이삭님입니다.\n\n이삭님의 아침 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n좋은 아침 되세요!🌞\n\n[00:00]  Good Morning my Firends #2 오이삭\n[03:04] キリンジ(키린지) - グッデイ・グッバイ (Good Day Good Bye)\n[08:32] BLU-SWING - 満ちていく体温 (Michiteku Tauon)\n[12:17] Jamiroquai - Virtual Insanity\n[16:09] Michael Jackson - Love Never Felt So Good\n[20:09] Lacuna (라쿠나) - bow-wow \n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#GoodMorningmyFriends #라쿠나 #오이삭"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT23M31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "662",
+                "likeCount": "44",
+                "favoriteCount": "0",
+                "commentCount": "15"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

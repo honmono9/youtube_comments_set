@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "23N6wC84dS_AlhnmKbIOzqgdnuY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "77pD3bVNhbAPaJn9agoIAVUakzQ",
+            "id": "zGOOxcikvDo",
+            "snippet": {
+                "publishedAt": "2025-05-29T07:59:55Z",
+                "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                "title": "💤브랜든 최는 자기전에 무슨 음악을 들을까?🧐 | Romance No.2 in F major, Op.50 | by 색소포니스트 브랜든 최",
+                "description": "브랜든 최는 자기 전에 무슨 음악을 들을까?🧐\n\n브랜든 최가 직접 들려주는\n잠잘 때 듣기 좋은 색소폰 한 소절🎵\n\n🎵Romance No.2 in F major, Op.50\n🎷YAS-875EX GP\n\n지친 하루, 브랜든 최의 연주와 함께 마무리해 보세요💤🌙\n\n#야마하뮤직코리아 #브랜든최 #야마하인터뷰\n#야마하아티스트인터뷰\n#브랜든최색소폰\n#클래식색소폰\n#야마하색소폰 #YAS875EX",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zGOOxcikvDo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zGOOxcikvDo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zGOOxcikvDo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zGOOxcikvDo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zGOOxcikvDo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yamaha Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "💤브랜든 최는 자기전에 무슨 음악을 들을까?🧐 | Romance No.2 in F major, Op.50 | by 색소포니스트 브랜든 최",
+                    "description": "브랜든 최는 자기 전에 무슨 음악을 들을까?🧐\n\n브랜든 최가 직접 들려주는\n잠잘 때 듣기 좋은 색소폰 한 소절🎵\n\n🎵Romance No.2 in F major, Op.50\n🎷YAS-875EX GP\n\n지친 하루, 브랜든 최의 연주와 함께 마무리해 보세요💤🌙\n\n#야마하뮤직코리아 #브랜든최 #야마하인터뷰\n#야마하아티스트인터뷰\n#브랜든최색소폰\n#클래식색소폰\n#야마하색소폰 #YAS875EX"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1709",
+                "likeCount": "28",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

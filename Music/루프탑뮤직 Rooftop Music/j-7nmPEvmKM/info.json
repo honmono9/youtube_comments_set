@@ -1,0 +1,99 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ZmQ0xMC5BFS_0P47PDvDrRQLtdw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "UDupNcX6puMbEdwi2LkaWnYhXwQ",
+            "id": "j-7nmPEvmKM",
+            "snippet": {
+                "publishedAt": "2025-09-29T08:30:31Z",
+                "channelId": "UC3q6ETGnbbeQ9F_3G04_2ug",
+                "title": "◎ Shorts 솔직히 올해 제일 멋있는 춤 같다.. 최고다 류진",
+                "description": "#플레이리스트 #류진 #정국 \n구독  https://goo.gl/xVBJcD\n\n\n🎤영상의 포함된 광고는 유튜브에서 자동으로 삽입됩니다.\n🎤해당 채널에서 발생된 모든 수익은 100% 원저작권자에 돌아갑니다. \n      혹시 음원 사용을 원치 않으시면 꼭 댓글로 남겨주세요",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j-7nmPEvmKM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j-7nmPEvmKM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j-7nmPEvmKM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/j-7nmPEvmKM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/j-7nmPEvmKM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "루프탑뮤직 Rooftop Music",
+                "tags": [
+                    "ryujin",
+                    "류진",
+                    "춤",
+                    "춤 (Standing Next to You)",
+                    "ryujin 춤",
+                    "류진 춤",
+                    "ryujin 신곡",
+                    "ryujin 뮤비",
+                    "류진 신곡",
+                    "류진 뮤비",
+                    "ryujin 춤 뮤비",
+                    "류진 춤 뮤비",
+                    "춤 뮤비",
+                    "춤 Music Video",
+                    "Standing Next to You 뮤비",
+                    "ryujin Standing Next to You 뮤비",
+                    "류진 Standing Next to You MV",
+                    "Standing Next to You MV",
+                    "ryujin 춤 MV",
+                    "류진 춤 Music Video",
+                    "류진 춤 MV",
+                    "ryujin Standing Next to You",
+                    "ryujin Standing Next to You MV",
+                    "ryujin Standing Next to You MUSIC VIDEO",
+                    "ryujin Standing Next to You Music Video"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "◎ Shorts 솔직히 올해 제일 멋있는 춤 같다.. 최고다 류진",
+                    "description": "#플레이리스트 #류진 #정국 \n구독  https://goo.gl/xVBJcD\n\n\n🎤영상의 포함된 광고는 유튜브에서 자동으로 삽입됩니다.\n🎤해당 채널에서 발생된 모든 수익은 100% 원저작권자에 돌아갑니다. \n      혹시 음원 사용을 원치 않으시면 꼭 댓글로 남겨주세요"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2330",
+                "likeCount": "21",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

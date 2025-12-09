@@ -1,0 +1,90 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "mYsccACXHOWS5grpUgDtD7y70zc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "UHAgJpdQ5XYVaF8SCe6pIuCOzMo",
+            "id": "aOQC0Pw9Wyw",
+            "snippet": {
+                "publishedAt": "2024-07-03T11:45:00Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"꿈으로 채우는 나의 방\" 평화로운 수면음악 - To My Dream",
+                "description": "내 방 가득  \n꿈과 생각들로 채워질때\n나의 밤은 더 아름다워진다.\n\n오늘도 꿈꾸는 나의 밤 :)\n\n\n🎵곡 제목                      \n01.To My Dream\n02.Universe\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #자기전에듣는음악 #잠오는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aOQC0Pw9Wyw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aOQC0Pw9Wyw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aOQC0Pw9Wyw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aOQC0Pw9Wyw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aOQC0Pw9Wyw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "수면음악",
+                    "수면유도음악",
+                    "잠잘때듣는음악",
+                    "편안한음악",
+                    "피아노음악",
+                    "편안한피아노음악",
+                    "잠오는음악",
+                    "PianoMusic",
+                    "평화로운음악",
+                    "숙면음악",
+                    "자기전에듣는음악",
+                    "RelaxMusic",
+                    "RelaxingMusic",
+                    "SleepMusic",
+                    "SleepingMusic",
+                    "MusicforSleep"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"꿈으로 채우는 나의 방\" 평화로운 수면음악 - To My Dream",
+                    "description": "내 방 가득  \n꿈과 생각들로 채워질때\n나의 밤은 더 아름다워진다.\n\n오늘도 꿈꾸는 나의 밤 :)\n\n\n🎵곡 제목                      \n01.To My Dream\n02.Universe\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #자기전에듣는음악 #잠오는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8H36M9S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "156280",
+                "likeCount": "3115",
+                "favoriteCount": "0",
+                "commentCount": "126"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

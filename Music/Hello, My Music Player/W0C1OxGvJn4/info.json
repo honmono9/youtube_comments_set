@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "N-6eMcFwcZGQBjOLxQsuAUPrcDk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "4l3OKqN5vIVBW8BnTPGMIFzwsns",
+            "id": "W0C1OxGvJn4",
+            "snippet": {
+                "publishedAt": "2022-11-09T13:00:30Z",
+                "channelId": "UCoMDPTbC_7aTEWy0D80oO_Q",
+                "title": "안녕하신가영 (Hello Ga-Young) - 그릇 | 가사",
+                "description": "안녕하신가영 (Hello Ga-Young) - 그릇 | 오디오/Audio/MP3\n\n💟 Artist : 안녕하신가영\n💟 작사 : 안녕하신가영\n💟 작곡 : 안녕하신가영\n💟 Album : 반대과정이론\n💟 발매일 : 2014.03.21\n💟 기획사 : 주식회사 인터파크\n💟 장르 : 인디\n💟 스타일 : 인디 팝\n\n작은 마음에 너를 담을 땐\n네가 들어올 곳이 없었고\n\n넓은 마음에 너를 담을 땐\n채워도 채워지지가 않았지\n\n가끔은 넘쳐흐르고\n가끔은 모자란 것이 사랑인데\n\n그때 우린 왜 몰랐을까\n몰랐던 것도 사랑일까\n\n그땐 어려서 서투른 맘이\n사랑인 줄 알았었지\n\n서투른 맘이 식을 줄 몰라\n우린 조각나 버렸었지\n\n이젠 모두 널\n이해할 수 있을 것만 같은데\n\n⭐ insta : https://www.instagram.com/hellomy.music/\n\n✅ 영상에 광고가 있는 경우, 해당 영상에 대한 수익은 저작권자에게 돌아갑니다. 업로더가 영상에 대한 수익을 창출하지 않습니다.\n\n#안녕하신가영 #그릇 #HelloGaYoung #인디음악 #노래모음 #인디노래 #노래 #음악 #Kindie #music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W0C1OxGvJn4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W0C1OxGvJn4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W0C1OxGvJn4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/W0C1OxGvJn4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/W0C1OxGvJn4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hello, My Music Player",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "안녕하신가영 (Hello Ga-Young) - 그릇 | 가사",
+                    "description": "안녕하신가영 (Hello Ga-Young) - 그릇 | 오디오/Audio/MP3\n\n💟 Artist : 안녕하신가영\n💟 작사 : 안녕하신가영\n💟 작곡 : 안녕하신가영\n💟 Album : 반대과정이론\n💟 발매일 : 2014.03.21\n💟 기획사 : 주식회사 인터파크\n💟 장르 : 인디\n💟 스타일 : 인디 팝\n\n작은 마음에 너를 담을 땐\n네가 들어올 곳이 없었고\n\n넓은 마음에 너를 담을 땐\n채워도 채워지지가 않았지\n\n가끔은 넘쳐흐르고\n가끔은 모자란 것이 사랑인데\n\n그때 우린 왜 몰랐을까\n몰랐던 것도 사랑일까\n\n그땐 어려서 서투른 맘이\n사랑인 줄 알았었지\n\n서투른 맘이 식을 줄 몰라\n우린 조각나 버렸었지\n\n이젠 모두 널\n이해할 수 있을 것만 같은데\n\n⭐ insta : https://www.instagram.com/hellomy.music/\n\n✅ 영상에 광고가 있는 경우, 해당 영상에 대한 수익은 저작권자에게 돌아갑니다. 업로더가 영상에 대한 수익을 창출하지 않습니다.\n\n#안녕하신가영 #그릇 #HelloGaYoung #인디음악 #노래모음 #인디노래 #노래 #음악 #Kindie #music"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M8S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "11389",
+                "likeCount": "107",
+                "favoriteCount": "0",
+                "commentCount": "15"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

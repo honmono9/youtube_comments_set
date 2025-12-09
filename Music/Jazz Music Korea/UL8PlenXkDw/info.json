@@ -1,0 +1,108 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "QL6ecQYzk8m03gkxvF864t3neDU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "adh7SLB_Eviw8Sucd7iDURTDCIc",
+            "id": "UL8PlenXkDw",
+            "snippet": {
+                "publishedAt": "2024-03-30T05:16:18Z",
+                "channelId": "UCsfYd7AVFk_ASiMudok6_sQ",
+                "title": "을지로의 조그마한 와인바에서 공연하기 - Jun's music troupe",
+                "description": "을지로에 위치한 리브로 에서 연주하였습니다\n저의 자작곡 소나기를 \n\n첼로 오승규\n바이올린 유호정\n피아노 맹서령\n드럼 추명진\n베이스 나 \n\n와 함께 하였습니다 즐겁게 감상해 주세요!\n\nContact - Chjh1234@gmail.com\n\n협업문의 언제나 환영",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UL8PlenXkDw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UL8PlenXkDw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UL8PlenXkDw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UL8PlenXkDw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UL8PlenXkDw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jazz Music Korea",
+                "tags": [
+                    "재즈",
+                    "재즈밴드",
+                    "재즈공연",
+                    "재즈밴드굿펠리스",
+                    "굿펠리스",
+                    "재즈밴드섭외",
+                    "재즈음악",
+                    "재즈뮤직코리아",
+                    "공연",
+                    "공연섭외",
+                    "재즈베이스",
+                    "콘트라베이스",
+                    "콘트라베이스최준혁",
+                    "재즈베이스최준혁",
+                    "워킹베이스",
+                    "jazz",
+                    "jazzband",
+                    "jazzmusic",
+                    "jazzmusickorea",
+                    "goodfellis",
+                    "uprightbass",
+                    "jazzbass",
+                    "choijunhyuk",
+                    "비브라폰",
+                    "livejazz",
+                    "jazzbandgoodfellis",
+                    "autumn leaves",
+                    "버스킹",
+                    "어텀리브스",
+                    "즉흥연주",
+                    "피렌체",
+                    "여행",
+                    "이태리",
+                    "italy"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "을지로의 조그마한 와인바에서 공연하기 - Jun's music troupe",
+                    "description": "을지로에 위치한 리브로 에서 연주하였습니다\n저의 자작곡 소나기를 \n\n첼로 오승규\n바이올린 유호정\n피아노 맹서령\n드럼 추명진\n베이스 나 \n\n와 함께 하였습니다 즐겁게 감상해 주세요!\n\nContact - Chjh1234@gmail.com\n\n협업문의 언제나 환영"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT7M31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3399",
+                "likeCount": "81",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

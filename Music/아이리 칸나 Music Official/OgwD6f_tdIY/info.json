@@ -1,0 +1,100 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "XeEr4y-EB1Gs1ebGr4LObAovGtw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Ekr0a1oqp9q7MlgD9kUuR8qwtJg",
+            "id": "OgwD6f_tdIY",
+            "snippet": {
+                "publishedAt": "2023-10-31T10:00:11Z",
+                "channelId": "UC6YnTqZidFg4WUiXpiCtSSQ",
+                "title": "愛して愛して愛して (Kikuo) / 藍璃かんな Cover",
+                "description": "original：https://youtu.be/NTrm_idbhUk?si=doWuM1OAPhZc5zkD\n\n\n✧Illustration : 花郎 / The Cold\nhttps://twitter.com/parmdjs\nhttps://twitter.com/thecold_\n\n\n✧Movie：cappu \nhttps://twitter.com/c4ppu \n\n\n✧MIX&MASTERING ：TRMX Sound Lab \nhttps://twitter.com/Trmx_Sound_Lab \n\n\n✧Produce : The Cold\nhttps://twitter.com/thecold_\n\n\n✧Vocal & Chorus : Airi Kanna\nJP Twitter\n→https://twitter.com/AiriKanna_\n\nKR Twitter\n→https://twitter.com/AiriKannaKR\nKR Youtube \n→https://www.youtube.com/@airikannach\nKR Twitch\n→https://www.twitch.tv/airikanna_stellive\n\n----------------------------------------------------------------------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OgwD6f_tdIY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OgwD6f_tdIY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OgwD6f_tdIY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OgwD6f_tdIY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OgwD6f_tdIY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "아이리 칸나 Music Official",
+                "tags": [
+                    "칸나 커버",
+                    "아이리칸나",
+                    "jpop",
+                    "플리",
+                    "일본노래 플리",
+                    "일본노래",
+                    "칸나",
+                    "스텔라이브",
+                    "vtuber",
+                    "버튜버",
+                    "버튜버 커버",
+                    "vtuber cover",
+                    "kikuo",
+                    "사랑해줘",
+                    "사랑해줘사랑해줘사랑해줘",
+                    "사랑해줘커버",
+                    "사랑해줘사랑해줘사랑해줘커버",
+                    "愛して愛して愛して",
+                    "아이시테",
+                    "vocaloid",
+                    "vocaloidcover",
+                    "kikuo cover",
+                    "아이시테 커버",
+                    "Hatsune Miku",
+                    "初音ミク",
+                    "칸나 사랑해줘"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "愛して愛して愛して (Kikuo) / 藍璃かんな Cover",
+                    "description": "original：https://youtu.be/NTrm_idbhUk?si=doWuM1OAPhZc5zkD\n\n\n✧Illustration : 花郎 / The Cold\nhttps://twitter.com/parmdjs\nhttps://twitter.com/thecold_\n\n\n✧Movie：cappu \nhttps://twitter.com/c4ppu \n\n\n✧MIX&MASTERING ：TRMX Sound Lab \nhttps://twitter.com/Trmx_Sound_Lab \n\n\n✧Produce : The Cold\nhttps://twitter.com/thecold_\n\n\n✧Vocal & Chorus : Airi Kanna\nJP Twitter\n→https://twitter.com/AiriKanna_\n\nKR Twitter\n→https://twitter.com/AiriKannaKR\nKR Youtube \n→https://www.youtube.com/@airikannach\nKR Twitch\n→https://www.twitch.tv/airikanna_stellive\n\n----------------------------------------------------------------------------------------------"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT4M11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1758614",
+                "likeCount": "17848",
+                "favoriteCount": "0",
+                "commentCount": "1070"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

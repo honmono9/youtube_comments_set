@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "JdrefYred31u-bciqIj4tU3u-N4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "RWgsM84LYp3g5F8tcaH1GZurzvs",
+            "id": "dQyfERd-rbk",
+            "snippet": {
+                "publishedAt": "2020-05-26T09:00:30Z",
+                "channelId": "UC8gRco988IELoTNTl4OBd2w",
+                "title": "Tiger JK (타이거 JK) - 'kiss kiss bang bang (Feat. twlv)' Official M/V",
+                "description": "TIGER JK - kiss kiss bang bang (feat.twlv) Official MV\nOUT NOW \n@drunkentigerjk\n⁣⁣@feelghoodmusicofficial \n#tigerJK #트웰브 #심의에걸리는사랑노래\n#필굿뮤직 #FeelghoodMusic\n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4\n - Website : http://www.feelghood.com/ \n - Facebook : https://www.facebook.com/Feelghood\n카테고리",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dQyfERd-rbk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dQyfERd-rbk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dQyfERd-rbk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dQyfERd-rbk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dQyfERd-rbk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Feel Ghood Music [필굿뮤직]",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Tiger JK (타이거 JK) - 'kiss kiss bang bang (Feat. twlv)' Official M/V",
+                    "description": "TIGER JK - kiss kiss bang bang (feat.twlv) Official MV\nOUT NOW \n@drunkentigerjk\n⁣⁣@feelghoodmusicofficial \n#tigerJK #트웰브 #심의에걸리는사랑노래\n#필굿뮤직 #FeelghoodMusic\n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4\n - Website : http://www.feelghood.com/ \n - Facebook : https://www.facebook.com/Feelghood\n카테고리"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M25S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "95913",
+                "likeCount": "4702",
+                "favoriteCount": "0",
+                "commentCount": "384"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

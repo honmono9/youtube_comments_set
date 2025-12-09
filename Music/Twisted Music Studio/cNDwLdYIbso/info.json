@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "8MtXaOGgfcCmua-ofvMmYDoQdQo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "YC9NMNmYpb1qkaxgQZgM6pV6yOQ",
+            "id": "cNDwLdYIbso",
+            "snippet": {
+                "publishedAt": "2025-11-18T21:07:31Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "The Smashing Pumpkins - Disarm | Soul AI Cover",
+                "description": "Disarm by The Smashing Pumpkins twisted into Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nDisarm you with a smile\nAnd cut you like you want me to\nCut that little child\nInside of me and such a part of you\nOoh, the years burn\nOoh, the years burn\n\nI used to be a little boy\nSo old in my shoes\nAnd what I choose is my choice\nWhat's a boy supposed to do?\nThe killer in me is the killer in you\nMy love\nI send this smile over to you\n\nDisarm you with a smile\nAnd leave you like they left me here\nTo wither in denial\nThe bitterness of one who's left alone\nOoh, the years burn\nOoh, the years burn, burn, burn\n\nI used to be a little boy\nSo old in my shoes\nAnd what I choose is my voice\nWhat's a boy supposed to do?\nThe killer in me is the killer in you\nMy love\nI send this smile over to you\n\nThe killer in me is the killer in you\nSend this smile over to you\nThe killer in me is the killer in you\nSend this smile over to you\nThe killer in me is the killer in you\nSend this smile over to you",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cNDwLdYIbso/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cNDwLdYIbso/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cNDwLdYIbso/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cNDwLdYIbso/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cNDwLdYIbso/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "The Smashing Pumpkins - Disarm | Soul AI Cover",
+                    "description": "Disarm by The Smashing Pumpkins twisted into Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nDisarm you with a smile\nAnd cut you like you want me to\nCut that little child\nInside of me and such a part of you\nOoh, the years burn\nOoh, the years burn\n\nI used to be a little boy\nSo old in my shoes\nAnd what I choose is my choice\nWhat's a boy supposed to do?\nThe killer in me is the killer in you\nMy love\nI send this smile over to you\n\nDisarm you with a smile\nAnd leave you like they left me here\nTo wither in denial\nThe bitterness of one who's left alone\nOoh, the years burn\nOoh, the years burn, burn, burn\n\nI used to be a little boy\nSo old in my shoes\nAnd what I choose is my voice\nWhat's a boy supposed to do?\nThe killer in me is the killer in you\nMy love\nI send this smile over to you\n\nThe killer in me is the killer in you\nSend this smile over to you\nThe killer in me is the killer in you\nSend this smile over to you\nThe killer in me is the killer in you\nSend this smile over to you"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "777",
+                "likeCount": "20",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "c22wcxluGd5G7qh71YyUZHt0gZc",
+        "id": "UgzXjC2CDeiiLTIHU9h4AaABAg",
+        "snippet": {
+            "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+            "videoId": "NTAbhGf_wF4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "xYHvDDpbHDI7Os1Iv6mcVyPlEKg",
+                "id": "UgzXjC2CDeiiLTIHU9h4AaABAg",
+                "snippet": {
+                    "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                    "videoId": "NTAbhGf_wF4",
+                    "textDisplay": "Instrumentos Yamaha são magníficos, esplêndidos 👏👏👏👏👏👏 Saudações do Brasil -Londrina",
+                    "textOriginal": "Instrumentos Yamaha são magníficos, esplêndidos 👏👏👏👏👏👏 Saudações do Brasil -Londrina",
+                    "authorDisplayName": "@walterlima2374",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_keQkvU2vIifSG6BFfBgXiuNuT6arMjqYV8NYe4wA4=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@walterlima2374",
+                    "authorChannelId": {
+                        "value": "UC6BiKrkVUurni81_rAVifrA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-07-11T14:59:53Z",
+                    "updatedAt": "2025-07-11T15:05:51Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "PGAI6lvWaAndJ7YDInOEQ1k-UuY",
+        "id": "Ugz5njo7J3gvMtXyFxp4AaABAg",
+        "snippet": {
+            "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+            "videoId": "NTAbhGf_wF4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "JiXDqCVfRxZYbNjcicksm0ud1Qw",
+                "id": "Ugz5njo7J3gvMtXyFxp4AaABAg",
+                "snippet": {
+                    "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                    "videoId": "NTAbhGf_wF4",
+                    "textDisplay": "감사합니다",
+                    "textOriginal": "감사합니다",
+                    "authorDisplayName": "@김씨-o5k",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mz8Hq1dquTKqVXsnoS7nlvKiHUhdnJ-cAfKDB3Zik8Ds7FJngz5RWqlaZi0jQuxtX2WboUg0eB=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EA%B9%80%EC%94%A8-o5k",
+                    "authorChannelId": {
+                        "value": "UCqz2DdvoaPAlYb79LN3GR2Q"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-07-09T05:21:02Z",
+                    "updatedAt": "2025-07-09T05:21:02Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

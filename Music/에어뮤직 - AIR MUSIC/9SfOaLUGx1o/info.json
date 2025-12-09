@@ -1,0 +1,95 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "EvULoqqBhSIF_YZjzTyEMEp9OOk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "owEL4zjTNvysPvs8VTKtKk7DyFE",
+            "id": "9SfOaLUGx1o",
+            "snippet": {
+                "publishedAt": "2024-07-14T12:00:10Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "공기남 - Little Rain (Vocal. 범준)",
+                "description": "공기남 - Little Rain (Vocal. 범준)\n\n범준 인스타그램 : petitbumdeng\n범준 틱톡 : petitbumdeng",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9SfOaLUGx1o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9SfOaLUGx1o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9SfOaLUGx1o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9SfOaLUGx1o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9SfOaLUGx1o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "tags": [
+                    "에어뮤직",
+                    "공기남",
+                    "에어맨",
+                    "범준",
+                    "airmusic",
+                    "airman",
+                    "littlerain",
+                    "여린비",
+                    "커버",
+                    "공기남커버",
+                    "신곡",
+                    "홍보",
+                    "한강",
+                    "한강커버",
+                    "노을",
+                    "음색",
+                    "음색깡패",
+                    "인디",
+                    "알앤비",
+                    "인디음악",
+                    "케이팝"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "공기남 - Little Rain (Vocal. 범준)",
+                    "description": "공기남 - Little Rain (Vocal. 범준)\n\n범준 인스타그램 : petitbumdeng\n범준 틱톡 : petitbumdeng"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "863",
+                "likeCount": "54",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

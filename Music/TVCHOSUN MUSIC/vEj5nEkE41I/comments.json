@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "fN1pDsk4xWiecd_2ZELpT_-_eGc",
+        "id": "UgyjBfkVhQdAbVZF-kl4AaABAg",
+        "snippet": {
+            "channelId": "UC33yEDM8q3N8BeMpZMdP66Q",
+            "videoId": "vEj5nEkE41I",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "ijI_zdLxDiGc8xUBqeoAlkhO1Oc",
+                "id": "UgyjBfkVhQdAbVZF-kl4AaABAg",
+                "snippet": {
+                    "channelId": "UC33yEDM8q3N8BeMpZMdP66Q",
+                    "videoId": "vEj5nEkE41I",
+                    "textDisplay": "🎉🎉",
+                    "textOriginal": "🎉🎉",
+                    "authorDisplayName": "@후후시니어",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/xioD7AuBZE5O8xYhGScOgoaupxdzdZ_pFd0j8UzBoRxAsVYwNkiDkfzK9F3t45ez3eBAZTGIDQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%ED%9B%84%ED%9B%84%EC%8B%9C%EB%8B%88%EC%96%B4",
+                    "authorChannelId": {
+                        "value": "UCUy23kgxivZrdJgCW8mycuw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-12-09T04:15:20Z",
+                    "updatedAt": "2025-12-09T04:15:20Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

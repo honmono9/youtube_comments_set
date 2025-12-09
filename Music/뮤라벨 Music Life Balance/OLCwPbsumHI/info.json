@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "VMv8I-WJ4eYODMt5cjNXsbiYUpI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "zQvhlV9YNkcNR0v0YRe40MflMl8",
+            "id": "OLCwPbsumHI",
+            "snippet": {
+                "publishedAt": "2024-10-06T13:53:56Z",
+                "channelId": "UCk--BIdDhezTY294iDOwunQ",
+                "title": "1800년대 업라이트 피아노에서 쇼팽을 쳐보다",
+                "description": "옛날 피아노이고 조율이 아직은 완벽하지 않아서 조금 더 과장해서 쳐봤어요",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OLCwPbsumHI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OLCwPbsumHI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OLCwPbsumHI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OLCwPbsumHI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OLCwPbsumHI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뮤라벨 Music Life Balance",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "1800년대 업라이트 피아노에서 쇼팽을 쳐보다",
+                    "description": "옛날 피아노이고 조율이 아직은 완벽하지 않아서 조금 더 과장해서 쳐봤어요"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "11689",
+                "likeCount": "262",
+                "favoriteCount": "0",
+                "commentCount": "21"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

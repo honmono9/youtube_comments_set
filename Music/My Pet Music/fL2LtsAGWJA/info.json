@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "a4Mak5vytF98Gw86yACcJE8JbNM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "gzS9rs29cCTAqLUf4c_-sq75RsE",
+            "id": "fL2LtsAGWJA",
+            "snippet": {
+                "publishedAt": "2024-12-04T11:00:59Z",
+                "channelId": "UCo62tODW4YnxtszbusXyX-w",
+                "title": "강아지를 편안하게 해주는 음악🐶수면 휴식음악🎵스트레스 해소,분리불안,심리안정 음악",
+                "description": "안녕하세요. My Pet Music 입니다.\n반려견을 편안하게 재워주는 \n수면음악 이예요~ 스트레스 해소와 \n분리불안에도 도움이 될거예요^^\n오늘도 반려견과 함께 편안한 시간 되세요! \n\n\n🐶강아지 고민 같이 나누어요~!\n\nQ.강아지가 너무 심하게 짖어대요!\n\n반려견이 짖더라도 관심을 보이거나\n쓰다듬기, 등의 신체접촉은 삼가 해야하고요~\n\n단호한 목소리로 \"그만\" \"멈춰\" 등의 중지와\n관련된 명령어로 주의를 끌어 주세요.\n말을 잘 듣는 경우 바로 칭찬과 보상은 필수입니다!\n조용히 있는경우 보상을 받지만,\n반대의 경우에는 반대의 효과가 있다는것을\n인식시켜 주는 것입니다! ^^\n\n\"let's be happy together\"\n\n\n#강아지가좋아하는음악 #강아지음악 #강아지수면음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fL2LtsAGWJA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fL2LtsAGWJA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fL2LtsAGWJA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fL2LtsAGWJA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fL2LtsAGWJA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "My Pet Music",
+                "tags": [
+                    "강아지수면음악",
+                    "강아지힐링음악",
+                    "개수면음악",
+                    "강아지잠잘때듣는음악",
+                    "DogMusic",
+                    "강아지가좋아하는음악",
+                    "강아지음악",
+                    "개음악",
+                    "DogsMusic",
+                    "DogSleepingMusic",
+                    "DogRelaxMusic",
+                    "DogRelaxingMusic",
+                    "강아지분리불안",
+                    "강아지스트레스"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "강아지를 편안하게 해주는 음악🐶수면 휴식음악🎵스트레스 해소,분리불안,심리안정 음악",
+                    "description": "안녕하세요. My Pet Music 입니다.\n반려견을 편안하게 재워주는 \n수면음악 이예요~ 스트레스 해소와 \n분리불안에도 도움이 될거예요^^\n오늘도 반려견과 함께 편안한 시간 되세요! \n\n\n🐶강아지 고민 같이 나누어요~!\n\nQ.강아지가 너무 심하게 짖어대요!\n\n반려견이 짖더라도 관심을 보이거나\n쓰다듬기, 등의 신체접촉은 삼가 해야하고요~\n\n단호한 목소리로 \"그만\" \"멈춰\" 등의 중지와\n관련된 명령어로 주의를 끌어 주세요.\n말을 잘 듣는 경우 바로 칭찬과 보상은 필수입니다!\n조용히 있는경우 보상을 받지만,\n반대의 경우에는 반대의 효과가 있다는것을\n인식시켜 주는 것입니다! ^^\n\n\"let's be happy together\"\n\n\n#강아지가좋아하는음악 #강아지음악 #강아지수면음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9H22M40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "11295",
+                "likeCount": "78",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

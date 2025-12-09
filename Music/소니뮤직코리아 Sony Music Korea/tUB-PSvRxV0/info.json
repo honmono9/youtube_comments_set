@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "bV-khj7z7liqcxmNvEsG7wVRkP8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "pfGnYF3n_ZXL-a_3CUr02cd_QfU",
+            "id": "tUB-PSvRxV0",
+            "snippet": {
+                "publishedAt": "2024-05-17T07:06:20Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "첫사랑 못잊는 토마스 데이의 신곡 Pretender🙊전여친 보고 물 속에 숨은 대형 멈머🐶",
+                "description": "첫사랑 못잊는 토마스 데이의 신곡 Pretender🙊\n전여친 보고 물 속에 숨은 대형 멈머🐶\n\n🎧 Thomas Day - Pretender \n\n#토마스데이 #PRETENDER #쿨한척 #남친짤 #토마스오빠",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tUB-PSvRxV0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tUB-PSvRxV0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tUB-PSvRxV0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tUB-PSvRxV0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tUB-PSvRxV0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "첫사랑 못잊는 토마스 데이의 신곡 Pretender🙊전여친 보고 물 속에 숨은 대형 멈머🐶",
+                    "description": "첫사랑 못잊는 토마스 데이의 신곡 Pretender🙊\n전여친 보고 물 속에 숨은 대형 멈머🐶\n\n🎧 Thomas Day - Pretender \n\n#토마스데이 #PRETENDER #쿨한척 #남친짤 #토마스오빠"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT32S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "11370",
+                "likeCount": "373",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

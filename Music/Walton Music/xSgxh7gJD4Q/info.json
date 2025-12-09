@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "zrH0Frsjd0z2Te3_6P4u0DRqghU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "STJJjCXqdjQ1bHGqg-YbnSlFyY0",
+            "id": "xSgxh7gJD4Q",
+            "snippet": {
+                "publishedAt": "2025-09-15T13:01:53Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Indlu yeGagu | arr. Sizwe Mondlane",
+                "description": "Indlu yeGagu is scored for SATB divisi, unaccompanied. \n\nThe sentiment of Indlu yeGagu, written by Sipho Sithole and arranged by Sizwe Mondlane, is that \"it is better to build than to destroy.\" This dynamic piece features South African musical elements both traditional and new, making this an incredibly unique and compelling work. \n\nPurchase the music: https://giamusic.com/resource/indlu-yegagu-printed-music-ww2125",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xSgxh7gJD4Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xSgxh7gJD4Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xSgxh7gJD4Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xSgxh7gJD4Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xSgxh7gJD4Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Indlu yeGagu | arr. Sizwe Mondlane",
+                    "description": "Indlu yeGagu is scored for SATB divisi, unaccompanied. \n\nThe sentiment of Indlu yeGagu, written by Sipho Sithole and arranged by Sizwe Mondlane, is that \"it is better to build than to destroy.\" This dynamic piece features South African musical elements both traditional and new, making this an incredibly unique and compelling work. \n\nPurchase the music: https://giamusic.com/resource/indlu-yegagu-printed-music-ww2125"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2M54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "234",
+                "likeCount": "8",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

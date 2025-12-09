@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Vm6WJoeToLD2b0uwMImhaWSHuJM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Z5T2iFjAlEDn1ll5aBP-06-ZnbU",
+            "id": "vZ5yd2P5UpI",
+            "snippet": {
+                "publishedAt": "2023-02-13T09:07:16Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "2023 브릿 어워즈 4관왕 ✨해리 스타일스✨",
+                "description": "세상 빛나는 As It Was 라이브!✨\n\n👑 Album of the Year\n👑 Song of the Year\n👑 Artist of the Year\n👑 Best Pop/R&B Act\n\n#해리스타일스 #HarryStyles #HarrysHouse #AsItWas #브릿어워즈 #브릿어워드 #BRITs #BritAwards #BritAwards2023",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vZ5yd2P5UpI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vZ5yd2P5UpI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vZ5yd2P5UpI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vZ5yd2P5UpI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vZ5yd2P5UpI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "2023 브릿 어워즈 4관왕 ✨해리 스타일스✨",
+                    "description": "세상 빛나는 As It Was 라이브!✨\n\n👑 Album of the Year\n👑 Song of the Year\n👑 Artist of the Year\n👑 Best Pop/R&B Act\n\n#해리스타일스 #HarryStyles #HarrysHouse #AsItWas #브릿어워즈 #브릿어워드 #BRITs #BritAwards #BritAwards2023"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT28S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5055",
+                "likeCount": "128",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

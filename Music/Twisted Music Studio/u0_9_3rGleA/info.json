@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ryz79nsOhCln5uZAnTkL3byykx0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "KklautDozFQDmWEKRewazuDeSm4",
+            "id": "u0_9_3rGleA",
+            "snippet": {
+                "publishedAt": "2025-12-05T20:01:03Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "MGMT - Kids | 70s Soul AI Cover",
+                "description": "Kids by MGMT twisted into Soul Music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nFive, four, three, two, one, ah!\n\nYou were a child crawlin' on your knees toward it\nMakin' Mama so proud, but your voice is too loud\nWe like to watch you laughin'\nYou pick the insects off plants, no time to think of consequences\n\nControl yourself, take only what you need from it\nA family of trees wanted to be haunted\nControl yourself, take only what you need from it\nA family of trees wanted to be haunted\n\nThe water is warm, but it's sendin' me shivers\nA baby is born, cryin' out for attention\nThe memories fade like lookin' through a fogged mirror\nDecision to decisions are made and not bought\nBut I thought this wouldn't hurt a lot, I guess not\n\nControl yourself, take only what you need from it\nA family of trees wanted to be haunted\nControl yourself, take only what you need from it\nA family of trees wanted to be haunted\n\nControl yourself, take only what you need from it\nA family of trees wanted to be haunted\nControl yourself, take only what you need from it\nA family of trees wanted to be haunted\n\nControl yourself, take only what you need from it\nA family of trees wanted to be haunted\nControl yourself, take only what you need from it\nA family of trees",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u0_9_3rGleA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u0_9_3rGleA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u0_9_3rGleA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/u0_9_3rGleA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/u0_9_3rGleA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "MGMT - Kids | 70s Soul AI Cover",
+                    "description": "Kids by MGMT twisted into Soul Music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nFive, four, three, two, one, ah!\n\nYou were a child crawlin' on your knees toward it\nMakin' Mama so proud, but your voice is too loud\nWe like to watch you laughin'\nYou pick the insects off plants, no time to think of consequences\n\nControl yourself, take only what you need from it\nA family of trees wanted to be haunted\nControl yourself, take only what you need from it\nA family of trees wanted to be haunted\n\nThe water is warm, but it's sendin' me shivers\nA baby is born, cryin' out for attention\nThe memories fade like lookin' through a fogged mirror\nDecision to decisions are made and not bought\nBut I thought this wouldn't hurt a lot, I guess not\n\nControl yourself, take only what you need from it\nA family of trees wanted to be haunted\nControl yourself, take only what you need from it\nA family of trees wanted to be haunted\n\nControl yourself, take only what you need from it\nA family of trees wanted to be haunted\nControl yourself, take only what you need from it\nA family of trees wanted to be haunted\n\nControl yourself, take only what you need from it\nA family of trees wanted to be haunted\nControl yourself, take only what you need from it\nA family of trees"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "387",
+                "likeCount": "17",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

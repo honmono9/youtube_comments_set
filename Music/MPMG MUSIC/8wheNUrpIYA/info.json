@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "IbHivdk0S79JN4w5PUXjWbhpGRY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "zUlvec1idnYfTQ9QLO869R0AEOs",
+            "id": "8wheNUrpIYA",
+            "snippet": {
+                "publishedAt": "2025-02-12T14:00:09Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "🌙𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲 #3 | #아월 #홍다혜",
+                "description": "[𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲]\n\n여러분을 좋은 꿈으로 데려가 줄 오늘의 아티스트는\n아월의 홍다혜님입니다.\n\n다혜님의 저녁 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n모두 좋은 꿈 꾸세요!🌙\n\n[00:00] Close Days Finale #3 홍다혜\n[02:34] OurR (아월) - YAYA\n[06:51] Lianne La Havas -  Strarry Strarry Night\n[11:33] 다섯(DASSUT) - 나는 내가 정말 무사히 도착하길 바라\n[16:21] Porter Robinson - Blossom\n[20:11] 아월 (OurR) - 잠\n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#CloseDaysFinale #아월 #홍다혜",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8wheNUrpIYA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8wheNUrpIYA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8wheNUrpIYA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8wheNUrpIYA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8wheNUrpIYA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🌙𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲 #3 | #아월 #홍다혜",
+                    "description": "[𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲]\n\n여러분을 좋은 꿈으로 데려가 줄 오늘의 아티스트는\n아월의 홍다혜님입니다.\n\n다혜님의 저녁 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n모두 좋은 꿈 꾸세요!🌙\n\n[00:00] Close Days Finale #3 홍다혜\n[02:34] OurR (아월) - YAYA\n[06:51] Lianne La Havas -  Strarry Strarry Night\n[11:33] 다섯(DASSUT) - 나는 내가 정말 무사히 도착하길 바라\n[16:21] Porter Robinson - Blossom\n[20:11] 아월 (OurR) - 잠\n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#CloseDaysFinale #아월 #홍다혜"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT24M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "457",
+                "likeCount": "20",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

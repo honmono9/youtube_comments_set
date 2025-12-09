@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "7liUYbRhLCOvZhQaGsyEjXvEupw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Bm9BT3iwH-eCKBArGi2WoZkRkPE",
+            "id": "jpwLLMZL0Vk",
+            "snippet": {
+                "publishedAt": "2025-12-09T07:43:32Z",
+                "channelId": "UCwIiyFphTd-eTeLBvh8riNw",
+                "title": "성유빈 ♬Hey Hey Hey #트로트클라쓰 #k_music #shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jpwLLMZL0Vk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jpwLLMZL0Vk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jpwLLMZL0Vk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jpwLLMZL0Vk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jpwLLMZL0Vk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "여수MBC Music+(Kpop&Trot)",
+                "tags": [
+                    "여수MBC",
+                    "여수MBC뮤직",
+                    "여수MBC Music+",
+                    "뮤직플러스",
+                    "트로트",
+                    "트로트메들리",
+                    "인기트로트",
+                    "trot",
+                    "ktrot"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "성유빈 ♬Hey Hey Hey #트로트클라쓰 #k_music #shorts",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M3S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1358",
+                "likeCount": "7",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

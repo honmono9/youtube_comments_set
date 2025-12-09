@@ -1,0 +1,103 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "XFpMpgKIeFiAGYxWLHrz7qCngJg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "c02yk3fP0MvxjjPR3FmjDED6jXk",
+            "id": "QrIgeVD_vbw",
+            "snippet": {
+                "publishedAt": "2025-12-02T15:13:51Z",
+                "channelId": "UCEbRSmzD8xASRlYq2OLmCrg",
+                "title": "[싱어게인4] 박수치는 것도 머뭇거리게 만든(!) 여운 가득 55호 가수의 〈내 낡은 서랍 속의 바다〉♪ | 싱어게인4 8회 | JTBC 251202 방송",
+                "description": "박수치는 것도 머뭇거리게 만든(!) 여운 가득 55호 가수의 〈내 낡은 서랍 속의 바다〉♪\n#싱어게인4 #55호가수 #내낡은서랍속의바다\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/singagain4",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QrIgeVD_vbw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QrIgeVD_vbw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QrIgeVD_vbw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QrIgeVD_vbw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QrIgeVD_vbw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JTBC Music",
+                "tags": [
+                    "싱어게인4",
+                    "싱어게인",
+                    "top10결정전",
+                    "55호",
+                    "내낡은서랍속의바다",
+                    "이승기",
+                    "윤종신",
+                    "임재범",
+                    "백지영",
+                    "김이나",
+                    "규현",
+                    "태연",
+                    "이해리",
+                    "코드쿤스트",
+                    "싱어게인_8회",
+                    "음악예능",
+                    "JTBC음악예능",
+                    "무명가수",
+                    "JTBC예능",
+                    "singagain4",
+                    "TAEYEON",
+                    "CODE KUNST",
+                    "KYUHYUN",
+                    "Lee Hae Ri",
+                    "Lee Seung Gi",
+                    "Yim Jae-beum",
+                    "Kim Eana",
+                    "Baek Z Young",
+                    "Yoon Jongshin"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[싱어게인4] 박수치는 것도 머뭇거리게 만든(!) 여운 가득 55호 가수의 〈내 낡은 서랍 속의 바다〉♪ | 싱어게인4 8회 | JTBC 251202 방송",
+                    "description": "박수치는 것도 머뭇거리게 만든(!) 여운 가득 55호 가수의 〈내 낡은 서랍 속의 바다〉♪\n#싱어게인4 #55호가수 #내낡은서랍속의바다\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/singagain4"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M24S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "137856",
+                "likeCount": "2143",
+                "favoriteCount": "0",
+                "commentCount": "350"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

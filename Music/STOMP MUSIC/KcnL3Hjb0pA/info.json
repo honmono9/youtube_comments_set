@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "lZunb3Qo90B-AX7EwArSSCqAOas",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "cuynY4HWd4ILvmg1f89s8nF0_m0",
+            "id": "KcnL3Hjb0pA",
+            "snippet": {
+                "publishedAt": "2023-12-08T10:32:57Z",
+                "channelId": "UCEhxA_aRk5gPi7PbzvmkSlg",
+                "title": "일주일 앞으로 다가온 #크리스마스지브리탱고 🎄",
+                "description": "반도네오니스트 고상지의 크리스마스 편지✉️와\n특별한 쿠키 영상까지!✨\n*마지막까지 영상 시청 필수*\n\n한국의 반도네오니스트 고상지와 탱고밴드가 선보이는 \n정통 탱고와 캐롤, 지브리 OST의 무한한 변신🎶\n서로 다른 장르의 완벽한 조화를 선보이는 공연!\n\n다음주, 대구과 고양에서 만나보세요🎉\n\n🎄크리스마스 지브리 탱고💃\n💛 일시장소 : 2023년 12월 16일(토) 5PM 대구콘서트하우스 그랜드홀 / 12월 17일(일) 5PM 고양아람누리 아람음악당\n💛 출 연 진 : 반도네온 고상지, 고상지 탱고밴드(피아노 조영훈, 바이올린 윤종수/김아람, 비올라 박용은, 첼로 강찬욱, 더블베이스 김강빈, 비브라폰 마더바이브, 퍼커션 렉토루즈), 아르헨티나 탱고 댄서 2팀\n💛 입장연령 : 7세 이상(미취학아동 입장불가)\n💛 예 매 처 : 인터파크, 티켓링크, 고양문화재단",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KcnL3Hjb0pA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KcnL3Hjb0pA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KcnL3Hjb0pA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KcnL3Hjb0pA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KcnL3Hjb0pA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "STOMP MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "일주일 앞으로 다가온 #크리스마스지브리탱고 🎄",
+                    "description": "반도네오니스트 고상지의 크리스마스 편지✉️와\n특별한 쿠키 영상까지!✨\n*마지막까지 영상 시청 필수*\n\n한국의 반도네오니스트 고상지와 탱고밴드가 선보이는 \n정통 탱고와 캐롤, 지브리 OST의 무한한 변신🎶\n서로 다른 장르의 완벽한 조화를 선보이는 공연!\n\n다음주, 대구과 고양에서 만나보세요🎉\n\n🎄크리스마스 지브리 탱고💃\n💛 일시장소 : 2023년 12월 16일(토) 5PM 대구콘서트하우스 그랜드홀 / 12월 17일(일) 5PM 고양아람누리 아람음악당\n💛 출 연 진 : 반도네온 고상지, 고상지 탱고밴드(피아노 조영훈, 바이올린 윤종수/김아람, 비올라 박용은, 첼로 강찬욱, 더블베이스 김강빈, 비브라폰 마더바이브, 퍼커션 렉토루즈), 아르헨티나 탱고 댄서 2팀\n💛 입장연령 : 7세 이상(미취학아동 입장불가)\n💛 예 매 처 : 인터파크, 티켓링크, 고양문화재단"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "208",
+                "likeCount": "9",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

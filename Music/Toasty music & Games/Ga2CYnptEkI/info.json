@@ -1,0 +1,76 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "NoqQXzHa7-XRn38c-5uwE466ID4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "fCZIXw4BsVcGcSOE7QwnYOEyz_M",
+            "id": "Ga2CYnptEkI",
+            "snippet": {
+                "publishedAt": "2025-07-29T04:55:20Z",
+                "channelId": "UCTOiofhGz26Nn4uARfKI_Mg",
+                "title": "Lost in space",
+                "description": "Music made on https://www.soundtrap.com. Soundtrap is also available on the AppStore and Google Play.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ga2CYnptEkI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ga2CYnptEkI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ga2CYnptEkI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ga2CYnptEkI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ga2CYnptEkI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Toasty music & Games",
+                "tags": [
+                    "music",
+                    "soundtrap"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Lost in space",
+                    "description": "Music made on https://www.soundtrap.com. Soundtrap is also available on the AppStore and Google Play."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "8",
+                "likeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

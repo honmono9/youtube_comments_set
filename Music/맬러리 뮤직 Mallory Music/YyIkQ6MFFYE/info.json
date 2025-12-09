@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "UjXCRpl7eC0miVCcGigismgxqH4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "C39w4hMNJ670sJppgjqlLZkeSYo",
+            "id": "YyIkQ6MFFYE",
+            "snippet": {
+                "publishedAt": "2021-03-15T10:44:02Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "봄날 우연히 마주친 로맨틱 재즈와 피아노",
+                "description": "가사가 없는 플레이리스트를 많이 신청해주셔서\n먼저 만들게 되었습니다.\n\n\n- 맬러리 뮤직 mallory music\ninstagram: https://instagram.com/mallory_playlist\nspotify: https://open.spotify.com/user/vu7nka2udi3uow4uwbf1dub4b?si=ITQBaM5yRZKHlX63reNEnw\n\n- 맬러리 스퀘어 mallory square\nyoutube: https://youtube.com/channel/UC1WpY3Ce68NArZgEVrLnSCQ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YyIkQ6MFFYE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YyIkQ6MFFYE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YyIkQ6MFFYE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YyIkQ6MFFYE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YyIkQ6MFFYE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "재즈",
+                    "봄 재즈",
+                    "플레이리스트",
+                    "playlist",
+                    "best jazz",
+                    "jazz",
+                    "달달한 노래",
+                    "봄 노래",
+                    "봄",
+                    "연주곡",
+                    "재즈 연주곡",
+                    "잔잔한 재즈",
+                    "modern jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "봄날 우연히 마주친 로맨틱 재즈와 피아노",
+                    "description": "가사가 없는 플레이리스트를 많이 신청해주셔서\n먼저 만들게 되었습니다.\n\n\n- 맬러리 뮤직 mallory music\ninstagram: https://instagram.com/mallory_playlist\nspotify: https://open.spotify.com/user/vu7nka2udi3uow4uwbf1dub4b?si=ITQBaM5yRZKHlX63reNEnw\n\n- 맬러리 스퀘어 mallory square\nyoutube: https://youtube.com/channel/UC1WpY3Ce68NArZgEVrLnSCQ"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT30M9S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "121389",
+                "likeCount": "3049",
+                "favoriteCount": "0",
+                "commentCount": "183"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

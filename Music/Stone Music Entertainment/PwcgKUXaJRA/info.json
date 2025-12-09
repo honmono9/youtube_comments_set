@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "auful5iSzbnG29Mwj1Hwo5W6ywE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "80sXkw2VSKMuRY6YFNASYimeAKk",
+            "id": "PwcgKUXaJRA",
+            "snippet": {
+                "publishedAt": "2025-12-09T09:30:15Z",
+                "channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
+                "title": "따뜻? 까칠? 🧣 복잡한 마음을 노래하는 윤현상의 Corduroy Coat｜#Shorts",
+                "description": "따뜻? 까칠? 🧣 복잡한 마음을 노래하는 윤현상의 Corduroy Coat｜#Shorts \n\n✅2025.12.9 (Tue) 6PM (KST) 'Corduroy Coat' Released!\n\n#스톤뮤직 #stonemusicentertainment\n#윤현상 #Corduroy_Coat",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PwcgKUXaJRA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PwcgKUXaJRA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PwcgKUXaJRA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PwcgKUXaJRA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PwcgKUXaJRA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Stone Music Entertainment",
+                "tags": [
+                    "K-CULTURE",
+                    "korean Music",
+                    "MV",
+                    "Music Video",
+                    "K-Pop",
+                    "Kpop",
+                    "뮤비",
+                    "뮤직비디오",
+                    "Stone Music Entertainment"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "따뜻? 까칠? 🧣 복잡한 마음을 노래하는 윤현상의 Corduroy Coat｜#Shorts",
+                    "description": "따뜻? 까칠? 🧣 복잡한 마음을 노래하는 윤현상의 Corduroy Coat｜#Shorts \n\n✅2025.12.9 (Tue) 6PM (KST) 'Corduroy Coat' Released!\n\n#스톤뮤직 #stonemusicentertainment\n#윤현상 #Corduroy_Coat"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT55S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1161",
+                "likeCount": "9",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

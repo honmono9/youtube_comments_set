@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "fmHWlxxNWC1JHDFMx-7w1ZEeSoA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "u1KefXy09NXlkBwvKDn23CLI_M0",
+            "id": "HhIF41OTcgg",
+            "snippet": {
+                "publishedAt": "2021-11-01T10:00:12Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "[Special Clip] naru(나루) - 그런걸까",
+                "description": "MPMG Office Special Clip 🏢\nnaru(나루) - 그런걸까\n\nEP [Grayed Out] Released On 2021.09.29. 12PM(KST).\n\nTrack List\n1. 오늘도 난 살았네\n2. 그런걸까\n3. 봄날\n4. Did You Have A Good Time\n5. I'll Be Waiting\n\nProduced by naru\nAll songs Written, Arranged & Performed by naru\n\nExternal links\n: instagram.com/ournaru \n\n#싱어송라이터 #나루 #그런걸까",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HhIF41OTcgg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HhIF41OTcgg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HhIF41OTcgg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HhIF41OTcgg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HhIF41OTcgg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Special Clip] naru(나루) - 그런걸까",
+                    "description": "MPMG Office Special Clip 🏢\nnaru(나루) - 그런걸까\n\nEP [Grayed Out] Released On 2021.09.29. 12PM(KST).\n\nTrack List\n1. 오늘도 난 살았네\n2. 그런걸까\n3. 봄날\n4. Did You Have A Good Time\n5. I'll Be Waiting\n\nProduced by naru\nAll songs Written, Arranged & Performed by naru\n\nExternal links\n: instagram.com/ournaru \n\n#싱어송라이터 #나루 #그런걸까"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M52S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2067",
+                "likeCount": "93",
+                "favoriteCount": "0",
+                "commentCount": "11"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

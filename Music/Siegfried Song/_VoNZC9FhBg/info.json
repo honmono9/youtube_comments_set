@@ -1,0 +1,76 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "KB2SODAVkaJatFDj0BoJCYqHEqM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Uqfd2D0b0WPFTgh1ucnj_vr2UVk",
+            "id": "_VoNZC9FhBg",
+            "snippet": {
+                "publishedAt": "2021-03-02T02:34:00Z",
+                "channelId": "UCquS6S5yOGk2j5YS6WHj6eA",
+                "title": "2nd Live Session by SIEG (QnA + Stuffs)",
+                "description": "두번째 라이브 방송입니다. 감사합니다.\n48:19 Masterplan - Heroes(Live Trailer)\n1:25:40 Magnet Mind - Danger Zone(Demo)\n1:34:43 Kamelot - Sailorman's Hymn(Vocal Only Live)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_VoNZC9FhBg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_VoNZC9FhBg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_VoNZC9FhBg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_VoNZC9FhBg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_VoNZC9FhBg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Siegfried Song",
+                "tags": [
+                    "Siegfried",
+                    "Song"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "2nd Live Session by SIEG (QnA + Stuffs)",
+                    "description": "두번째 라이브 방송입니다. 감사합니다.\n48:19 Masterplan - Heroes(Live Trailer)\n1:25:40 Magnet Mind - Danger Zone(Demo)\n1:34:43 Kamelot - Sailorman's Hymn(Vocal Only Live)"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H48M50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3025",
+                "likeCount": "88",
+                "favoriteCount": "0",
+                "commentCount": "73"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

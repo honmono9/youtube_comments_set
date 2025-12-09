@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "7B2ilSiNAQ-OSw9nyCZV28nn2M4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Y6ZL0edThbySlsdIA-iRzumR4Ew",
+            "id": "erEcnx7vT1Y",
+            "snippet": {
+                "publishedAt": "2023-06-09T10:02:11Z",
+                "channelId": "UCEhxA_aRk5gPi7PbzvmkSlg",
+                "title": "[테일즈위버 디 오케스트라] 공연 Review✨",
+                "description": "#테일즈위버디오케스트라\n\n🎼 Motivity\n\n지난 6월 6일,\n오랜시간 사랑받아온 테일즈위버 속 OST를\n웅장한 오케스트라 연주로 선보인 시간🎻\n\n추억에 빠지게 만든 테일즈위버의 명곡과 함께\n뜨거웠던 분위기 속 관객분들이 남겨주신 생생한 후기를 공개합니다👏\n\n앞으로도 많은 후기 부탁드립니다🧡\n\n* 본 영상 속 댓글은 인터파크에 남겨주신 후기를 바탕으로 제작되었습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/erEcnx7vT1Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/erEcnx7vT1Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/erEcnx7vT1Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/erEcnx7vT1Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/erEcnx7vT1Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "STOMP MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[테일즈위버 디 오케스트라] 공연 Review✨",
+                    "description": "#테일즈위버디오케스트라\n\n🎼 Motivity\n\n지난 6월 6일,\n오랜시간 사랑받아온 테일즈위버 속 OST를\n웅장한 오케스트라 연주로 선보인 시간🎻\n\n추억에 빠지게 만든 테일즈위버의 명곡과 함께\n뜨거웠던 분위기 속 관객분들이 남겨주신 생생한 후기를 공개합니다👏\n\n앞으로도 많은 후기 부탁드립니다🧡\n\n* 본 영상 속 댓글은 인터파크에 남겨주신 후기를 바탕으로 제작되었습니다."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "7183",
+                "likeCount": "160",
+                "favoriteCount": "0",
+                "commentCount": "15"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

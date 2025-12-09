@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "xdSZ7oy5PnbDMQKEAQ4SkKGnS6Q",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ezky1sXplNsB7YUHmvs4ug3Kq4U",
+            "id": "nUPMcIRaGgU",
+            "snippet": {
+                "publishedAt": "2025-12-09T04:58:26Z",
+                "channelId": "UCwIiyFphTd-eTeLBvh8riNw",
+                "title": "[같은노래 다른매력 ♬내일을 기다려] 박강성vs임다운 #원곡커버곡 #k_music #trot #trotclass",
+                "description": "♬내일을 기다려/박강성\n\n잊어야 한다고 눈을 감으면\n가까운 빛으로 다가오는것을\n낙엽이 지기전에 돌아서려니 벌써 눈이 내리네\n하지만 어쩌다 그리울때면\n지나간 날들을 사랑이라 여기고\n흐르는 시간속에 나를 달래며 잊을수는 없을까\n아는지 모르는지 웃음만 보이던 그대가\n커피 한잔의 추억은 아닌거야\n이렇게 흘러가는 세월 속에서\n슬픈 사랑의 비밀을 간직한채\n또다시 내일을 기다려 내일을 기다려\n\n아는지 모르는지 웃음만 보이던 그대가\n커피 한잔의 추억은 아닌거야\n이렇게 흘러가는 세월 속에서\n슬픈 사랑의 비밀을 간직한채\n또다시 내일을 기다려 내일을 기다려\n내일을 기다려 오",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nUPMcIRaGgU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nUPMcIRaGgU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nUPMcIRaGgU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nUPMcIRaGgU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nUPMcIRaGgU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "여수MBC Music+(Kpop&Trot)",
+                "tags": [
+                    "여수MBC",
+                    "여수MBC뮤직",
+                    "여수MBC Music+",
+                    "뮤직플러스",
+                    "트로트",
+                    "트로트메들리",
+                    "인기트로트",
+                    "trot",
+                    "ktrot"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[같은노래 다른매력 ♬내일을 기다려] 박강성vs임다운 #원곡커버곡 #k_music #trot #trotclass",
+                    "description": "♬내일을 기다려/박강성\n\n잊어야 한다고 눈을 감으면\n가까운 빛으로 다가오는것을\n낙엽이 지기전에 돌아서려니 벌써 눈이 내리네\n하지만 어쩌다 그리울때면\n지나간 날들을 사랑이라 여기고\n흐르는 시간속에 나를 달래며 잊을수는 없을까\n아는지 모르는지 웃음만 보이던 그대가\n커피 한잔의 추억은 아닌거야\n이렇게 흘러가는 세월 속에서\n슬픈 사랑의 비밀을 간직한채\n또다시 내일을 기다려 내일을 기다려\n\n아는지 모르는지 웃음만 보이던 그대가\n커피 한잔의 추억은 아닌거야\n이렇게 흘러가는 세월 속에서\n슬픈 사랑의 비밀을 간직한채\n또다시 내일을 기다려 내일을 기다려\n내일을 기다려 오"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT7M48S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "117",
+                "likeCount": "9",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "km5W0tPL6O24NrSNCtmdMt6M68k",
+        "id": "UgzXxphSjGWksnaNRIZ4AaABAg",
+        "snippet": {
+            "channelId": "UCoAOTBoviujUGWXOWDgfKmw",
+            "videoId": "CuyRB1Yh4NY",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "vRqYL5NKQwrhFTUgo-MALHSmqJo",
+                "id": "UgzXxphSjGWksnaNRIZ4AaABAg",
+                "snippet": {
+                    "channelId": "UCoAOTBoviujUGWXOWDgfKmw",
+                    "videoId": "CuyRB1Yh4NY",
+                    "textDisplay": "🔥🔥👍🏾👍🏾",
+                    "textOriginal": "🔥🔥👍🏾👍🏾",
+                    "authorDisplayName": "@smaktoob",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m9kUQYqmF18dFSSEl_lBnl6_uJhGuAifOUgDe3d4TlBg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@smaktoob",
+                    "authorChannelId": {
+                        "value": "UC6pu6gOhfBW-DlsQSMw_jRQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-26T12:15:57Z",
+                    "updatedAt": "2025-11-26T12:15:57Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Eb8bXJA0cgLIQF3uZOX9asTWNT0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "vpdtMIaSpWe_mNNhiiOX5LNH2lE",
+            "id": "s_gsEmmPBlM",
+            "snippet": {
+                "publishedAt": "2024-11-21T01:00:41Z",
+                "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                "title": "NEW🎻야마하의 새로운 전자 바이올린, YEV-104, 105 PRO Overview✨ㅣ#전자바이올린 #일렉바이올린",
+                "description": "A NEW SOUND IS HERE. \n\n야마하 전자 바이올린의 새로운 모델, \nYEV PRO 시리즈가 출시되었습니다🎻\n\n✔️무대 위에서 돋보이는 아름다움과 탁월한 사운드\n✔️어쿠스틱 바이올린에 가까운 자연스러운 연주와 깊은 공명\n\nYEV-104 PRO, YEV-105 PRO와 함께\n새로운 음악의 세계를 만끽하세요✨\n\n🔗YEV PRO 시리즈 더 자세히 보기 : https://bit.ly/48ZdzrH\n\n#야마하 #야마하뮤직코리아 \n#전자바이올린 #일렉트릭바이올린\n#야마하바이올린 #바이올린 \n#어쿠스틱바이올린 #YEV #YEVPRO\n#YEV104PRO #YEV105PRO \n#신제품 #신제품출시",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s_gsEmmPBlM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s_gsEmmPBlM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s_gsEmmPBlM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/s_gsEmmPBlM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/s_gsEmmPBlM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yamaha Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "NEW🎻야마하의 새로운 전자 바이올린, YEV-104, 105 PRO Overview✨ㅣ#전자바이올린 #일렉바이올린",
+                    "description": "A NEW SOUND IS HERE. \n\n야마하 전자 바이올린의 새로운 모델, \nYEV PRO 시리즈가 출시되었습니다🎻\n\n✔️무대 위에서 돋보이는 아름다움과 탁월한 사운드\n✔️어쿠스틱 바이올린에 가까운 자연스러운 연주와 깊은 공명\n\nYEV-104 PRO, YEV-105 PRO와 함께\n새로운 음악의 세계를 만끽하세요✨\n\n🔗YEV PRO 시리즈 더 자세히 보기 : https://bit.ly/48ZdzrH\n\n#야마하 #야마하뮤직코리아 \n#전자바이올린 #일렉트릭바이올린\n#야마하바이올린 #바이올린 \n#어쿠스틱바이올린 #YEV #YEVPRO\n#YEV104PRO #YEV105PRO \n#신제품 #신제품출시"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT51S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1119",
+                "likeCount": "12",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

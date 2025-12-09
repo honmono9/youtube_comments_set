@@ -1,0 +1,103 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "u6nRz3k7iFEKoPBodV9w7uBYoW0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "V0tzoZgMQublJxT-H-bRIkHmfyI",
+            "id": "znH_eC2tDic",
+            "snippet": {
+                "publishedAt": "2025-12-02T14:36:44Z",
+                "channelId": "UCEbRSmzD8xASRlYq2OLmCrg",
+                "title": "[싱어게인4] 자신의 색을 확실히 알린 무대💨 61호 가수의 〈Track 11〉♪ | 싱어게인4 8회 | JTBC 251202 방송",
+                "description": "자신의 색을 확실히 알린 무대💨 61호 가수의 〈Track 11〉♪\n#싱어게인4 #61호가수 #Track11\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/singagain4",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/znH_eC2tDic/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/znH_eC2tDic/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/znH_eC2tDic/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/znH_eC2tDic/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/znH_eC2tDic/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JTBC Music",
+                "tags": [
+                    "싱어게인4",
+                    "싱어게인",
+                    "top10결정전",
+                    "61호",
+                    "Track11",
+                    "이승기",
+                    "윤종신",
+                    "임재범",
+                    "백지영",
+                    "김이나",
+                    "규현",
+                    "태연",
+                    "이해리",
+                    "코드쿤스트",
+                    "싱어게인_8회",
+                    "음악예능",
+                    "JTBC음악예능",
+                    "무명가수",
+                    "JTBC예능",
+                    "singagain4",
+                    "TAEYEON",
+                    "CODE KUNST",
+                    "KYUHYUN",
+                    "Lee Hae Ri",
+                    "Lee Seung Gi",
+                    "Yim Jae-beum",
+                    "Kim Eana",
+                    "Baek Z Young",
+                    "Yoon Jongshin"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[싱어게인4] 자신의 색을 확실히 알린 무대💨 61호 가수의 〈Track 11〉♪ | 싱어게인4 8회 | JTBC 251202 방송",
+                    "description": "자신의 색을 확실히 알린 무대💨 61호 가수의 〈Track 11〉♪\n#싱어게인4 #61호가수 #Track11\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/singagain4"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "67873",
+                "likeCount": "849",
+                "favoriteCount": "0",
+                "commentCount": "211"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

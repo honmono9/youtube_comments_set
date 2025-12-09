@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "O7IUo_ValD2djMPHC3hE2dpa1Zc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "YCVXy8GGMoR2EVesYzOupsWxS8c",
+            "id": "ti_Z9WAFiuw",
+            "snippet": {
+                "publishedAt": "2025-11-02T09:54:02Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "To be continued | Burapha Music Arena #newmusic #cinematicrock #trailer #music",
+                "description": "โปรดติดตามไว้ เพื่อไม่พลาด Mv ใหม่ๆ Cinematic rock, Rock futuristic,",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ti_Z9WAFiuw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ti_Z9WAFiuw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ti_Z9WAFiuw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ti_Z9WAFiuw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ti_Z9WAFiuw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "tags": [
+                    "Rock music",
+                    "cinematic rock",
+                    "Burapha Music Arena",
+                    "Music video",
+                    "BMAarena"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "To be continued | Burapha Music Arena #newmusic #cinematicrock #trailer #music",
+                    "description": "โปรดติดตามไว้ เพื่อไม่พลาด Mv ใหม่ๆ Cinematic rock, Rock futuristic,"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "7563",
+                "likeCount": "14",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

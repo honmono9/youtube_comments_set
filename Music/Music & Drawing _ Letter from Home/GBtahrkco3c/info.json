@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "9JLxSI7Qu7noB5LCeJQiW6i_J-8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "gPzaAS1F5CRoWfrOfN28kyMr4PY",
+            "id": "GBtahrkco3c",
+            "snippet": {
+                "publishedAt": "2025-09-15T10:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Old Memories, Old Jazz… Tonight, Every Step on Fallen Leaves Sounds like Saxophone Jazz",
+                "description": "Step into a 1950s New York café where smooth saxophone and gentle piano melodies fill the autumn night. Relax, sip your coffee, and let the nostalgic jazz atmosphere warm your heart. \nVintage Jazz Playlist\n\n#jazz #vintagejazz #saxophoneojazz #pianojazz #autumnjazz #nightjazz #newyorkjazz #relaxingjazz #caféjazz #smoothjazz #jazzforstudying #nightmusic #1950sjazz #jazzplaylist #romanticjazz #cozyeveningjazz #classicjazz #nostalgicjazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GBtahrkco3c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GBtahrkco3c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GBtahrkco3c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GBtahrkco3c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "guitar jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "autumn jazz",
+                    "saxophone jazz",
+                    "classic jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Old Memories, Old Jazz… Tonight, Every Step on Fallen Leaves Sounds like Saxophone Jazz",
+                    "description": "Step into a 1950s New York café where smooth saxophone and gentle piano melodies fill the autumn night. Relax, sip your coffee, and let the nostalgic jazz atmosphere warm your heart. \nVintage Jazz Playlist\n\n#jazz #vintagejazz #saxophoneojazz #pianojazz #autumnjazz #nightjazz #newyorkjazz #relaxingjazz #caféjazz #smoothjazz #jazzforstudying #nightmusic #1950sjazz #jazzplaylist #romanticjazz #cozyeveningjazz #classicjazz #nostalgicjazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1580",
+                "likeCount": "27",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

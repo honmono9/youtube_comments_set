@@ -1,0 +1,81 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "eBdAtiTQsQDbb5lpVHmQtVIOZys",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "PS-ZDJcnVZKEbO3wxcRZ0V-ZbVE",
+            "id": "MJPXY_hznvM",
+            "snippet": {
+                "publishedAt": "2022-10-27T11:06:11Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "힙한 매장에서 흘러나올법한 groovy하고 감각적인 팝송",
+                "description": "📸 Clem Onojeghuo\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd8RtUlcn1Q1WBa55YcQIe-G",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MJPXY_hznvM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MJPXY_hznvM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MJPXY_hznvM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MJPXY_hznvM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MJPXY_hznvM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "팝송 모음",
+                    "힙한 노래",
+                    "힙한 팝송",
+                    "그루브 타기 좋은 노래",
+                    "groove",
+                    "pop songs",
+                    "매장 음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "힙한 매장에서 흘러나올법한 groovy하고 감각적인 팝송",
+                    "description": "📸 Clem Onojeghuo\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd8RtUlcn1Q1WBa55YcQIe-G"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT31M21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "146252",
+                "likeCount": "1764",
+                "favoriteCount": "0",
+                "commentCount": "64"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

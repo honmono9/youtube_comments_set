@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "EXJKxOIvSS0DB8FmPVop4P9QWvU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "lSI4prm-YkWKl8TYJd9bPSfGYyk",
+            "id": "nVsbGIq1K7w",
+            "snippet": {
+                "publishedAt": "2018-01-23T06:49:13Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "'Somewhere Over the Rainbow' by Jinjoo Cho and Hyunsoo Kim",
+                "description": "Join us for the 2018 season, 'Somewhere Over the Rainbow.'",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nVsbGIq1K7w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nVsbGIq1K7w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nVsbGIq1K7w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nVsbGIq1K7w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nVsbGIq1K7w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "'Somewhere Over the Rainbow' by Jinjoo Cho and Hyunsoo Kim",
+                    "description": "Join us for the 2018 season, 'Somewhere Over the Rainbow.'"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M9S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "38210",
+                "likeCount": "728",
+                "favoriteCount": "0",
+                "commentCount": "46"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

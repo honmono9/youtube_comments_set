@@ -1,0 +1,90 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "txK71izxW_nsx6Twx1ITW0gTczs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "qi5SwQtwe5xJwoF9S-pDE0AIyco",
+            "id": "AM1K9ES2bKs",
+            "snippet": {
+                "publishedAt": "2020-12-13T09:12:25Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "위로를 주는 잔잔한 크리스마스 연말 팝 음악",
+                "description": "Photo: Winston Chen",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AM1K9ES2bKs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AM1K9ES2bKs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AM1K9ES2bKs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AM1K9ES2bKs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AM1K9ES2bKs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "christmas songs",
+                    "크리스마스 캐롤",
+                    "크리스마스 노래",
+                    "잔잔한 팝송",
+                    "팝송 캐롤",
+                    "relax christmas songs",
+                    "calm christmas",
+                    "잔잔한 캐롤",
+                    "new christmas songs",
+                    "겨울 팝송"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "위로를 주는 잔잔한 크리스마스 연말 팝 음악",
+                    "description": "Photo: Winston Chen"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT24M25S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "21543",
+                "likeCount": "572",
+                "favoriteCount": "0",
+                "commentCount": "84"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

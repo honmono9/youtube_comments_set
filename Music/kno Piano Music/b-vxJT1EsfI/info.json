@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "nA5PEq9k-3tZyqjt8DRajlH_JiE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "mXOeAgg_zRIkpi0len3IMY2uU4c",
+            "id": "b-vxJT1EsfI",
+            "snippet": {
+                "publishedAt": "2020-04-23T13:00:14Z",
+                "channelId": "UCulsxDuZ0gU8lzhpPAjUwUg",
+                "title": "ぐっすり眠れる・おやすみピアノ＋穏やかな波音【睡眠用BGM、途中広告なし】",
+                "description": "kno Piano Music\nhttps://www.youtube.com/channel/UCulsxDuZ0gU8lzhpPAjUwUg?view_as=subscriber\n作曲、演奏：kno\n\nkno Disney Piano Channel\nhttps://www.youtube.com/c/knoDisneyPi...\n\niTunes:\nhttps://itunes.apple.com/us/artist/kn...\n\nGoogle Play:\nhttps://play.google.com/store/music/a...\n\nTwitter:\nhttps://twitter.com/knopiano\n\nInstagram\nhttps://www.instagram.com/?hl=ja\n\n#knopianomusic #おやすみジブリ#oyasumipiano",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b-vxJT1EsfI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b-vxJT1EsfI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b-vxJT1EsfI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/b-vxJT1EsfI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/b-vxJT1EsfI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "kno Piano Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "ぐっすり眠れる・おやすみピアノ＋穏やかな波音【睡眠用BGM、途中広告なし】",
+                    "description": "kno Piano Music\nhttps://www.youtube.com/channel/UCulsxDuZ0gU8lzhpPAjUwUg?view_as=subscriber\n作曲、演奏：kno\n\nkno Disney Piano Channel\nhttps://www.youtube.com/c/knoDisneyPi...\n\niTunes:\nhttps://itunes.apple.com/us/artist/kn...\n\nGoogle Play:\nhttps://play.google.com/store/music/a...\n\nTwitter:\nhttps://twitter.com/knopiano\n\nInstagram\nhttps://www.instagram.com/?hl=ja\n\n#knopianomusic #おやすみジブリ#oyasumipiano"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT3H2M15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "8179285",
+                "likeCount": "37789",
+                "favoriteCount": "0",
+                "commentCount": "1591"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

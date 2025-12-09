@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "5qyO49jRgSACi8mNCTe7aaYJRio",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ghblJ9umOKwlBPTGu2uCr81rTGg",
+            "id": "-uq_0A5UAfI",
+            "snippet": {
+                "publishedAt": "2025-10-10T14:24:50Z",
+                "channelId": "UCL_O5w1_yeGyukBIRB_1alw",
+                "title": "She is special ✨💅 #kpopdemonhunters #kpop #huntrix #anime #kpopmusic #sajaboys #netflixanime",
+                "description": "Zoey, Mira and Rumi Huntrix #kpopdemonhunters #kpop #huntrix #anime #kpopmusic #sajaboys #netflixanime",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-uq_0A5UAfI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-uq_0A5UAfI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-uq_0A5UAfI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-uq_0A5UAfI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-uq_0A5UAfI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Xadiya Music",
+                "tags": [
+                    "netflix",
+                    "songs",
+                    "shorts",
+                    "Random"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "She is special ✨💅 #kpopdemonhunters #kpop #huntrix #anime #kpopmusic #sajaboys #netflixanime",
+                    "description": "Zoey, Mira and Rumi Huntrix #kpopdemonhunters #kpop #huntrix #anime #kpopmusic #sajaboys #netflixanime"
+                },
+                "defaultAudioLanguage": "id"
+            },
+            "contentDetails": {
+                "duration": "PT34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9880",
+                "likeCount": "74",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

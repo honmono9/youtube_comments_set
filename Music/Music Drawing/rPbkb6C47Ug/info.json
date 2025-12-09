@@ -1,0 +1,90 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "T_NiPXIR_PgfuS-keEkOiQu6uS4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "_ZqSkJ9qn-w3Mmc9IBmUEySklPQ",
+            "id": "rPbkb6C47Ug",
+            "snippet": {
+                "publishedAt": "2025-01-24T12:01:22Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"오늘 하루는 어땠어?\" 힘든 하루를 위로하는 수면음악",
+                "description": "오늘 하루는 어땠어?\n너무 괜찮은 척 애쓰지 않아도 돼~\n조금 뒤처질 때엔\n한 템포 늦춰서 가도 되고\n너무 숨 가쁠때엔\n멈춰서 쉬어도 돼~\n\n항상 너를 사랑하고 너를 위로하는 \n그런 하루하루가 되길 바랄게~\n\n넌 소중한 존재니깐..!\n\n\n🎵곡 제목                      \n01.오늘 하루\n02.다시 시작\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #편안한음악 #위로가되는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rPbkb6C47Ug/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rPbkb6C47Ug/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rPbkb6C47Ug/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rPbkb6C47Ug/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rPbkb6C47Ug/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "수면음악",
+                    "수면유도음악",
+                    "편안한음악",
+                    "위로음악",
+                    "스트레스해소음악",
+                    "숙면음악",
+                    "잠잘때듣는음악",
+                    "자기전에듣는음악",
+                    "SleepigMusic",
+                    "SleepMusic",
+                    "RelaxMusic",
+                    "RelaxingMusic",
+                    "PianoMusic",
+                    "피아노음악",
+                    "편안한피아노음악",
+                    "잠오는음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"오늘 하루는 어땠어?\" 힘든 하루를 위로하는 수면음악",
+                    "description": "오늘 하루는 어땠어?\n너무 괜찮은 척 애쓰지 않아도 돼~\n조금 뒤처질 때엔\n한 템포 늦춰서 가도 되고\n너무 숨 가쁠때엔\n멈춰서 쉬어도 돼~\n\n항상 너를 사랑하고 너를 위로하는 \n그런 하루하루가 되길 바랄게~\n\n넌 소중한 존재니깐..!\n\n\n🎵곡 제목                      \n01.오늘 하루\n02.다시 시작\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #편안한음악 #위로가되는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9H45M36S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "354847",
+                "likeCount": "5801",
+                "favoriteCount": "0",
+                "commentCount": "294"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

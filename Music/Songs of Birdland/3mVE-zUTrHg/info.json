@@ -1,0 +1,105 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "22cIOYj7VvBRJAnFH5f5qAQbGWI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "s_ISXA9tvQ8VzKMtUvFe7DnpATc",
+            "id": "3mVE-zUTrHg",
+            "snippet": {
+                "publishedAt": "2025-06-04T13:00:12Z",
+                "channelId": "UC3aVeoLde-l7GDpT22oDoPA",
+                "title": "Baby Classical ⚡ SCHUBERT FOR BABIES ⚡ Piano Music for Babies",
+                "description": "Classical music full of tenderness from wonderful composers like Schubert, Chopin, and Bach, lovingly chosen to help your baby sleep peacefully and happily. Perfect for a moment of calm and cuddles before bedtime.\n\nWe hope you enjoy it!\n\n#songsofbirdland #babyclassical #musicforbabies",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3mVE-zUTrHg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3mVE-zUTrHg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3mVE-zUTrHg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3mVE-zUTrHg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3mVE-zUTrHg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Songs of Birdland",
+                "tags": [
+                    "classical music for babies",
+                    "songs of birdland",
+                    "baby piano",
+                    "piano for babies",
+                    "piano music for sleeping",
+                    "emotional piano",
+                    "felt piano",
+                    "mu dimon",
+                    "baby classical",
+                    "baby music",
+                    "baby classical music",
+                    "mozart for babies",
+                    "chopin",
+                    "Chopin for babies",
+                    "song of birdland",
+                    "schubert",
+                    "schubert for babies",
+                    "baby schubert",
+                    "mozart",
+                    "baby mozart",
+                    "mozart piano babies",
+                    "classical piano",
+                    "music for sleep",
+                    "musica para bebes",
+                    "musica para dormir",
+                    "musica para tu bebe",
+                    "ralaxing music",
+                    "calming",
+                    "relax",
+                    "felt",
+                    "love"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Baby Classical ⚡ SCHUBERT FOR BABIES ⚡ Piano Music for Babies",
+                    "description": "Classical music full of tenderness from wonderful composers like Schubert, Chopin, and Bach, lovingly chosen to help your baby sleep peacefully and happily. Perfect for a moment of calm and cuddles before bedtime.\n\nWe hope you enjoy it!\n\n#songsofbirdland #babyclassical #musicforbabies"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2M19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "33812",
+                "likeCount": "70",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

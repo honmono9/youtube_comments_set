@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "JZo8u4s01qkFwnZtTC0UjwDOxds",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "K6AYuiNWSrMXvllX4O_oGM3P9cQ",
+            "id": "88M7A9vNMJQ",
+            "snippet": {
+                "publishedAt": "2025-11-19T17:10:25Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "A Perfect Circle - Sleeping Beauty | Soul AI Cover",
+                "description": "Sleeping Beauty by A Perfect Circle twisted into Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nDelusional\nI believe I could cure it all for you, dear\nCoax or trick or drive or drag the demons from you\nMake it right for you, sleeping beauty\nTruly thought I could magically heal you\n\nYou're far beyond a visible sign of your awakening\nI'm failing miserably to rescue\n\nSleeping beauty\n\nDrunk on ego\nTruly thought I could make it right\nIf I kissed you one more time\nTo help you face the nightmare\nBut you're far too poisoned for me\nSuch a fool to think that I could wake you from your slumber\nThat I could actually heal you\n\nSleeping beauty\nPoisoned and hopeless\n\nYou're far beyond a visible sign of your awakening\nFailing miserably to find a way to comfort you\nFar beyond a visible sign of your awakening\nAnd hiding from some poisoned memory\n\nPoisoned and hopeless\nSleeping beauty",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/88M7A9vNMJQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/88M7A9vNMJQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/88M7A9vNMJQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/88M7A9vNMJQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/88M7A9vNMJQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "A Perfect Circle - Sleeping Beauty | Soul AI Cover",
+                    "description": "Sleeping Beauty by A Perfect Circle twisted into Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nDelusional\nI believe I could cure it all for you, dear\nCoax or trick or drive or drag the demons from you\nMake it right for you, sleeping beauty\nTruly thought I could magically heal you\n\nYou're far beyond a visible sign of your awakening\nI'm failing miserably to rescue\n\nSleeping beauty\n\nDrunk on ego\nTruly thought I could make it right\nIf I kissed you one more time\nTo help you face the nightmare\nBut you're far too poisoned for me\nSuch a fool to think that I could wake you from your slumber\nThat I could actually heal you\n\nSleeping beauty\nPoisoned and hopeless\n\nYou're far beyond a visible sign of your awakening\nFailing miserably to find a way to comfort you\nFar beyond a visible sign of your awakening\nAnd hiding from some poisoned memory\n\nPoisoned and hopeless\nSleeping beauty"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M14S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "421",
+                "likeCount": "16",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

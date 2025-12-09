@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "b68DLn00ezhy2aGBhtITOxgD3eg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "v5wFhLk4wD5U_ukSkN4PyyjSHuI",
+            "id": "3MPDWKO3TPw",
+            "snippet": {
+                "publishedAt": "2023-02-24T09:00:13Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[MV] 지한 (Weeekly) - Latte Latte I 꼭두의 계절 OST Part.4",
+                "description": "지한 (Weeekly) - Latte Latte | 꼭두의 계절 OST Part.4\n2023.02.24 6PM (KST)\n\n\nMBC 금토드라마 ‘꼭두의 계절’ 네 번째 OST, 위클리(Weeekly) 지한의 ‘Latte Latte’\n\n‘Latte Latte’는 미디엄 템포의 팝으로, \n드라마에 밝은 에너지를 불어넣을 사랑스러운 분위기의 곡이다. \n\n신나는 리듬과 귀엽고 발랄한 악기들의 소리가 매력을 더하며\n따뜻하고 부드러운 라떼를 이용한 중독성 있는 가사가 인상적이다. \n\n\nLyrics by 이현상(ARTMATIC), RAMI NU\nComposed by Nomasgood, Sam Carter, RAMI NU\nArranged by Nomasgood, 이현상(ARTMATIC)\n\nChorus by 페리 (Perrie) \nSynth by Nomasgood\nGuitar by Nomasgood\n\nDrum programming by Nomasgood\n\nVocal recorded by 온성윤 @ s87studio\nMixed by nior @ 해안선스튜디오\nMastered by nior @ 해안선스튜디오\n\n\n#MBC드라마 #꼭두의계절 #OST \n#지한 #Weeekly #LatteLatte\n#아에르뮤직 #AERMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3MPDWKO3TPw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3MPDWKO3TPw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3MPDWKO3TPw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3MPDWKO3TPw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3MPDWKO3TPw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[MV] 지한 (Weeekly) - Latte Latte I 꼭두의 계절 OST Part.4",
+                    "description": "지한 (Weeekly) - Latte Latte | 꼭두의 계절 OST Part.4\n2023.02.24 6PM (KST)\n\n\nMBC 금토드라마 ‘꼭두의 계절’ 네 번째 OST, 위클리(Weeekly) 지한의 ‘Latte Latte’\n\n‘Latte Latte’는 미디엄 템포의 팝으로, \n드라마에 밝은 에너지를 불어넣을 사랑스러운 분위기의 곡이다. \n\n신나는 리듬과 귀엽고 발랄한 악기들의 소리가 매력을 더하며\n따뜻하고 부드러운 라떼를 이용한 중독성 있는 가사가 인상적이다. \n\n\nLyrics by 이현상(ARTMATIC), RAMI NU\nComposed by Nomasgood, Sam Carter, RAMI NU\nArranged by Nomasgood, 이현상(ARTMATIC)\n\nChorus by 페리 (Perrie) \nSynth by Nomasgood\nGuitar by Nomasgood\n\nDrum programming by Nomasgood\n\nVocal recorded by 온성윤 @ s87studio\nMixed by nior @ 해안선스튜디오\nMastered by nior @ 해안선스튜디오\n\n\n#MBC드라마 #꼭두의계절 #OST \n#지한 #Weeekly #LatteLatte\n#아에르뮤직 #AERMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4036",
+                "likeCount": "249",
+                "favoriteCount": "0",
+                "commentCount": "24"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

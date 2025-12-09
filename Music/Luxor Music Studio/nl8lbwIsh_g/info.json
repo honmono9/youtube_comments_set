@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "tRPaQ2AnSnfIqQR0H2zBHZYCC4U",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "985nh-OL9leCkusg1iXOEu9y0uo",
+            "id": "nl8lbwIsh_g",
+            "snippet": {
+                "publishedAt": "2025-04-08T07:15:44Z",
+                "channelId": "UCirSyikc3MSAjkJNdFBcR-g",
+                "title": "Ați ascultat cel mai nou Colaj marca IDLV ? #ColajulCumetrilor",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nl8lbwIsh_g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nl8lbwIsh_g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nl8lbwIsh_g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nl8lbwIsh_g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nl8lbwIsh_g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Luxor Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ro",
+                "localized": {
+                    "title": "Ați ascultat cel mai nou Colaj marca IDLV ? #ColajulCumetrilor",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ro"
+            },
+            "contentDetails": {
+                "duration": "PT48S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1320",
+                "likeCount": "8",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "QpAbYfmHTL07mqQUD9XxkFcnnNg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "rRE9Pd-JDIYfacPgk_G0azNpvdQ",
+            "id": "F-5xM5xYbzE",
+            "snippet": {
+                "publishedAt": "2022-08-21T04:01:07Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "안드레아 보첼리가 들려주는 이탈리아의 낭만과 여유🌿",
+                "description": "Photo by Tom Podmore\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd-0KQd-tQHqCE5suxgjZ2b4",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F-5xM5xYbzE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F-5xM5xYbzE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F-5xM5xYbzE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/F-5xM5xYbzE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/F-5xM5xYbzE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "여유로운 팝송",
+                    "이탈리아 음악",
+                    "andrea bocelli songs",
+                    "안드레아 보첼리",
+                    "잔잔한 팝송",
+                    "주말 팝송"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "안드레아 보첼리가 들려주는 이탈리아의 낭만과 여유🌿",
+                    "description": "Photo by Tom Podmore\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd-0KQd-tQHqCE5suxgjZ2b4"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT29M33S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "284648",
+                "likeCount": "3291",
+                "favoriteCount": "0",
+                "commentCount": "115"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

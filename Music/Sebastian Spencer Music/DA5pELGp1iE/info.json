@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "rNz7RMg2AzYh5QtwcOgIqaEScIc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "xm5U21PdNxCbtFiX20faMnix5iM",
+            "id": "DA5pELGp1iE",
+            "snippet": {
+                "publishedAt": "2023-04-01T15:57:59Z",
+                "channelId": "UCwdmcaOcWQ7PW8_wuaB8Cjw",
+                "title": "SEBASTIAN SPENCER X SARAH - DANCING IN THE DARK (BASS UP REMIX)",
+                "description": "Ab 13.04.23 überall erhältlich!\n\nFolge mir:  \n@Instagram:\nhttps://www.instagram.com/sebastianspencermusic/\n\n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DA5pELGp1iE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DA5pELGp1iE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DA5pELGp1iE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DA5pELGp1iE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DA5pELGp1iE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sebastian Spencer Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "de",
+                "localized": {
+                    "title": "SEBASTIAN SPENCER X SARAH - DANCING IN THE DARK (BASS UP REMIX)",
+                    "description": "Ab 13.04.23 überall erhältlich!\n\nFolge mir:  \n@Instagram:\nhttps://www.instagram.com/sebastianspencermusic/\n\n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2M59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4480",
+                "likeCount": "66",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

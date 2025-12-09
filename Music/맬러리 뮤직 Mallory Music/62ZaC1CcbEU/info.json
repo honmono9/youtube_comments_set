@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "HoIWJ9Ri0mOz6K61mgkDkw6nsL0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "nEVnIiJFUNKYwdSXMulqtJV7WEE",
+            "id": "62ZaC1CcbEU",
+            "snippet": {
+                "publishedAt": "2022-09-29T08:30:32Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "깊어가는 가을 유럽풍의 멜로디, beige/brown 색감의 음악들",
+                "description": "📸 Lena Mytchyk",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/62ZaC1CcbEU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/62ZaC1CcbEU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/62ZaC1CcbEU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/62ZaC1CcbEU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/62ZaC1CcbEU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "가을 플리",
+                    "가을 노래",
+                    "playlist",
+                    "잔잔한 팝송",
+                    "팝송 추천"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "깊어가는 가을 유럽풍의 멜로디, beige/brown 색감의 음악들",
+                    "description": "📸 Lena Mytchyk"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT27M27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "16416",
+                "likeCount": "336",
+                "favoriteCount": "0",
+                "commentCount": "31"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

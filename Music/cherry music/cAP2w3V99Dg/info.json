@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "D2S13Mj10q3dsoyJFw49dPhkPbI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "_LjkXNFLO2p1RbBUecNQ-LTEn10",
+            "id": "cAP2w3V99Dg",
+            "snippet": {
+                "publishedAt": "2025-12-07T23:01:00Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "Cafe Playlist ☕ 겨울에 카페 사장님이 트는 플레이리스트 ❄️🎶 | Winter Cafe Playlist",
+                "description": "🟢 Spotify\n\nhttps://open.spotify.com/artist/2K7ZrQf4vYvuGKWAjD54WW?si=-Ke52_OASUiXCsP-fU3vQw\n\n\n▶️ YouTube Music\n/ https://youtube.com/channel/UCtgK5ZUYqmqOhtbJzc7wRiA?si=pfPQiMmo_0ldvZ_i\n\n\n🍎 Apple Music\n/ https://music.apple.com/kr/artist/cherry/1828855228\n\n\n#카페플리 #마음을녹이는음악 #따뜻한겨울음악 #겨울플리 #잔잔한음악 #커피와음악 #음악추천 #겨울카페음악 #힐링음악 #감성음악\n\n#CafePlaylist #WinterVibes #WarmTunes #CozyCafeMusic #RelaxingMusic #CoffeeAndMusic #ChillTunes #WinterPlaylist",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cAP2w3V99Dg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cAP2w3V99Dg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cAP2w3V99Dg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cAP2w3V99Dg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cAP2w3V99Dg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Cafe Playlist ☕ 겨울에 카페 사장님이 트는 플레이리스트 ❄️🎶 | Winter Cafe Playlist",
+                    "description": "🟢 Spotify\n\nhttps://open.spotify.com/artist/2K7ZrQf4vYvuGKWAjD54WW?si=-Ke52_OASUiXCsP-fU3vQw\n\n\n▶️ YouTube Music\n/ https://youtube.com/channel/UCtgK5ZUYqmqOhtbJzc7wRiA?si=pfPQiMmo_0ldvZ_i\n\n\n🍎 Apple Music\n/ https://music.apple.com/kr/artist/cherry/1828855228\n\n\n#카페플리 #마음을녹이는음악 #따뜻한겨울음악 #겨울플리 #잔잔한음악 #커피와음악 #음악추천 #겨울카페음악 #힐링음악 #감성음악\n\n#CafePlaylist #WinterVibes #WarmTunes #CozyCafeMusic #RelaxingMusic #CoffeeAndMusic #ChillTunes #WinterPlaylist"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3H7M20S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4448",
+                "likeCount": "47",
+                "favoriteCount": "0",
+                "commentCount": "14"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

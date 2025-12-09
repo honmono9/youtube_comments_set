@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Ex2qhc7nxBUxkwHZklTtCS9kNyI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "pwLkWP7BMV7ySIqgyOmPuVvz2f0",
+            "id": "TG9Ww1_vBtw",
+            "snippet": {
+                "publishedAt": "2025-12-07T22:29:57Z",
+                "channelId": "UCfrWVh-4M98j1WtDIR9IVNg",
+                "title": "PASKO NGAYON 2025||RAP AND REGGAE REMIX||@MUSICFRANZ @MusicprinceFR ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TG9Ww1_vBtw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TG9Ww1_vBtw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TG9Ww1_vBtw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TG9Ww1_vBtw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TG9Ww1_vBtw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MUSIC FRANZ ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "PASKO NGAYON 2025||RAP AND REGGAE REMIX||@MUSICFRANZ @MusicprinceFR ",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10M46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "27",
+                "likeCount": "5",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

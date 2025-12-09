@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "q7O3edCIFRyoR4z6wU5gNSlncBo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "wwzw8COwWqabT4v4OTnvkJaNgjU",
+            "id": "DGRlqelM0DM",
+            "snippet": {
+                "publishedAt": "2023-02-05T15:00:07Z",
+                "channelId": "UCwdmcaOcWQ7PW8_wuaB8Cjw",
+                "title": "SEBASTIAN SPENCER X SARAH - F*** IT (don´t want you back) HQ",
+                "description": "Ab 09.02.2023 überall erhältlich\n\nFolge mir:  \n@Instagram:\nhttps://www.instagram.com/sebastianspencermusic/\n\n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DGRlqelM0DM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DGRlqelM0DM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DGRlqelM0DM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DGRlqelM0DM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DGRlqelM0DM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sebastian Spencer Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "de",
+                "localized": {
+                    "title": "SEBASTIAN SPENCER X SARAH - F*** IT (don´t want you back) HQ",
+                    "description": "Ab 09.02.2023 überall erhältlich\n\nFolge mir:  \n@Instagram:\nhttps://www.instagram.com/sebastianspencermusic/\n\n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "22799",
+                "likeCount": "194",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

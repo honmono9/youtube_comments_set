@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "w-U74qxLeXpXHlpY3gc6NYm4NXg",
+        "id": "UgwoB11wY2FAn4bOr1V4AaABAg",
+        "snippet": {
+            "channelId": "UCnhZuoNcL89qNax7YlWvavQ",
+            "videoId": "b_qxiTuEx34",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "ESKslMzf8v4BdFAdBrlGfktMw8k",
+                "id": "UgwoB11wY2FAn4bOr1V4AaABAg",
+                "snippet": {
+                    "channelId": "UCnhZuoNcL89qNax7YlWvavQ",
+                    "videoId": "b_qxiTuEx34",
+                    "textDisplay": "푸끼얏호우!! 본점보다 먼저나왔네용 잘듣고갑니당~~",
+                    "textOriginal": "푸끼얏호우!! 본점보다 먼저나왔네용 잘듣고갑니당~~",
+                    "authorDisplayName": "@우당탕어푸",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/dTp172b46YuvFarA6RJaOScNZaIhqQZFJnpp9PWWz2sdSx_7_NH3xrmmbn4SbXruRJIC5KDk=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EC%9A%B0%EB%8B%B9%ED%83%95%EC%96%B4%ED%91%B8",
+                    "authorChannelId": {
+                        "value": "UC8cOUrzhwTmU9b3BQX_HDSg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-09T00:59:46Z",
+                    "updatedAt": "2025-12-09T00:59:46Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "M3Mef37FDl4xPjOinPAZRVx9sOE",
+        "id": "UgyzN7W8AmNHXIbeW_R4AaABAg",
+        "snippet": {
+            "channelId": "UCnhZuoNcL89qNax7YlWvavQ",
+            "videoId": "b_qxiTuEx34",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "sbAXqq9_dMc6_8C9t_9sagXmxqM",
+                "id": "UgyzN7W8AmNHXIbeW_R4AaABAg",
+                "snippet": {
+                    "channelId": "UCnhZuoNcL89qNax7YlWvavQ",
+                    "videoId": "b_qxiTuEx34",
+                    "textDisplay": "감사합니다 !!",
+                    "textOriginal": "감사합니다 !!",
+                    "authorDisplayName": "@9u9u_01",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/JJcM2o1FJbVB2JgtOeSpB2KQ5vhyBJxDA0Cp8R5gRcziAczFjTB39eFJjD5kvNss521LwzbHXw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@9u9u_01",
+                    "authorChannelId": {
+                        "value": "UCrLYvAmtj4Kb4dhSBuGkd5g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-07T04:20:35Z",
+                    "updatedAt": "2025-12-07T04:20:35Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

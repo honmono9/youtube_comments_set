@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "VB1n2k7I7MGmECgBuACJqIvU8jg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ntZYL2lp_nEMVAgEOusKYGnNo_E",
+            "id": "uwAN9KGIveo",
+            "snippet": {
+                "publishedAt": "2025-04-16T13:00:06Z",
+                "channelId": "UCoAOTBoviujUGWXOWDgfKmw",
+                "title": "BLAQS-INAKUBALIKA - FT   SHEKILA MONEY FINAL AUDIO",
+                "description": "OFFICIAL MUSIC AUDIO WRITTEN AND PERFOMED BY BLAQS KE \nPRODUCED Eazypro Pan E Records Nairobi Kenya\n\nTHE SONG IS ABOUT A LADY WHO DESTROYED A MANS LEFE\nFOR COLLABOS, SHOWS, INTERVIEWS AND SPECIAL APPEARANCES\nCONTACT BLAQS MANAGEMENT\n0748636018\n+",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uwAN9KGIveo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uwAN9KGIveo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uwAN9KGIveo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uwAN9KGIveo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uwAN9KGIveo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BlaQs music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "BLAQS-INAKUBALIKA - FT   SHEKILA MONEY FINAL AUDIO",
+                    "description": "OFFICIAL MUSIC AUDIO WRITTEN AND PERFOMED BY BLAQS KE \nPRODUCED Eazypro Pan E Records Nairobi Kenya\n\nTHE SONG IS ABOUT A LADY WHO DESTROYED A MANS LEFE\nFOR COLLABOS, SHOWS, INTERVIEWS AND SPECIAL APPEARANCES\nCONTACT BLAQS MANAGEMENT\n0748636018\n+"
+                },
+                "defaultAudioLanguage": "sw"
+            },
+            "contentDetails": {
+                "duration": "PT2M55S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "254",
+                "likeCount": "39",
+                "favoriteCount": "0",
+                "commentCount": "27"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "K3aQvVlTahgbN3RVTv2xtZmuITw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "eej8Nug8MC0YFJTVryJvCK5urqY",
+            "id": "A8gKIgMxOH4",
+            "snippet": {
+                "publishedAt": "2025-02-11T13:04:06Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "[LIVE] 2025 신년특집 믚믁 가족오락관",
+                "description": "MPMG MUSIC 아티스트와 함께하는 좌충우돌 리얼 버라이어티!\nSpecial Guest : SURL 오명석 & 터치드(TOUCHED) 김승빈, John B. Kim & 유다빈밴드 이상운, 조영윤",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A8gKIgMxOH4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A8gKIgMxOH4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A8gKIgMxOH4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/A8gKIgMxOH4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/A8gKIgMxOH4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[LIVE] 2025 신년특집 믚믁 가족오락관",
+                    "description": "MPMG MUSIC 아티스트와 함께하는 좌충우돌 리얼 버라이어티!\nSpecial Guest : SURL 오명석 & 터치드(TOUCHED) 김승빈, John B. Kim & 유다빈밴드 이상운, 조영윤"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT54M40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5788",
+                "likeCount": "174",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

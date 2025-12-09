@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "2fASCGSvwmgY-Xp8qjTatB8si28",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "xAMHVEg_5KTqrbUny_znMdpPM5I",
+            "id": "W9vq6ao9HNM",
+            "snippet": {
+                "publishedAt": "2025-12-01T05:33:58Z",
+                "channelId": "UCBPNMH92y_k4gLwxd8HExBA",
+                "title": "Yeşiller Music Band  7/24 Müzik Radyosu - CANLI YAYIN",
+                "description": "Burada kendi şarkılarımızı art arda dinleyebileceğiniz bir radyo tasarladık...\n\nYeşiller Music Band Canlı Yayın -  Psychedelic Anatolian Rock \n\nKendi yaptığımız coverlarımızdan ve kendi şarkılarımızdan oluşan bir albüm derledik ve 7/24 canlı yayın olarak karşınızdayız. Abone olup destek olmayı unutmayın. \n\n\nYouTube Kanalımız: https://www.youtube.com/@UCBPNMH92y_k4gLwxd8HExBA \nInstagram : https://www.instagram.com/yesillermusicband/\nX Hesabımız : https://x.com/yesillermusic\nSpotify : https://open.spotify.com/intl-tr/artist/41UGCMF7BViv6ndqdPA4PM?si=zDP1a5BxTIOQCcVwCtx0_g",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W9vq6ao9HNM/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W9vq6ao9HNM/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W9vq6ao9HNM/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/W9vq6ao9HNM/sddefault_live.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/W9vq6ao9HNM/maxresdefault_live.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yeşiller Music Band",
+                "categoryId": "10",
+                "liveBroadcastContent": "live",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "Yeşiller Music Band  7/24 Müzik Radyosu - CANLI YAYIN",
+                    "description": "Burada kendi şarkılarımızı art arda dinleyebileceğiniz bir radyo tasarladık...\n\nYeşiller Music Band Canlı Yayın -  Psychedelic Anatolian Rock \n\nKendi yaptığımız coverlarımızdan ve kendi şarkılarımızdan oluşan bir albüm derledik ve 7/24 canlı yayın olarak karşınızdayız. Abone olup destek olmayı unutmayın. \n\n\nYouTube Kanalımız: https://www.youtube.com/@UCBPNMH92y_k4gLwxd8HExBA \nInstagram : https://www.instagram.com/yesillermusicband/\nX Hesabımız : https://x.com/yesillermusic\nSpotify : https://open.spotify.com/intl-tr/artist/41UGCMF7BViv6ndqdPA4PM?si=zDP1a5BxTIOQCcVwCtx0_g"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "contentDetails": {
+                "duration": "P0D",
+                "dimension": "2d",
+                "definition": "sd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "18137",
+                "likeCount": "258",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

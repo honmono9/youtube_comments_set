@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "LBxRqXI-eVsBFumyVXeIQQaGVCE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "YY6limKVqt4uewhGiB9ENEHI8mw",
+            "id": "Nl6zCiq0Nck",
+            "snippet": {
+                "publishedAt": "2021-01-16T15:18:33Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[MV] 디핵 (D-Hack) - 26호 병동 (Feat. Rakon) / Official Music Video",
+                "description": "[MV] 디핵 (D-Hack) - 26호 병동 (Feat. Rakon) / Official Music Video\n\n26호 병동 (Feat. Rakon)\n\n[Credits]\n작사 : D-Hack,Rakon\n작곡 : PATEKO\n편곡 : PATEKO\nGuitar : 정홍교\nInstrumental mixed by PATEKO,Union @ Vluz Sound\nVocal mixed by J;KEY\n\n#디핵 #DHack #Rakon #26호병동 #NEOKIDZ #PATEKO",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Nl6zCiq0Nck/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Nl6zCiq0Nck/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Nl6zCiq0Nck/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Nl6zCiq0Nck/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Nl6zCiq0Nck/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "tags": [
+                    "디핵",
+                    "D-hack",
+                    "neokidz",
+                    "rakon",
+                    "pateko",
+                    "파테코",
+                    "네오키즈",
+                    "힙합",
+                    "khiphop",
+                    "seoulmusic",
+                    "서울뮤직",
+                    "hiphop",
+                    "26호병동"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[MV] 디핵 (D-Hack) - 26호 병동 (Feat. Rakon) / Official Music Video",
+                    "description": "[MV] 디핵 (D-Hack) - 26호 병동 (Feat. Rakon) / Official Music Video\n\n26호 병동 (Feat. Rakon)\n\n[Credits]\n작사 : D-Hack,Rakon\n작곡 : PATEKO\n편곡 : PATEKO\nGuitar : 정홍교\nInstrumental mixed by PATEKO,Union @ Vluz Sound\nVocal mixed by J;KEY\n\n#디핵 #DHack #Rakon #26호병동 #NEOKIDZ #PATEKO"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M48S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "16664",
+                "likeCount": "449",
+                "favoriteCount": "0",
+                "commentCount": "37"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

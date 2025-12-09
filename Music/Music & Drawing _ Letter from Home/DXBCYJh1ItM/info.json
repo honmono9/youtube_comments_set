@@ -1,0 +1,90 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "o3dt2tHqNnSk0ZDudKAQmwgYKuw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "YVHK87IS_vm8spbKs1zW_R5ICN0",
+            "id": "DXBCYJh1ItM",
+            "snippet": {
+                "publishedAt": "2025-10-01T08:02:33Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Autumn Evening Jazz 🔴 Live Vol. 14  | Calm Piano trio Nostalgic Jazz for Relaxing",
+                "description": "Enjoy a warm autumn night with smooth vintage piano jazz. \nStreaming live from a nostalgic atmosphere filled with vinyl records, glowing tube amps, and cozy café vibes. \nPerfect for relaxing, studying, working, or simply enjoying a peaceful evening. \nLet the timeless sound of the Piano trio guide you through the night. \nStay tuned and enjoy the music live tonight. \n\n#livejazz #saxophonejazz #jazz #vintagejazz #jazzmusic #autumnjazz #relaxingjazz\n#smoothjazz #nostalgicjazz #nightjazz #caféjazz #ambience #jazzlivestream #studyjazz #backgroundjazz #chilljazz #cozyautumnjazz #pianojazz #pianotriojazz #calmjazz  #eveningjazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DXBCYJh1ItM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DXBCYJh1ItM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DXBCYJh1ItM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DXBCYJh1ItM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DXBCYJh1ItM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "jazz live",
+                    "jazz music",
+                    "jazz song",
+                    "female vocal jazz",
+                    "timeless jazz",
+                    "piano jazz",
+                    "jazz instrumental",
+                    "autumn jazz",
+                    "cafe jazz",
+                    "piano trio jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Autumn Evening Jazz 🔴 Live Vol. 14  | Calm Piano trio Nostalgic Jazz for Relaxing",
+                    "description": "Enjoy a warm autumn night with smooth vintage piano jazz. \nStreaming live from a nostalgic atmosphere filled with vinyl records, glowing tube amps, and cozy café vibes. \nPerfect for relaxing, studying, working, or simply enjoying a peaceful evening. \nLet the timeless sound of the Piano trio guide you through the night. \nStay tuned and enjoy the music live tonight. \n\n#livejazz #saxophonejazz #jazz #vintagejazz #jazzmusic #autumnjazz #relaxingjazz\n#smoothjazz #nostalgicjazz #nightjazz #caféjazz #ambience #jazzlivestream #studyjazz #backgroundjazz #chilljazz #cozyautumnjazz #pianojazz #pianotriojazz #calmjazz  #eveningjazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT11H54M59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "755",
+                "likeCount": "13",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

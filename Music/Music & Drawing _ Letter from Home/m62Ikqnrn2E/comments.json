@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Lh3QcQP2vIZMlCIJAYEUAifm8y4",
+        "id": "UgwV79Ew1JvY02sW-394AaABAg",
+        "snippet": {
+            "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+            "videoId": "m62Ikqnrn2E",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "d5NGBIiprv-kgU4R8gz3aVPUGVo",
+                "id": "UgwV79Ew1JvY02sW-394AaABAg",
+                "snippet": {
+                    "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                    "videoId": "m62Ikqnrn2E",
+                    "textDisplay": "Mój ulubiony dźwięk saksofonu, łagodne nuty ☺️",
+                    "textOriginal": "Mój ulubiony dźwięk saksofonu, łagodne nuty ☺️",
+                    "authorDisplayName": "@aloryt",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mBDPTjSST3uzjDYUH-oMCrtfhSMTHSxruu8RWiGuTfPA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@aloryt",
+                    "authorChannelId": {
+                        "value": "UCe24vR5n8ZcBvSTS-vIX89g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-09-12T16:53:46Z",
+                    "updatedAt": "2025-09-12T16:53:46Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

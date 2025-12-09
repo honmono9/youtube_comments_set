@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "lFQEt_7HToYT15tk3h-sFkLKypo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "k-juJBh3zjIHKJHGPO6I8ZHjTQI",
+            "id": "IArYy3BRRMY",
+            "snippet": {
+                "publishedAt": "2021-09-19T04:35:25Z",
+                "channelId": "UC8gRco988IELoTNTl4OBd2w",
+                "title": "Tiger JK, Paloalto, Woo, MAN1AC, Los, YDG, Bizzy, yoonmirae - Love Peace Movement (호심술 REMIX) Audio",
+                "description": "Tiger JK, Paloalto, Woo, MAN1AC, Los, YDG, Bizzy, yoonmirae - Love Peace Movement (호심술 REMIX) Official Audio\n\n-\n\n혐오의 시대, 타이거JK의 품격 있는 경고 사격을 날렸던 호심술의 리믹스로 Tiger JK, 팔로알토 (Paloalto), 우원재, MAN1AC, 로스 (Los) , YDG, 비지 (Bizzy), 윤미래가 참여하였으며, 앨범 아트워크는 유명 웹툰 작가인 백승훈 작가의 그림으로 제작되었다.\n\n이번 호심술 REMIX는 원곡의 작곡가이자, ‘힙합간지남’, ‘내가 싫다’ 등을 함께 만든 대표 프로듀서인 박재선 프로듀서의 작품이다.\n\n-\n\nCredits:\nLyrics by Tiger JK, 팔로알토, 우원재, MAN1AC, Los , YDG, Bizzy, 윤미래\nComposed by 박재선\nArranged by 박재선\nChorus by 윤미래\nKeyboard by 박재선\nMixed by Masterkey\nMastered by 권남우\nCover Artwork by 최용근\nIllustration by 백승훈",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IArYy3BRRMY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IArYy3BRRMY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IArYy3BRRMY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IArYy3BRRMY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IArYy3BRRMY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Feel Ghood Music [필굿뮤직]",
+                "tags": [
+                    "호심술 remix",
+                    "tiger jk",
+                    "paloalto",
+                    "팔로알토",
+                    "우원재",
+                    "woo",
+                    "man1ac",
+                    "los",
+                    "로스",
+                    "윤미래",
+                    "yoonmirae",
+                    "lovepeacemovement"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Tiger JK, Paloalto, Woo, MAN1AC, Los, YDG, Bizzy, yoonmirae - Love Peace Movement (호심술 REMIX) Audio",
+                    "description": "Tiger JK, Paloalto, Woo, MAN1AC, Los, YDG, Bizzy, yoonmirae - Love Peace Movement (호심술 REMIX) Official Audio\n\n-\n\n혐오의 시대, 타이거JK의 품격 있는 경고 사격을 날렸던 호심술의 리믹스로 Tiger JK, 팔로알토 (Paloalto), 우원재, MAN1AC, 로스 (Los) , YDG, 비지 (Bizzy), 윤미래가 참여하였으며, 앨범 아트워크는 유명 웹툰 작가인 백승훈 작가의 그림으로 제작되었다.\n\n이번 호심술 REMIX는 원곡의 작곡가이자, ‘힙합간지남’, ‘내가 싫다’ 등을 함께 만든 대표 프로듀서인 박재선 프로듀서의 작품이다.\n\n-\n\nCredits:\nLyrics by Tiger JK, 팔로알토, 우원재, MAN1AC, Los , YDG, Bizzy, 윤미래\nComposed by 박재선\nArranged by 박재선\nChorus by 윤미래\nKeyboard by 박재선\nMixed by Masterkey\nMastered by 권남우\nCover Artwork by 최용근\nIllustration by 백승훈"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "101197",
+                "likeCount": "2124",
+                "favoriteCount": "0",
+                "commentCount": "115"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

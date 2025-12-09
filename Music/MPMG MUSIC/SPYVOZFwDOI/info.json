@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "mUXLZlyNkJ1ePZvq4au56Q83Tv8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "vC2XwOSzEprTyf0dsWbFKqj344w",
+            "id": "SPYVOZFwDOI",
+            "snippet": {
+                "publishedAt": "2025-02-15T23:00:19Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "🌞𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀! #7 | #권순관",
+                "description": "[𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀!]\n\n여러분의 아침을 열어줄 오늘의 아티스트는\n권순관님입니다.\n\n순관님의 아침 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n좋은 아침 되세요!🌞\n\n[00:00] Good Morning my Friends! #7 권순관\n[03:53] Hollow Coves- blessings\n[08:01] Iron & Wine- Naked as We Came\n[10:36] John Mayer- Still Feel Like Your Man\n[14:32] 최지원- 아이들의 소리\n[18:42] Pat Metheny- First Circle\n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#GoodMorningmyFriends #권순관",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SPYVOZFwDOI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SPYVOZFwDOI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SPYVOZFwDOI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SPYVOZFwDOI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SPYVOZFwDOI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🌞𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀! #7 | #권순관",
+                    "description": "[𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀!]\n\n여러분의 아침을 열어줄 오늘의 아티스트는\n권순관님입니다.\n\n순관님의 아침 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n좋은 아침 되세요!🌞\n\n[00:00] Good Morning my Friends! #7 권순관\n[03:53] Hollow Coves- blessings\n[08:01] Iron & Wine- Naked as We Came\n[10:36] John Mayer- Still Feel Like Your Man\n[14:32] 최지원- 아이들의 소리\n[18:42] Pat Metheny- First Circle\n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#GoodMorningmyFriends #권순관"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT27M49S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "389",
+                "likeCount": "15",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

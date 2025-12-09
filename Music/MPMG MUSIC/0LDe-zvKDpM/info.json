@@ -1,0 +1,98 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "cKqQESI-VFmdDr4DMO_dhA5_sl4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Kk5o5mAh1oslYgd7HTL3eoqMx2I",
+            "id": "0LDe-zvKDpM",
+            "snippet": {
+                "publishedAt": "2021-07-20T05:00:00Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "[PLAYLIST] 영 차 영 차 📈 동학 개미들의 마음을 달래줄 플레이리스트",
+                "description": "오늘도 파란 세상에 마음 아파하는 개미들을 위해 ..\n내일은 .. 오를 거예요! 💪\n\n🎧 PLAYLIST\n00:00 쏜애플 - 위에서 그러했듯이 아래에서도\n05:14 솔루션스 - Rise And Fall\n09:46 OurR(아월) - 멍\n14:45 쏜애플 - 매미는 비가 와도 운다\n19:54 OurR(아월) - Circle \n23:44 LambC(램씨) - I was wrong\n28:14 Lacuna(라쿠나) - 마지막 축제\n\n다음달부터는 MPMG MUSIC 유튜브 채널에서 새로운 플레이리스트를 만나보실 수 있어요!\n구독하면 다음달엔 상한가를 맛보게 될..지도?\n\n💸 MPMG MUSIC 💸\nhttps://bit.ly/3ioNHf2\nhttps://www.instagram.com/mpmgmusic/\n\n#해피로봇레코드 #플레이리스트 #PLAYLIST #주식 #개미 #영차영차",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0LDe-zvKDpM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0LDe-zvKDpM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0LDe-zvKDpM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0LDe-zvKDpM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0LDe-zvKDpM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "tags": [
+                    "쏜애플",
+                    "솔루션스",
+                    "ourr",
+                    "아월",
+                    "lambc",
+                    "램씨",
+                    "라쿠나",
+                    "lacuna",
+                    "해피로봇레코드",
+                    "mpmg music",
+                    "플레이리스트",
+                    "playlist",
+                    "해피로봇",
+                    "음악",
+                    "music",
+                    "happy robot records",
+                    "thornapple",
+                    "solutions",
+                    "주식",
+                    "주린이",
+                    "개미",
+                    "떡상",
+                    "상한가",
+                    "하한가"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[PLAYLIST] 영 차 영 차 📈 동학 개미들의 마음을 달래줄 플레이리스트",
+                    "description": "오늘도 파란 세상에 마음 아파하는 개미들을 위해 ..\n내일은 .. 오를 거예요! 💪\n\n🎧 PLAYLIST\n00:00 쏜애플 - 위에서 그러했듯이 아래에서도\n05:14 솔루션스 - Rise And Fall\n09:46 OurR(아월) - 멍\n14:45 쏜애플 - 매미는 비가 와도 운다\n19:54 OurR(아월) - Circle \n23:44 LambC(램씨) - I was wrong\n28:14 Lacuna(라쿠나) - 마지막 축제\n\n다음달부터는 MPMG MUSIC 유튜브 채널에서 새로운 플레이리스트를 만나보실 수 있어요!\n구독하면 다음달엔 상한가를 맛보게 될..지도?\n\n💸 MPMG MUSIC 💸\nhttps://bit.ly/3ioNHf2\nhttps://www.instagram.com/mpmgmusic/\n\n#해피로봇레코드 #플레이리스트 #PLAYLIST #주식 #개미 #영차영차"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT32M54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1676",
+                "likeCount": "52",
+                "favoriteCount": "0",
+                "commentCount": "21"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

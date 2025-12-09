@@ -1,0 +1,84 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "kzicPgKKL41c4e6uYnYezYPYk-c",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "oOJetpNH5KM0KXzNYrrFDUruvsU",
+            "id": "5ZjyzmbQfz8",
+            "snippet": {
+                "publishedAt": "2018-04-07T10:52:50Z",
+                "channelId": "UCquS6S5yOGk2j5YS6WHj6eA",
+                "title": "Rush - Tom Sawyer (Metal Cover) ft. Andrea Boccarusso",
+                "description": "Hey Folks!\n\nI am so busy getting ready for my own business. However, with a short break I was able to make a nice cover with my Italian friend, Andrea. Projecting my emotions to the music of RUSH was a very new attempt for me and we did not have enough time to polish the video, but I think we got quite interesting results. Please, visit Adreas' channel he will absolutely please you :)\n\nBy the way, I'm struggling to make a new series on my YouTube channel. If you like my singing then stay tuned, I'll be back shortly!\n\nSiegfried Song (Symmetric Chaos, South Korea) - Lead and Harmony Vocals\nAndrea Boma Boccarusso (Lock The Basement, Italy) - All Instrumentals and Video Editing\n\n[Siegfried Song]\nhttp://www.facebook.com/SiegfriedSong...\nhttps://www.facebook.com/SymmetricChaos/\n\n[Andrea Boma Boccarusso]\nhttps://www.facebook.com/AndreaBoccarusso/\nhttps://www.youtube.com/user/BomaMetalhead",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5ZjyzmbQfz8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5ZjyzmbQfz8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5ZjyzmbQfz8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5ZjyzmbQfz8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5ZjyzmbQfz8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Siegfried Song",
+                "tags": [
+                    "Siegfried Song",
+                    "Rush",
+                    "Tom Sawyer",
+                    "Metal Cover",
+                    "Andrea Boma Boccarusso",
+                    "Kamelot",
+                    "Dragon Ball",
+                    "Power Metal",
+                    "Spectre Media Group",
+                    "SMG"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Rush - Tom Sawyer (Metal Cover) ft. Andrea Boccarusso",
+                    "description": "Hey Folks!\n\nI am so busy getting ready for my own business. However, with a short break I was able to make a nice cover with my Italian friend, Andrea. Projecting my emotions to the music of RUSH was a very new attempt for me and we did not have enough time to polish the video, but I think we got quite interesting results. Please, visit Adreas' channel he will absolutely please you :)\n\nBy the way, I'm struggling to make a new series on my YouTube channel. If you like my singing then stay tuned, I'll be back shortly!\n\nSiegfried Song (Symmetric Chaos, South Korea) - Lead and Harmony Vocals\nAndrea Boma Boccarusso (Lock The Basement, Italy) - All Instrumentals and Video Editing\n\n[Siegfried Song]\nhttp://www.facebook.com/SiegfriedSong...\nhttps://www.facebook.com/SymmetricChaos/\n\n[Andrea Boma Boccarusso]\nhttps://www.facebook.com/AndreaBoccarusso/\nhttps://www.youtube.com/user/BomaMetalhead"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9644",
+                "likeCount": "402",
+                "favoriteCount": "0",
+                "commentCount": "50"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

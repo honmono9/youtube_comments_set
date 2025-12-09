@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "G_48ECu2BRcLdk1VJvF_1ObT_Kc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "TXWZkVTceli_kMFLYKVnfAXFPU0",
+            "id": "nZPHPVqQMJU",
+            "snippet": {
+                "publishedAt": "2025-09-18T12:32:52Z",
+                "channelId": "UCYTNxR2Z4ryz88WRWiaPCdg",
+                "title": "Meishi  -  赤ちゃんカメが学校へ",
+                "description": "Meishi  -  赤ちゃんカメが学校へ\n\nVocal : Meishi\nArt: https://www.pixiv.net/en/artworks/122454985\n\nVideo design : K - Music Sweet\n\n🔊 If you find it interesting, Please Like Subscribe and Click on the notification bell 🔔 So you don't miss new videos :3\n⚡ Stream On Spotify : \n👉 Submit Demo to Intensity : \n💁 Support - Copyright : \n____________________________________\n☆ Follow - \n→ Soundcloud : \n→ Youtube :\n→ Twitter : \n\n➥ Please Share this Mix on Social sites ( Tik Tok, Facebook, Twitter, Thread etc. ) to more person could listen it !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nZPHPVqQMJU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nZPHPVqQMJU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nZPHPVqQMJU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nZPHPVqQMJU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nZPHPVqQMJU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "K - Music Sweet",
+                "tags": [
+                    "KMS",
+                    "K Sweet Music",
+                    "J-Pop",
+                    "Japan Music",
+                    "Kawaii Music",
+                    "Cute Music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Meishi  -  赤ちゃんカメが学校へ",
+                    "description": "Meishi  -  赤ちゃんカメが学校へ\n\nVocal : Meishi\nArt: https://www.pixiv.net/en/artworks/122454985\n\nVideo design : K - Music Sweet\n\n🔊 If you find it interesting, Please Like Subscribe and Click on the notification bell 🔔 So you don't miss new videos :3\n⚡ Stream On Spotify : \n👉 Submit Demo to Intensity : \n💁 Support - Copyright : \n____________________________________\n☆ Follow - \n→ Soundcloud : \n→ Youtube :\n→ Twitter : \n\n➥ Please Share this Mix on Social sites ( Tik Tok, Facebook, Twitter, Thread etc. ) to more person could listen it !"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M43S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1005",
+                "likeCount": "95",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "XIZtMeNO2CkXnfgbKXqzbwVm9Js",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "wyGN5Db5a1E_mRKM_f3AWZdF2cI",
+            "id": "5wh_pXyifWU",
+            "snippet": {
+                "publishedAt": "2024-03-10T13:50:24Z",
+                "channelId": "UC6YnTqZidFg4WUiXpiCtSSQ",
+                "title": "[Corecatis Virtual Games APEXカスタム] お嬢様とゴリラ",
+                "description": "멤버\n\n藍璃かんな（https://twitter.com/airikannaKR）\ndtto.（https://twitter.com/_dtto）\nバーチャルゴリラ（https://twitter.com/Gorilla_Virtual）",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5wh_pXyifWU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5wh_pXyifWU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5wh_pXyifWU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5wh_pXyifWU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5wh_pXyifWU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "아이리 칸나 Music Official",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "[Corecatis Virtual Games APEXカスタム] お嬢様とゴリラ",
+                    "description": "멤버\n\n藍璃かんな（https://twitter.com/airikannaKR）\ndtto.（https://twitter.com/_dtto）\nバーチャルゴリラ（https://twitter.com/Gorilla_Virtual）"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT5H47M22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "62649",
+                "likeCount": "1488",
+                "favoriteCount": "0",
+                "commentCount": "19"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

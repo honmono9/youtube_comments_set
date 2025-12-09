@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "OLKadwjLqkxwNTy_89zIzmdYBrg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "YCu0H-JTlvUjuwrIKLFZG9hS4vo",
+            "id": "fZEGpiJ2FLw",
+            "snippet": {
+                "publishedAt": "2022-11-08T16:00:11Z",
+                "channelId": "UCwdmcaOcWQ7PW8_wuaB8Cjw",
+                "title": "SEBASTIAN SPENCER X SARAH - DIRTY CRUSH (Radio Edit)",
+                "description": "Demnächst verfügbar auf Spotify & Itunes inkl. Remixes!\n\nText: Sebastian Spencer, Sarah P.\nVocals: Sarah P.\nMusic: Sebastian Spencer\n\nFolge mir:  \n\nFolge mir:  \n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Instagram:\nhttps://www.instagram.com/sebastianspencermusic/\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fZEGpiJ2FLw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fZEGpiJ2FLw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fZEGpiJ2FLw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fZEGpiJ2FLw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fZEGpiJ2FLw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sebastian Spencer Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "de",
+                "localized": {
+                    "title": "SEBASTIAN SPENCER X SARAH - DIRTY CRUSH (Radio Edit)",
+                    "description": "Demnächst verfügbar auf Spotify & Itunes inkl. Remixes!\n\nText: Sebastian Spencer, Sarah P.\nVocals: Sarah P.\nMusic: Sebastian Spencer\n\nFolge mir:  \n\nFolge mir:  \n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Instagram:\nhttps://www.instagram.com/sebastianspencermusic/\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9143",
+                "likeCount": "179",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

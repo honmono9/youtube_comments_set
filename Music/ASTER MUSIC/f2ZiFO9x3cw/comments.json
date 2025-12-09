@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "7YQAf_yQhFjgy-3La8284Z_OgiA",
+        "id": "UgzIxAiioMNjt7PGxrN4AaABAg",
+        "snippet": {
+            "channelId": "UC3fPnB3ds2xBY1PTtgkCCYw",
+            "videoId": "f2ZiFO9x3cw",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "w-dzudh9nPmyQhIUlaqxAp371rA",
+                "id": "UgzIxAiioMNjt7PGxrN4AaABAg",
+                "snippet": {
+                    "channelId": "UC3fPnB3ds2xBY1PTtgkCCYw",
+                    "videoId": "f2ZiFO9x3cw",
+                    "textDisplay": "좋아보여요",
+                    "textOriginal": "좋아보여요",
+                    "authorDisplayName": "@scarletkim93",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/e37KS36ZtugJVz3LD92W6mrHNs6upr_WqABag6kg6GzTaeTiQh0mDS5aqnaIUynxITeKSVsqKw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@scarletkim93",
+                    "authorChannelId": {
+                        "value": "UCPq-7DyQZkxqs0d1F6Lj9UA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-09T09:30:38Z",
+                    "updatedAt": "2025-12-09T09:30:38Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

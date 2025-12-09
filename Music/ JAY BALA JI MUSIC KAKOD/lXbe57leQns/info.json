@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "MvQ7u_wnS5jI057JP2_3lTqqwiI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "nGTTBPVyOrjaGdPUF16x5hlS6LQ",
+            "id": "lXbe57leQns",
+            "snippet": {
+                "publishedAt": "2025-03-08T12:05:27Z",
+                "channelId": "UC5oWa6pisfCuXtGmPWhPNMg",
+                "title": "।। श्री सांवरिया सेठ का बहुत अच्छा भजन गाया निलेश सैनी ने मधुर आवाज में",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lXbe57leQns/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lXbe57leQns/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lXbe57leQns/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lXbe57leQns/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lXbe57leQns/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": " JAY BALA JI MUSIC KAKOD.",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "hi",
+                "localized": {
+                    "title": "।। श्री सांवरिया सेठ का बहुत अच्छा भजन गाया निलेश सैनी ने मधुर आवाज में",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "contentDetails": {
+                "duration": "PT10M32S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "860",
+                "likeCount": "7",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

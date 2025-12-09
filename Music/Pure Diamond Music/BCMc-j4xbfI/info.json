@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "leiNsT2r4MAk1RBND_Vw1eiRSvc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "iaI2gDg9W6pF1K7EwW3KGiE3MXo",
+            "id": "BCMc-j4xbfI",
+            "snippet": {
+                "publishedAt": "2024-10-08T10:00:33Z",
+                "channelId": "UCATxSCJz65QdZ5GpfXnPOpQ",
+                "title": "#อ้ายมันขี้กาก #ผู้กองหน้าฮ่าน",
+                "description": "เพลงใหม่",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BCMc-j4xbfI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BCMc-j4xbfI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BCMc-j4xbfI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BCMc-j4xbfI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BCMc-j4xbfI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Pure Diamond Music",
+                "tags": [
+                    "อ้ายมันขี้กาก",
+                    "ผู้กองหน้าฮ่าน",
+                    "เพียวโปรดักชั่น",
+                    "ใส่กางเกงในขาดดาก"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "#อ้ายมันขี้กาก #ผู้กองหน้าฮ่าน",
+                    "description": "เพลงใหม่"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "17219",
+                "likeCount": "326",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "c1U7pn4KF4RkKPgGjKH_bQl_2gI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "V8_C-xRD1ldc4-VBoUN56nRumoo",
+            "id": "C_TzrvELb3k",
+            "snippet": {
+                "publishedAt": "2025-02-27T04:30:06Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "드로잉 과정 - Making Video #8",
+                "description": "뮤직 드로잉(Music Drawing)의 그림과 음악은\n아티스트 분들이 한땀한땀 직접 작업해주신 작품들입니다~!\n\n멋진 그림, 음악과 함께 편안한 시간이 되길 바랄게요! :)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C_TzrvELb3k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C_TzrvELb3k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C_TzrvELb3k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/C_TzrvELb3k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/C_TzrvELb3k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "드로잉 과정 - Making Video #8",
+                    "description": "뮤직 드로잉(Music Drawing)의 그림과 음악은\n아티스트 분들이 한땀한땀 직접 작업해주신 작품들입니다~!\n\n멋진 그림, 음악과 함께 편안한 시간이 되길 바랄게요! :)"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8M6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5369",
+                "likeCount": "229",
+                "favoriteCount": "0",
+                "commentCount": "19"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

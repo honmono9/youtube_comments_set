@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "VNGr1xGCRTV5nG5lgy4q41A35rk",
+        "id": "UgweQThgmErDGJ_qQth4AaABAg",
+        "snippet": {
+            "channelId": "UCXj1cdrw4nVpiqi3ffc-ZCw",
+            "videoId": "x6ufw21ZF2Y",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "nHYhTA5ctIG8ylIBDoUVwHmCXuY",
+                "id": "UgweQThgmErDGJ_qQth4AaABAg",
+                "snippet": {
+                    "channelId": "UCXj1cdrw4nVpiqi3ffc-ZCw",
+                    "videoId": "x6ufw21ZF2Y",
+                    "textDisplay": "Duro eso 🎉",
+                    "textOriginal": "Duro eso 🎉",
+                    "authorDisplayName": "@ImparStudio",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l01BbL5lABX-SbH32JPbtxYFTw0q_8IG6OWmxVRCh7FG4ikXjaFwgCw3dicMdaW20FGg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@ImparStudio",
+                    "authorChannelId": {
+                        "value": "UCOEP0ZqJwY9lbrFwLmLzw1w"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-10-19T23:19:29Z",
+                    "updatedAt": "2025-10-19T23:19:29Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

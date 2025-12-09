@@ -1,0 +1,100 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ZKNwz1pRwyMnIBJKqjUAuNapp2A",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Sy4CTsQ54d8Ti3TsQBNzJkJU2T0",
+            "id": "fHJMCsu2S6o",
+            "snippet": {
+                "publishedAt": "2025-11-20T08:30:24Z",
+                "channelId": "UC3q6ETGnbbeQ9F_3G04_2ug",
+                "title": "◎ Shorts KPOP의 아련함이 가득했던 에픽하이 느낌난다..❄",
+                "description": "#플레이리스트 #올데이프로젝트 #onemoretime\n구독  https://goo.gl/xVBJcD\n\n\n\n🎤영상의 포함된 광고는 유튜브에서 자동으로 삽입됩니다.\n🎤해당 채널에서 발생된 모든 수익은 100% 원저작권자에 돌아갑니다. \n      혹시 음원 사용을 원치 않으시면 꼭 댓글로 남겨주세요",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fHJMCsu2S6o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fHJMCsu2S6o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fHJMCsu2S6o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fHJMCsu2S6o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fHJMCsu2S6o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "루프탑뮤직 Rooftop Music",
+                "tags": [
+                    "올데이 프로젝트",
+                    "ALLDAY PROJECT",
+                    "ONE MORE TIME",
+                    "ONE MORE TIME (원몰타임)",
+                    "올데이 프로젝트 ONE MORE TIME",
+                    "ALLDAY PROJECT ONE MORE TIME",
+                    "올데이 프로젝트 신곡",
+                    "올데이 프로젝트 뮤비",
+                    "ALLDAY PROJECT 신곡",
+                    "ALLDAY PROJECT 뮤비",
+                    "올데이 프로젝트 ONE MORE TIME 뮤비",
+                    "ALLDAY PROJECT ONE MORE TIME 뮤비",
+                    "ONE MORE TIME 뮤비",
+                    "ONE MORE TIME Music Video",
+                    "원몰타임 뮤비",
+                    "올데이 프로젝트 원몰타임 뮤비",
+                    "ALLDAY PROJECT 원몰타임 MV",
+                    "원몰타임 MV",
+                    "올데이 프로젝트 ONE MORE TIME MV",
+                    "올데이 프로젝트 원몰타임",
+                    "올데이 프로젝트 원몰타임 MV",
+                    "올데이 프로젝트 원몰타임 Music Video",
+                    "shorts",
+                    "에픽하이 느낌",
+                    "KPOP의전성기시절",
+                    "2000년대케이팝"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "◎ Shorts KPOP의 아련함이 가득했던 에픽하이 느낌난다..❄",
+                    "description": "#플레이리스트 #올데이프로젝트 #onemoretime\n구독  https://goo.gl/xVBJcD\n\n\n\n🎤영상의 포함된 광고는 유튜브에서 자동으로 삽입됩니다.\n🎤해당 채널에서 발생된 모든 수익은 100% 원저작권자에 돌아갑니다. \n      혹시 음원 사용을 원치 않으시면 꼭 댓글로 남겨주세요"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT57S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2440",
+                "likeCount": "16",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

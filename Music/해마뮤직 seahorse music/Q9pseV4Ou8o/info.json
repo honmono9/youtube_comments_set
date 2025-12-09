@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "3uFF4AL2Z21gVqApU7i8MgH97YQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "cfOd9JFCkLdua4o2G2wnMk7jcSc",
+            "id": "Q9pseV4Ou8o",
+            "snippet": {
+                "publishedAt": "2025-12-09T09:00:44Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "We wish you a merry christmas 🎅 피아노 건반 7개로 쉽게 연주하기 🎹",
+                "description": "#피아노커버 #pianocover #피아노연주 #크리스마스 #캐롤 #carol #christmas #wewishyouamerrychristmas \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q9pseV4Ou8o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q9pseV4Ou8o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q9pseV4Ou8o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Q9pseV4Ou8o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Q9pseV4Ou8o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "piano",
+                    "피아노",
+                    "캐롤",
+                    "carol",
+                    "we wish you a merry christmas",
+                    "위 위시유어메리크리스마스"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "We wish you a merry christmas 🎅 피아노 건반 7개로 쉽게 연주하기 🎹",
+                    "description": "#피아노커버 #pianocover #피아노연주 #크리스마스 #캐롤 #carol #christmas #wewishyouamerrychristmas \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3992",
+                "likeCount": "105",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

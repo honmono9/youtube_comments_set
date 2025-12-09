@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "WEOLT-jjEEXItHj8Bv6do6yR11A",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "65LGvigRdw44F5alYo44UOIN3Xo",
+            "id": "zphLgilIyI8",
+            "snippet": {
+                "publishedAt": "2022-05-13T13:00:28Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Positive Mood Jazz - Happy Jazz Cafe and Bossa Nova Music",
+                "description": "Relaxing playlist of happy jazz cafe and bossa nova music for positive mood by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #happyjazz #bosssanova\n\nl101",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zphLgilIyI8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zphLgilIyI8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zphLgilIyI8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zphLgilIyI8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zphLgilIyI8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "tags": [
+                    "positive mood jazz",
+                    "happy jazz",
+                    "jazz cafe",
+                    "bossa nova",
+                    "jazz music",
+                    "coffee time jazz",
+                    "chill out jazz",
+                    "morning vibe jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Positive Mood Jazz - Happy Jazz Cafe and Bossa Nova Music",
+                    "description": "Relaxing playlist of happy jazz cafe and bossa nova music for positive mood by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #happyjazz #bosssanova\n\nl101"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "31569",
+                "likeCount": "275",
+                "favoriteCount": "0",
+                "commentCount": "19"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

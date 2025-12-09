@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "G_MdIy9FOV2GMg1kjzVSKjmar9g",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "zWBYM7A5Ed85vga6Jl4qPk5EfKE",
+            "id": "PDiCIPDa9QI",
+            "snippet": {
+                "publishedAt": "2025-09-09T10:30:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Cozy Rainy Jazz in 1950s New York Forest Café | Saxophone & Piano Relaxing Jazz",
+                "description": "A rainy night in 1950s New York… the café windows glow softly while the city streets shimmer under the rain.\nInside, the sound of smooth saxophone and piano jazz creates a timeless, cozy atmosphere.\n\nPerfect for late-night relaxation, studying, or simply enjoying the romance of rainy New York nights. 🎷☔🎹\n\n#jazzplaylist #jazz #jazzinstrumental #rainyjazz #nightjazz #1950sjazz #NewYorkcafé #vintagejazz #saxophonejazz #rainymusic #romanticjazz #cozyjazz #relaxingjazz #classicjazz #bossanova #bossanovajazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PDiCIPDa9QI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PDiCIPDa9QI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PDiCIPDa9QI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PDiCIPDa9QI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PDiCIPDa9QI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "rain jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "saxophone jazz",
+                    "bossa nova jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Cozy Rainy Jazz in 1950s New York Forest Café | Saxophone & Piano Relaxing Jazz",
+                    "description": "A rainy night in 1950s New York… the café windows glow softly while the city streets shimmer under the rain.\nInside, the sound of smooth saxophone and piano jazz creates a timeless, cozy atmosphere.\n\nPerfect for late-night relaxation, studying, or simply enjoying the romance of rainy New York nights. 🎷☔🎹\n\n#jazzplaylist #jazz #jazzinstrumental #rainyjazz #nightjazz #1950sjazz #NewYorkcafé #vintagejazz #saxophonejazz #rainymusic #romanticjazz #cozyjazz #relaxingjazz #classicjazz #bossanova #bossanovajazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT57M40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "776",
+                "likeCount": "25",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "2Pe0qHGBeMPQslMbuEeVFWOHXDQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "kJ-zRBEaJpTo_M_-rWcRFwl_BNI",
+            "id": "aA8_-ZS9YSk",
+            "snippet": {
+                "publishedAt": "2025-09-26T05:00:00Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Flight (SATB) | arr. Ryan Murphy",
+                "description": "Flight arranged by Ryan Murphy for SATB, piano, and optional string ensemble. \n\nFlight has long been an incredible and well-loved work by songwriter Craig Carnelia. This dynamic and empowring arrangement, now available for SATB choir, is a great choice for honor choirs, festivals, conferences, and concert performances. \n\nPurchase the music: https://giamusic.com/resource/flight-satb-printed-music-ww2098\n\nAlso available for SSA voicing: https://giamusic.com/resource/flight-ssa-print-ww1869",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aA8_-ZS9YSk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aA8_-ZS9YSk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aA8_-ZS9YSk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aA8_-ZS9YSk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aA8_-ZS9YSk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Flight (SATB) | arr. Ryan Murphy",
+                    "description": "Flight arranged by Ryan Murphy for SATB, piano, and optional string ensemble. \n\nFlight has long been an incredible and well-loved work by songwriter Craig Carnelia. This dynamic and empowring arrangement, now available for SATB choir, is a great choice for honor choirs, festivals, conferences, and concert performances. \n\nPurchase the music: https://giamusic.com/resource/flight-satb-printed-music-ww2098\n\nAlso available for SSA voicing: https://giamusic.com/resource/flight-ssa-print-ww1869"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M43S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4947",
+                "likeCount": "82",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

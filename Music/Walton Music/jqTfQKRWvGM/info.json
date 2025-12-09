@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "I1K_EPBaJLqn48NAep7rDssvL4M",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "P4-9Tyrk0SrL29AodoyjIe9yorQ",
+            "id": "jqTfQKRWvGM",
+            "snippet": {
+                "publishedAt": "2025-10-13T13:01:24Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Bailará (TB) | Dan Davison",
+                "description": "Bailará written by Dan Davison for TB, piano, guitar, and percussion. \n\n¡Bailará! is an original composition inspired by the flamenco tango style of Andalusia, Spain. Accompanied by piano, guitar, and percussion, this energetic work is an excellent choice for honor and festival choirs and for any occasion where a group wants to “bring the house down!”\n\nPurchase the music: https://giamusic.com/resource/bailara-tb-printed-music-ww2093\n\nAlso available for TTBB voicing: https://giamusic.com/resource/bailara-ttbb-printed-music-ww2092",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jqTfQKRWvGM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jqTfQKRWvGM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jqTfQKRWvGM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jqTfQKRWvGM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jqTfQKRWvGM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Bailará (TB) | Dan Davison",
+                    "description": "Bailará written by Dan Davison for TB, piano, guitar, and percussion. \n\n¡Bailará! is an original composition inspired by the flamenco tango style of Andalusia, Spain. Accompanied by piano, guitar, and percussion, this energetic work is an excellent choice for honor and festival choirs and for any occasion where a group wants to “bring the house down!”\n\nPurchase the music: https://giamusic.com/resource/bailara-tb-printed-music-ww2093\n\nAlso available for TTBB voicing: https://giamusic.com/resource/bailara-ttbb-printed-music-ww2092"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "135",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "3W7KIILAUe-BLBWipLfFusSnc4w",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "7J6jVw7fwxP8mw1Qt_QUIxhhIuk",
+            "id": "gTKLV1JOYkA",
+            "snippet": {
+                "publishedAt": "2023-03-07T09:00:31Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[INTERVIEW & BEHIND] 주은 - 처음 순간 | 꼭두의 계절 OST Part.5 (ENG/JPN)",
+                "description": "주은 - 처음 순간 | 꼭두의 계절 OST Part.5\n\n✨주은 - 처음 순간✨  \n\n#꼭두의계절OST #주은 #처음순간\n#아에르뮤직 #AERMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gTKLV1JOYkA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gTKLV1JOYkA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gTKLV1JOYkA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gTKLV1JOYkA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gTKLV1JOYkA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[INTERVIEW & BEHIND] 주은 - 처음 순간 | 꼭두의 계절 OST Part.5 (ENG/JPN)",
+                    "description": "주은 - 처음 순간 | 꼭두의 계절 OST Part.5\n\n✨주은 - 처음 순간✨  \n\n#꼭두의계절OST #주은 #처음순간\n#아에르뮤직 #AERMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M39S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2636",
+                "likeCount": "219",
+                "favoriteCount": "0",
+                "commentCount": "27"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

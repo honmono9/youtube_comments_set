@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "FbzzmxESXzCAEQF2sj8UoSvWD2I",
+        "id": "Ugw7JD7UpepylP07SI14AaABAg",
+        "snippet": {
+            "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+            "videoId": "InVOcFkmTOc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Ywt0i0_T4hy7Az0lMX1CssqHlO8",
+                "id": "Ugw7JD7UpepylP07SI14AaABAg",
+                "snippet": {
+                    "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                    "videoId": "InVOcFkmTOc",
+                    "textDisplay": "ชอบใจ🎉",
+                    "textOriginal": "ชอบใจ🎉",
+                    "authorDisplayName": "@user-Ahiru-01",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/bxn6uGryByeJ6dGT4KzUDVVEze_GzzURfi-0gnFrTl7Gh6UU_31ygClnDtHJBQ1ODDqLjjhvYg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@user-Ahiru-01",
+                    "authorChannelId": {
+                        "value": "UCnLo5xXBoq_I5oy-h6PIutQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-09-12T15:27:29Z",
+                    "updatedAt": "2025-09-12T15:27:29Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

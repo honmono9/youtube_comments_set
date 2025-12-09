@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Wm9_62gz37gFAonz95k1rPLzXH8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "eRe-UjE9UXYGGP11Cndz5xK9Cew",
+            "id": "BF8O0JA-tOg",
+            "snippet": {
+                "publishedAt": "2025-09-30T09:12:41Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Autumn Jazz Cafe 🔴 Live Vol. 12  | Calm Piano trio Afternoon  Jazz for Relaxing",
+                "description": "Enjoy a warm autumn night with smooth vintage saxophone jazz. \nStreaming live from a nostalgic atmosphere filled with vinyl records, glowing tube amps, and cozy café vibes. \nPerfect for relaxing, studying, working, or simply enjoying a peaceful evening. \nLet the timeless sound of the saxophone guide you through the night. \nStay tuned and enjoy the music live tonight. \n\n#livejazz #saxophonejazz #jazz #vintagejazz #jazzmusic #autumnjazz #relaxingjazz\n#smoothjazz #nostalgicjazz #nightjazz #caféjazz #ambience #jazzlivestream #studyjazz #backgroundjazz #chilljazz #cozyautumnjazz #saxophonemusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BF8O0JA-tOg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BF8O0JA-tOg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BF8O0JA-tOg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BF8O0JA-tOg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BF8O0JA-tOg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "jazz live",
+                    "jazz music",
+                    "jazz song",
+                    "female vocal jazz",
+                    "timeless jazz",
+                    "piano jazz",
+                    "jazz instrumental",
+                    "autumn jazz",
+                    "cafe jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Autumn Jazz Cafe 🔴 Live Vol. 12  | Calm Piano trio Afternoon  Jazz for Relaxing",
+                    "description": "Enjoy a warm autumn night with smooth vintage saxophone jazz. \nStreaming live from a nostalgic atmosphere filled with vinyl records, glowing tube amps, and cozy café vibes. \nPerfect for relaxing, studying, working, or simply enjoying a peaceful evening. \nLet the timeless sound of the saxophone guide you through the night. \nStay tuned and enjoy the music live tonight. \n\n#livejazz #saxophonejazz #jazz #vintagejazz #jazzmusic #autumnjazz #relaxingjazz\n#smoothjazz #nostalgicjazz #nightjazz #caféjazz #ambience #jazzlivestream #studyjazz #backgroundjazz #chilljazz #cozyautumnjazz #saxophonemusic"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT7H11M4S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "554",
+                "likeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

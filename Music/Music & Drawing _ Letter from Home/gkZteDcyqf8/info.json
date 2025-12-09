@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "6kgAgHTd-ht3fmcwTXe-YV62F-4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "6kVk13HwTWyn4ojm9ev72zoZ_H4",
+            "id": "gkZteDcyqf8",
+            "snippet": {
+                "publishedAt": "2025-08-29T22:30:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Smooth Saxophone Jazz at a 1950s NYC Jazz Club | Vintage Oldies Jazz",
+                "description": "Step back into 1950s New York, where the glow of a jazz bar and the smooth sound of the saxophone fill the night. 🎷✨\nThis playlist blends romantic saxophone melodies with the timeless charm of vintage jazz, perfect for relaxing evenings, study sessions, coffee time, or late-night inspiration.\n\nLet the warm saxophone tones transport you to an era of elegance, love, and unforgettable jazz romance. 🥂\n\n#jazz #saxophonejazz #smoothjazzplaylist #romanticjazz #vintageoldies #jazzmusic  #jazzinstrumental #NYCjazznights #backgroundjazz #jazzforrelaxing #classicjazz #instrumentalmusic #nightjazz #nightmusic #saxophonemusic #relaxnightjazz #relaxingjazz #vintagemusic #vintagejazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gkZteDcyqf8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gkZteDcyqf8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gkZteDcyqf8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gkZteDcyqf8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gkZteDcyqf8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "guitar jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "saxophone jazz",
+                    "jazz club",
+                    "jazz bar"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Smooth Saxophone Jazz at a 1950s NYC Jazz Club | Vintage Oldies Jazz",
+                    "description": "Step back into 1950s New York, where the glow of a jazz bar and the smooth sound of the saxophone fill the night. 🎷✨\nThis playlist blends romantic saxophone melodies with the timeless charm of vintage jazz, perfect for relaxing evenings, study sessions, coffee time, or late-night inspiration.\n\nLet the warm saxophone tones transport you to an era of elegance, love, and unforgettable jazz romance. 🥂\n\n#jazz #saxophonejazz #smoothjazzplaylist #romanticjazz #vintageoldies #jazzmusic  #jazzinstrumental #NYCjazznights #backgroundjazz #jazzforrelaxing #classicjazz #instrumentalmusic #nightjazz #nightmusic #saxophonemusic #relaxnightjazz #relaxingjazz #vintagemusic #vintagejazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H24S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2873",
+                "likeCount": "65",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

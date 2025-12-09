@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "GuqXYhqSgy104O7vmHcA5I62ojA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "E-5ayPScPLwvUzQEfeJr1d2JOEs",
+            "id": "9sgM9ilouCc",
+            "snippet": {
+                "publishedAt": "2021-02-27T18:41:55Z",
+                "channelId": "UCquS6S5yOGk2j5YS6WHj6eA",
+                "title": "임재범 - 너를 위해 / Lim Jae Bum - For You (K-POP Cover by SIEG)",
+                "description": "Siegfried Song Facebook : http://www.facebook.com/SiegfriedSongOfficial\nSymmetric Chaos Facebook : http://www.facebook.com/SymmetricChaos\n\nAbandoned Project 06\n임재범 - 너를 위해 (Covered in 2011)\n\nWhen the contest program \"I am a singer\" became very popular in Korea, the song was sung by the legendary Korean rocker Jaebum Lim for the contest. At the time, there were many requests from people around me to sing this song. In fact, I got used to the songs from an early age, so I tested it and recorded it right away. Many people expected his style, so I imitated his song, but I wasn't very satisfied.\n\nNot only imitating the song, but because I didn't get my hair cut to save money during my vacation, and the hair style was so messy that I was too embarrassed to show it to someone.\n\nAlmost 10 years later I release this song to my fans. I hope they like it.\n\nIf you like this song, please visit my facebook page.\nThank you.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9sgM9ilouCc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9sgM9ilouCc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9sgM9ilouCc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9sgM9ilouCc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9sgM9ilouCc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Siegfried Song",
+                "tags": [
+                    "siegfried",
+                    "song",
+                    "너를",
+                    "위해",
+                    "임재범",
+                    "for",
+                    "you",
+                    "sieg",
+                    "siegfriedsong",
+                    "siegsong",
+                    "xieg"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "임재범 - 너를 위해 / Lim Jae Bum - For You (K-POP Cover by SIEG)",
+                    "description": "Siegfried Song Facebook : http://www.facebook.com/SiegfriedSongOfficial\nSymmetric Chaos Facebook : http://www.facebook.com/SymmetricChaos\n\nAbandoned Project 06\n임재범 - 너를 위해 (Covered in 2011)\n\nWhen the contest program \"I am a singer\" became very popular in Korea, the song was sung by the legendary Korean rocker Jaebum Lim for the contest. At the time, there were many requests from people around me to sing this song. In fact, I got used to the songs from an early age, so I tested it and recorded it right away. Many people expected his style, so I imitated his song, but I wasn't very satisfied.\n\nNot only imitating the song, but because I didn't get my hair cut to save money during my vacation, and the hair style was so messy that I was too embarrassed to show it to someone.\n\nAlmost 10 years later I release this song to my fans. I hope they like it.\n\nIf you like this song, please visit my facebook page.\nThank you."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M5S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "8610",
+                "likeCount": "263",
+                "favoriteCount": "0",
+                "commentCount": "216"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

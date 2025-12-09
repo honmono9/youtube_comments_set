@@ -1,0 +1,103 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "eLQWIq4ZSVCXEL0LMf1IZwTGQ2E",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "sIDbP-hwQz837CFY4H-cD6Tnfsc",
+            "id": "-lRmQ4zzmrI",
+            "snippet": {
+                "publishedAt": "2025-03-03T03:15:00Z",
+                "channelId": "UClbjf4pXBzXVk3ImyeBa__w",
+                "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 학교 딱 대, 부수러 간다",
+                "description": "0:00 Imagine Dragons - Believer\n0:00 Imagine Dragons - Believer\n\n03:21 X Ambassadors - HEY CHILD\n03:21 X Ambassadors - HEY CHILD\n\n6:50 Imagine Dragons - Lonely\n6:50 Imagine Dragons - Lonely\n\n9:26 Royal Deluxe - Obsessed\n9:26 Royal Deluxe - Obsessed\n\n11:33 Panic! At The Disco - Say Amen (Saturday Night)\n11:33 Panic! At The Disco - Say Amen (Saturday Night)\n\n14:40 Imagine Dragons - Sharks\n14:40 Imagine Dragons - Sharks\n\n17:47 Rina Sawayama - Eye For An Eye\n17:47 Rina Sawayama - Eye For An Eye\n\n20:50 Panic! At The Disco - Emperor's New Clothes\n20:50 Panic! At The Disco - Emperor's New Clothes\n\n23:28 Imagine Dragons - I'm So Sorry\n23:28 Imagine Dragons - I'm So Sorry\n\n27:14 Adam Jensen - That Man He's a Monster\n27:14 Adam Jensen - That Man He's a Monster\n\n30:40 Imagine Dragons - Warriors\n30:40 Imagine Dragons - Warriors",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-lRmQ4zzmrI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-lRmQ4zzmrI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-lRmQ4zzmrI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-lRmQ4zzmrI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-lRmQ4zzmrI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뮤플비 Music Plus Movie",
+                "tags": [
+                    "팝송",
+                    "영화",
+                    "팝송가사해석",
+                    "가사해석",
+                    "플레이리스트",
+                    "운동플리",
+                    "공부플리",
+                    "등굣길",
+                    "등굣길플리",
+                    "학교플리",
+                    "새학기",
+                    "새학교",
+                    "새직장",
+                    "새학기플리",
+                    "운동할때듣는팝송",
+                    "팝송플리",
+                    "신난즌팝송",
+                    "신나는플리",
+                    "웅장한플리",
+                    "게임플리",
+                    "게임할때듣는노래",
+                    "승급전플레이리스트",
+                    "존윅플리"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 학교 딱 대, 부수러 간다",
+                    "description": "0:00 Imagine Dragons - Believer\n0:00 Imagine Dragons - Believer\n\n03:21 X Ambassadors - HEY CHILD\n03:21 X Ambassadors - HEY CHILD\n\n6:50 Imagine Dragons - Lonely\n6:50 Imagine Dragons - Lonely\n\n9:26 Royal Deluxe - Obsessed\n9:26 Royal Deluxe - Obsessed\n\n11:33 Panic! At The Disco - Say Amen (Saturday Night)\n11:33 Panic! At The Disco - Say Amen (Saturday Night)\n\n14:40 Imagine Dragons - Sharks\n14:40 Imagine Dragons - Sharks\n\n17:47 Rina Sawayama - Eye For An Eye\n17:47 Rina Sawayama - Eye For An Eye\n\n20:50 Panic! At The Disco - Emperor's New Clothes\n20:50 Panic! At The Disco - Emperor's New Clothes\n\n23:28 Imagine Dragons - I'm So Sorry\n23:28 Imagine Dragons - I'm So Sorry\n\n27:14 Adam Jensen - That Man He's a Monster\n27:14 Adam Jensen - That Man He's a Monster\n\n30:40 Imagine Dragons - Warriors\n30:40 Imagine Dragons - Warriors"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT33M30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6678",
+                "likeCount": "192",
+                "favoriteCount": "0",
+                "commentCount": "23"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

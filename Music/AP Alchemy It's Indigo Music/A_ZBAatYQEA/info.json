@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "hDiZxox6cdvtS7sYscSTaOcOQr4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "qs8jz7I6rHYRkkC7QmuVgpzq__Q",
+            "id": "A_ZBAatYQEA",
+            "snippet": {
+                "publishedAt": "2023-08-28T09:00:11Z",
+                "channelId": "UCE4IM82TdhmOl4Qtn8nsaGQ",
+                "title": "NO:EL 'TRIPONOEL' Documentary film",
+                "description": "#NOEL #TRIPONOEL\n#Documentary\n_______________________________________________\n\nFilm by Geonwoo Jang, youjunglan, coreanshorthair, Yeseul kim\nEdit by Seungwon Baek, Juwon Ha\n\n_______________________________________________\n\n[ Official Channels ]\n\nNO:EL  ㅣ  https://www.instagram.com/noel____________/\n\n(C) 2023 AP Alchemy, Indigo Music Corp.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A_ZBAatYQEA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A_ZBAatYQEA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A_ZBAatYQEA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/A_ZBAatYQEA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/A_ZBAatYQEA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AP Alchemy It's Indigo Music",
+                "tags": [
+                    "NOEL",
+                    "노엘",
+                    "TRIPONOEL",
+                    "Documentary",
+                    "다큐멘터리",
+                    "indigomusic",
+                    "인디고뮤직",
+                    "ap alchemy",
+                    "에이피알케미"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "NO:EL 'TRIPONOEL' Documentary film",
+                    "description": "#NOEL #TRIPONOEL\n#Documentary\n_______________________________________________\n\nFilm by Geonwoo Jang, youjunglan, coreanshorthair, Yeseul kim\nEdit by Seungwon Baek, Juwon Ha\n\n_______________________________________________\n\n[ Official Channels ]\n\nNO:EL  ㅣ  https://www.instagram.com/noel____________/\n\n(C) 2023 AP Alchemy, Indigo Music Corp."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT13M53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "19499",
+                "likeCount": "677",
+                "favoriteCount": "0",
+                "commentCount": "90"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

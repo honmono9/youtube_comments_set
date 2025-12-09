@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "PEWg7a8pNPvxpt22i-sTfhp3SNU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Lbpe_vi15fi4OI11S0XnLP-cmbY",
+            "id": "XtvgHaDf8Cw",
+            "snippet": {
+                "publishedAt": "2021-10-19T11:10:07Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "찬 공기와 흑백 무드가 흐르는 감성 r&b 팝",
+                "description": "- Photo by Darius Bashar\n\n- 관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd-BCUi1Cn9sQ_cdR2QPLGZu\n\n편안한 저녁시간 되세요.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XtvgHaDf8Cw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XtvgHaDf8Cw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XtvgHaDf8Cw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XtvgHaDf8Cw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XtvgHaDf8Cw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "잔잔한 팝송",
+                    "밤에 듣는 노래",
+                    "가을 팝송",
+                    "r&b",
+                    "팝송",
+                    "새벽 노래",
+                    "best r&b",
+                    "playlist",
+                    "song",
+                    "감성 팝송",
+                    "새벽 감성",
+                    "몽환 노래",
+                    "chill r&b",
+                    "플리"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "찬 공기와 흑백 무드가 흐르는 감성 r&b 팝",
+                    "description": "- Photo by Darius Bashar\n\n- 관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd-BCUi1Cn9sQ_cdR2QPLGZu\n\n편안한 저녁시간 되세요."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT25M21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "33748",
+                "likeCount": "1046",
+                "favoriteCount": "0",
+                "commentCount": "96"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

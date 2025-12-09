@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "paIUK6Yuq5nxaLkaHKpFbSw6jIg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ncUt9x8XzhZwtJ8fIuz_Bg78YNY",
+            "id": "tTAIe49lu0k",
+            "snippet": {
+                "publishedAt": "2022-07-26T09:00:32Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "ASTRO (아스트로) – ‘U&Iverse’ Official Music Video",
+                "description": "UNIVERSE MUSIC - ASTRO (아스트로)  ‘U&Iverse’\n🔗https://smek.lnk.to/ASTRO_UNIverse \n\n#UNIVERSE #ASTRO #UNIverse\n#유니버스 #아스트로 #ASTRO_UNIverse\n#UNIVERSE_MUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tTAIe49lu0k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tTAIe49lu0k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tTAIe49lu0k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tTAIe49lu0k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tTAIe49lu0k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "ASTRO (아스트로) – ‘U&Iverse’ Official Music Video",
+                    "description": "UNIVERSE MUSIC - ASTRO (아스트로)  ‘U&Iverse’\n🔗https://smek.lnk.to/ASTRO_UNIverse \n\n#UNIVERSE #ASTRO #UNIverse\n#유니버스 #아스트로 #ASTRO_UNIverse\n#UNIVERSE_MUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "340973",
+                "likeCount": "14149",
+                "favoriteCount": "0",
+                "commentCount": "669"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

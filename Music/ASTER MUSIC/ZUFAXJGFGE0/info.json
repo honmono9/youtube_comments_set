@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "1ZPwor3rcBUuhNl6jhkTmO84ZZc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "2cpuPz4fpF5iriUFKUDmO7E-d5o",
+            "id": "ZUFAXJGFGE0",
+            "snippet": {
+                "publishedAt": "2025-10-21T10:33:28Z",
+                "channelId": "UC3fPnB3ds2xBY1PTtgkCCYw",
+                "title": "올데프 긴장해..각잡고 돌아온 석쇠맛 케이팝 햄부기🍔",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZUFAXJGFGE0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZUFAXJGFGE0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZUFAXJGFGE0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZUFAXJGFGE0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZUFAXJGFGE0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ASTER MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "올데프 긴장해..각잡고 돌아온 석쇠맛 케이팝 햄부기🍔",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "43692",
+                "likeCount": "348",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

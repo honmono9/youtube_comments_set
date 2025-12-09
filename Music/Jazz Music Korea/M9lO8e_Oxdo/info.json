@@ -1,0 +1,108 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "-EqQrsvQygDxA3DdLGaFllzVGlA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "E25OpIEC1zPo6AawH-iCYlBibuo",
+            "id": "M9lO8e_Oxdo",
+            "snippet": {
+                "publishedAt": "2024-05-25T07:49:14Z",
+                "channelId": "UCsfYd7AVFk_ASiMudok6_sQ",
+                "title": "Live at the GROUND220  - Four Brothers",
+                "description": "엘지전자에서 만든 아름다운공간 \n그라운드220에서 연주한 Four Brothers 입니다 즐겁게 감상해주세요!\n\n\n바이올린 유호정\n플룻 신진섭\n색소폰 한호승\n색소폰 정우호\n피아노 이석원\n베이스 최준혁\n드럼 정성재\n\n협업문의 -  chjh1234@gmail.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M9lO8e_Oxdo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M9lO8e_Oxdo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M9lO8e_Oxdo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/M9lO8e_Oxdo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/M9lO8e_Oxdo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jazz Music Korea",
+                "tags": [
+                    "재즈",
+                    "재즈밴드",
+                    "재즈공연",
+                    "재즈밴드굿펠리스",
+                    "굿펠리스",
+                    "재즈밴드섭외",
+                    "재즈음악",
+                    "재즈뮤직코리아",
+                    "공연",
+                    "공연섭외",
+                    "재즈베이스",
+                    "콘트라베이스",
+                    "콘트라베이스최준혁",
+                    "재즈베이스최준혁",
+                    "워킹베이스",
+                    "jazz",
+                    "jazzband",
+                    "jazzmusic",
+                    "jazzmusickorea",
+                    "goodfellis",
+                    "uprightbass",
+                    "jazzbass",
+                    "choijunhyuk",
+                    "비브라폰",
+                    "livejazz",
+                    "jazzbandgoodfellis",
+                    "autumn leaves",
+                    "버스킹",
+                    "어텀리브스",
+                    "즉흥연주",
+                    "피렌체",
+                    "여행",
+                    "이태리",
+                    "italy"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Live at the GROUND220  - Four Brothers",
+                    "description": "엘지전자에서 만든 아름다운공간 \n그라운드220에서 연주한 Four Brothers 입니다 즐겁게 감상해주세요!\n\n\n바이올린 유호정\n플룻 신진섭\n색소폰 한호승\n색소폰 정우호\n피아노 이석원\n베이스 최준혁\n드럼 정성재\n\n협업문의 -  chjh1234@gmail.com."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT5M11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1810",
+                "likeCount": "63",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

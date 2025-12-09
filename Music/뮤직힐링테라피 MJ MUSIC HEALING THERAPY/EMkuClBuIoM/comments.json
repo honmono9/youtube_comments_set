@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "BM_AdaaTnQTl6JRqn9OYM1RlsK4",
+        "id": "Ugyamu7vZvkj3Qme4NB4AaABAg",
+        "snippet": {
+            "channelId": "UCFenHjfqkwDFalw73fHvjww",
+            "videoId": "EMkuClBuIoM",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "yUFqYgLKvW9asqh8py-gtL__sgk",
+                "id": "Ugyamu7vZvkj3Qme4NB4AaABAg",
+                "snippet": {
+                    "channelId": "UCFenHjfqkwDFalw73fHvjww",
+                    "videoId": "EMkuClBuIoM",
+                    "textDisplay": "안녕하세요. 작곡가 MJ입니다.\n빛나지 않는 날에도, 당신은 여전히 소중한 사람입니다.\n당신의 존재 자체가 이미 빛나는 보석이에요.\n잠시 잊고 있었던 당신의 가치를 이 영상이 떠올려주길 바랍니다.",
+                    "textOriginal": "안녕하세요. 작곡가 MJ입니다.\n빛나지 않는 날에도, 당신은 여전히 소중한 사람입니다.\n당신의 존재 자체가 이미 빛나는 보석이에요.\n잠시 잊고 있었던 당신의 가치를 이 영상이 떠올려주길 바랍니다.",
+                    "authorDisplayName": "@therapymusic-pr8vg",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/GyKAwTEKIvpCTBHKYpyY2dOmSppcD3tYqRcbvGBCpLVh35LzNES8NiQ1H_gZCHpu7jBwITktSA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@therapymusic-pr8vg",
+                    "authorChannelId": {
+                        "value": "UCFenHjfqkwDFalw73fHvjww"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 3,
+                    "publishedAt": "2025-09-01T14:10:16Z",
+                    "updatedAt": "2025-09-01T14:10:16Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "k0vZgRsfgZzSo3-ETF8SDcYxx4I",
+        "id": "UgxQWS6y4LtFv9qWIWt4AaABAg",
+        "snippet": {
+            "channelId": "UCFenHjfqkwDFalw73fHvjww",
+            "videoId": "EMkuClBuIoM",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "vXNqqaSVYlm5YL4x1Hu2jarfiWQ",
+                "id": "UgxQWS6y4LtFv9qWIWt4AaABAg",
+                "snippet": {
+                    "channelId": "UCFenHjfqkwDFalw73fHvjww",
+                    "videoId": "EMkuClBuIoM",
+                    "textDisplay": "🌹🫶👏👏👏krásně Mj",
+                    "textOriginal": "🌹🫶👏👏👏krásně Mj",
+                    "authorDisplayName": "@sonacapkova",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/nSPuYGvfMc6YkG4ESRfDZnLwy1Pj3DMHNebRR4k-Gvvx4Q9AysAMNoNhfbdQatqEN0u-bpKoAg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@sonacapkova",
+                    "authorChannelId": {
+                        "value": "UCpl89mXN5HKnG4I66oHyyvg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 3,
+                    "publishedAt": "2025-09-03T10:08:59Z",
+                    "updatedAt": "2025-09-03T10:08:59Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

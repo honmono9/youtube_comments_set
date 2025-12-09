@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "5bQzWFcFIYqgLQmUuS_GwvpOQFk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "o2-Nz6zsoDQIEva1lomOKkBTBoE",
+            "id": "2xODBqNpn5o",
+            "snippet": {
+                "publishedAt": "2025-11-05T22:13:44Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Bush - Glycerine | Soul AI Cover",
+                "description": "Glycerine by Bush twisted into Soul Music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nIt must be your skin, I'm sinking in\nIt must be for real, 'cause now I can feel\nAnd I didn't mind, It's not my kind\nIt's not my time to wonder why\nEverything gone white, everything's grey\nNow you're here, now you're away\nI don't want this, remember that\nI'll never forget where you're at\n\nDon't let the days go by\nGlycerine, glycerine\n\nI'm never alone, I'm alone all the time\nAre you at one? Or do you lie?\nWe live in a wheel where everyone steals\nBut when we rise, it's like strawberry fields\nI treated you bad, you bruise my face\nCouldn't love you more, you've got a beautiful taste\n\nDon't let the days go by\nCould've been easier on you\nI couldn't change though I wanted to\nIt should have been easier by three\nOur old friend fear and you and me\nGlycerine, glycerine\nDon't let the days go by\nGlycerine\nDon't let the days go by\nGlycerine, glycerine\nGlycerine, glycerine\n\nBad moon white again\nBad moon white again\nAs she falls around me\n\nI needed you more, you wanted us less\nI could not kiss, just regress\nIt might just be clear, simple and plain\nWell that's just fine, that's just one of my names\n\nDon't let the days go by\nCould've been easier on you, you, you\nGlycerine, glycerine\nGlycerine, glycerine",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2xODBqNpn5o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2xODBqNpn5o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2xODBqNpn5o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2xODBqNpn5o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2xODBqNpn5o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Bush - Glycerine | Soul AI Cover",
+                    "description": "Glycerine by Bush twisted into Soul Music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nIt must be your skin, I'm sinking in\nIt must be for real, 'cause now I can feel\nAnd I didn't mind, It's not my kind\nIt's not my time to wonder why\nEverything gone white, everything's grey\nNow you're here, now you're away\nI don't want this, remember that\nI'll never forget where you're at\n\nDon't let the days go by\nGlycerine, glycerine\n\nI'm never alone, I'm alone all the time\nAre you at one? Or do you lie?\nWe live in a wheel where everyone steals\nBut when we rise, it's like strawberry fields\nI treated you bad, you bruise my face\nCouldn't love you more, you've got a beautiful taste\n\nDon't let the days go by\nCould've been easier on you\nI couldn't change though I wanted to\nIt should have been easier by three\nOur old friend fear and you and me\nGlycerine, glycerine\nDon't let the days go by\nGlycerine\nDon't let the days go by\nGlycerine, glycerine\nGlycerine, glycerine\n\nBad moon white again\nBad moon white again\nAs she falls around me\n\nI needed you more, you wanted us less\nI could not kiss, just regress\nIt might just be clear, simple and plain\nWell that's just fine, that's just one of my names\n\nDon't let the days go by\nCould've been easier on you, you, you\nGlycerine, glycerine\nGlycerine, glycerine"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "590",
+                "likeCount": "24",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

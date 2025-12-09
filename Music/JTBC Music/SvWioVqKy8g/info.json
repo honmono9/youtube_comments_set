@@ -1,0 +1,97 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "1hhWrY6cQ2u2S1YpZn1wOShuvEQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "zSR1UyWufjw_5gExlV9b_roX02s",
+            "id": "SvWioVqKy8g",
+            "snippet": {
+                "publishedAt": "2025-12-08T04:36:21Z",
+                "channelId": "UCEbRSmzD8xASRlYq2OLmCrg",
+                "title": "[9회/1차 선공개] 본캐로 흑화한 80호😮 & 돌발 상황 속 록스타 모드 ON 65호🎸 | 〈싱어게인4〉 12/9(화) 밤 10시 30분!",
+                "description": "[9회/1차 선공개] 본캐로 흑화한 80호😮 & 돌발 상황 속 록스타 모드 ON 65호🎸\n#싱어게인4 #싱어게인4선공개\n\n〈싱어게인4〉 12월 9일 화요일 밤 10시 30분 방송!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SvWioVqKy8g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SvWioVqKy8g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SvWioVqKy8g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SvWioVqKy8g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SvWioVqKy8g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JTBC Music",
+                "tags": [
+                    "싱어게인4",
+                    "무명가수전",
+                    "싱어게인4선공개",
+                    "싱어게인4_9회선공개",
+                    "심사위원",
+                    "태연",
+                    "코쿤",
+                    "규현",
+                    "해리",
+                    "이승기",
+                    "임재범",
+                    "김이나",
+                    "백지영",
+                    "윤종신",
+                    "싱어게인탑텐",
+                    "싱어게인TOP1",
+                    "결정전",
+                    "TOP10결정전",
+                    "80호가수",
+                    "65호가수",
+                    "JTBC음악예능",
+                    "무명가수",
+                    "가수"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[9회/1차 선공개] 본캐로 흑화한 80호😮 & 돌발 상황 속 록스타 모드 ON 65호🎸 | 〈싱어게인4〉 12/9(화) 밤 10시 30분!",
+                    "description": "[9회/1차 선공개] 본캐로 흑화한 80호😮 & 돌발 상황 속 록스타 모드 ON 65호🎸\n#싱어게인4 #싱어게인4선공개\n\n〈싱어게인4〉 12월 9일 화요일 밤 10시 30분 방송!"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M43S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "128288",
+                "likeCount": "1259",
+                "favoriteCount": "0",
+                "commentCount": "298"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

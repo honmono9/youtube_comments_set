@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "wj38wW-hK-OyNV16SwDlwnaO160",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "SbvYWVmM180kZWhcV9Xt7D2GZBg",
+            "id": "nVQ4UjMX7o0",
+            "snippet": {
+                "publishedAt": "2025-09-25T09:01:25Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "라바 챌린지 🐛 피아노 건반 3개로 쉽게 연주하기 🎹",
+                "description": "#라바챌린지 #lava #challenge \n#피아노커버 #pianocover #피아노연주 \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nVQ4UjMX7o0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nVQ4UjMX7o0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nVQ4UjMX7o0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nVQ4UjMX7o0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nVQ4UjMX7o0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "라바챌린지",
+                    "라바",
+                    "챌린지",
+                    "challenge",
+                    "피아노",
+                    "연주"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "라바 챌린지 🐛 피아노 건반 3개로 쉽게 연주하기 🎹",
+                    "description": "#라바챌린지 #lava #challenge \n#피아노커버 #pianocover #피아노연주 \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "16050",
+                "likeCount": "89",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

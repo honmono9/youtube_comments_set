@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "fW2t2qy1I5_5501Go2KPqMJkqtM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "xN7W4j3gxr9vo0fFPOgjJRBXezs",
+            "id": "1ojCP9c1lHc",
+            "snippet": {
+                "publishedAt": "2025-10-28T09:00:04Z",
+                "channelId": "UC6TJkBRLMFJ-9c7pXehoZwg",
+                "title": "BIG Naughty (서동현) '딱 1년만 (Feat. 10CM)'",
+                "description": "딱 1년만 ⏳💭\n\nBIG Naughty (서동현) '딱 1년만 (Feat. 10CM)' is out! \nListen and download on your favorite platform : http://lnk.to/Justoneyear\n\nMore Information Here:\n\n@BIG Naughty\nInstagram: https://www.instagram.com/bignaughtyboi/\nTwitter: https://twitter.com/bignaughtyman \n\n@H1GHRMUSIC\nInstagram: https://www.instagram.com/h1ghrmusic\nFacebook: https://www.facebook.com/H1GHRMUSICOFFICIAL",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1ojCP9c1lHc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1ojCP9c1lHc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1ojCP9c1lHc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1ojCP9c1lHc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1ojCP9c1lHc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "H1GHR MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "BIG Naughty (서동현) '딱 1년만 (Feat. 10CM)'",
+                    "description": "딱 1년만 ⏳💭\n\nBIG Naughty (서동현) '딱 1년만 (Feat. 10CM)' is out! \nListen and download on your favorite platform : http://lnk.to/Justoneyear\n\nMore Information Here:\n\n@BIG Naughty\nInstagram: https://www.instagram.com/bignaughtyboi/\nTwitter: https://twitter.com/bignaughtyman \n\n@H1GHRMUSIC\nInstagram: https://www.instagram.com/h1ghrmusic\nFacebook: https://www.facebook.com/H1GHRMUSICOFFICIAL"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT55S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "16784",
+                "likeCount": "735",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "N5WoC7VSwFGKvky0NqKRmKxZ5Ks",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "vFa5MDw1iRnxRZS-4Pv-snEa_xw",
+            "id": "0oEgJ33qTKw",
+            "snippet": {
+                "publishedAt": "2025-11-07T09:52:23Z",
+                "channelId": "UCLh2cJvOdqow-6ADuQVdy_w",
+                "title": "Beutifull love story vidio !!  sambalpuri  Ntr Pradyum Dev bibhar // pinky #familydrama",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0oEgJ33qTKw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0oEgJ33qTKw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0oEgJ33qTKw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0oEgJ33qTKw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0oEgJ33qTKw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sambalpuri Tadkaa music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Beutifull love story vidio !!  sambalpuri  Ntr Pradyum Dev bibhar // pinky #familydrama",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "or"
+            },
+            "contentDetails": {
+                "duration": "PT1M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "446",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "QKVK7gwbUnWEUUAjdmcHpRViP_I",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "p7cRFf6Xq_48FGqnPN384JmDyE4",
+            "id": "ypwfxLWBy7I",
+            "snippet": {
+                "publishedAt": "2013-12-23T03:00:26Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "스윙스 (Swings) 'For Mother (feat. Crucial Star) OFFICIAL TEASER",
+                "description": "스윙스 (Swings) 'For Mother (feat. Crucial Star) OFFICIAL TEASER\n\n스윙스 'For Mother' 2013.12.27 RELEASE \n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ypwfxLWBy7I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ypwfxLWBy7I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ypwfxLWBy7I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ypwfxLWBy7I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ypwfxLWBy7I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "tags": [
+                    "swings",
+                    "for mother",
+                    "crucial star",
+                    "스윙스",
+                    "포마더",
+                    "크루셜스타"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "스윙스 (Swings) 'For Mother (feat. Crucial Star) OFFICIAL TEASER",
+                    "description": "스윙스 (Swings) 'For Mother (feat. Crucial Star) OFFICIAL TEASER\n\n스윙스 'For Mother' 2013.12.27 RELEASE \n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M4S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "12701",
+                "likeCount": "254",
+                "favoriteCount": "0",
+                "commentCount": "11"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

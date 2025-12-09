@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ELQWakQS2wBXUCU_pwDzr9HV0mI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "c89uOxArxiIwgXrR1fydsy8yXqk",
+            "id": "JHiB8xZZGGE",
+            "snippet": {
+                "publishedAt": "2022-01-11T11:45:37Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "미래에서 온 플레이리스트",
+                "description": "photo by elia pellegrini\n\n관련 재생목록:\nhttps://youtube.com/playlist?list=PLQGOsOnYSzd_2l0QhD9OvabZKgf87XZER",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JHiB8xZZGGE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JHiB8xZZGGE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JHiB8xZZGGE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JHiB8xZZGGE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JHiB8xZZGGE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "새벽 팝송",
+                    "팝송 모음",
+                    "팝송 추천",
+                    "playlist",
+                    "팝송 플리",
+                    "플리",
+                    "future pop",
+                    "pop songs",
+                    "플레이리스트"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "미래에서 온 플레이리스트",
+                    "description": "photo by elia pellegrini\n\n관련 재생목록:\nhttps://youtube.com/playlist?list=PLQGOsOnYSzd_2l0QhD9OvabZKgf87XZER"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT25M48S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "22771",
+                "likeCount": "584",
+                "favoriteCount": "0",
+                "commentCount": "47"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

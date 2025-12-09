@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Yu19uVz3KMLcxCuqWsiWjk_-NXQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "5uovdeGXKiAXJMnEdB1GATnVFmI",
+            "id": "q9rYCtU_w_0",
+            "snippet": {
+                "publishedAt": "2025-02-10T14:00:57Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "🌙𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲 #1 | #라쿠나 #김호",
+                "description": "[𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲]\n\n여러분을 좋은 꿈으로 데려가 줄 오늘의 아티스트는\n라쿠나의 김호님입니다.\n\n김호님의 저녁 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n모두 좋은 꿈 꾸세요!🌙\n\n[00:00] Close Days Finale #1 김호 \n[03:40] Diana Ross - I'm Gonna Make You Love Me\n[06:49] DeBarge - I Like It \n[11:39] Stevie Wonder - Ribbon In The Sky\n[17:23] Michael Jackson - Human Nature\n[20:58] Toto - I'll Be Over You\n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#CloseDaysFinale #라쿠나 #김호",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q9rYCtU_w_0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q9rYCtU_w_0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q9rYCtU_w_0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/q9rYCtU_w_0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/q9rYCtU_w_0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🌙𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲 #1 | #라쿠나 #김호",
+                    "description": "[𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲]\n\n여러분을 좋은 꿈으로 데려가 줄 오늘의 아티스트는\n라쿠나의 김호님입니다.\n\n김호님의 저녁 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n모두 좋은 꿈 꾸세요!🌙\n\n[00:00] Close Days Finale #1 김호 \n[03:40] Diana Ross - I'm Gonna Make You Love Me\n[06:49] DeBarge - I Like It \n[11:39] Stevie Wonder - Ribbon In The Sky\n[17:23] Michael Jackson - Human Nature\n[20:58] Toto - I'll Be Over You\n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#CloseDaysFinale #라쿠나 #김호"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT24M49S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "852",
+                "likeCount": "52",
+                "favoriteCount": "0",
+                "commentCount": "14"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

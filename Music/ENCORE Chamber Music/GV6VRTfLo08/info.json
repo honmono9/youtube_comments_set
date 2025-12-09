@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "gXdvZpuYfd4JFwrgIv5658HV2Vg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "fcziPJB1yZAWuHMjmbzBIG7IT-M",
+            "id": "GV6VRTfLo08",
+            "snippet": {
+                "publishedAt": "2018-09-17T07:38:29Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "071518 Ralph Vaughan Williams 'Fantasia on a Theme by Thomas Tallis'",
+                "description": "ENCORE Chamber Music 2018 Season 'Somewhere Over the Rainbow'\nSummer Academy for Strings ENCORE Camerata Concert",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GV6VRTfLo08/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GV6VRTfLo08/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GV6VRTfLo08/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GV6VRTfLo08/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GV6VRTfLo08/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "071518 Ralph Vaughan Williams 'Fantasia on a Theme by Thomas Tallis'",
+                    "description": "ENCORE Chamber Music 2018 Season 'Somewhere Over the Rainbow'\nSummer Academy for Strings ENCORE Camerata Concert"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT15M54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "866",
+                "likeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

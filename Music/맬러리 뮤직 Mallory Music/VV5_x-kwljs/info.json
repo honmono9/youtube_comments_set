@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "X59FYkavo1N3Fu4qcMH16qZ3EaI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "srCqv0V9Ker3uUzmIBygJoj2jlY",
+            "id": "VV5_x-kwljs",
+            "snippet": {
+                "publishedAt": "2021-01-23T09:27:35Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "세련되면서도 레트로/유스컬쳐 감성을 담은 팝",
+                "description": "관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd_2l0QhD9OvabZKgf87XZER\n\n- Photo: cottonbro\n\n- 맬러리 뮤직 Mallory Music\ninstagram: https://instagram.com/mallory_playlist\nspotify: https://open.spotify.com/user/vu7nka2udi3uow4uwbf1dub4b?si=ITQBaM5yRZKHlX63reNEnw\n\n- 맬러리 스퀘어\nyoutube: https://www.youtube.com/channel/UC1WpY3Ce68NArZgEVrLnSCQ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VV5_x-kwljs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VV5_x-kwljs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VV5_x-kwljs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VV5_x-kwljs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VV5_x-kwljs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "좋은 팝송",
+                    "레트로 팝송",
+                    "팝송 모음",
+                    "플레이리스트",
+                    "playlist",
+                    "best pop songs",
+                    "좋은 노래",
+                    "하이틴 팝송",
+                    "teenage pop",
+                    "감성 팝송",
+                    "팝송",
+                    "retro pop song",
+                    "레트로"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "세련되면서도 레트로/유스컬쳐 감성을 담은 팝",
+                    "description": "관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd_2l0QhD9OvabZKgf87XZER\n\n- Photo: cottonbro\n\n- 맬러리 뮤직 Mallory Music\ninstagram: https://instagram.com/mallory_playlist\nspotify: https://open.spotify.com/user/vu7nka2udi3uow4uwbf1dub4b?si=ITQBaM5yRZKHlX63reNEnw\n\n- 맬러리 스퀘어\nyoutube: https://www.youtube.com/channel/UC1WpY3Ce68NArZgEVrLnSCQ"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT25M48S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "41420",
+                "likeCount": "920",
+                "favoriteCount": "0",
+                "commentCount": "61"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

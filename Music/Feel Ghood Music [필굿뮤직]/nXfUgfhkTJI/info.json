@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "03VBgXGFEhp0J0Kbxsu0kq2GQOg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "VDLlxRWdlmNkdLq1r1_vtRkLoiQ",
+            "id": "nXfUgfhkTJI",
+            "snippet": {
+                "publishedAt": "2021-07-21T10:21:59Z",
+                "channelId": "UC8gRco988IELoTNTl4OBd2w",
+                "title": "Tiger JK (타이거 JK) - '호심술 (Love Peace)' M/V Teaser",
+                "description": "Tiger JK got something to say...\n\n2021.07.29 6PM KST\n\nTigerJK (타이거 JK) \n호심술 (Love Peace) \n\n@drunkentigerjk\n⁣⁣@feelghoodmusicofficial \n#TigerJK #타이거JK #호심술 #LOVE #PEACE\n#필굿뮤직 #FeelghoodMusic\n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4\n - Website : http://www.feelghood.com/ \n - Facebook : https://www.facebook.com/Feelghood",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nXfUgfhkTJI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nXfUgfhkTJI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nXfUgfhkTJI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nXfUgfhkTJI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nXfUgfhkTJI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Feel Ghood Music [필굿뮤직]",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Tiger JK (타이거 JK) - '호심술 (Love Peace)' M/V Teaser",
+                    "description": "Tiger JK got something to say...\n\n2021.07.29 6PM KST\n\nTigerJK (타이거 JK) \n호심술 (Love Peace) \n\n@drunkentigerjk\n⁣⁣@feelghoodmusicofficial \n#TigerJK #타이거JK #호심술 #LOVE #PEACE\n#필굿뮤직 #FeelghoodMusic\n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4\n - Website : http://www.feelghood.com/ \n - Facebook : https://www.facebook.com/Feelghood"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5253",
+                "likeCount": "553",
+                "favoriteCount": "0",
+                "commentCount": "60"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "7rkqHg5KGZ_FugSh8NcIYTPX0hI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Z__5TazE7Rg-z8qyo-tNss66l3Y",
+            "id": "O-CYmgGs-uo",
+            "snippet": {
+                "publishedAt": "2025-11-03T09:00:35Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "범키 'I'm Missing You' LIVE CLIP (Solo Cam Ver.)",
+                "description": "범키 'I'm Missing You' LIVE CLIP (Solo Cam Ver.)\n\n#범키 #BUMKEY\n#IAmMissingYou\n#브랜뉴뮤직 #BRANDNEWMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O-CYmgGs-uo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O-CYmgGs-uo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O-CYmgGs-uo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/O-CYmgGs-uo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/O-CYmgGs-uo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "tags": [
+                    "#브랜뉴뮤직",
+                    "#BRANDNEWMUSIC"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "범키 'I'm Missing You' LIVE CLIP (Solo Cam Ver.)",
+                    "description": "범키 'I'm Missing You' LIVE CLIP (Solo Cam Ver.)\n\n#범키 #BUMKEY\n#IAmMissingYou\n#브랜뉴뮤직 #BRANDNEWMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "14099",
+                "likeCount": "53",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

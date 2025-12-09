@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "qeVhxIyJWdChD6wMyPWV4acE9VM",
+        "id": "UgwlGwbJkjj3YWqYWmx4AaABAg",
+        "snippet": {
+            "channelId": "UCirSyikc3MSAjkJNdFBcR-g",
+            "videoId": "gwjMV98J44o",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "cbGG9y3AUTdeXiX5jyjVhbv2qdU",
+                "id": "UgwlGwbJkjj3YWqYWmx4AaABAg",
+                "snippet": {
+                    "channelId": "UCirSyikc3MSAjkJNdFBcR-g",
+                    "videoId": "gwjMV98J44o",
+                    "textDisplay": "❤❤❤",
+                    "textOriginal": "❤❤❤",
+                    "authorDisplayName": "@LenutaSendrea",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/j710UstSL3flYSydFD-BJYMJCebvshAnvgRxQyZxF2DBKQ-0oSQdXNKBDgQa8wU4yET50kk-gw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@LenutaSendrea",
+                    "authorChannelId": {
+                        "value": "UCx2Y0THasLOLXvIq6wDe68Q"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-04-27T18:37:46Z",
+                    "updatedAt": "2025-04-27T18:37:46Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

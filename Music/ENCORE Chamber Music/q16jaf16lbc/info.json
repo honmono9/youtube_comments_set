@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "wDkebEslLot9UfIFlLkWgb9Zj0Q",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "EExQdrD4_-DnxrQ3RdLvE4-Gcug",
+            "id": "q16jaf16lbc",
+            "snippet": {
+                "publishedAt": "2021-02-12T17:51:09Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "ENCORE 2021 Online Summer Academy",
+                "description": "WEBSITE: https://www.encorechambermusic.org/summeracademy2021\n\nJUNE 27 - JULY 16, 2021\nENCORE Chamber Music Institute's Summer Academy is ONLINE this summer! You can participate from ANYWHERE in the WORLD. \n\nThis year's Online Summer Academy focuses on building everyday habits for long term success. Through a communal experience of habit-building exercises for 3 weeks, this virtual academy will vitalize the daily routine of all participating Young Artists.\n\nSummer Academy is for young solo violinists, violists, and cellists who want a challenging and thought-provoking learning experience. The Summer Academy program is recommended for students preparing for college auditions, competitions, and/or concerts. During the program, students practice intensively, improve technique and artistic communication, and perform in a variety of settings. The three-week program invites fifty exceptionally gifted young artists ages 13 to 23.\n\n2021 VIRTUAL SUMMER ACADEMY HIGHLIGHTS:\n- Every day starts with a light physical activity or a meditation session curated specially for musicians such as Eurythmics, Eldoa Technique, Pilates Stretch, and Saturday Yoga Sessions\n\n- Group Morning Practice Sessions (InstaChallenge): All Student AND faculty practice for 2 hours in the morning with a timer, and share a screen capture of their timer with a hashtag #20dayEncoreReboot. Each day the ENCORE team will present a fun task for participants\n\n- 30-minute Practice Coaching Sessions \n\n- A virtual lunchroom will be open every day for participating musicians to socialize.\n\n- Group Activities/Interactive Workshops in the evening: Fun, inspiring, or both, these evening activities bring students together for some #Orchdork #Musicnerd fun such as Scales & Etudes Workshop, Injury Prevention Workshop, Acting Workshop, Poetry Night, Musical Trivia, and more! \n\nCheck out our website and social media for more information! \nwww.encorechambermusic.org\nwww.facebook.com/encorechambermusic/\nwww.instagram.com/encorechambermusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q16jaf16lbc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q16jaf16lbc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q16jaf16lbc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/q16jaf16lbc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/q16jaf16lbc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "ENCORE 2021 Online Summer Academy",
+                    "description": "WEBSITE: https://www.encorechambermusic.org/summeracademy2021\n\nJUNE 27 - JULY 16, 2021\nENCORE Chamber Music Institute's Summer Academy is ONLINE this summer! You can participate from ANYWHERE in the WORLD. \n\nThis year's Online Summer Academy focuses on building everyday habits for long term success. Through a communal experience of habit-building exercises for 3 weeks, this virtual academy will vitalize the daily routine of all participating Young Artists.\n\nSummer Academy is for young solo violinists, violists, and cellists who want a challenging and thought-provoking learning experience. The Summer Academy program is recommended for students preparing for college auditions, competitions, and/or concerts. During the program, students practice intensively, improve technique and artistic communication, and perform in a variety of settings. The three-week program invites fifty exceptionally gifted young artists ages 13 to 23.\n\n2021 VIRTUAL SUMMER ACADEMY HIGHLIGHTS:\n- Every day starts with a light physical activity or a meditation session curated specially for musicians such as Eurythmics, Eldoa Technique, Pilates Stretch, and Saturday Yoga Sessions\n\n- Group Morning Practice Sessions (InstaChallenge): All Student AND faculty practice for 2 hours in the morning with a timer, and share a screen capture of their timer with a hashtag #20dayEncoreReboot. Each day the ENCORE team will present a fun task for participants\n\n- 30-minute Practice Coaching Sessions \n\n- A virtual lunchroom will be open every day for participating musicians to socialize.\n\n- Group Activities/Interactive Workshops in the evening: Fun, inspiring, or both, these evening activities bring students together for some #Orchdork #Musicnerd fun such as Scales & Etudes Workshop, Injury Prevention Workshop, Acting Workshop, Poetry Night, Musical Trivia, and more! \n\nCheck out our website and social media for more information! \nwww.encorechambermusic.org\nwww.facebook.com/encorechambermusic/\nwww.instagram.com/encorechambermusic"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT1M3S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "354",
+                "likeCount": "5",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

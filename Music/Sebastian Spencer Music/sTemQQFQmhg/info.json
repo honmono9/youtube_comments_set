@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "bv3FiZH9aWehJA6EssWSZh7QCHk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "mHPDlRRDvxXrrx7NbZl3WQ8vgEw",
+            "id": "sTemQQFQmhg",
+            "snippet": {
+                "publishedAt": "2022-07-29T16:24:43Z",
+                "channelId": "UCwdmcaOcWQ7PW8_wuaB8Cjw",
+                "title": "PORNOBASS X SARAH - SILIKONTITTEN (Sebastian Spencer Club Remix) HQ Lyricvideo",
+                "description": "Pornobass (Sebastian Spencer & DJ Nick) knallen euch das Meisterwerk von sublimer Größe gleichzustellen mit Schiller, Goethe und Beethoven um die Ohren.\n\nWir distanzieren uns von jeglichen Textpassagen, Drogen und sexueller Gewalt.\n\nMusik: Sebastian Spencer / Dj Nick\nVocals: Sarah P.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sTemQQFQmhg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sTemQQFQmhg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sTemQQFQmhg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sTemQQFQmhg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sTemQQFQmhg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sebastian Spencer Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "de",
+                "localized": {
+                    "title": "PORNOBASS X SARAH - SILIKONTITTEN (Sebastian Spencer Club Remix) HQ Lyricvideo",
+                    "description": "Pornobass (Sebastian Spencer & DJ Nick) knallen euch das Meisterwerk von sublimer Größe gleichzustellen mit Schiller, Goethe und Beethoven um die Ohren.\n\nWir distanzieren uns von jeglichen Textpassagen, Drogen und sexueller Gewalt.\n\nMusik: Sebastian Spencer / Dj Nick\nVocals: Sarah P."
+                },
+                "defaultAudioLanguage": "de"
+            },
+            "contentDetails": {
+                "duration": "PT3M23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "96985",
+                "likeCount": "1127",
+                "favoriteCount": "0",
+                "commentCount": "26"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

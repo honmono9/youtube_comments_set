@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "jp3rv6qrEuQHZMFCy1oWSXjCZ_0",
+        "id": "UgwPpW-gVEg432MAoCp4AaABAg",
+        "snippet": {
+            "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+            "videoId": "4ggcBTq6bCg",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "iHlBzZlZ9JpqQ2OdqntI0HqkD7A",
+                "id": "UgwPpW-gVEg432MAoCp4AaABAg",
+                "snippet": {
+                    "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                    "videoId": "4ggcBTq6bCg",
+                    "textDisplay": "Desejo todo sucesso  do mundo😊",
+                    "textOriginal": "Desejo todo sucesso  do mundo😊",
+                    "authorDisplayName": "@valbarros8738",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_myt18QyZfirLD67PWZIDtfQ7d-8MUkDpCJwZi521o=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@valbarros8738",
+                    "authorChannelId": {
+                        "value": "UCwRbvbPdRp6FLTLx9IOUX5g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-06-22T01:03:22Z",
+                    "updatedAt": "2023-06-22T01:03:22Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

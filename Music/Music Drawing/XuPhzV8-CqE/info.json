@@ -1,0 +1,91 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "QMJtwSJycf_LhXJ7jnY6IHu9Edw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "n-2667id74WLh8Rp61_4HYslkZM",
+            "id": "XuPhzV8-CqE",
+            "snippet": {
+                "publishedAt": "2024-09-20T11:45:03Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"넌 충분히 빛나고 있어!\" 위로가 되는 수면음악 - 달의 인사🌙",
+                "description": "반짝이는 보석이 아니어도 괜찮아.\n매일매일 열심히 살아가고 있는 넌, \n충분히 빛나고 있어~\n\n오늘도 너만의 색깔로 빛나는 \n너를 응원해! :)\n\n\n🎵곡 제목                      \n01.달의 인사\n02.행복한 하루\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #위로가되는음악 #힐링음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XuPhzV8-CqE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XuPhzV8-CqE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XuPhzV8-CqE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XuPhzV8-CqE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XuPhzV8-CqE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "수면음악",
+                    "수면유도음악",
+                    "잠잘때듣는음악",
+                    "편안한음악",
+                    "자기전에듣는음악",
+                    "잠오는음악",
+                    "힐링음악",
+                    "마음이편안해지는음악",
+                    "치유음악",
+                    "RelaxMusic",
+                    "RelaxingMusic",
+                    "SleepMusic",
+                    "SleepingMusic",
+                    "PianoMusic",
+                    "피아노음악",
+                    "편안한피아노음악",
+                    "위로음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"넌 충분히 빛나고 있어!\" 위로가 되는 수면음악 - 달의 인사🌙",
+                    "description": "반짝이는 보석이 아니어도 괜찮아.\n매일매일 열심히 살아가고 있는 넌, \n충분히 빛나고 있어~\n\n오늘도 너만의 색깔로 빛나는 \n너를 응원해! :)\n\n\n🎵곡 제목                      \n01.달의 인사\n02.행복한 하루\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #위로가되는음악 #힐링음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9H32M45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1100048",
+                "likeCount": "22422",
+                "favoriteCount": "0",
+                "commentCount": "722"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

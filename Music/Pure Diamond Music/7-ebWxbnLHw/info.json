@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "qTfMQBS-5AA4fqGf_GyGO_raEu4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "VEfvfiIxWAvHvkT3oGZzEGjknXQ",
+            "id": "7-ebWxbnLHw",
+            "snippet": {
+                "publishedAt": "2023-07-09T09:31:02Z",
+                "channelId": "UCATxSCJz65QdZ5GpfXnPOpQ",
+                "title": "#สิขอโทษน้องเฮ็ดหยัง #ชมพู่สุธิมา #สแน็กอัจฉรีย์",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7-ebWxbnLHw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7-ebWxbnLHw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7-ebWxbnLHw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7-ebWxbnLHw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7-ebWxbnLHw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Pure Diamond Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "#สิขอโทษน้องเฮ็ดหยัง #ชมพู่สุธิมา #สแน็กอัจฉรีย์",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5513",
+                "likeCount": "335",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

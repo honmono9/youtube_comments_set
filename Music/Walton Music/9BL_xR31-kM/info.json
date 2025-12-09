@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "8B9aXRi604oIiGqL6d-t_s6sQqc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "6fxYyCG7ReUuW2g__x81Kb7V31A",
+            "id": "9BL_xR31-kM",
+            "snippet": {
+                "publishedAt": "2025-09-22T13:00:29Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Halala/Walilizela | arr. Mpumelelo Manyathi",
+                "description": "Halala/Walilizela is for TTBB voices with solos, unaccompanied. \n\nHalala/Walilizela combines two songs, one in Zulu and one in Xhosa, traditionally sung at celebratory events like weddings and ceremonies. The sentiment of the songs invites everyone to come together and listen! Incorporate a shaker and djembe to add to the festivities.\n\nPurchase the music: https://giamusic.com/resource/halala-walilizela-printed-music-ww2100",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9BL_xR31-kM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9BL_xR31-kM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9BL_xR31-kM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9BL_xR31-kM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9BL_xR31-kM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Halala/Walilizela | arr. Mpumelelo Manyathi",
+                    "description": "Halala/Walilizela is for TTBB voices with solos, unaccompanied. \n\nHalala/Walilizela combines two songs, one in Zulu and one in Xhosa, traditionally sung at celebratory events like weddings and ceremonies. The sentiment of the songs invites everyone to come together and listen! Incorporate a shaker and djembe to add to the festivities.\n\nPurchase the music: https://giamusic.com/resource/halala-walilizela-printed-music-ww2100"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "54",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

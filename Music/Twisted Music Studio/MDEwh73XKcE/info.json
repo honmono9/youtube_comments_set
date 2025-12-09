@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "OJErRFswegjihg6yolD_fX_y5Rw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "oYEWroreIMQgnaM8DqA5YvKdzdQ",
+            "id": "MDEwh73XKcE",
+            "snippet": {
+                "publishedAt": "2025-11-12T20:00:17Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "No Doubt - It's My Life | Disco/Funk Cover",
+                "description": "It's My Life by No Doubt twisted into Disco/Funk\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nIt's funny how I find myself\nIn love with you\nIf I could buy my reasoning\nI'd pay to lose\nOne half won't do\n\nI've asked myself\nHow much do you\nCommit yourself?\n\nIt's my life\nDon't you forget\nIt's my life\nIt never ends (it never ends)\n\nFunny how I blind myself\nI never knew\nIf I was sometimes played upon\nAfraid to lose\n\nOh, I'd tell myself\nWhat good do you do\nConvince myself\n\nIt's my life\nDon't you forget\nIt's my life\nIt never ends (it never ends)\n\nAnd I've asked myself\nHow much do you\nCommit yourself?\n\nOh, it's my life\nDon't you forget\nCaught in the crowd\nIt never ends (it never ends)\n\nOh, it's my life\nDon't you forget\nCaught in the crowd\nIt never ends (it never ends)\n\nOh, it's my life (oh it's my life)\nDon't you forget (don't you forget)\nCaught in the crowd (caught in the crowd)\nIt never ends (it never ends)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MDEwh73XKcE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MDEwh73XKcE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MDEwh73XKcE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MDEwh73XKcE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MDEwh73XKcE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "No Doubt - It's My Life | Disco/Funk Cover",
+                    "description": "It's My Life by No Doubt twisted into Disco/Funk\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nIt's funny how I find myself\nIn love with you\nIf I could buy my reasoning\nI'd pay to lose\nOne half won't do\n\nI've asked myself\nHow much do you\nCommit yourself?\n\nIt's my life\nDon't you forget\nIt's my life\nIt never ends (it never ends)\n\nFunny how I blind myself\nI never knew\nIf I was sometimes played upon\nAfraid to lose\n\nOh, I'd tell myself\nWhat good do you do\nConvince myself\n\nIt's my life\nDon't you forget\nIt's my life\nIt never ends (it never ends)\n\nAnd I've asked myself\nHow much do you\nCommit yourself?\n\nOh, it's my life\nDon't you forget\nCaught in the crowd\nIt never ends (it never ends)\n\nOh, it's my life\nDon't you forget\nCaught in the crowd\nIt never ends (it never ends)\n\nOh, it's my life (oh it's my life)\nDon't you forget (don't you forget)\nCaught in the crowd (caught in the crowd)\nIt never ends (it never ends)"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "515",
+                "likeCount": "16",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

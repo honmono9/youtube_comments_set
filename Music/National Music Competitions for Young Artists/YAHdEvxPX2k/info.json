@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "q1fm5O4ivnTeuG32Tpn5CsQhb5A",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "H7_kt0yXpXQN1IBxUiJ6CFZODEw",
+            "id": "YAHdEvxPX2k",
+            "snippet": {
+                "publishedAt": "2025-12-09T02:30:36Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "Hai già vinta la causa - Kris Gonzales (1st Prize Winner) | NAMCYA 2025 Senior Voice A",
+                "description": "Kris John Paul Santos Gonzales, NCR\n1st Prize Winner of Senior Voice A Category\nNAMCYA 2025 FINALS\n\nNational Finals Performance \nHai già vinta la causa – Wolfgang Amadeus Mozart \n\nNovember 18, 2025 \nManila Pianos, Makati City",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YAHdEvxPX2k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YAHdEvxPX2k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YAHdEvxPX2k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YAHdEvxPX2k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YAHdEvxPX2k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "it",
+                "localized": {
+                    "title": "Hai già vinta la causa - Kris Gonzales (1st Prize Winner) | NAMCYA 2025 Senior Voice A",
+                    "description": "Kris John Paul Santos Gonzales, NCR\n1st Prize Winner of Senior Voice A Category\nNAMCYA 2025 FINALS\n\nNational Finals Performance \nHai già vinta la causa – Wolfgang Amadeus Mozart \n\nNovember 18, 2025 \nManila Pianos, Makati City"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3",
+                "likeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "rbnosqmffPYp7T65d4iEXH9V9cM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "qJwf2abO1MBltjhRwZmg1XyimyQ",
+            "id": "W3C8XVcctY4",
+            "snippet": {
+                "publishedAt": "2022-09-05T13:00:25Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Elegant September Jazz - Smooth Jazz Piano Music for Coffee Break",
+                "description": "Smooth jazz music playlist by Richard Freeman for elegant autumn mood.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\nl098",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W3C8XVcctY4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W3C8XVcctY4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W3C8XVcctY4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/W3C8XVcctY4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/W3C8XVcctY4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Elegant September Jazz - Smooth Jazz Piano Music for Coffee Break",
+                    "description": "Smooth jazz music playlist by Richard Freeman for elegant autumn mood.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\nl098"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "12182",
+                "likeCount": "170",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "h0Mz--OuFEqK8nMvnLzsfdpOvaw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Phgu0W15jzb6ksK3hpIcGQIXjoI",
+            "id": "QJJbdGFeVOg",
+            "snippet": {
+                "publishedAt": "2019-09-27T09:00:03Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "[MV] 소야 (SOYA) - 이별에 베인 사랑까지도",
+                "description": "소야 (SOYA)의 새로운 싱글 앨범 \n\"이별에 베인 사랑까지도\"\n\n마치 칼에 베인 듯한 이별의 아픔을 감성적 어투로 표현한 곡으로 서로가 사랑했던 그날, \n서로가 행복했던 추억들이 희미해지고 그리워져만 가는 여자의 마음이 잘 표현 되어있다. \n\n계절이 변해도 사랑했던 사람을 잊을 수 없는 그녀의 마음을 무덤덤하고 \n쓸쓸함이 묻어있는 소야 (SOYA)만의 보컬을 통해 만나볼 수 있다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QJJbdGFeVOg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QJJbdGFeVOg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QJJbdGFeVOg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QJJbdGFeVOg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QJJbdGFeVOg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "tags": [
+                    "#KPOP",
+                    "#감성발라드",
+                    "#SOYA",
+                    "#소야"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[MV] 소야 (SOYA) - 이별에 베인 사랑까지도",
+                    "description": "소야 (SOYA)의 새로운 싱글 앨범 \n\"이별에 베인 사랑까지도\"\n\n마치 칼에 베인 듯한 이별의 아픔을 감성적 어투로 표현한 곡으로 서로가 사랑했던 그날, \n서로가 행복했던 추억들이 희미해지고 그리워져만 가는 여자의 마음이 잘 표현 되어있다. \n\n계절이 변해도 사랑했던 사람을 잊을 수 없는 그녀의 마음을 무덤덤하고 \n쓸쓸함이 묻어있는 소야 (SOYA)만의 보컬을 통해 만나볼 수 있다."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M56S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "31242",
+                "likeCount": "545",
+                "favoriteCount": "0",
+                "commentCount": "49"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

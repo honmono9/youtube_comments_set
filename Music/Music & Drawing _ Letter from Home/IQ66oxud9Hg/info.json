@@ -1,0 +1,90 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "_RO2r-l9J5F8jREqWXob6olfbuY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "jxXu6Y_P6XDEzFZhGGYt5Ua8KGY",
+            "id": "IQ66oxud9Hg",
+            "snippet": {
+                "publishedAt": "2025-10-01T23:04:17Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Afternoon Piano Trio Jazz 🔴 Live Vol. 15  | Vintage Paris Café Calm Jazz by the Seine River",
+                "description": "Enjoy a relaxing afternoon with smooth piano trio jazz, streaming live from a vintage Paris café setting. \nPerfect background music for lunch, study, work, or simply taking a break. \nLet the timeless sound of jazz bring warmth and inspiration to your day.\n\n\n#livejazz #saxophonejazz #jazz #vintagejazz #jazzmusic #autumnjazz #relaxingjazz\n#smoothjazz #nostalgicjazz #nightjazz #caféjazz #ambience #jazzlivestream #studyjazz #backgroundjazz #chilljazz #cozyautumnjazz #pianojazz #pianotriojazz #calmjazz  #eveningjazz #parisjazz #cafejazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IQ66oxud9Hg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IQ66oxud9Hg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IQ66oxud9Hg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IQ66oxud9Hg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IQ66oxud9Hg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "jazz live",
+                    "jazz music",
+                    "jazz song",
+                    "female vocal jazz",
+                    "timeless jazz",
+                    "piano jazz",
+                    "jazz instrumental",
+                    "autumn jazz",
+                    "cafe jazz",
+                    "piano trio jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Afternoon Piano Trio Jazz 🔴 Live Vol. 15  | Vintage Paris Café Calm Jazz by the Seine River",
+                    "description": "Enjoy a relaxing afternoon with smooth piano trio jazz, streaming live from a vintage Paris café setting. \nPerfect background music for lunch, study, work, or simply taking a break. \nLet the timeless sound of jazz bring warmth and inspiration to your day.\n\n\n#livejazz #saxophonejazz #jazz #vintagejazz #jazzmusic #autumnjazz #relaxingjazz\n#smoothjazz #nostalgicjazz #nightjazz #caféjazz #ambience #jazzlivestream #studyjazz #backgroundjazz #chilljazz #cozyautumnjazz #pianojazz #pianotriojazz #calmjazz  #eveningjazz #parisjazz #cafejazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT6H21M15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "461",
+                "likeCount": "11",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

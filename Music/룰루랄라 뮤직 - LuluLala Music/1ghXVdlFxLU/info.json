@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "xVRi7oPlKoWvEIBWw3H9RJYqep8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "DnJcPgJZkO1qbPW5ZUfvxRjm7cs",
+            "id": "1ghXVdlFxLU",
+            "snippet": {
+                "publishedAt": "2019-08-09T11:00:00Z",
+                "channelId": "UC3kgosidfK3i_47Q2otmmGw",
+                "title": "쇼미 레전드 재연! 비와이(BewhY) & 규현(Kyuhyun) 의외의 찰떡케미 ‘day day’ 라이브 무대",
+                "description": "✅ [런웨이브] 7화의 풀영상과 무대직캠을 보고싶다면?\n👉 아이돌라이브에서 보기: http://bit.ly/2OIjr2S\n \nK-pop 아이돌들의 스토리텔링 뮤직 토크쇼!\n런웨이브 [RUN.wav ▶ HIGHLIGHT] 비와이(BewhY) & 규현(Kyuhyun) - ‘day day’ \n \n#런웨이브 #BewhY #룰루랄라뮤직 #LululalaMusic #비와이 #규현 #Kyuhyun #dayday\n \n👉 룰루랄라 뮤직 구독하기: https://www.youtube.com/lululalamusic\n👉 룰루랄라 뮤직은 스튜디오룰루랄라의 새로운 음악 채널입니다. 구독, 좋아요로 응원해주세요♥\n \nLululala music is the Music channel of JTBC Digital Studio Lululala\nSet up a subscription + alarm and be first to meet the contents of Lululala music\nSubscribe 👉 https://www.youtube.com/lululalamusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1ghXVdlFxLU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1ghXVdlFxLU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1ghXVdlFxLU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1ghXVdlFxLU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1ghXVdlFxLU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "룰루랄라 뮤직 - LuluLala Music",
+                "tags": [
+                    "런웨이브",
+                    "비와이",
+                    "규현",
+                    "가라사대",
+                    "dayday",
+                    "쇼미더머니",
+                    "쇼미",
+                    "showmethemoney",
+                    "run.wav",
+                    "jtbc",
+                    "스튜디오룰루랄라",
+                    "룰루랄라뮤직",
+                    "슈퍼주니어",
+                    "힙합",
+                    "국힙"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "쇼미 레전드 재연! 비와이(BewhY) & 규현(Kyuhyun) 의외의 찰떡케미 ‘day day’ 라이브 무대",
+                    "description": "✅ [런웨이브] 7화의 풀영상과 무대직캠을 보고싶다면?\n👉 아이돌라이브에서 보기: http://bit.ly/2OIjr2S\n \nK-pop 아이돌들의 스토리텔링 뮤직 토크쇼!\n런웨이브 [RUN.wav ▶ HIGHLIGHT] 비와이(BewhY) & 규현(Kyuhyun) - ‘day day’ \n \n#런웨이브 #BewhY #룰루랄라뮤직 #LululalaMusic #비와이 #규현 #Kyuhyun #dayday\n \n👉 룰루랄라 뮤직 구독하기: https://www.youtube.com/lululalamusic\n👉 룰루랄라 뮤직은 스튜디오룰루랄라의 새로운 음악 채널입니다. 구독, 좋아요로 응원해주세요♥\n \nLululala music is the Music channel of JTBC Digital Studio Lululala\nSet up a subscription + alarm and be first to meet the contents of Lululala music\nSubscribe 👉 https://www.youtube.com/lululalamusic"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M42S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "598356",
+                "likeCount": "12946",
+                "favoriteCount": "0",
+                "commentCount": "653"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "IvClRQTlDECh_ZXvDPsaNZdwLAI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "6zKVCT_qo76_8CfFqtyYkNZ7aWI",
+            "id": "Ei1WobzwsVI",
+            "snippet": {
+                "publishedAt": "2023-10-14T10:30:10Z",
+                "channelId": "UC6YnTqZidFg4WUiXpiCtSSQ",
+                "title": "KICK BACK (米津玄師) / 藍璃かんな Cover",
+                "description": "original：https://youtu.be/M2cckDmNLMI?si=JOikpKKXZRqw7uVs\n\n\n✧Director : REQ (Accelers)\nhttps://twitter.com/requiemdh\n\n✧Inst Arrange : REQ\nhttps://twitter.com/requiemdh\n\n✧MIX & Mastering : JiHEE\nhttps://twitter.com/soundingjh\n\n✧Illustration : ｽｲﾐﾝ\nhttps://twitter.com/sui_0z0\n\n✧Movie : Cappu\nhttps://twitter.com/c4ppu\n\n✧Produce : The Cold\nhttps://twitter.com/thecold_\n\n✧Vocal & Chorus : Airi Kanna\nJP Twitter\n→https://twitter.com/AiriKanna_\n\nKR Twitter\n→https://twitter.com/AiriKannaKR\nKR Youtube \n→https://www.youtube.com/@airikannach\nKR Twitch\n→https://www.twitch.tv/airikanna_stellive\n\n----------------------------------------------------------------------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ei1WobzwsVI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ei1WobzwsVI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ei1WobzwsVI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ei1WobzwsVI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ei1WobzwsVI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "아이리 칸나 Music Official",
+                "tags": [
+                    "airikanna",
+                    "airikanna cover",
+                    "yonezukenshi",
+                    "yonezu",
+                    "kanna cover",
+                    "칸나",
+                    "아이리칸나",
+                    "스텔라이브",
+                    "칸나커버",
+                    "복도함달려",
+                    "BTS",
+                    "강지",
+                    "킹누",
+                    "체인소맨",
+                    "블랙핑크",
+                    "유니",
+                    "버튜버",
+                    "vtuber",
+                    "ado",
+                    "チェンソーマン",
+                    "CHAINSAW MAN",
+                    "spy family",
+                    "요네즈켄시",
+                    "체인소맨 커버",
+                    "킥백",
+                    "kick back",
+                    "kick back cover",
+                    "킥백 커버",
+                    "킥백 칸나",
+                    "칸나 킥백",
+                    "jpop cover",
+                    "jpop",
+                    "cover",
+                    "covered",
+                    "anime cover",
+                    "anime song",
+                    "chainsaw man cover"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "KICK BACK (米津玄師) / 藍璃かんな Cover",
+                    "description": "original：https://youtu.be/M2cckDmNLMI?si=JOikpKKXZRqw7uVs\n\n\n✧Director : REQ (Accelers)\nhttps://twitter.com/requiemdh\n\n✧Inst Arrange : REQ\nhttps://twitter.com/requiemdh\n\n✧MIX & Mastering : JiHEE\nhttps://twitter.com/soundingjh\n\n✧Illustration : ｽｲﾐﾝ\nhttps://twitter.com/sui_0z0\n\n✧Movie : Cappu\nhttps://twitter.com/c4ppu\n\n✧Produce : The Cold\nhttps://twitter.com/thecold_\n\n✧Vocal & Chorus : Airi Kanna\nJP Twitter\n→https://twitter.com/AiriKanna_\n\nKR Twitter\n→https://twitter.com/AiriKannaKR\nKR Youtube \n→https://www.youtube.com/@airikannach\nKR Twitch\n→https://www.twitch.tv/airikanna_stellive\n\n----------------------------------------------------------------------------------------------"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT3M16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2521904",
+                "likeCount": "21484",
+                "favoriteCount": "0",
+                "commentCount": "850"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

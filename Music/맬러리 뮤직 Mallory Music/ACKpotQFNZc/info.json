@@ -1,0 +1,81 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "KxYIvlKQWgzhg8iiFDz1KQnwWPI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "dvWnad_kcLDb6CiqNhunv0hGabM",
+            "id": "ACKpotQFNZc",
+            "snippet": {
+                "publishedAt": "2021-12-09T10:57:53Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "어항 속 인디 음악",
+                "description": "photo by kazuend\n\n인디 음악 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd__kSHA7RvlVJQRMCU04siP\n\n- 맬러리 뮤직 mallory music\ninstagram: https://instagram.com/mallory_playlist\nspotify: https://open.spotify.com/user/vu7nka2udi3uow4uwbf1dub4b?si=ITQBaM5yRZKHlX63reNEnw\n\n- 맬러리 스퀘어 mallory square\nyoutube: https://youtube.com/channel/UC1WpY3Ce68NArZgEVrLnSCQ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ACKpotQFNZc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ACKpotQFNZc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ACKpotQFNZc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ACKpotQFNZc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ACKpotQFNZc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "인디 음악",
+                    "인디 추천",
+                    "k indie",
+                    "잔잔한 인디",
+                    "새벽 인디",
+                    "korean indie",
+                    "인디 플레이리스트"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "어항 속 인디 음악",
+                    "description": "photo by kazuend\n\n인디 음악 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd__kSHA7RvlVJQRMCU04siP\n\n- 맬러리 뮤직 mallory music\ninstagram: https://instagram.com/mallory_playlist\nspotify: https://open.spotify.com/user/vu7nka2udi3uow4uwbf1dub4b?si=ITQBaM5yRZKHlX63reNEnw\n\n- 맬러리 스퀘어 mallory square\nyoutube: https://youtube.com/channel/UC1WpY3Ce68NArZgEVrLnSCQ"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT26M42S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "29208",
+                "likeCount": "1083",
+                "favoriteCount": "0",
+                "commentCount": "86"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

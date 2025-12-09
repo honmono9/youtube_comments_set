@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "AhOfVdUOkD1zfaiSfwYJ0WF8Ns4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "3OEPOFkQvFBsb-JoagmcvjG5vH8",
+            "id": "Y9bWblf6wCA",
+            "snippet": {
+                "publishedAt": "2022-06-16T13:00:30Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Summer Jazz Music - Iced Coffee Jazz and Bossa Nova Music",
+                "description": "Enjoy your cup of iced coffee by listening thos this summery jazz and bossa nova music playlist by Richard Freeman\n\nInstrumental Jazz and Bossa Nova music by Richard Freeman.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #summerjazz #bossanova \n\nl013",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y9bWblf6wCA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y9bWblf6wCA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y9bWblf6wCA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Y9bWblf6wCA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Y9bWblf6wCA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "tags": [
+                    "summer jazz",
+                    "ice coffee jazz",
+                    "bossa nova",
+                    "jazz music",
+                    "coffee time jazz",
+                    "morning jazz",
+                    "sweet vibes jazz",
+                    "hot weather jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Summer Jazz Music - Iced Coffee Jazz and Bossa Nova Music",
+                    "description": "Enjoy your cup of iced coffee by listening thos this summery jazz and bossa nova music playlist by Richard Freeman\n\nInstrumental Jazz and Bossa Nova music by Richard Freeman.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #summerjazz #bossanova \n\nl013"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "8327",
+                "likeCount": "159",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "TazamOQ3hIBRPFB2ZgVTv_QA9iI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "8hb8Qgn3tYLpOw3JkPpf7ZcB3Dw",
+            "id": "T011e8VRlWA",
+            "snippet": {
+                "publishedAt": "2025-11-27T09:00:51Z",
+                "channelId": "UC3fPnB3ds2xBY1PTtgkCCYw",
+                "title": "우리 회사에서 디제잉 해준다고?👀",
+                "description": "@broadplay ✨",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T011e8VRlWA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T011e8VRlWA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T011e8VRlWA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/T011e8VRlWA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/T011e8VRlWA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ASTER MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "우리 회사에서 디제잉 해준다고?👀",
+                    "description": "@broadplay ✨"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT28S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "regionRestriction": {
+                    "blocked": [
+                        "CN"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "7322",
+                "likeCount": "39",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

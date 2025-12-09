@@ -1,0 +1,102 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "jsmkU3REIuOgjFg-gghy-MUZjRs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "WfyyPc24ZyxyqZLYyzouMfpeOXk",
+            "id": "g1VsG1FvhC0",
+            "snippet": {
+                "publishedAt": "2021-08-10T09:00:29Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "[be loved] 한국인이 가장 사랑하는 팝 음악 ep.10 I 오아시스 특집 I Oasis",
+                "description": "#한국인이가장사랑하는팝음악 #불후의명곡\n#플레이리스트 #oldpop #올드팝",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g1VsG1FvhC0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g1VsG1FvhC0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g1VsG1FvhC0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/g1VsG1FvhC0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/g1VsG1FvhC0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "tags": [
+                    "Don't Look Back In Anger",
+                    "Whatever",
+                    "Stand By Me",
+                    "She's Electric",
+                    "The Masterplan",
+                    "Supersonic",
+                    "Let There Be Love",
+                    "Morning Glory",
+                    "Live Forever",
+                    "Don't Go Away",
+                    "Little By Little",
+                    "Champagne Supernova",
+                    "Married With Children",
+                    "Stop Crying Your Heart Out",
+                    "Wonderwall",
+                    "오아시스 노래",
+                    "오아시스 모음",
+                    "오아시스 음악",
+                    "오아시스",
+                    "oasis",
+                    "명곡 팝송",
+                    "불후의 명곡",
+                    "추억의 노래",
+                    "추억의 팝송",
+                    "추억",
+                    "팝송",
+                    "플레이리스트",
+                    "OASIS"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[be loved] 한국인이 가장 사랑하는 팝 음악 ep.10 I 오아시스 특집 I Oasis",
+                    "description": "#한국인이가장사랑하는팝음악 #불후의명곡\n#플레이리스트 #oldpop #올드팝"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H16M7S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "306876",
+                "likeCount": "2915",
+                "favoriteCount": "0",
+                "commentCount": "63"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

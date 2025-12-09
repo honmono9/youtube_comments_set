@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "G5rhbuslpx38PMj-yjdSBK8lQZU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "n4Raifs6xLFDLxGFFxFoO_PLOLM",
+            "id": "uWGEi9kc-Y8",
+            "snippet": {
+                "publishedAt": "2023-04-27T03:00:17Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "주은(JUEUN) 'Easy Breezy (feat.서인국)' Official MV",
+                "description": "주은(JUEUN) 'Easy Breezy (feat.서인국)' Official MV\n2023.04.27 12PM (KST)\n\n작사 주은, 랄라(LALA), 안지수(ONCLASSA), 이동은(Music Cube), 일레(ELE), Kella Armitage\n작곡 ALYSA, Kella Armitage\n편곡&프로듀싱 ALYSA\n\n[M/V TEAM]\nAEDIA STUDIO / DONGJIN PARK\n\nDirector SEHOON JEON\nPM / SOZE YOON\nAD / HAEIN HAN\nPD / YEONKYEONG PARK\nPA / HOGYUN JIN\n\nDOP / MINKOOK CHO\nFocus Puller / GEONHEE PARK\n2nd AC / HANLA KIM,YOUNGJAE LEE\n3rd AC / CHANGSOO KIM\n\nGaffer / HIMCHAN SEO \n1st / JINGU MA\n2nd / JIMHYOUK AN\n3rd / DAWIT CHOI,HYUNYOUNG HEO\n\nPower Generator / HYUNMIN KIM\n\nArt / YUNKYUNG KANG\nArt Team / SUHAN LIM Lim, GYUYEONG JEONG\n\n2D VFX / JIHO JEON\n\n#주은 #JUEUN\n#1st #SingleAlbum #EasyBreezy\n#feat #서인국 #SeoInGuk #Release\n#아에르뮤직 #AERMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uWGEi9kc-Y8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uWGEi9kc-Y8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uWGEi9kc-Y8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uWGEi9kc-Y8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uWGEi9kc-Y8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "주은(JUEUN) 'Easy Breezy (feat.서인국)' Official MV",
+                    "description": "주은(JUEUN) 'Easy Breezy (feat.서인국)' Official MV\n2023.04.27 12PM (KST)\n\n작사 주은, 랄라(LALA), 안지수(ONCLASSA), 이동은(Music Cube), 일레(ELE), Kella Armitage\n작곡 ALYSA, Kella Armitage\n편곡&프로듀싱 ALYSA\n\n[M/V TEAM]\nAEDIA STUDIO / DONGJIN PARK\n\nDirector SEHOON JEON\nPM / SOZE YOON\nAD / HAEIN HAN\nPD / YEONKYEONG PARK\nPA / HOGYUN JIN\n\nDOP / MINKOOK CHO\nFocus Puller / GEONHEE PARK\n2nd AC / HANLA KIM,YOUNGJAE LEE\n3rd AC / CHANGSOO KIM\n\nGaffer / HIMCHAN SEO \n1st / JINGU MA\n2nd / JIMHYOUK AN\n3rd / DAWIT CHOI,HYUNYOUNG HEO\n\nPower Generator / HYUNMIN KIM\n\nArt / YUNKYUNG KANG\nArt Team / SUHAN LIM Lim, GYUYEONG JEONG\n\n2D VFX / JIHO JEON\n\n#주은 #JUEUN\n#1st #SingleAlbum #EasyBreezy\n#feat #서인국 #SeoInGuk #Release\n#아에르뮤직 #AERMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M9S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "227087",
+                "likeCount": "9718",
+                "favoriteCount": "0",
+                "commentCount": "549"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

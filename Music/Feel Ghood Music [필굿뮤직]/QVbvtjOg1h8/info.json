@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "cdRcpQjnCuHzBfcJmfYSOcXnJPw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "lIM-iIhIAUsaxnGDjj_It3hYutQ",
+            "id": "QVbvtjOg1h8",
+            "snippet": {
+                "publishedAt": "2021-09-10T09:00:15Z",
+                "channelId": "UC8gRco988IELoTNTl4OBd2w",
+                "title": "비비 (BIBI) - PADO Official M/V",
+                "description": "비비 (BIBI) - PADO 🌊 🌊 \nYou are my wave! 🧜‍♀️🏝💦\n\n파도 波濤\n\n1. 바다에 이는 물결.\n2. 맹렬한 기세로 일어나는 어떤 사회적 운동이나 현상을 비유적으로 이르는 말.\n3. 강렬한 심리적 충동이나 움직임을 비유적으로 이르는 말.\n\n#PADO #파도 #波濤\n#비비 #BIBI #Dbo #디보 \n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4​\n - Website : http://www.feelghood.com/​ \n - Facebook : https://www.facebook.com/Feelghood",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QVbvtjOg1h8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QVbvtjOg1h8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QVbvtjOg1h8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QVbvtjOg1h8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QVbvtjOg1h8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Feel Ghood Music [필굿뮤직]",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "비비 (BIBI) - PADO Official M/V",
+                    "description": "비비 (BIBI) - PADO 🌊 🌊 \nYou are my wave! 🧜‍♀️🏝💦\n\n파도 波濤\n\n1. 바다에 이는 물결.\n2. 맹렬한 기세로 일어나는 어떤 사회적 운동이나 현상을 비유적으로 이르는 말.\n3. 강렬한 심리적 충동이나 움직임을 비유적으로 이르는 말.\n\n#PADO #파도 #波濤\n#비비 #BIBI #Dbo #디보 \n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4​\n - Website : http://www.feelghood.com/​ \n - Facebook : https://www.facebook.com/Feelghood"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M17S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1839324",
+                "likeCount": "35777",
+                "favoriteCount": "0",
+                "commentCount": "1300"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "8ScQoHy5IFchIZbbx0PLygAgExg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "1_cdQyDtH7S9lDSXegtqEjh5BO8",
+            "id": "jJkXeAhoqJo",
+            "snippet": {
+                "publishedAt": "2025-07-04T07:59:00Z",
+                "channelId": "UClbjf4pXBzXVk3ImyeBa__w",
+                "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 시험 망한 김에 미쳐보자",
+                "description": "0:00 MOONLGHT - Free Bird\n0:00 MOONLGHT - Free Bird\n\n1:54 Boney M - Rasputin\n1:54 ASTER - Gucci Boy\n\n5:35 ASTER - Gucci Boy\n5:35 ASTER - Gucci Boy\n\n9:12 The Heavy - Better As One \n9:12 The Heavy - Better As One \n\n12:07 Connor Price & Nic D - Ambidextrous\n12:07 Connor Price & Nic D - Ambidextrous\n\n13:59 Queen - Don't Stop Me Now\n13:59 Queen - Don't Stop Me Now\\\n\n17:27 Mark Ronson - Uptown Funk ft. Bruno Mars\n17:27 Mark Ronson - Uptown Funk ft. Bruno Mars",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jJkXeAhoqJo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jJkXeAhoqJo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jJkXeAhoqJo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "뮤플비 Music Plus Movie",
+                "tags": [
+                    "팝송",
+                    "영화",
+                    "팝송가사해석",
+                    "가사해석",
+                    "신나는플리",
+                    "시험플리",
+                    "시험공부 플리",
+                    "시험공부",
+                    "공부할때듣는노랴ㅐ",
+                    "공부팝송",
+                    "공부플리",
+                    "공부플레이리스트",
+                    "운동 플레이리스트",
+                    "운동할",
+                    "운동할때듣는노래"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 시험 망한 김에 미쳐보자",
+                    "description": "0:00 MOONLGHT - Free Bird\n0:00 MOONLGHT - Free Bird\n\n1:54 Boney M - Rasputin\n1:54 ASTER - Gucci Boy\n\n5:35 ASTER - Gucci Boy\n5:35 ASTER - Gucci Boy\n\n9:12 The Heavy - Better As One \n9:12 The Heavy - Better As One \n\n12:07 Connor Price & Nic D - Ambidextrous\n12:07 Connor Price & Nic D - Ambidextrous\n\n13:59 Queen - Don't Stop Me Now\n13:59 Queen - Don't Stop Me Now\\\n\n17:27 Mark Ronson - Uptown Funk ft. Bruno Mars\n17:27 Mark Ronson - Uptown Funk ft. Bruno Mars"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT21M56S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3682",
+                "likeCount": "96",
+                "favoriteCount": "0",
+                "commentCount": "23"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

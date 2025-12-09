@@ -1,0 +1,108 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "FvtOPVtitcD_EsuUGePJ5skgXWA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "3yXh42mk1EaEtgWM-EhzljJctUo",
+            "id": "3rPt1hQCNwU",
+            "snippet": {
+                "publishedAt": "2024-06-28T15:00:05Z",
+                "channelId": "UCsfYd7AVFk_ASiMudok6_sQ",
+                "title": "여기가 프랑스 파리인지 영등포인지 잠깐 헷갈렸습니다. Si tu vois ma mere",
+                "description": "영화 미드나잇 인 파리스에서 OST로도 연주되었던 Si Tu vois ma mere를 연주하였습니다 \n\n즐겁게 감상해주세요!\n\n플룻 신진섭\n바이올린 유호정\n색소폰 정우호\n색소폰 한호승\n피아노 이석원\n드럼 정성재\n베이스 최준혁\n\n협업문의 Chjh1234@gmail.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3rPt1hQCNwU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3rPt1hQCNwU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3rPt1hQCNwU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3rPt1hQCNwU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3rPt1hQCNwU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jazz Music Korea",
+                "tags": [
+                    "재즈",
+                    "재즈밴드",
+                    "재즈공연",
+                    "재즈밴드굿펠리스",
+                    "굿펠리스",
+                    "재즈밴드섭외",
+                    "재즈음악",
+                    "재즈뮤직코리아",
+                    "공연",
+                    "공연섭외",
+                    "재즈베이스",
+                    "콘트라베이스",
+                    "콘트라베이스최준혁",
+                    "재즈베이스최준혁",
+                    "워킹베이스",
+                    "jazz",
+                    "jazzband",
+                    "jazzmusic",
+                    "jazzmusickorea",
+                    "goodfellis",
+                    "uprightbass",
+                    "jazzbass",
+                    "choijunhyuk",
+                    "비브라폰",
+                    "livejazz",
+                    "jazzbandgoodfellis",
+                    "autumn leaves",
+                    "버스킹",
+                    "어텀리브스",
+                    "즉흥연주",
+                    "피렌체",
+                    "여행",
+                    "이태리",
+                    "italy"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "여기가 프랑스 파리인지 영등포인지 잠깐 헷갈렸습니다. Si tu vois ma mere",
+                    "description": "영화 미드나잇 인 파리스에서 OST로도 연주되었던 Si Tu vois ma mere를 연주하였습니다 \n\n즐겁게 감상해주세요!\n\n플룻 신진섭\n바이올린 유호정\n색소폰 정우호\n색소폰 한호승\n피아노 이석원\n드럼 정성재\n베이스 최준혁\n\n협업문의 Chjh1234@gmail.com."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT6M45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4673",
+                "likeCount": "171",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,104 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "sYn6buOrIvtoTIatoURJnVV9GD0",
+        "id": "UgzR_G5dwx_oUNwkush4AaABAg",
+        "snippet": {
+            "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+            "videoId": "pAZz8apkXtg",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "4WXbFoiBM3hBULasBO8n3IvhC7k",
+                "id": "UgzR_G5dwx_oUNwkush4AaABAg",
+                "snippet": {
+                    "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                    "videoId": "pAZz8apkXtg",
+                    "textDisplay": "야마하입니다",
+                    "textOriginal": "야마하입니다",
+                    "authorDisplayName": "@김연희-r1d",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lbpfOC9I8qLiOVcpkqVGISdiSIIKblr7zkprr7zVhB1cV6PVM=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EA%B9%80%EC%97%B0%ED%9D%AC-r1d",
+                    "authorChannelId": {
+                        "value": "UCudCb7WMVZn1WijFw8AetvA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-11-24T16:02:06Z",
+                    "updatedAt": "2025-11-24T16:02:06Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "o4EYXjPJ0SQ9A66idIWhuDaR7BI",
+        "id": "Ugx2I_Jm8kxfoscWxE14AaABAg",
+        "snippet": {
+            "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+            "videoId": "pAZz8apkXtg",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "t948xL9tAJSicIWj5vNYVX5xR3Y",
+                "id": "Ugx2I_Jm8kxfoscWxE14AaABAg",
+                "snippet": {
+                    "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                    "videoId": "pAZz8apkXtg",
+                    "textDisplay": "트럼팼도있읍니다",
+                    "textOriginal": "트럼팼도있읍니다",
+                    "authorDisplayName": "@김연희-r1d",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lbpfOC9I8qLiOVcpkqVGISdiSIIKblr7zkprr7zVhB1cV6PVM=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EA%B9%80%EC%97%B0%ED%9D%AC-r1d",
+                    "authorChannelId": {
+                        "value": "UCudCb7WMVZn1WijFw8AetvA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-11-24T16:01:18Z",
+                    "updatedAt": "2025-11-24T16:01:18Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "TDNddEfUoVKtTz9prQFmdTJfMo4",
+        "id": "UgxMMB7LIK85CT9l5up4AaABAg",
+        "snippet": {
+            "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+            "videoId": "pAZz8apkXtg",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "fLnma8v_6kGHy65Wnvf1aWKSLmU",
+                "id": "UgxMMB7LIK85CT9l5up4AaABAg",
+                "snippet": {
+                    "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                    "videoId": "pAZz8apkXtg",
+                    "textDisplay": "우리집에50년넘은키타있읍니다",
+                    "textOriginal": "우리집에50년넘은키타있읍니다",
+                    "authorDisplayName": "@김연희-r1d",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lbpfOC9I8qLiOVcpkqVGISdiSIIKblr7zkprr7zVhB1cV6PVM=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EA%B9%80%EC%97%B0%ED%9D%AC-r1d",
+                    "authorChannelId": {
+                        "value": "UCudCb7WMVZn1WijFw8AetvA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-24T15:56:27Z",
+                    "updatedAt": "2025-11-24T15:56:27Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

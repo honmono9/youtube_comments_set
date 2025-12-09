@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "z-W1gEy34o7F6EVQI4NEepCIj8I",
+        "id": "Ugz1FuS6YDucRTaIP8h4AaABAg",
+        "snippet": {
+            "channelId": "UCirSyikc3MSAjkJNdFBcR-g",
+            "videoId": "5bH6XMEmhu0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "NMpc7-k7LYjGIEySB6gqtHYeno4",
+                "id": "Ugz1FuS6YDucRTaIP8h4AaABAg",
+                "snippet": {
+                    "channelId": "UCirSyikc3MSAjkJNdFBcR-g",
+                    "videoId": "5bH6XMEmhu0",
+                    "textDisplay": "❤",
+                    "textOriginal": "❤",
+                    "authorDisplayName": "@DanielGhiorghe-01",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/N-lXKQajNC9x_YfVAt5s0ELBwPRQK3WaipcYWiXM6ki0vyA26L1paoatyX16BhfUFAcHgIu1gg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@DanielGhiorghe-01",
+                    "authorChannelId": {
+                        "value": "UCPNtG6ddTthtjWp2vTGj7EQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-10-25T17:14:20Z",
+                    "updatedAt": "2025-10-25T17:14:20Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

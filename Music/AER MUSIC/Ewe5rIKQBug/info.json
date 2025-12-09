@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Z8ker0rpje6Aq5J3emrrBWagMAQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "C8vuaLYwaI0xPVICORylyUzzKd8",
+            "id": "Ewe5rIKQBug",
+            "snippet": {
+                "publishedAt": "2023-03-03T09:00:09Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[MV] 주은 - 처음 순간 | 꼭두의 계절 OST Part.5",
+                "description": "주은 - 처음 순간 | 꼭두의 계절 OST Part.5\n2023.03.03 6PM (KST) Release\n\n\nMBC 금토드라마 ‘꼭두의 계절’ 다섯 번째 OST, 주은의 ‘처음 순간’\n\n\n‘처음 순간’은 EP를 기반으로 한 따뜻한 사운드의 발라드 곡으로,\n사랑을 처음 느낀 순수한 감정을 표현한 가사로 꾸밈없이 담백한 느낌과\n주은의 따스한 감성이 더해져 진심이 담긴 고백송이다.\n\n\nLyrics by 서씨네\nComposed by 서씨네, 서정진\nArranged by 서정진, 박경현\n\nGuitar by YOUNG\nEP by 서정진\nDrums by 서정진\nSynthesizer by 박경현\nBass by 박경현\n\nVocal directed by 모상훈\n\nRecorded and edited by 온성윤 @ s87studio\nMixed by Fascinating\nMastered by nior @ 해안선스튜디오\n\n\n#MBC드라마 #꼭두의계절 #OST \n#주은 #JUEUN #처음순간\n#아에르뮤직 #AERMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ewe5rIKQBug/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ewe5rIKQBug/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ewe5rIKQBug/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ewe5rIKQBug/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ewe5rIKQBug/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[MV] 주은 - 처음 순간 | 꼭두의 계절 OST Part.5",
+                    "description": "주은 - 처음 순간 | 꼭두의 계절 OST Part.5\n2023.03.03 6PM (KST) Release\n\n\nMBC 금토드라마 ‘꼭두의 계절’ 다섯 번째 OST, 주은의 ‘처음 순간’\n\n\n‘처음 순간’은 EP를 기반으로 한 따뜻한 사운드의 발라드 곡으로,\n사랑을 처음 느낀 순수한 감정을 표현한 가사로 꾸밈없이 담백한 느낌과\n주은의 따스한 감성이 더해져 진심이 담긴 고백송이다.\n\n\nLyrics by 서씨네\nComposed by 서씨네, 서정진\nArranged by 서정진, 박경현\n\nGuitar by YOUNG\nEP by 서정진\nDrums by 서정진\nSynthesizer by 박경현\nBass by 박경현\n\nVocal directed by 모상훈\n\nRecorded and edited by 온성윤 @ s87studio\nMixed by Fascinating\nMastered by nior @ 해안선스튜디오\n\n\n#MBC드라마 #꼭두의계절 #OST \n#주은 #JUEUN #처음순간\n#아에르뮤직 #AERMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6683",
+                "likeCount": "386",
+                "favoriteCount": "0",
+                "commentCount": "41"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

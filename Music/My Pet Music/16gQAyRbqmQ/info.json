@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "yQEJqjQAfNrELnGLXUjQF5uq1Jo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "voXMl_fTEQHiazZBHMYvOpFPQEY",
+            "id": "16gQAyRbqmQ",
+            "snippet": {
+                "publishedAt": "2024-04-03T21:00:00Z",
+                "channelId": "UCo62tODW4YnxtszbusXyX-w",
+                "title": "혼자 있는 강아지를 위한 음악🐶편안해지는 음악🎵스트레스 해소음악(9시간)",
+                "description": "안녕하세요. My Pet Music 입니다.\n반려견이 혼자 있는경우\n분리불안을 느끼는 경우가 있는데요,\n편안한 음악과 자연의 소리로\n스트레스를 해소 해주는 음악을\n만들었어요~\n오늘도 행복하세요~!^^\n\n\"let's be happy together\"\n\n\n#강아지음악 #강아지수면음악 #반려견음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/16gQAyRbqmQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/16gQAyRbqmQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/16gQAyRbqmQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/16gQAyRbqmQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/16gQAyRbqmQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "My Pet Music",
+                "tags": [
+                    "강아지음악",
+                    "개음악",
+                    "강아지가좋아하는음악",
+                    "DogMusic",
+                    "Dogsmusic",
+                    "PetMusic",
+                    "강아지힐링음악",
+                    "개수면음악",
+                    "강아지수면음악",
+                    "DogSleepMusic",
+                    "DogRelaxMusic",
+                    "dogsleepingMusic",
+                    "DogRelaxingMusic",
+                    "개가좋아하는음악",
+                    "강아지외출시음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "혼자 있는 강아지를 위한 음악🐶편안해지는 음악🎵스트레스 해소음악(9시간)",
+                    "description": "안녕하세요. My Pet Music 입니다.\n반려견이 혼자 있는경우\n분리불안을 느끼는 경우가 있는데요,\n편안한 음악과 자연의 소리로\n스트레스를 해소 해주는 음악을\n만들었어요~\n오늘도 행복하세요~!^^\n\n\"let's be happy together\"\n\n\n#강아지음악 #강아지수면음악 #반려견음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9H27M5S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "26105",
+                "likeCount": "109",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

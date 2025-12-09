@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "YSfvVYywP-z6zWPAfoOpixyXtHQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "eA4Bp78b6zfwjpokT5pt0YM0-js",
+            "id": "-037fTyQKXA",
+            "snippet": {
+                "publishedAt": "2024-10-25T05:39:53Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "\"Forgotten Airs of the Italian Baroque\" A NAMCYA Balik Artist Concert",
+                "description": "“𝑻𝒉𝒆 𝑭𝒐𝒓𝒈𝒐𝒕𝒕𝒆𝒏 𝑨𝒊𝒓𝒔 𝒐𝒇 𝒕𝒉𝒆 𝑰𝒕𝒂𝒍𝒊𝒂𝒏 𝑩𝒂𝒓𝒐𝒒𝒖𝒆,” A 𝐍𝐀𝐌𝐂𝐘𝐀 𝐁𝐚𝐥𝐢𝐤 𝐀𝐫𝐭𝐢𝐬𝐭 𝐜𝐨𝐧𝐜𝐞𝐫𝐭 featuring 𝐴𝑛𝑑𝑖𝑜𝑛 𝐹𝑒𝑟𝑛𝑎𝑛𝑑𝑒𝑧-𝐶ℎ𝑖𝑛𝑔 (𝑠𝑜𝑝𝑟𝑎𝑛𝑜), 𝐶𝑎𝑚𝑖𝑙𝑙𝑒 𝐿𝑜𝑝𝑒𝑧-𝑀𝑜𝑙𝑖𝑛𝑎 (𝑠𝑜𝑝𝑟𝑎𝑛𝑜), 𝑅𝑒𝑛𝑎𝑡𝑜 𝐿𝑢𝑐𝑎𝑠 (𝑐𝑒𝑙𝑙𝑜), 𝐴𝑙𝑎𝑖𝑛 𝐷𝑒 𝐴𝑠𝑖𝑠 (𝑣𝑖𝑜𝑙𝑖𝑛), 𝐿𝑢𝑖𝑔𝑖 𝑇𝑜𝑟𝑟𝑒𝑠 (𝑣𝑖𝑜𝑙𝑖𝑛), and 𝐽𝑎𝑛 𝑀𝑖𝑛𝑛 𝑀𝑒𝑛𝑑𝑜𝑧𝑎 (𝑣𝑖𝑜𝑙𝑎). This concert is brought to you in partnership with the National Commission for Culture and the Arts and the National Museum of the Philippines, under the auspices of the Italian Embassy in Manila.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-037fTyQKXA/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-037fTyQKXA/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-037fTyQKXA/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-037fTyQKXA/sddefault_live.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-037fTyQKXA/maxresdefault_live.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "24",
+                "liveBroadcastContent": "upcoming",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "\"Forgotten Airs of the Italian Baroque\" A NAMCYA Balik Artist Concert",
+                    "description": "“𝑻𝒉𝒆 𝑭𝒐𝒓𝒈𝒐𝒕𝒕𝒆𝒏 𝑨𝒊𝒓𝒔 𝒐𝒇 𝒕𝒉𝒆 𝑰𝒕𝒂𝒍𝒊𝒂𝒏 𝑩𝒂𝒓𝒐𝒒𝒖𝒆,” A 𝐍𝐀𝐌𝐂𝐘𝐀 𝐁𝐚𝐥𝐢𝐤 𝐀𝐫𝐭𝐢𝐬𝐭 𝐜𝐨𝐧𝐜𝐞𝐫𝐭 featuring 𝐴𝑛𝑑𝑖𝑜𝑛 𝐹𝑒𝑟𝑛𝑎𝑛𝑑𝑒𝑧-𝐶ℎ𝑖𝑛𝑔 (𝑠𝑜𝑝𝑟𝑎𝑛𝑜), 𝐶𝑎𝑚𝑖𝑙𝑙𝑒 𝐿𝑜𝑝𝑒𝑧-𝑀𝑜𝑙𝑖𝑛𝑎 (𝑠𝑜𝑝𝑟𝑎𝑛𝑜), 𝑅𝑒𝑛𝑎𝑡𝑜 𝐿𝑢𝑐𝑎𝑠 (𝑐𝑒𝑙𝑙𝑜), 𝐴𝑙𝑎𝑖𝑛 𝐷𝑒 𝐴𝑠𝑖𝑠 (𝑣𝑖𝑜𝑙𝑖𝑛), 𝐿𝑢𝑖𝑔𝑖 𝑇𝑜𝑟𝑟𝑒𝑠 (𝑣𝑖𝑜𝑙𝑖𝑛), and 𝐽𝑎𝑛 𝑀𝑖𝑛𝑛 𝑀𝑒𝑛𝑑𝑜𝑧𝑎 (𝑣𝑖𝑜𝑙𝑎). This concert is brought to you in partnership with the National Commission for Culture and the Arts and the National Museum of the Philippines, under the auspices of the Italian Embassy in Manila."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "P0D",
+                "dimension": "2d",
+                "definition": "sd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "0",
+                "likeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

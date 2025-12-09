@@ -1,0 +1,84 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "HtH7dkukKrkbjKPTEgzNUapDCR0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "XVlXB8YN-vcwJffl5jkE-CDQGo0",
+            "id": "20ZEcoLKybM",
+            "snippet": {
+                "publishedAt": "2024-01-17T09:00:05Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"휴식이 필요한 당신에게\" 감성 힐링음악 - Take a break",
+                "description": "바쁜 일상속에서 잠깐의 쉼표가 필요한 날~\n한잔의 차와 함께 \n잠깐의 여유로움을 느껴 보는건 어떨까요?\n오늘도 좋은 하루가 되길 바랄게요~ :)\n\n\n🎵곡 제목                      \n01.Take a break\n02.햇살 좋은 날\n03.The Cafe\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#힐링음악 #피아노음악 #편안한음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/20ZEcoLKybM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/20ZEcoLKybM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/20ZEcoLKybM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/20ZEcoLKybM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/20ZEcoLKybM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "편안한음악",
+                    "휴식음악",
+                    "피아노음악",
+                    "PianoMusic",
+                    "RelaxMusic",
+                    "RelaxationMusic",
+                    "힐링음악",
+                    "마음이편안해지는음악",
+                    "카페음악",
+                    "Cafemusic"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"휴식이 필요한 당신에게\" 감성 힐링음악 - Take a break",
+                    "description": "바쁜 일상속에서 잠깐의 쉼표가 필요한 날~\n한잔의 차와 함께 \n잠깐의 여유로움을 느껴 보는건 어떨까요?\n오늘도 좋은 하루가 되길 바랄게요~ :)\n\n\n🎵곡 제목                      \n01.Take a break\n02.햇살 좋은 날\n03.The Cafe\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#힐링음악 #피아노음악 #편안한음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4H36M10S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "55955",
+                "likeCount": "1487",
+                "favoriteCount": "0",
+                "commentCount": "91"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

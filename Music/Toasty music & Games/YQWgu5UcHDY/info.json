@@ -1,0 +1,76 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "5NM10VTU-FuyNoQhto0rccHSFL8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "02u9I6ZddARK1ygrAtoEnYFwX1g",
+            "id": "YQWgu5UcHDY",
+            "snippet": {
+                "publishedAt": "2025-04-09T00:35:41Z",
+                "channelId": "UCTOiofhGz26Nn4uARfKI_Mg",
+                "title": "funky friday",
+                "description": "Music made on https://www.soundtrap.com. Soundtrap is also available on the AppStore and Google Play.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YQWgu5UcHDY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YQWgu5UcHDY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YQWgu5UcHDY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YQWgu5UcHDY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YQWgu5UcHDY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Toasty music & Games",
+                "tags": [
+                    "music",
+                    "soundtrap"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "funky friday",
+                    "description": "Music made on https://www.soundtrap.com. Soundtrap is also available on the AppStore and Google Play."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2M23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "27",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

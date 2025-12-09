@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "zAzLr-x1IbPAO8yq6QQKKaDXgoU",
+        "id": "UgwNCy9Z6ShlUkDcsel4AaABAg",
+        "snippet": {
+            "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+            "videoId": "Bb5s6seqCPk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Vq2vzZR3BP5PKQg9QM1ToQl-1Lo",
+                "id": "UgwNCy9Z6ShlUkDcsel4AaABAg",
+                "snippet": {
+                    "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+                    "videoId": "Bb5s6seqCPk",
+                    "textDisplay": "お借りしました！",
+                    "textOriginal": "お借りしました！",
+                    "authorDisplayName": "@hiroyan_guitar",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/gy7ogHd4_cOUuwfVmr8hXxaimTf6kJX2p0WWiwarwvCdis7k_TDWrIVKqh43MglMKbXjhYGM=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@hiroyan_guitar",
+                    "authorChannelId": {
+                        "value": "UCxrKLX5IXQWO8AcFqdnqeFg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-08-28T06:23:01Z",
+                    "updatedAt": "2025-08-28T06:23:01Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "imUfBxjC9HofnvQ_jpiwvhaaBY0",
+        "id": "UgwxG8xodDyCCHs41Dh4AaABAg",
+        "snippet": {
+            "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+            "videoId": "Bb5s6seqCPk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "01-v4WpX-WgyOq_fE6BuBDijB3A",
+                "id": "UgwxG8xodDyCCHs41Dh4AaABAg",
+                "snippet": {
+                    "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+                    "videoId": "Bb5s6seqCPk",
+                    "textDisplay": "Pedrada esse som.",
+                    "textOriginal": "Pedrada esse som.",
+                    "authorDisplayName": "@leolins5955",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/8Y4SZIZSjIvObIQARDGZFb73uZxsalfLy7fTfPetUiwYEZbhZDlng4lrT0z0RpUsN41KYzKW6oU=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@leolins5955",
+                    "authorChannelId": {
+                        "value": "UCq6vRGIysqZao7DC_Ewb1BQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-08-19T12:07:25Z",
+                    "updatedAt": "2025-08-19T12:07:25Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

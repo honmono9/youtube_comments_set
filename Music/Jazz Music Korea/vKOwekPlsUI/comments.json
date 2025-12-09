@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "ojkWBMZVVY1GDJ0Qy3Bkv45HFBw",
+        "id": "UgxYMkCmGwCXHDoIS3l4AaABAg",
+        "snippet": {
+            "channelId": "UCsfYd7AVFk_ASiMudok6_sQ",
+            "videoId": "vKOwekPlsUI",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "D4uibY1Cw5A6ghzVWGAURoixkXw",
+                "id": "UgxYMkCmGwCXHDoIS3l4AaABAg",
+                "snippet": {
+                    "channelId": "UCsfYd7AVFk_ASiMudok6_sQ",
+                    "videoId": "vKOwekPlsUI",
+                    "textDisplay": "여기서 빅마마는 누구세요?  정말궁금해서요",
+                    "textOriginal": "여기서 빅마마는 누구세요?  정말궁금해서요",
+                    "authorDisplayName": "@사장-n1p",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-gv0vGO4QO-oIOAfrV_nS48kTn3yhL9JIbR5WLV5ryKZIdJTuJOaWxCO-rlti0YwYcVTutEI=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EC%82%AC%EC%9E%A5-n1p",
+                    "authorChannelId": {
+                        "value": "UC4iMSV7ZLu1L6R6MyEBJh0A"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2024-12-24T21:30:06Z",
+                    "updatedAt": "2024-12-24T21:30:06Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

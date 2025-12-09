@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "nxm7dddELlvgEsjJH6uHWYZbrdE",
+        "id": "UgyPSuepTuPUEtV6OHp4AaABAg",
+        "snippet": {
+            "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+            "videoId": "xWVQziLVX9M",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "ELAb_NhOE9BHxF8O7NL05dB3XDU",
+                "id": "UgyPSuepTuPUEtV6OHp4AaABAg",
+                "snippet": {
+                    "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                    "videoId": "xWVQziLVX9M",
+                    "textDisplay": "🤘🏻🎸🔥 ติดตามได้เร็วๆนี้ .. Coming Soon 🔥🤙🏻",
+                    "textOriginal": "🤘🏻🎸🔥 ติดตามได้เร็วๆนี้ .. Coming Soon 🔥🤙🏻",
+                    "authorDisplayName": "@BMAarena",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-roBiYFyedSn6ETMteOjdi1_pT5keQFkEeiv8tJFvSti2JSOuBmqVDnUf-k0lYXsqzdZe2trsQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@BMAarena",
+                    "authorChannelId": {
+                        "value": "UCGUvUVuthSVOk0Kq34krOGA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-10-27T11:29:47Z",
+                    "updatedAt": "2025-10-27T11:29:47Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

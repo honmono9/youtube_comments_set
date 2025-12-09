@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "usreiKmzkPvIElbf-49LfvvONEU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "1IV4qc08imNQmvH2NFLCO-8JGP8",
+            "id": "_Jmo569ZSqU",
+            "snippet": {
+                "publishedAt": "2025-11-10T13:27:01Z",
+                "channelId": "UCL_O5w1_yeGyukBIRB_1alw",
+                "title": "cerita di masa kecil 🧸#nostalgicmusic #kenangan #masalalu #musikgalau #musikindonesia",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_Jmo569ZSqU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_Jmo569ZSqU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_Jmo569ZSqU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_Jmo569ZSqU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_Jmo569ZSqU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Xadiya Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "id",
+                "localized": {
+                    "title": "cerita di masa kecil 🧸#nostalgicmusic #kenangan #masalalu #musikgalau #musikindonesia",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ru"
+            },
+            "contentDetails": {
+                "duration": "PT47S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "316",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

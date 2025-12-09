@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "nULzCc2dzcfyE8HCjPOtW0xzbt8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "fdfHfvdQvTMZiIPga5i6uV5hSQc",
+            "id": "iMyZBlMwVvE",
+            "snippet": {
+                "publishedAt": "2025-09-07T23:00:48Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "Cafe Playlist ☕ 편안하게 하루 종일 틀어놓기 좋은 카페 음악, 기분 좋아지는 하루를 위한 Chill Vibes 🎶",
+                "description": "따뜻한 커피 한 잔과 함께 들으면 딱 좋은, 편안한 카페 음악을 모아봤습니다.\n\n공부할 때, 일할 때, 그냥 멍하니 쉬고 싶을 때 가볍게 틀어놓으세요.\n잔잔하게 흐르는 멜로디가 기분을 차분하게 만들어주고, 어느새 집중도 잘 될 거예요.\n\n조용히 흘러가는 음악 속에서 작은 여유를 느껴보세요.\n오늘도 음악과 함께 따뜻한 하루 되시길 바랍니다 🎶✨\n\n\n#편안하게듣기좋은 #카페음악 #플레이리스트 #공부할때좋은노래 #작업용음악 #집중잘되는음악 #카페플리 #매장음악 #기분좋아지는노래 #하루종일듣기좋은 #cafemusic #playlist #chillmusic #studyplaylist #workmusic #popmusic #indiepop #chillvibes",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iMyZBlMwVvE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iMyZBlMwVvE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iMyZBlMwVvE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iMyZBlMwVvE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iMyZBlMwVvE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Cafe Playlist ☕ 편안하게 하루 종일 틀어놓기 좋은 카페 음악, 기분 좋아지는 하루를 위한 Chill Vibes 🎶",
+                    "description": "따뜻한 커피 한 잔과 함께 들으면 딱 좋은, 편안한 카페 음악을 모아봤습니다.\n\n공부할 때, 일할 때, 그냥 멍하니 쉬고 싶을 때 가볍게 틀어놓으세요.\n잔잔하게 흐르는 멜로디가 기분을 차분하게 만들어주고, 어느새 집중도 잘 될 거예요.\n\n조용히 흘러가는 음악 속에서 작은 여유를 느껴보세요.\n오늘도 음악과 함께 따뜻한 하루 되시길 바랍니다 🎶✨\n\n\n#편안하게듣기좋은 #카페음악 #플레이리스트 #공부할때좋은노래 #작업용음악 #집중잘되는음악 #카페플리 #매장음악 #기분좋아지는노래 #하루종일듣기좋은 #cafemusic #playlist #chillmusic #studyplaylist #workmusic #popmusic #indiepop #chillvibes"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2H56M6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "38857",
+                "likeCount": "154",
+                "favoriteCount": "0",
+                "commentCount": "21"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

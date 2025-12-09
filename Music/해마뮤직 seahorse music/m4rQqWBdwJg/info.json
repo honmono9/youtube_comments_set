@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "UEUOKX6zSm6qQJ7vSeKnEStLb1k",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "k-l0Tiu-83aEMww_9cNeEx3LfRg",
+            "id": "m4rQqWBdwJg",
+            "snippet": {
+                "publishedAt": "2025-09-07T04:00:50Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "의도치않게 히사이시 조의 계절을 합쳐보았다",
+                "description": "#피아노커버 #pianocover #피아노연주 #hisaishijoe #summer #summerpiano #썸머 #히사이시조 #spring \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m4rQqWBdwJg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m4rQqWBdwJg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m4rQqWBdwJg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m4rQqWBdwJg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m4rQqWBdwJg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "피아노",
+                    "피아노 연주",
+                    "piano",
+                    "피아노 악보",
+                    "piano cover",
+                    "히사이시조",
+                    "썸머",
+                    "summer",
+                    "hisaishi joe",
+                    "히사이시 조",
+                    "summer 피아노",
+                    "summer piano",
+                    "썸머 악보",
+                    "spring"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "의도치않게 히사이시 조의 계절을 합쳐보았다",
+                    "description": "#피아노커버 #pianocover #피아노연주 #hisaishijoe #summer #summerpiano #썸머 #히사이시조 #spring \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "14723",
+                "likeCount": "117",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

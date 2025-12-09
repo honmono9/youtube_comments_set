@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "imDv1Gm-m_pET9v1j0AzqQFM7jo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "R1XzjrbMWeGqtcQLdUKmlfR8tBU",
+            "id": "Ll61wE5pZYc",
+            "snippet": {
+                "publishedAt": "2019-08-02T00:20:00Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "063019 Michi Wiancko Blue Bourée",
+                "description": "ENCORE Chamber Music 2019 Season 'La bohème' \n\nJinjoo Cho, violin\nRoman Fraser, violin\nEric Wong, viola\nMax Geissler, cello\nDenise Ro, cello",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ll61wE5pZYc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ll61wE5pZYc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ll61wE5pZYc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ll61wE5pZYc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ll61wE5pZYc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "063019 Michi Wiancko Blue Bourée",
+                    "description": "ENCORE Chamber Music 2019 Season 'La bohème' \n\nJinjoo Cho, violin\nRoman Fraser, violin\nEric Wong, viola\nMax Geissler, cello\nDenise Ro, cello"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "644",
+                "likeCount": "12",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

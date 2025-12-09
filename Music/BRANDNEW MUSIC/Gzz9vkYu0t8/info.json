@@ -1,0 +1,76 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "L0GRcWRBWcXLSnGkwt_IbRHVSaM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "vjoSlpYxtNkq5HRsUQbvuMTQI6E",
+            "id": "Gzz9vkYu0t8",
+            "snippet": {
+                "publishedAt": "2022-07-24T10:00:16Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "범키 '여기저기거기 Pt.2 (Feat. 아넌딜라이트, 지아니)' M/V",
+                "description": "범키 (BUMKEY) '여기저기거기 Pt.2 (Endemic) (Feat. 아넌딜라이트, 지아니)' M/V\n\n'여기저기거기 Pt.2' Available Everywhere Now! \nMelon : http://kko.to/wN5QrZqhS\nApple Music : https://music.apple.com/kr/album/endemic-single/1636231091\n\n#범키 #BUMKEY\n#아넌딜라이트 #지아니\n#여기저기거기_Pt2 #Endemic\n#브랜뉴뮤직 #BRANDNEWMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Gzz9vkYu0t8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Gzz9vkYu0t8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Gzz9vkYu0t8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Gzz9vkYu0t8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Gzz9vkYu0t8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "tags": [
+                    "#브랜뉴뮤직",
+                    "#BRANDNEWMUSIC"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "범키 '여기저기거기 Pt.2 (Feat. 아넌딜라이트, 지아니)' M/V",
+                    "description": "범키 (BUMKEY) '여기저기거기 Pt.2 (Endemic) (Feat. 아넌딜라이트, 지아니)' M/V\n\n'여기저기거기 Pt.2' Available Everywhere Now! \nMelon : http://kko.to/wN5QrZqhS\nApple Music : https://music.apple.com/kr/album/endemic-single/1636231091\n\n#범키 #BUMKEY\n#아넌딜라이트 #지아니\n#여기저기거기_Pt2 #Endemic\n#브랜뉴뮤직 #BRANDNEWMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "12276",
+                "likeCount": "465",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

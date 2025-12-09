@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "UD6gYlcfJL0hQDzpnBiZCBPZsAU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "SD0CXUwBov1V0KKKMYRzYTIFQhs",
+            "id": "Nwt34nGzAew",
+            "snippet": {
+                "publishedAt": "2018-05-27T09:05:08Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "(노래추천) '디플로'가 프로듀싱한 흥행보증 킹갓곡 TOP 4",
+                "description": "@소니뮤직코리아 페이스북\nhttps://www.facebook.com/sonymusickorea\n@소니뮤직코리아 인스타그램\nhttps://www.instagram.com/sonymusickorea",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Nwt34nGzAew/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Nwt34nGzAew/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Nwt34nGzAew/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Nwt34nGzAew/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Nwt34nGzAew/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "tags": [
+                    "POP",
+                    "소니뮤직코리아",
+                    "sonymusickorea",
+                    "디플로",
+                    "Diplo",
+                    "LSD",
+                    "SilkCity",
+                    "Genius",
+                    "OnlyCanGetBetter",
+                    "ColorBlind",
+                    "Welcometotheparty"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "(노래추천) '디플로'가 프로듀싱한 흥행보증 킹갓곡 TOP 4",
+                    "description": "@소니뮤직코리아 페이스북\nhttps://www.facebook.com/sonymusickorea\n@소니뮤직코리아 인스타그램\nhttps://www.instagram.com/sonymusickorea"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4813",
+                "likeCount": "76",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

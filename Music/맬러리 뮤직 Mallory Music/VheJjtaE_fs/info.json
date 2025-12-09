@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "4wD47Y4kIJ_25eDA-s0O3VBs67g",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "94CV9cksCBZ2gARlVEG_O6M8E_o",
+            "id": "VheJjtaE_fs",
+            "snippet": {
+                "publishedAt": "2022-04-29T23:34:29Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "파리의 평화로운 아침을 닮은 프랑스어 음악",
+                "description": "Photo by Daria Shevtsova\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd_Mx0b0I2jaHgsD5FPAuznP",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VheJjtaE_fs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VheJjtaE_fs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VheJjtaE_fs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VheJjtaE_fs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VheJjtaE_fs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "프랑스 음악",
+                    "프랑스 노래",
+                    "샹송",
+                    "아침 팝송",
+                    "잔잔한 팝송",
+                    "불어 노래",
+                    "french songs",
+                    "playlist",
+                    "morning songs"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "파리의 평화로운 아침을 닮은 프랑스어 음악",
+                    "description": "Photo by Daria Shevtsova\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd_Mx0b0I2jaHgsD5FPAuznP"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT30M51S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "267830",
+                "likeCount": "5325",
+                "favoriteCount": "0",
+                "commentCount": "115"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

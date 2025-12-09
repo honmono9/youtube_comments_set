@@ -1,0 +1,84 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "z-JTDLfYSDrAu3PQvBK8G-23Gpo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "XVQ8_F4JITc8Ke3jJt2ZTzs0mes",
+            "id": "y805cbbw5oM",
+            "snippet": {
+                "publishedAt": "2022-02-16T10:49:11Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "시린 겨울 나를 위로해주는 부드럽고 잔잔한 팝송",
+                "description": "photo by sasha matveeva",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y805cbbw5oM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y805cbbw5oM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y805cbbw5oM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/y805cbbw5oM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/y805cbbw5oM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "잔잔한 팝송",
+                    "잔잔한 플리",
+                    "겨울 팝송",
+                    "팝송 추천",
+                    "playlist",
+                    "플리",
+                    "팝송 모음",
+                    "relax song",
+                    "indie songs",
+                    "겨울 노래"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "시린 겨울 나를 위로해주는 부드럽고 잔잔한 팝송",
+                    "description": "photo by sasha matveeva"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT26M46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "21684",
+                "likeCount": "355",
+                "favoriteCount": "0",
+                "commentCount": "77"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

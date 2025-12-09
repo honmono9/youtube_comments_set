@@ -1,0 +1,109 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "hkir0PNPHFP3jN7Ny7vZbKPe0O4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "T2ENdw4g8qzBMIa3BsOF6S0MiQk",
+            "id": "_-IEMkRtZUg",
+            "snippet": {
+                "publishedAt": "2025-05-23T15:01:06Z",
+                "channelId": "UClbjf4pXBzXVk3ImyeBa__w",
+                "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 새벽은 원래 공허한거야",
+                "description": "0:00 Radiohead - No Surprises\n0:00 Radiohead - No Surprises\n\n4:07 d4vd - Here With Me\n4:07 d4vd - Here With Me\n\n8:07 THAMA - You\n8:07 THAMA - You\n\n11:04 Mitski - My Love Mine All Mine\n11:04 Mitski - My Love Mine All Mine\n\n13:18 AJR - God is Really Real\n13:18 AJR - God is Really Real\n\n16:15 The Walters - I Love You So\n16:15 The Walters - I Love You So\n\n18:55 Beabadoobee - Coffee\n18:55 Beabadoobee - Coffee\n\n20:58 24KGoldn - Games On Your Phone\n20:58 24KGoldn - Games On Your Phone\n\n23:29 Hard Life - Nightmares\n23:29 Hard Life - Nightmares\n\n26:56 BoyWithUke - Ghost\n26:56 BoyWithUke - Ghost\n\n30:49 Hayd - Airplane Mode\n30:49 Hayd - Airplane Mode\n\n34:11 mikah - so I don't forget\n34:11 mikah - so I don't forget\n\n37:10 Akon - Lonely\n37:10 Akon - Lonely",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_-IEMkRtZUg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_-IEMkRtZUg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_-IEMkRtZUg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_-IEMkRtZUg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_-IEMkRtZUg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뮤플비 Music Plus Movie",
+                "tags": [
+                    "팝송",
+                    "영화",
+                    "팝송가사해석",
+                    "가사해석",
+                    "조용한팝송",
+                    "조용한플리",
+                    "플리",
+                    "새벽감성",
+                    "새벽감성플리",
+                    "새벽감성팝송",
+                    "새벽팝송",
+                    "새벽플리",
+                    "새벽에듣는노래",
+                    "밤에듣는노래",
+                    "밤",
+                    "운동플리",
+                    "이별플리",
+                    "이별노래",
+                    "이별팝송",
+                    "슬픈팝송",
+                    "고요한팝송",
+                    "고요",
+                    "우울팝송",
+                    "우울플리",
+                    "우울한노래",
+                    "우울한팝송",
+                    "새벽에듣는플리",
+                    "공부플리",
+                    "공부할때듣는노래"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 새벽은 원래 공허한거야",
+                    "description": "0:00 Radiohead - No Surprises\n0:00 Radiohead - No Surprises\n\n4:07 d4vd - Here With Me\n4:07 d4vd - Here With Me\n\n8:07 THAMA - You\n8:07 THAMA - You\n\n11:04 Mitski - My Love Mine All Mine\n11:04 Mitski - My Love Mine All Mine\n\n13:18 AJR - God is Really Real\n13:18 AJR - God is Really Real\n\n16:15 The Walters - I Love You So\n16:15 The Walters - I Love You So\n\n18:55 Beabadoobee - Coffee\n18:55 Beabadoobee - Coffee\n\n20:58 24KGoldn - Games On Your Phone\n20:58 24KGoldn - Games On Your Phone\n\n23:29 Hard Life - Nightmares\n23:29 Hard Life - Nightmares\n\n26:56 BoyWithUke - Ghost\n26:56 BoyWithUke - Ghost\n\n30:49 Hayd - Airplane Mode\n30:49 Hayd - Airplane Mode\n\n34:11 mikah - so I don't forget\n34:11 mikah - so I don't forget\n\n37:10 Akon - Lonely\n37:10 Akon - Lonely"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT41M6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3823",
+                "likeCount": "149",
+                "favoriteCount": "0",
+                "commentCount": "13"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "LDe58uFraDEZp16qPiHmTr9TOq8",
+        "id": "UgwpdymORnzvf-lcc3t4AaABAg",
+        "snippet": {
+            "channelId": "UCuF5t0ziFf7QfoR9_xlti1w",
+            "videoId": "Gm7ex9I9fts",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "i0ep-grMDtJLaZ5aZXmVXzuMaHQ",
+                "id": "UgwpdymORnzvf-lcc3t4AaABAg",
+                "snippet": {
+                    "channelId": "UCuF5t0ziFf7QfoR9_xlti1w",
+                    "videoId": "Gm7ex9I9fts",
+                    "textDisplay": "舟津真翔くん大好き💕『君は運命の人』も大好きな曲です❣️👍😃",
+                    "textOriginal": "舟津真翔くん大好き💕『君は運命の人』も大好きな曲です❣️👍😃",
+                    "authorDisplayName": "@山本美保子-f4s",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lN4zFl1uq3jUJI6D5yhtpzmNQS6-kquQ6v9EgtZWY=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%E5%B1%B1%E6%9C%AC%E7%BE%8E%E4%BF%9D%E5%AD%90-f4s",
+                    "authorChannelId": {
+                        "value": "UCBBqXI54Sybxxw23yRjN20g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-11-29T11:56:14Z",
+                    "updatedAt": "2025-11-29T11:56:14Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

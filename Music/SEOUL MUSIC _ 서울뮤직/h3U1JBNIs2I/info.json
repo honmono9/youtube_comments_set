@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "yaoYpg1iODKTRZIhZ8kL2DSEpNc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "W0Ve1C2UTYJr1-l_eoY_8UD9ewU",
+            "id": "h3U1JBNIs2I",
+            "snippet": {
+                "publishedAt": "2023-10-20T09:00:33Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[It’s Live B-Side] 다나카 \"워워워 (Prod By D-Hack)\" 비하인드 │ 잇츠라이브 X 서울뮤직",
+                "description": "잇츠라이브와 서울뮤직이 함께 하는 'It's Live  B-Side’\n여덟 번째 주인공은 ‘워워워 (Prod By D-Hack)’로 돌아온 다나카!\n다나카의 치명적인 매력을 잇츠라이브 B-Side에서 확인하세요!\n \n▼ 잇츠라이브 다나카 밴드버전 라이브 ▼\n🔗 https://youtu.be/9509Nn0CLrg\n \n#다나카 #TANAKA #워워워 #KPOP #itsLive #SEOULMUSIC #잇츠라이브 #서울뮤직 #Bside",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h3U1JBNIs2I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h3U1JBNIs2I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h3U1JBNIs2I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/h3U1JBNIs2I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/h3U1JBNIs2I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "tags": [
+                    "다나카",
+                    "tanaka",
+                    "김경욱",
+                    "KPOP",
+                    "비하인드",
+                    "잇츠라이브",
+                    "itsLive",
+                    "Band LIVE",
+                    "밴드라이브",
+                    "서울뮤직",
+                    "잇츠라이브 서울뮤직",
+                    "jpop",
+                    "디핵",
+                    "와스레나이"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[It’s Live B-Side] 다나카 \"워워워 (Prod By D-Hack)\" 비하인드 │ 잇츠라이브 X 서울뮤직",
+                    "description": "잇츠라이브와 서울뮤직이 함께 하는 'It's Live  B-Side’\n여덟 번째 주인공은 ‘워워워 (Prod By D-Hack)’로 돌아온 다나카!\n다나카의 치명적인 매력을 잇츠라이브 B-Side에서 확인하세요!\n \n▼ 잇츠라이브 다나카 밴드버전 라이브 ▼\n🔗 https://youtu.be/9509Nn0CLrg\n \n#다나카 #TANAKA #워워워 #KPOP #itsLive #SEOULMUSIC #잇츠라이브 #서울뮤직 #Bside"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT5M22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2952",
+                "likeCount": "314",
+                "favoriteCount": "0",
+                "commentCount": "111"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

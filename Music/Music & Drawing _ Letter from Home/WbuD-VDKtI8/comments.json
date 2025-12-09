@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "r8UBAOrmpVTHm3H1AkE1-JMkdP4",
+        "id": "Ugyc3zyrqHiWH_ntZEN4AaABAg",
+        "snippet": {
+            "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+            "videoId": "WbuD-VDKtI8",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "hzCAxy4QlP4csHrOSMnyGyiMuDQ",
+                "id": "Ugyc3zyrqHiWH_ntZEN4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                    "videoId": "WbuD-VDKtI8",
+                    "textDisplay": "Jaka przyjemność słuchać takich spokojnych rytmów. Już drugi raz słucham ☺️",
+                    "textOriginal": "Jaka przyjemność słuchać takich spokojnych rytmów. Już drugi raz słucham ☺️",
+                    "authorDisplayName": "@aloryt",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mBDPTjSST3uzjDYUH-oMCrtfhSMTHSxruu8RWiGuTfPA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@aloryt",
+                    "authorChannelId": {
+                        "value": "UCe24vR5n8ZcBvSTS-vIX89g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-09-25T16:06:59Z",
+                    "updatedAt": "2025-09-25T16:06:59Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

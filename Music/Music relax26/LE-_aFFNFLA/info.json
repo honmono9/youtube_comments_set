@@ -1,0 +1,74 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "7_2XNpVVj-gLV3HFLJv3SHxAiZQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "l_dOtGx3Yn6mJU1cJ0m7-hK8lSQ",
+            "id": "LE-_aFFNFLA",
+            "snippet": {
+                "publishedAt": "2025-10-22T10:57:53Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "ดนตรีสด รวมฮิตเพลงลูกทุ่ง-เพื่อชีวิต เพราะๆ ฟังกันยาวๆ โดย [Music relax26]",
+                "description": "ดนตรีสด รวมฮิตเพลงลูกทุ่ง-เพื่อชีวิต เพราะๆ ฟังกันยาวๆ โดย [Music relax26]\n#ดนตรีสด #fดนตรีโฟล์คซอง #เพลงลูกทุ่ง-เพื่อชีวิต",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LE-_aFFNFLA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LE-_aFFNFLA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LE-_aFFNFLA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LE-_aFFNFLA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "tags": [
+                    "ดนตรีสด รวมฮิตเพลงลูกทุ่ง-เพื่อชีวิต เพราะๆ ฟังกันยาวๆ โดย [Music relax26]",
+                    "ดนตรีสดจากวงหมุตุ่น",
+                    "เพลงโฟล์คโคตรเพราะ",
+                    "ดนตรีสดเพื่อชีวิต",
+                    "เพลงลูกทุ่ง"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "ดนตรีสด รวมฮิตเพลงลูกทุ่ง-เพื่อชีวิต เพราะๆ ฟังกันยาวๆ โดย [Music relax26]",
+                    "description": "ดนตรีสด รวมฮิตเพลงลูกทุ่ง-เพื่อชีวิต เพราะๆ ฟังกันยาวๆ โดย [Music relax26]\n#ดนตรีสด #fดนตรีโฟล์คซอง #เพลงลูกทุ่ง-เพื่อชีวิต"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT53M29S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "574",
+                "likeCount": "9",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Vwfu13TGSUQWka-RxL4O1uba_Kw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "qW59_hrA_8dVticvOceVWlYGrY8",
+            "id": "qgLln6-Pl1s",
+            "snippet": {
+                "publishedAt": "2018-04-02T08:59:44Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "#한해TV EP.1 ‘유기농’ 컨셉 포토 촬영기",
+                "description": "#한해TV EP.1 ‘유기농’ 컨셉 포토 촬영기\n\n*다음주 월요일 오후 6시에 다시 만나요!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qgLln6-Pl1s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qgLln6-Pl1s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qgLln6-Pl1s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qgLln6-Pl1s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qgLln6-Pl1s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "tags": [
+                    "한해",
+                    "유기농",
+                    "HANHAE"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "#한해TV EP.1 ‘유기농’ 컨셉 포토 촬영기",
+                    "description": "#한해TV EP.1 ‘유기농’ 컨셉 포토 촬영기\n\n*다음주 월요일 오후 6시에 다시 만나요!"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1167",
+                "likeCount": "62",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

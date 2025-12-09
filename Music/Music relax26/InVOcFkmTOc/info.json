@@ -1,0 +1,67 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Aygyb6Ws3mWEB9bBbOgAbOaz2ZY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ISXBH-h80KfVyMEqV-2v8mm4oZA",
+            "id": "InVOcFkmTOc",
+            "snippet": {
+                "publishedAt": "2025-09-08T11:44:05Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "ดนตรีสดร้านเหล้า รวมฮิตลูกทุ่ง - เพื่อชีวิต โจ๊ะๆ",
+                "description": "ดนตรีสดร้านเหล้า รวมฮิตลูกทุ่ง - เพื่อชีวิต โจ๊ะๆ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/InVOcFkmTOc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/InVOcFkmTOc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/InVOcFkmTOc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/InVOcFkmTOc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "ดนตรีสดร้านเหล้า รวมฮิตลูกทุ่ง - เพื่อชีวิต โจ๊ะๆ",
+                    "description": "ดนตรีสดร้านเหล้า รวมฮิตลูกทุ่ง - เพื่อชีวิต โจ๊ะๆ"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT38M46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5309",
+                "likeCount": "66",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

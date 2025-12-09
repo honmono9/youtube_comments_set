@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "gmnjXyHVX3HmiPKJQPKNDQakX-0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ro-1A4H6n3GwBcxWbdG-jhXT01k",
+            "id": "Q5ORCmloCZo",
+            "snippet": {
+                "publishedAt": "2020-10-26T09:00:04Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[Teaser] BXK - 내버려둬(NOYB) / Official Teaser",
+                "description": "[Teaser] BXK - 내버려둬(NOYB) / Official Teaser\n\n#BXK #비엑스케이 #내버려둬 #NOYB",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q5ORCmloCZo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q5ORCmloCZo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q5ORCmloCZo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Q5ORCmloCZo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Q5ORCmloCZo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Teaser] BXK - 내버려둬(NOYB) / Official Teaser",
+                    "description": "[Teaser] BXK - 내버려둬(NOYB) / Official Teaser\n\n#BXK #비엑스케이 #내버려둬 #NOYB"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "385",
+                "likeCount": "33",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "-BHQLG0tnMHo3sL65oHwrUp9eGk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "SbdGzKiiWfJSHdbEPCy-1W51d5s",
+            "id": "F1jpIu0lKYw",
+            "snippet": {
+                "publishedAt": "2022-06-23T05:08:59Z",
+                "channelId": "UCEhxA_aRk5gPi7PbzvmkSlg",
+                "title": "[ASMR] 빗소리와 함께 듣는 잔잔한 뉴에이지 | ONION - 그 해 여름",
+                "description": "New Age music with sounds of nature.\n\n01 어느 여름날 (숲소리) 00:00\n02 지금 만나러 갑니다 (빗소리) 03:15\n03 같이 걸을까 (숲소리) 05:06\n04 갑자기 찾아온 소나기 (빗소리) 08:49\n05 우산 속 너와 나 (빗소리) 11:56\n06 다만 널 사랑하고 있어 (숲소리) 14:03\n07 비 오는 날의 러브레터 (빗소리) 16:34\n08 이별의 장마 (빗소리) 20:31\n09 눈물이 주룩주룩 (빗소리) 24:12\n10 여름의 끝자락 (자연소리) 26:19\n\n발매일 : 2020.06.17\n\n\n📮\n[인스타그램 | INSTAGRAM]\n@stompmusic.classic - https://www.instagram.com/stompmusic.classic/\n@stompmusic.sound - https://www.instagram.com/stompmusic.sound/\n\n[페이스북 | FACEBOOK] - https://www.facebook.com/STOMPMUSIC/\n\n[네이버 블로그 | NAVER BLOG] - https://blog.naver.com/stomp442",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F1jpIu0lKYw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F1jpIu0lKYw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F1jpIu0lKYw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/F1jpIu0lKYw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/F1jpIu0lKYw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "STOMP MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[ASMR] 빗소리와 함께 듣는 잔잔한 뉴에이지 | ONION - 그 해 여름",
+                    "description": "New Age music with sounds of nature.\n\n01 어느 여름날 (숲소리) 00:00\n02 지금 만나러 갑니다 (빗소리) 03:15\n03 같이 걸을까 (숲소리) 05:06\n04 갑자기 찾아온 소나기 (빗소리) 08:49\n05 우산 속 너와 나 (빗소리) 11:56\n06 다만 널 사랑하고 있어 (숲소리) 14:03\n07 비 오는 날의 러브레터 (빗소리) 16:34\n08 이별의 장마 (빗소리) 20:31\n09 눈물이 주룩주룩 (빗소리) 24:12\n10 여름의 끝자락 (자연소리) 26:19\n\n발매일 : 2020.06.17\n\n\n📮\n[인스타그램 | INSTAGRAM]\n@stompmusic.classic - https://www.instagram.com/stompmusic.classic/\n@stompmusic.sound - https://www.instagram.com/stompmusic.sound/\n\n[페이스북 | FACEBOOK] - https://www.facebook.com/STOMPMUSIC/\n\n[네이버 블로그 | NAVER BLOG] - https://blog.naver.com/stomp442"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT28M27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9845",
+                "likeCount": "124",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

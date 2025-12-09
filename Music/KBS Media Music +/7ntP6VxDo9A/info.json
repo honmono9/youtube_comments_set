@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "y7FiFUeDIhnEiI-1DI8xE9XxCYg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "rgoTp7pGePJLRrZKumxOpG7DRws",
+            "id": "7ntP6VxDo9A",
+            "snippet": {
+                "publishedAt": "2025-08-26T03:00:06Z",
+                "channelId": "UC9LkgSReKybPl-gABo3fbRQ",
+                "title": "[가사비디오 / Lyric Video] 넷소리 걸작 제 1집 - 비가 내리네",
+                "description": "KBS MEDIA에서 새롭게 선보이는 음원들을 구독하고 만나보세요 '◡' ! \n   /   @KBSMEDIAMUSICPLUS\n\n비가 내리네\n님 없는 이 거리에\n수많은 연인 속에\n홀로 걷는 이 마음\n뛰라셔 말이요\n허전한 이 마음을\n\n아 아\n\n내 사랑은 지금 어디에\n이 빗소리 듣고 있을까\n비야 내려라\n한없이 내려라\n내 님이 오실 그 날까지\n\n내 사랑은 지금 어디에\n이 빗소리 듣고 있을까\n사랑 내 사랑아\n부디 안녕히\n\n먼 훗날 그 날까지 안녕히\n내 사랑 안녕\n\n먼 훗날 그 날까지\n부디 안녕히\n안녕히 안녕히\n\n내 사랑 안녕\n먼 훗날 그날까지\n\n부디 안녕히\n안녕히 안녕히\n\n\n\n#KBS미디어뮤직플러스 #KBSMEDIAMUSICPLUS #케이비에스미디어뮤직플러스 \n#넷소리걸작제1집 #비가내리네  #지구레코드",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7ntP6VxDo9A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7ntP6VxDo9A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7ntP6VxDo9A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7ntP6VxDo9A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7ntP6VxDo9A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS Media Music +",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[가사비디오 / Lyric Video] 넷소리 걸작 제 1집 - 비가 내리네",
+                    "description": "KBS MEDIA에서 새롭게 선보이는 음원들을 구독하고 만나보세요 '◡' ! \n   /   @KBSMEDIAMUSICPLUS\n\n비가 내리네\n님 없는 이 거리에\n수많은 연인 속에\n홀로 걷는 이 마음\n뛰라셔 말이요\n허전한 이 마음을\n\n아 아\n\n내 사랑은 지금 어디에\n이 빗소리 듣고 있을까\n비야 내려라\n한없이 내려라\n내 님이 오실 그 날까지\n\n내 사랑은 지금 어디에\n이 빗소리 듣고 있을까\n사랑 내 사랑아\n부디 안녕히\n\n먼 훗날 그 날까지 안녕히\n내 사랑 안녕\n\n먼 훗날 그 날까지\n부디 안녕히\n안녕히 안녕히\n\n내 사랑 안녕\n먼 훗날 그날까지\n\n부디 안녕히\n안녕히 안녕히\n\n\n\n#KBS미디어뮤직플러스 #KBSMEDIAMUSICPLUS #케이비에스미디어뮤직플러스 \n#넷소리걸작제1집 #비가내리네  #지구레코드"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "204",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

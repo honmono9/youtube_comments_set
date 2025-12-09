@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "CDBBKh6-racqfDCFEIezK-yUktw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "GBxXngldbq2ecQzeAZf5j7I1uQw",
+            "id": "JVf6UP3BJDA",
+            "snippet": {
+                "publishedAt": "2022-06-22T13:00:10Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Good Energy Bossa Nova - Happy Summer Jazz & Bossa Music to Relax",
+                "description": "Lift your mood by listening to this happy jazz and bossa nova music playlist for summer by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #bossanova #relaxingjazz \n\nl129",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JVf6UP3BJDA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JVf6UP3BJDA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JVf6UP3BJDA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JVf6UP3BJDA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JVf6UP3BJDA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "tags": [
+                    "happy bossa nova",
+                    "jazz",
+                    "summer jazz",
+                    "good energy jazz",
+                    "jazz to relax",
+                    "happy jazz",
+                    "coffee time jazz",
+                    "morning vibes jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Good Energy Bossa Nova - Happy Summer Jazz & Bossa Music to Relax",
+                    "description": "Lift your mood by listening to this happy jazz and bossa nova music playlist for summer by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #bossanova #relaxingjazz \n\nl129"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9003",
+                "likeCount": "171",
+                "favoriteCount": "0",
+                "commentCount": "18"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

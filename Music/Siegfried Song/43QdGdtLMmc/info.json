@@ -1,0 +1,76 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "jEoeK1JaC_4nR_wF-8O5NeWaxHU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "VBoNjCWMwZQZ2EB41kosEczRQiE",
+            "id": "43QdGdtLMmc",
+            "snippet": {
+                "publishedAt": "2022-05-30T03:21:32Z",
+                "channelId": "UCquS6S5yOGk2j5YS6WHj6eA",
+                "title": "Angra - Reaching Horizons (Cover by SIEG ft. Leo Patkovic)",
+                "description": "Siegfried Song Facebook : http://www.facebook.com/SiegfriedSongOfficial\nLeo Patkovic YouTube : https://www.youtube.com/user/leogitara/\n\nI started a long journey to fly to the sky, but all the nostalgic faces that rise over the horizon are still there... so I'm sending my soul into each wave, then I hope they return to reach my land.\n\nLeo is not very well known, but he is very sensual and a great guitarist. Please visit Leo's channel.\n\nAngra - Reaching Horizons (Cover by SIEG ft. Leo Patkovic)\n\nSiegfried Song (Symmetric Chaos, South Korea) - Vocals, Mixing, Mastering and Video Editing\nLeo Patkovic (Leo Patkovic, Serbia) - Guitars",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/43QdGdtLMmc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/43QdGdtLMmc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/43QdGdtLMmc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/43QdGdtLMmc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/43QdGdtLMmc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Siegfried Song",
+                "tags": [
+                    "Siegfried",
+                    "Song"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Angra - Reaching Horizons (Cover by SIEG ft. Leo Patkovic)",
+                    "description": "Siegfried Song Facebook : http://www.facebook.com/SiegfriedSongOfficial\nLeo Patkovic YouTube : https://www.youtube.com/user/leogitara/\n\nI started a long journey to fly to the sky, but all the nostalgic faces that rise over the horizon are still there... so I'm sending my soul into each wave, then I hope they return to reach my land.\n\nLeo is not very well known, but he is very sensual and a great guitarist. Please visit Leo's channel.\n\nAngra - Reaching Horizons (Cover by SIEG ft. Leo Patkovic)\n\nSiegfried Song (Symmetric Chaos, South Korea) - Vocals, Mixing, Mastering and Video Editing\nLeo Patkovic (Leo Patkovic, Serbia) - Guitars"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT5M11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6719",
+                "likeCount": "219",
+                "favoriteCount": "0",
+                "commentCount": "93"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

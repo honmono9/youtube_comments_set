@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "-n6dhc0nlaJXk2iooxNWSi1BXlk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "4Tz1EjaaiZ3eXv-jxmF8QQVHrpc",
+            "id": "ZAOnwD_JkIY",
+            "snippet": {
+                "publishedAt": "2025-10-03T13:01:11Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Begin Again | Daniel Brinsmead",
+                "description": "Begin Again by Daniel Brinsmead is written for SA with optional descant and piano. \n\nThe style and text of this SA work by Daniel Brinsmead will speak to anyone, and are sophisticated enough to work for choirs young and old. This is an important text that needs to be sung and heard.\n\nPurchase the music: http://giamusic.com/resource/begin-again-printed-music-wjms1226",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZAOnwD_JkIY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZAOnwD_JkIY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZAOnwD_JkIY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZAOnwD_JkIY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZAOnwD_JkIY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Begin Again | Daniel Brinsmead",
+                    "description": "Begin Again by Daniel Brinsmead is written for SA with optional descant and piano. \n\nThe style and text of this SA work by Daniel Brinsmead will speak to anyone, and are sophisticated enough to work for choirs young and old. This is an important text that needs to be sung and heard.\n\nPurchase the music: http://giamusic.com/resource/begin-again-printed-music-wjms1226"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2188",
+                "likeCount": "41",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

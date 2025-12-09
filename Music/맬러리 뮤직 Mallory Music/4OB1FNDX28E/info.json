@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "l59NcI025eRl0dNzYWvyEsklFas",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "9uXGcTVnjPYgONeN-DH2WNXPMJU",
+            "id": "4OB1FNDX28E",
+            "snippet": {
+                "publishedAt": "2022-02-21T22:01:04Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "기분좋은 하루를 위한 부드럽고 적당한 템포의 데일리 팝",
+                "description": "Photo by Spacejoy\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd-0KQd-tQHqCE5suxgjZ2b4",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4OB1FNDX28E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4OB1FNDX28E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4OB1FNDX28E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4OB1FNDX28E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4OB1FNDX28E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "팝송",
+                    "팝송 모음",
+                    "아침 팝송",
+                    "기분좋은 팝송",
+                    "플리",
+                    "플레이리스트",
+                    "playlist",
+                    "팝송 플리",
+                    "하루 시작 팝송",
+                    "morning pop songs",
+                    "pop songs"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "기분좋은 하루를 위한 부드럽고 적당한 템포의 데일리 팝",
+                    "description": "Photo by Spacejoy\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd-0KQd-tQHqCE5suxgjZ2b4"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT25M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "51193",
+                "likeCount": "875",
+                "favoriteCount": "0",
+                "commentCount": "59"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

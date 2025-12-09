@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "BlUXkrglY-QKYvFAq6w-0vXrwPs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "FVA6PEARb0rom1T3BxUbxBUvbvA",
+            "id": "EjoxpfLHOyc",
+            "snippet": {
+                "publishedAt": "2025-11-09T00:46:50Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Nirvana - Smells Like Teen Spirit | 70s Soul AI Cover",
+                "description": "Smells Like Teen Spirit by Nirvana twisted into 70s Soul\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nLoad up on guns, bring your friends\nIt's fun to lose and to pretend\nShe's over-bored and self-assured\nOh no, I know a dirty word\n\nHello, hello, hello, how low\nHello, hello, hello, how low\nHello, hello, hello, how low\nHello, hello, hello\n\nWith the lights out, it's less dangerous\nHere we are now, entertain us\nI feel stupid and contagious\nHere we are now, entertain us\nA mulatto, an albino\nA mosquito, my libido\n\nYeah, hey, yay\n\nI'm worse at what I do best\nAnd for this gift, I feel blessed\nOur little group has always been\nAnd always will until the end\n\nHello, hello, hello, how low\nHello, hello, hello, how low\nHello, hello, hello, how low\nHello, hello, hello\n\nWith the lights out, it's less dangerous\nHere we are now, entertain us\nI feel stupid and contagious\nHere we are now, entertain us\nA mulatto, an albino\nA mosquito, my libido\n\nYeah, hey, yay\n\nAnd I forget just why I taste\nOh yeah, I guess it makes me smile\nI found it hard, it's hard to find\nOh well, whatever, never mind\n\nHello, hello, hello, how low\nHello, hello, hello, how low\nHello, hello, hello, how low\nHello, hello, hello\n\nWith the lights out, it's less dangerous\nHere we are now, entertain us\nI feel stupid and contagious\nHere we are now, entertain us\nA mulatto, an albino\nA mosquito, my libido\n\nA denial, a denial\nA denial, a denial\nA denial, a denial\nA denial, a denial\nA denial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EjoxpfLHOyc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EjoxpfLHOyc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EjoxpfLHOyc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EjoxpfLHOyc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EjoxpfLHOyc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Nirvana - Smells Like Teen Spirit | 70s Soul AI Cover",
+                    "description": "Smells Like Teen Spirit by Nirvana twisted into 70s Soul\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nLoad up on guns, bring your friends\nIt's fun to lose and to pretend\nShe's over-bored and self-assured\nOh no, I know a dirty word\n\nHello, hello, hello, how low\nHello, hello, hello, how low\nHello, hello, hello, how low\nHello, hello, hello\n\nWith the lights out, it's less dangerous\nHere we are now, entertain us\nI feel stupid and contagious\nHere we are now, entertain us\nA mulatto, an albino\nA mosquito, my libido\n\nYeah, hey, yay\n\nI'm worse at what I do best\nAnd for this gift, I feel blessed\nOur little group has always been\nAnd always will until the end\n\nHello, hello, hello, how low\nHello, hello, hello, how low\nHello, hello, hello, how low\nHello, hello, hello\n\nWith the lights out, it's less dangerous\nHere we are now, entertain us\nI feel stupid and contagious\nHere we are now, entertain us\nA mulatto, an albino\nA mosquito, my libido\n\nYeah, hey, yay\n\nAnd I forget just why I taste\nOh yeah, I guess it makes me smile\nI found it hard, it's hard to find\nOh well, whatever, never mind\n\nHello, hello, hello, how low\nHello, hello, hello, how low\nHello, hello, hello, how low\nHello, hello, hello\n\nWith the lights out, it's less dangerous\nHere we are now, entertain us\nI feel stupid and contagious\nHere we are now, entertain us\nA mulatto, an albino\nA mosquito, my libido\n\nA denial, a denial\nA denial, a denial\nA denial, a denial\nA denial, a denial\nA denial"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M17S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "640",
+                "likeCount": "17",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

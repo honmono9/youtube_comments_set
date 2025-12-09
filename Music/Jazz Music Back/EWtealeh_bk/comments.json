@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "IvTrtcPJMrPJDa728Y2S_lpkYvk",
+        "id": "Ugx8MPWsFvFfpageDmx4AaABAg",
+        "snippet": {
+            "channelId": "UCxWfuzrNR2jjAnWUh8o8ycA",
+            "videoId": "EWtealeh_bk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "MOvocu2W_9LHj0mwBhrLjGtMsq4",
+                "id": "Ugx8MPWsFvFfpageDmx4AaABAg",
+                "snippet": {
+                    "channelId": "UCxWfuzrNR2jjAnWUh8o8ycA",
+                    "videoId": "EWtealeh_bk",
+                    "textDisplay": "Jesteście super,uwielbiam was sluchac",
+                    "textOriginal": "Jesteście super,uwielbiam was sluchac",
+                    "authorDisplayName": "@iwonastawik8454",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ngFjaomLpn3H1bUy0jpzuda1PpRhrN_sUMuIEVIOY=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@iwonastawik8454",
+                    "authorChannelId": {
+                        "value": "UCG6qQw64c0amxnHNou0pRBg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-09-06T17:42:25Z",
+                    "updatedAt": "2025-09-06T17:42:25Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "xs87_7mSFQ8CD3Ve0ATeErpFPFM",
+        "id": "Ugw5TA7YCNhn_PiNDMN4AaABAg",
+        "snippet": {
+            "channelId": "UCxWfuzrNR2jjAnWUh8o8ycA",
+            "videoId": "EWtealeh_bk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "r98EN2wn8pQFFJby28yUKAxofvw",
+                "id": "Ugw5TA7YCNhn_PiNDMN4AaABAg",
+                "snippet": {
+                    "channelId": "UCxWfuzrNR2jjAnWUh8o8ycA",
+                    "videoId": "EWtealeh_bk",
+                    "textDisplay": "❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤",
+                    "textOriginal": "❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤",
+                    "authorDisplayName": "@iwonastawik8454",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ngFjaomLpn3H1bUy0jpzuda1PpRhrN_sUMuIEVIOY=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@iwonastawik8454",
+                    "authorChannelId": {
+                        "value": "UCG6qQw64c0amxnHNou0pRBg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-09-06T17:40:27Z",
+                    "updatedAt": "2025-09-06T17:40:27Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

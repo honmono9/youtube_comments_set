@@ -1,0 +1,91 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Ht9vTHE0Y73cF827dYANmMG5Z9k",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "VjjnCvv0Dj-cxeXzF0Ak7P8nmDM",
+            "id": "cemMWYWCL6A",
+            "snippet": {
+                "publishedAt": "2024-12-29T12:00:46Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"오늘처럼 눈이 내리면\" 동화같은 수면음악 - White Snow",
+                "description": "세상이 온통 하얀색으로 번져가는 오늘,\n1년 내 갖고 있던 걱정들도..\n힘들고 어려웠던 일들도,\n하얗게 지워지길 바랍니다.\n\n모두의 마음속이 편안하고 행복함으로 \n가득 채워지는 새해가 되길 기도 하겠습니다!\n\nHappy new year!\nI've always been grateful to everyone!!\n\n\n🎵곡명                         \n\"눈 덮인 세상\"                 \n\"Happy\"         \n\n🌙'Music Drawing' 의 음악과 그림을 통해 \n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악\n#편안한음악\n#잠잘때듣는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cemMWYWCL6A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cemMWYWCL6A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cemMWYWCL6A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cemMWYWCL6A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cemMWYWCL6A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "수면음악",
+                    "아름다운피아노음악",
+                    "피아노음악",
+                    "수면유도음악",
+                    "편안한음악",
+                    "잠잘때듣는음악",
+                    "잠오는음악",
+                    "숙면음악",
+                    "자기전에듣는음악",
+                    "RelxMusic",
+                    "RelaxingMusic",
+                    "SleepMusic",
+                    "SleepingMusic",
+                    "PianoMusic",
+                    "RelaxMusic",
+                    "RelaxingPianoMusic",
+                    "불면증음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"오늘처럼 눈이 내리면\" 동화같은 수면음악 - White Snow",
+                    "description": "세상이 온통 하얀색으로 번져가는 오늘,\n1년 내 갖고 있던 걱정들도..\n힘들고 어려웠던 일들도,\n하얗게 지워지길 바랍니다.\n\n모두의 마음속이 편안하고 행복함으로 \n가득 채워지는 새해가 되길 기도 하겠습니다!\n\nHappy new year!\nI've always been grateful to everyone!!\n\n\n🎵곡명                         \n\"눈 덮인 세상\"                 \n\"Happy\"         \n\n🌙'Music Drawing' 의 음악과 그림을 통해 \n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악\n#편안한음악\n#잠잘때듣는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8H40M30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "46585",
+                "likeCount": "1272",
+                "favoriteCount": "0",
+                "commentCount": "96"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

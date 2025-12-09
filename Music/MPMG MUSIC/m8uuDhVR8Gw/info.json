@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ZT2fM5D702lhjtDZTBKvjvPkE9E",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "VeN5ZlqdHgBpvc-SsibsRhVOfrM",
+            "id": "m8uuDhVR8Gw",
+            "snippet": {
+                "publishedAt": "2021-06-24T13:00:19Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "[불면 라이브] 잠이 안 와 미쳤ㄴㅏ..ㅂㅘ....zzz 🛌 (with 이태욱)",
+                "description": "뜨거운 여름밤 잠 못 드는 여러분을 위해\n해피로봇 레코드가 준비한 선물!\n\n'불면 라이브'의 첫 번째 주자!\n소란의 기타리스트 이태욱의 무편집 기타 연주 ASMR과 함께\n모두 꿀잠자세요 💤\n\n이태욱의 감미로운 기타연주가 더 듣고 싶다면?\n💙 소란 [Beloved (Acoustic Mix)] 💙\n🔗 https://youtu.be/XR99yC62bdU\n\n#소란 #SORAN #이태욱 #기타연주 #ASMR #해피로봇레코드 #불면라이브 #Beloved",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m8uuDhVR8Gw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m8uuDhVR8Gw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m8uuDhVR8Gw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m8uuDhVR8Gw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m8uuDhVR8Gw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "tags": [
+                    "라이브",
+                    "불면라이브",
+                    "불면",
+                    "기타",
+                    "소란",
+                    "이태욱",
+                    "guitar",
+                    "ASMR",
+                    "해피로봇레코드",
+                    "soran",
+                    "happy robot records",
+                    "live",
+                    "기타리스트"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[불면 라이브] 잠이 안 와 미쳤ㄴㅏ..ㅂㅘ....zzz 🛌 (with 이태욱)",
+                    "description": "뜨거운 여름밤 잠 못 드는 여러분을 위해\n해피로봇 레코드가 준비한 선물!\n\n'불면 라이브'의 첫 번째 주자!\n소란의 기타리스트 이태욱의 무편집 기타 연주 ASMR과 함께\n모두 꿀잠자세요 💤\n\n이태욱의 감미로운 기타연주가 더 듣고 싶다면?\n💙 소란 [Beloved (Acoustic Mix)] 💙\n🔗 https://youtu.be/XR99yC62bdU\n\n#소란 #SORAN #이태욱 #기타연주 #ASMR #해피로봇레코드 #불면라이브 #Beloved"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT26M53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2342",
+                "likeCount": "146",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

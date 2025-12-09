@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "2qPhVcDF0tWDntoapRDsKor5bV0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "iFX0GpsDKhCXJSGOCKJcVKEwA3s",
+            "id": "d5798f73KNg",
+            "snippet": {
+                "publishedAt": "2025-10-31T12:10:29Z",
+                "channelId": "UCxWfuzrNR2jjAnWUh8o8ycA",
+                "title": "1940’s Vintage Jazz 🎷 Retro Nostalgic Jazz Classics Playlist",
+                "description": "#VintageJazz #RetroJazz #NostalgicJazz #JazzClassics #1940sJazz #SmokyBarJazz #SmoothJazz #JazzPlaylist\nStep into the smoky charm of the 1940’s — where jazz filled hidden bars and love lingered in every note.\n“1940’s Vintage Jazz 🎷 Retro Nostalgic Jazz Classics Playlist” revives the timeless spirit of an era when music was warm, romantic, and alive with soul.\nEnjoy soft piano, smooth saxophone, and gentle female vocals that whisper stories of love, longing, and nights that never fade.\n\nClose your eyes and let this playlist take you back to a candlelit bar, somewhere between memory and melody.\n✉Contact us: jazzmusicback@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d5798f73KNg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d5798f73KNg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d5798f73KNg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/d5798f73KNg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/d5798f73KNg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jazz Music Back",
+                "tags": [
+                    "vintage jazz",
+                    "1940s jazz",
+                    "retro jazz",
+                    "nostalgic jazz",
+                    "jazz bar",
+                    "classic jazz female vocal",
+                    "smooth jazz",
+                    "romantic jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "1940’s Vintage Jazz 🎷 Retro Nostalgic Jazz Classics Playlist",
+                    "description": "#VintageJazz #RetroJazz #NostalgicJazz #JazzClassics #1940sJazz #SmokyBarJazz #SmoothJazz #JazzPlaylist\nStep into the smoky charm of the 1940’s — where jazz filled hidden bars and love lingered in every note.\n“1940’s Vintage Jazz 🎷 Retro Nostalgic Jazz Classics Playlist” revives the timeless spirit of an era when music was warm, romantic, and alive with soul.\nEnjoy soft piano, smooth saxophone, and gentle female vocals that whisper stories of love, longing, and nights that never fade.\n\nClose your eyes and let this playlist take you back to a candlelit bar, somewhere between memory and melody.\n✉Contact us: jazzmusicback@gmail.com"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT38M29S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "200",
+                "likeCount": "9",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

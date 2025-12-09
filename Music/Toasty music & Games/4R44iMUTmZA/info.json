@@ -1,0 +1,76 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "02KzNfkPR9DeQv9pWktZ4IJaiMo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "DZCTd1OPhUCtOJ-OlNc0h7dIZ3w",
+            "id": "4R44iMUTmZA",
+            "snippet": {
+                "publishedAt": "2025-11-15T07:37:00Z",
+                "channelId": "UCTOiofhGz26Nn4uARfKI_Mg",
+                "title": "titled song",
+                "description": "Titled song is still a title yea?.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4R44iMUTmZA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4R44iMUTmZA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4R44iMUTmZA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4R44iMUTmZA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4R44iMUTmZA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Toasty music & Games",
+                "tags": [
+                    "music",
+                    "soundtrap"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "titled song",
+                    "description": "Titled song is still a title yea?."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3",
+                "likeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

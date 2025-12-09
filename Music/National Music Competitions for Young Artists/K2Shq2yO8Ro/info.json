@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "jWQ6KGP5jgnTziyBoLgImAA8-gg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "fPZZ4zBD-RFJeSWblPPpio4nM9w",
+            "id": "K2Shq2yO8Ro",
+            "snippet": {
+                "publishedAt": "2024-12-01T02:55:06Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "2024 NAMCYA Junior Solo Rondalla Category Finals Competition",
+                "description": "2024 NAMCYA: 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐉𝐮𝐧𝐢𝐨𝐫 𝐒𝐨𝐥𝐨 𝐑𝐨𝐧𝐝𝐚𝐥𝐥𝐚 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲 𝐅𝐢𝐧𝐚𝐥𝐬 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧\n—\nThe 2024 National Music Competitions for Young Artists (NAMCYA): 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐉𝐮𝐧𝐢𝐨𝐫 𝐒𝐨𝐥𝐨 𝐑𝐨𝐧𝐝𝐚𝐥𝐥𝐚 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲 𝐅𝐢𝐧𝐚𝐥𝐬 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧 is in partnership with the National Commission for Culture and the Arts and the Cultural Center of the Philippines, and in cooperation with The Metropolitan Theater and DepEd Philippines.\n\n#NAMCYA\n#NAMCYA2024\n#SalinlahingMusika\n#GalingNAMCYA\n#NAMCYAatTheMet\n#YoungArtists",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K2Shq2yO8Ro/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K2Shq2yO8Ro/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K2Shq2yO8Ro/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K2Shq2yO8Ro/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K2Shq2yO8Ro/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "fil",
+                "localized": {
+                    "title": "2024 NAMCYA Junior Solo Rondalla Category Finals Competition",
+                    "description": "2024 NAMCYA: 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐉𝐮𝐧𝐢𝐨𝐫 𝐒𝐨𝐥𝐨 𝐑𝐨𝐧𝐝𝐚𝐥𝐥𝐚 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲 𝐅𝐢𝐧𝐚𝐥𝐬 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧\n—\nThe 2024 National Music Competitions for Young Artists (NAMCYA): 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐉𝐮𝐧𝐢𝐨𝐫 𝐒𝐨𝐥𝐨 𝐑𝐨𝐧𝐝𝐚𝐥𝐥𝐚 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲 𝐅𝐢𝐧𝐚𝐥𝐬 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧 is in partnership with the National Commission for Culture and the Arts and the Cultural Center of the Philippines, and in cooperation with The Metropolitan Theater and DepEd Philippines.\n\n#NAMCYA\n#NAMCYA2024\n#SalinlahingMusika\n#GalingNAMCYA\n#NAMCYAatTheMet\n#YoungArtists"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2H47M20S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1322",
+                "likeCount": "12",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

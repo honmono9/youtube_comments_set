@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "DDH-RXyuno56wIrVTFxSrbrDwtM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Szh2mNqli_M-n17RNBwNlsybOMg",
+            "id": "pEijHOWu_sc",
+            "snippet": {
+                "publishedAt": "2024-10-28T00:52:06Z",
+                "channelId": "UCXj1cdrw4nVpiqi3ffc-ZCw",
+                "title": "El Café Out Now!!!!!!!!!..... Los Travesuras #cafe #oficial #travesuras #musica",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pEijHOWu_sc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pEijHOWu_sc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pEijHOWu_sc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pEijHOWu_sc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pEijHOWu_sc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Supreme Music Urban🇨🇺",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "El Café Out Now!!!!!!!!!..... Los Travesuras #cafe #oficial #travesuras #musica",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "contentDetails": {
+                "duration": "PT22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "561",
+                "likeCount": "20",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

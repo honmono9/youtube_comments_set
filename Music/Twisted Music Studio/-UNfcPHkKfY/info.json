@@ -1,0 +1,67 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "2wjTgPRbUaimjDD5MvGAdQSotG0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "xa9ExutQ_Da0aWpH1mCuD_xY_vk",
+            "id": "-UNfcPHkKfY",
+            "snippet": {
+                "publishedAt": "2025-10-20T20:56:36Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "A Perfect Circle - The Outsider (Soul AI Cover)",
+                "description": "The Outsider by A Perfect Circle twisted into Soul Music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\nHelp me, if you can\nIt's just that this is not the way I'm wired\nSo, could you please help me understand why\nYou've given in to all these reckless dark desires?\n\nYou're lying to yourself again, suicidal imbecile\nThink about it, you're pounding on a fault line\nWhat'll it take to get it through to you, precious?\nI'm over this. Why do you wanna throw it away like this?\nSuch a mess, why would I wanna watch you?\n\nDisconnect and self-destruct\nOne bullet at a time\nWhat's your rush, now?\nEveryone will have his day to die\n\nMedicated drama queen\nPicture perfect, numb belligerence\nNarcissistic drama queen\nCraving fame and all its decadence\n\nLying through your teeth again, suicidal imbecile\nThink about it, you're pounding on a fault line\nWhat'll it take to get it through to you, precious?\nI'm over this. Why do you wanna throw it away like this?\nSuch a mess, why would I wanna watch you?\n\nDisconnect and self-destruct\nOne bullet at a time\nWhat's your rush, now?\nEveryone will have his day to die\n\nThey were right about you\nThey were right about you\n\nLying to my face again, suicidal imbecile\nThink about, you're pounding on a fault line\nWhat'll it take to get it through to you, precious?\nI'm over this. Why do you wanna throw it away like this?\nSuch a mess, over this, over this\n\nDisconnect and self-destruct\nOne bullet at a time\nWhat's your hurry?\nEveryone will have his day to die\nIf you choose to pull the trigger\nShould your drama prove sincere\nDo it somewhere far away from here",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-UNfcPHkKfY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-UNfcPHkKfY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-UNfcPHkKfY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-UNfcPHkKfY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "A Perfect Circle - The Outsider (Soul AI Cover)",
+                    "description": "The Outsider by A Perfect Circle twisted into Soul Music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\nHelp me, if you can\nIt's just that this is not the way I'm wired\nSo, could you please help me understand why\nYou've given in to all these reckless dark desires?\n\nYou're lying to yourself again, suicidal imbecile\nThink about it, you're pounding on a fault line\nWhat'll it take to get it through to you, precious?\nI'm over this. Why do you wanna throw it away like this?\nSuch a mess, why would I wanna watch you?\n\nDisconnect and self-destruct\nOne bullet at a time\nWhat's your rush, now?\nEveryone will have his day to die\n\nMedicated drama queen\nPicture perfect, numb belligerence\nNarcissistic drama queen\nCraving fame and all its decadence\n\nLying through your teeth again, suicidal imbecile\nThink about it, you're pounding on a fault line\nWhat'll it take to get it through to you, precious?\nI'm over this. Why do you wanna throw it away like this?\nSuch a mess, why would I wanna watch you?\n\nDisconnect and self-destruct\nOne bullet at a time\nWhat's your rush, now?\nEveryone will have his day to die\n\nThey were right about you\nThey were right about you\n\nLying to my face again, suicidal imbecile\nThink about, you're pounding on a fault line\nWhat'll it take to get it through to you, precious?\nI'm over this. Why do you wanna throw it away like this?\nSuch a mess, over this, over this\n\nDisconnect and self-destruct\nOne bullet at a time\nWhat's your hurry?\nEveryone will have his day to die\nIf you choose to pull the trigger\nShould your drama prove sincere\nDo it somewhere far away from here"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2893",
+                "likeCount": "101",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

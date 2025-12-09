@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "MsFqKyd0mAbB6W9nmjSiqxEeXzM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "lQ8wWAyTdGTB4A7h6BEEnfU3DKk",
+            "id": "NZLjtcsnua0",
+            "snippet": {
+                "publishedAt": "2025-09-12T13:00:53Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Ngothando (SSAA) | Mbuso Ndlovu",
+                "description": "Ngothando for SSAA voices and percussion by Mbuso Ndlovu. \n\nNgothando is a song written in isiZulu, and is a message to the world that it is only through love that we can conquer the barriers that stand between us. Beautiful and accessible, this is a moving work especially meaningful for our times.\n\nPurchase the music: https://giamusic.com/resource/ngothando-ssaa-printed-music-ww2119\n\nAlso available for SATB voicing: https://giamusic.com/resource/ngothando-print-ww1724",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NZLjtcsnua0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NZLjtcsnua0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NZLjtcsnua0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NZLjtcsnua0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NZLjtcsnua0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Ngothando (SSAA) | Mbuso Ndlovu",
+                    "description": "Ngothando for SSAA voices and percussion by Mbuso Ndlovu. \n\nNgothando is a song written in isiZulu, and is a message to the world that it is only through love that we can conquer the barriers that stand between us. Beautiful and accessible, this is a moving work especially meaningful for our times.\n\nPurchase the music: https://giamusic.com/resource/ngothando-ssaa-printed-music-ww2119\n\nAlso available for SATB voicing: https://giamusic.com/resource/ngothando-print-ww1724"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M43S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "612",
+                "likeCount": "13",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

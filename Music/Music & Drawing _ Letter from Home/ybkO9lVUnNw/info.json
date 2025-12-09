@@ -1,0 +1,84 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "KkqMoJKbEmKzY2VCwg-4isT66H8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Gr_3FSHz5h-0_9IKrmDPKCo3ut0",
+            "id": "ybkO9lVUnNw",
+            "snippet": {
+                "publishedAt": "2025-09-14T10:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Rain of Memories, Jazz That Soaks the Soul : Nostalgic Vintage saxophone jazz",
+                "description": "Rain of memories, jazz that soaks the soul.\nStep into a nostalgic night in New York, where vintage saxophone melodies fall like gentle rain.\nThis playlist is perfect for relaxing evenings, studying, or simply letting your heart travel back in time.\n\n#jazzplaylist #rainjazz #autumnjazz #vintagemusic #vintagejazz #nostalgicjazz #saxophonejazz #rainyjazz #nightjazz #NewYorkjazz #soulfuljazz #romanticjazz #jazzmusic #cozyjazz #oldiesjazz #classicjazz #jazzforstudyandwork #smoothjazz #jazzinstrumental #saxophonemusic #cafejazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ybkO9lVUnNw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ybkO9lVUnNw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ybkO9lVUnNw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ybkO9lVUnNw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "rain jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "saxophone jazz",
+                    "autumn jazz",
+                    "oldies jazz",
+                    "new york jazz",
+                    "cafe jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Rain of Memories, Jazz That Soaks the Soul : Nostalgic Vintage saxophone jazz",
+                    "description": "Rain of memories, jazz that soaks the soul.\nStep into a nostalgic night in New York, where vintage saxophone melodies fall like gentle rain.\nThis playlist is perfect for relaxing evenings, studying, or simply letting your heart travel back in time.\n\n#jazzplaylist #rainjazz #autumnjazz #vintagemusic #vintagejazz #nostalgicjazz #saxophonejazz #rainyjazz #nightjazz #NewYorkjazz #soulfuljazz #romanticjazz #jazzmusic #cozyjazz #oldiesjazz #classicjazz #jazzforstudyandwork #smoothjazz #jazzinstrumental #saxophonemusic #cafejazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H3S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1245",
+                "likeCount": "31",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

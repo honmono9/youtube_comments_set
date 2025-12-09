@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "iFuVAaQXBNtzSZ5nhAddwC7dltU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "p_XsAmoeglBNHy_EMtXKGGBPOdU",
+            "id": "CWUup_-Df9E",
+            "snippet": {
+                "publishedAt": "2025-11-24T19:54:32Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Radiohead - Burn The Witch | Funk AI Cover",
+                "description": "Burn The Witch by Radiohead twisted into funk\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nStay in the shadows\nCheer at the gallows\nThis is a round-up\nThis is a low-flying panic attack\nSing the song on the jukebox that goes\n\nBurn the witch\nBurn the witch\nWe know where you live\n\nRed crosses on wooden doors\nIf you float, you burn\nLoose talk around tables\nAbandon all reason\nAvoid all eye contact\nDo not react\nShoot the messengers\nThis is a low-flying panic attack\nSing the song of sixpence that goes\n\nBurn the witch\nBurn the witch\nWe know where you live\nWe know where you live",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CWUup_-Df9E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CWUup_-Df9E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CWUup_-Df9E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CWUup_-Df9E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CWUup_-Df9E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Radiohead - Burn The Witch | Funk AI Cover",
+                    "description": "Burn The Witch by Radiohead twisted into funk\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nStay in the shadows\nCheer at the gallows\nThis is a round-up\nThis is a low-flying panic attack\nSing the song on the jukebox that goes\n\nBurn the witch\nBurn the witch\nWe know where you live\n\nRed crosses on wooden doors\nIf you float, you burn\nLoose talk around tables\nAbandon all reason\nAvoid all eye contact\nDo not react\nShoot the messengers\nThis is a low-flying panic attack\nSing the song of sixpence that goes\n\nBurn the witch\nBurn the witch\nWe know where you live\nWe know where you live"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "336",
+                "likeCount": "17",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "lrUE-gNdTvJDiALlShqUaaWgLWM",
+        "id": "UgxJVmuJiN0fEsNVglF4AaABAg",
+        "snippet": {
+            "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+            "videoId": "gkZteDcyqf8",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Q4FjwL3_tfdkb9jkjDjs6irff78",
+                "id": "UgxJVmuJiN0fEsNVglF4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                    "videoId": "gkZteDcyqf8",
+                    "textDisplay": "Kazdego dnia relax ! Saksofon i szelest perkusji w tle 🎶🎵☺️",
+                    "textOriginal": "Kazdego dnia relax ! Saksofon i szelest perkusji w tle 🎶🎵☺️",
+                    "authorDisplayName": "@aloryt",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mBDPTjSST3uzjDYUH-oMCrtfhSMTHSxruu8RWiGuTfPA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@aloryt",
+                    "authorChannelId": {
+                        "value": "UCe24vR5n8ZcBvSTS-vIX89g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 3,
+                    "publishedAt": "2025-08-30T09:44:03Z",
+                    "updatedAt": "2025-08-30T09:44:03Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

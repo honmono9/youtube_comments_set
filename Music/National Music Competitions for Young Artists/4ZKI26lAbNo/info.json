@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ZPTqXLEYotaPpRNbOyIxLMtjhFc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "DhvKzLBxg6-WVftOBDhiJ1n4Itk",
+            "id": "4ZKI26lAbNo",
+            "snippet": {
+                "publishedAt": "2021-12-20T00:46:19Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "Mozart and the Classics",
+                "description": "A special concert presentation by NAMCYA featuring the Manila Symphony Orchestra.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4ZKI26lAbNo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4ZKI26lAbNo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4ZKI26lAbNo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4ZKI26lAbNo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4ZKI26lAbNo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Mozart and the Classics",
+                    "description": "A special concert presentation by NAMCYA featuring the Manila Symphony Orchestra."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT42M57S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "157",
+                "likeCount": "8",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

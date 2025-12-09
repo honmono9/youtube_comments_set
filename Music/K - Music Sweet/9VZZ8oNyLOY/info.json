@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "MHrtl_4jrVqfOQJC30hgf88EOIA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "pNZypCy2pGQmKckzSCuDfnnRUmY",
+            "id": "9VZZ8oNyLOY",
+            "snippet": {
+                "publishedAt": "2023-05-17T10:15:00Z",
+                "channelId": "UCYTNxR2Z4ryz88WRWiaPCdg",
+                "title": "Nizikawa - Party Bass (Feat. 星名はる)",
+                "description": "Composed / Released : Nizikawa\nVocals  : 星名はる\n\nVideo design : K - Music Sweet \n---------------------------------------------\n🔉 Free Listening  \n● Soundcloud : https://soundcloud.com/nizikawa/party-bass\n● Spotify : https://open.spotify.com/album/0YWDnGnXmw1PjgSIJrzFrC\n---------------------------------------------\n★ Follow - Nizikawa\n● Soundcloud : https://soundcloud.com/nizikawa\n● Twitter : https://twitter.com/nizikawa\n● Web : https://linktr.ee/nizikawa\n\n★ Follow -  星名はる\n● Soundcloud : https://soundcloud.com/hoshinaharu\n● Twitter : https://twitter.com/hoshinaharu \n---------------------------------------------\n🎨 Wallpaper By (INN0) : https://www.pixiv.net/en/artworks/72850361\n● Pixiv : https://www.pixiv.net/en/users/5599770\n● Twitter : https://twitter.com/inn0c3nce7\n---------------------------------------------\n💌 If you would like to submit a song or have any questions , Please email me (kmusicsweet@gmail.com)\n#kmusicsweet",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9VZZ8oNyLOY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9VZZ8oNyLOY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9VZZ8oNyLOY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9VZZ8oNyLOY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9VZZ8oNyLOY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "K - Music Sweet",
+                "tags": [
+                    "kawaii music",
+                    "cute music",
+                    "kawaii song",
+                    "cute song",
+                    "anime",
+                    "jpop"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Nizikawa - Party Bass (Feat. 星名はる)",
+                    "description": "Composed / Released : Nizikawa\nVocals  : 星名はる\n\nVideo design : K - Music Sweet \n---------------------------------------------\n🔉 Free Listening  \n● Soundcloud : https://soundcloud.com/nizikawa/party-bass\n● Spotify : https://open.spotify.com/album/0YWDnGnXmw1PjgSIJrzFrC\n---------------------------------------------\n★ Follow - Nizikawa\n● Soundcloud : https://soundcloud.com/nizikawa\n● Twitter : https://twitter.com/nizikawa\n● Web : https://linktr.ee/nizikawa\n\n★ Follow -  星名はる\n● Soundcloud : https://soundcloud.com/hoshinaharu\n● Twitter : https://twitter.com/hoshinaharu \n---------------------------------------------\n🎨 Wallpaper By (INN0) : https://www.pixiv.net/en/artworks/72850361\n● Pixiv : https://www.pixiv.net/en/users/5599770\n● Twitter : https://twitter.com/inn0c3nce7\n---------------------------------------------\n💌 If you would like to submit a song or have any questions , Please email me (kmusicsweet@gmail.com)\n#kmusicsweet"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M17S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "8784",
+                "likeCount": "220",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "dIYO1U9s1VVWyxCP3un_d1wJFbg",
+        "id": "UgwDhkMCjxIH2aDzaAp4AaABAg",
+        "snippet": {
+            "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+            "videoId": "xK9fRT4LWSs",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Y84wO084bYR90TrdCs9O_DZbrDk",
+                "id": "UgwDhkMCjxIH2aDzaAp4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                    "videoId": "xK9fRT4LWSs",
+                    "textDisplay": "Sei que a versão completa será tão boa quanto a teaser liberada ! Vais nos entregar uma bela canção como sempre ...😍🤍🩶🤍🎶",
+                    "textOriginal": "Sei que a versão completa será tão boa quanto a teaser liberada ! Vais nos entregar uma bela canção como sempre ...😍🤍🩶🤍🎶",
+                    "authorDisplayName": "@gilvaneidemendes7577",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/hWj-V4YzzEBJcD6wD7PU6tsq0XiXzvQwNjLNwMzXrgT413Al2vG5k7ouwRpBR7VfjngPFEUO_g=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@gilvaneidemendes7577",
+                    "authorChannelId": {
+                        "value": "UCtIh5e5LWl1d3G_BzAI6fmw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-01-17T18:46:25Z",
+                    "updatedAt": "2025-01-17T18:46:25Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "WyqkXVMDUdJqGppb8_jM5LFguWI",
+        "id": "UgzDbYHyZi2s19grlDl4AaABAg",
+        "snippet": {
+            "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+            "videoId": "xK9fRT4LWSs",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "zG7L-WHpe8yfDOr2f3ESG0AW6eM",
+                "id": "UgzDbYHyZi2s19grlDl4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                    "videoId": "xK9fRT4LWSs",
+                    "textDisplay": "좋다",
+                    "textOriginal": "좋다",
+                    "authorDisplayName": "@ppppp_flow",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/nuGkGyA-LjOXd1d-XL_-dcTa9P8xP7Kyr-1O-KRWJu_0gDaVDv0vmrNOcZCo0up8QbZQjlx5ZQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@ppppp_flow",
+                    "authorChannelId": {
+                        "value": "UCE62a9aqU3IVASOdPd5ZEig"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-01-17T10:19:41Z",
+                    "updatedAt": "2025-01-17T10:19:41Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

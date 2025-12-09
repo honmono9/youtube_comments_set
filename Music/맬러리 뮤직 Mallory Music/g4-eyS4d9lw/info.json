@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "IUZWFvl-uG2zCd9C2OVpqTc4TQo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "PYMQrZritQVS-WuYhX96WqvLpvs",
+            "id": "g4-eyS4d9lw",
+            "snippet": {
+                "publishedAt": "2020-10-02T22:41:43Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "여유롭게 즐기는 감성 팝 음악 with 페데리코 잔도메네기",
+                "description": "살롱 드 맬러리 - 명화와 음악 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd_noxcKl6MQfrZHr9PFAhWF\n\n- 영상에서 소개된 페데리코 잔도메네기(Federico Zandomeneghi)의 작품\n1. Place d'Anvers, Paris (1880)\n2. Waking Up\n3. Al Caffè Nouvelle Athènes (1885)\n4. Red Head Lying Down\n5. Coppia al caffè (1885)\n6. Languor\n7. The Moulin de la Galette (1878)\n\n- 맬러리 뮤직 Mallory Music\ninstagram: https://instagram.com/mallory_playlist\nspotify: https://open.spotify.com/user/vu7nka2udi3uow4uwbf1dub4b?si=ITQBaM5yRZKHlX63reNEnw\n\n- 맬러리 스퀘어\nyoutube: https://youtube.com/channel/UC1WpY3Ce68NArZgEVrLnSCQ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g4-eyS4d9lw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g4-eyS4d9lw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g4-eyS4d9lw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/g4-eyS4d9lw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/g4-eyS4d9lw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "감성 팝송",
+                    "팝송 모음",
+                    "명화",
+                    "잔잔한 팝송",
+                    "잔잔한 노래",
+                    "플레이리스트",
+                    "paintings",
+                    "new acoustic songs",
+                    "calm music",
+                    "sunday morning music",
+                    "여유로운 팝송",
+                    "playlist",
+                    "relax pop songs"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "여유롭게 즐기는 감성 팝 음악 with 페데리코 잔도메네기",
+                    "description": "살롱 드 맬러리 - 명화와 음악 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd_noxcKl6MQfrZHr9PFAhWF\n\n- 영상에서 소개된 페데리코 잔도메네기(Federico Zandomeneghi)의 작품\n1. Place d'Anvers, Paris (1880)\n2. Waking Up\n3. Al Caffè Nouvelle Athènes (1885)\n4. Red Head Lying Down\n5. Coppia al caffè (1885)\n6. Languor\n7. The Moulin de la Galette (1878)\n\n- 맬러리 뮤직 Mallory Music\ninstagram: https://instagram.com/mallory_playlist\nspotify: https://open.spotify.com/user/vu7nka2udi3uow4uwbf1dub4b?si=ITQBaM5yRZKHlX63reNEnw\n\n- 맬러리 스퀘어\nyoutube: https://youtube.com/channel/UC1WpY3Ce68NArZgEVrLnSCQ"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT24M45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "112209",
+                "likeCount": "2181",
+                "favoriteCount": "0",
+                "commentCount": "114"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

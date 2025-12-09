@@ -1,0 +1,84 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "By2RnC0AvRv7UstccI1Q5vjs8xI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "wd6EUakiT6YBaJeE8ntBXxAJ7TQ",
+            "id": "xdDE_Xko_fQ",
+            "snippet": {
+                "publishedAt": "2025-08-24T09:01:29Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "언제나 몇번이라도 (센과 치히로의 행방불명 OST) 🐉 피아노 양손 쉽게 연주하기 🎹",
+                "description": "#피아노커버 #pianocover #피아노연주 #센과치히로의행방불명 #센과치히로의행방불명OST #언제나몇번이라도 #Alwayswithme #千と千尋の神隠し #いつも何度でも #SpiritedAway \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xdDE_Xko_fQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xdDE_Xko_fQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xdDE_Xko_fQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xdDE_Xko_fQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xdDE_Xko_fQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "센과치히로의행방불명",
+                    "센과치히로",
+                    "센과치히로의행방불명ost",
+                    "피아노",
+                    "always with me",
+                    "Spirited Away",
+                    "いつも何度でも",
+                    "千と千尋の神隠し",
+                    "언제나몇번이라도",
+                    "악보"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "언제나 몇번이라도 (센과 치히로의 행방불명 OST) 🐉 피아노 양손 쉽게 연주하기 🎹",
+                    "description": "#피아노커버 #pianocover #피아노연주 #센과치히로의행방불명 #센과치히로의행방불명OST #언제나몇번이라도 #Alwayswithme #千と千尋の神隠し #いつも何度でも #SpiritedAway \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "17941",
+                "likeCount": "241",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "L1luKLuVtt8n-FkF1CCjfGsioe4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "WYvUNDJopW8niXn6KgU2F6xQzh0",
+            "id": "TxQOqsBfBwg",
+            "snippet": {
+                "publishedAt": "2023-11-20T05:43:35Z",
+                "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+                "title": "【Music Jam Tracks】 Thanks for 100,000 Subscribers #Short",
+                "description": "Music Jam Tracks has surpassed the 100,000 member barrier.\nThank you so much to all of our subscribers. We are so happy to have reached this milestone and are deeply touched that 100,000 people have been exposed to and share our music.\nThis community will continue to be with you and we will strive wholeheartedly to grow with our 100,000 friends.\n\nFrom all of us at Music Jam Tracks\n\n#Short #Musicjamtracks",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TxQOqsBfBwg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TxQOqsBfBwg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TxQOqsBfBwg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TxQOqsBfBwg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TxQOqsBfBwg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Jam Tracks",
+                "tags": [
+                    "Backing Track",
+                    "back track",
+                    "guitar",
+                    "Guitar Solo",
+                    "jam",
+                    "jam tracks",
+                    "バッキング",
+                    "バッキング トラック",
+                    "ジャム トラック",
+                    "Music Jam Tracks",
+                    "chord progression",
+                    "カラオケ",
+                    "karaoke",
+                    "practice",
+                    "exercise",
+                    "ad‐lib",
+                    "Bass Backing tracks",
+                    "Bass",
+                    "Bass solo",
+                    "Piano",
+                    "Piano Solo",
+                    "funk",
+                    "funk backing",
+                    "練習用",
+                    "solo"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "【Music Jam Tracks】 Thanks for 100,000 Subscribers #Short",
+                    "description": "Music Jam Tracks has surpassed the 100,000 member barrier.\nThank you so much to all of our subscribers. We are so happy to have reached this milestone and are deeply touched that 100,000 people have been exposed to and share our music.\nThis community will continue to be with you and we will strive wholeheartedly to grow with our 100,000 friends.\n\nFrom all of us at Music Jam Tracks\n\n#Short #Musicjamtracks"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT38S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "474",
+                "likeCount": "30",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "CsZO8DyMjP3MiCMrkl6UZ4NUbxc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Iy50DjfFVRVw6RiW59UDmd3uEmU",
+            "id": "dN28-L4JG9w",
+            "snippet": {
+                "publishedAt": "2025-11-12T14:01:11Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "¿Qué es Poesía? | Sammy Strent",
+                "description": "¿Qué es Poesía? by Sammy Strent for SSAA with optional claves, shaker, and guitar. \n\n\"What is poetry? Poetry is you.\" Based on a poem by Spanish poet Gustavo Adolfo, this love song is expressed by composer Sammy Strent through a playful setting for treble choir. Can be performed unaccompanied or with guitar and percussion.\n\nPurchase the music: https://giamusic.com/resource/que-es-poesia-printed-music-ww2107",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dN28-L4JG9w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dN28-L4JG9w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dN28-L4JG9w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dN28-L4JG9w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dN28-L4JG9w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "¿Qué es Poesía? | Sammy Strent",
+                    "description": "¿Qué es Poesía? by Sammy Strent for SSAA with optional claves, shaker, and guitar. \n\n\"What is poetry? Poetry is you.\" Based on a poem by Spanish poet Gustavo Adolfo, this love song is expressed by composer Sammy Strent through a playful setting for treble choir. Can be performed unaccompanied or with guitar and percussion.\n\nPurchase the music: https://giamusic.com/resource/que-es-poesia-printed-music-ww2107"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M14S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "33",
+                "likeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

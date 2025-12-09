@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "3ltJIhF_RcRR8OvI3UcaWeTvlXk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "8wnc_nlwFSD9U11t8wZFIl4DHNo",
+            "id": "hxan1CFL_1I",
+            "snippet": {
+                "publishedAt": "2020-02-19T04:26:06Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "020820 Schoenberg Verklärte Nacht (Transfigured Night), Op.4",
+                "description": "#ENCOREonTour presents our alums and artists around the world in collaboration with internationally esteemed arts organizations. 2020 Tour was hosted by the Tongyeong International Music Festival in Tongyeong, Korea.\n\nJinjoo Cho, violin\nAndrew Yu-Ming Ma, violin\nMathieu Herzog, viola\nEric Wong, viola\nKarol Marianowski, cello\nBrannon Cho, cello",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hxan1CFL_1I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hxan1CFL_1I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hxan1CFL_1I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hxan1CFL_1I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hxan1CFL_1I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "020820 Schoenberg Verklärte Nacht (Transfigured Night), Op.4",
+                    "description": "#ENCOREonTour presents our alums and artists around the world in collaboration with internationally esteemed arts organizations. 2020 Tour was hosted by the Tongyeong International Music Festival in Tongyeong, Korea.\n\nJinjoo Cho, violin\nAndrew Yu-Ming Ma, violin\nMathieu Herzog, viola\nEric Wong, viola\nKarol Marianowski, cello\nBrannon Cho, cello"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT32M19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2335",
+                "likeCount": "30",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

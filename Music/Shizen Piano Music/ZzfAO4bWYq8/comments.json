@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "eYtDWRxKlujMKNfkkPgS1-dOTlI",
+        "id": "Ugwkdv9rhy9vCI24EeZ4AaABAg",
+        "snippet": {
+            "channelId": "UCPxPvjsXfa6UJ30L3NAN-nQ",
+            "videoId": "ZzfAO4bWYq8",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "93C06-_rY-jHFkV6DuqaqOBZKHs",
+                "id": "Ugwkdv9rhy9vCI24EeZ4AaABAg",
+                "snippet": {
+                    "channelId": "UCPxPvjsXfa6UJ30L3NAN-nQ",
+                    "videoId": "ZzfAO4bWYq8",
+                    "textDisplay": "有廣告",
+                    "textOriginal": "有廣告",
+                    "authorDisplayName": "@黃仁杰-l8h",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lFFW-nj60JfhTG590s75U0dWxzJiGsU07Mq2tqA7-t2yj2XpI=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%E9%BB%83%E4%BB%81%E6%9D%B0-l8h",
+                    "authorChannelId": {
+                        "value": "UCdAD-ApcI3irePLxjLTjx3g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-01T11:43:32Z",
+                    "updatedAt": "2025-11-01T11:43:32Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

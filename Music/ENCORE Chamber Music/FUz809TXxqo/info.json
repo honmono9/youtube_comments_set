@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "PCAxyJ2XJCWpDFoBdqws6XUmqrY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "osWQatcldPe5pf-al1cCTgBOEns",
+            "id": "FUz809TXxqo",
+            "snippet": {
+                "publishedAt": "2020-02-22T04:47:25Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "020820 R. Strauss String Sextet from Capriccio, Op.85",
+                "description": "#ENCOREonTour presents our alums and artists around the world in collaboration with internationally esteemed arts organizations. 2020 Tour was hosted by the Tongyeong International Music Festival in Tongyeong, Korea.\n\nJinjoo Cho, violin\nAndrew Yu-Ming Ma, violin\nMathieu Herzog, viola\nEric Wong, viola\nKarol Marianowski, cello\nBrannon Cho, cello",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FUz809TXxqo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FUz809TXxqo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FUz809TXxqo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FUz809TXxqo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FUz809TXxqo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "020820 R. Strauss String Sextet from Capriccio, Op.85",
+                    "description": "#ENCOREonTour presents our alums and artists around the world in collaboration with internationally esteemed arts organizations. 2020 Tour was hosted by the Tongyeong International Music Festival in Tongyeong, Korea.\n\nJinjoo Cho, violin\nAndrew Yu-Ming Ma, violin\nMathieu Herzog, viola\nEric Wong, viola\nKarol Marianowski, cello\nBrannon Cho, cello"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT12M41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1071",
+                "likeCount": "14",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "kbxQOSxFpqXZiNVIF29Ja_N9DPg",
+        "id": "UgxEOF0Op4PnQivSTRZ4AaABAg",
+        "snippet": {
+            "channelId": "UCFenHjfqkwDFalw73fHvjww",
+            "videoId": "znU0Nz9QRl8",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "sOpXCmenHkSxTSHvRg0-yGWI938",
+                "id": "UgxEOF0Op4PnQivSTRZ4AaABAg",
+                "snippet": {
+                    "channelId": "UCFenHjfqkwDFalw73fHvjww",
+                    "videoId": "znU0Nz9QRl8",
+                    "textDisplay": "안녕하세요. 작곡가 MJ입니다.\n혼자 있는 시간이 두렵게 느껴질 때,\n공허한 적막 속에서 나는 오히려 나와 마주합니다.\n비워진 마음 사이로 찾아오는 묘한 평온,\n고독은 외로움이 아닌 나를 위한 깊은 쉼이 됩니다.\n이 영상과 함께 고요 속에서\n나 자신을 만나고, 다시 일어나는 힘을 느껴보세요.",
+                    "textOriginal": "안녕하세요. 작곡가 MJ입니다.\n혼자 있는 시간이 두렵게 느껴질 때,\n공허한 적막 속에서 나는 오히려 나와 마주합니다.\n비워진 마음 사이로 찾아오는 묘한 평온,\n고독은 외로움이 아닌 나를 위한 깊은 쉼이 됩니다.\n이 영상과 함께 고요 속에서\n나 자신을 만나고, 다시 일어나는 힘을 느껴보세요.",
+                    "authorDisplayName": "@therapymusic-pr8vg",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/GyKAwTEKIvpCTBHKYpyY2dOmSppcD3tYqRcbvGBCpLVh35LzNES8NiQ1H_gZCHpu7jBwITktSA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@therapymusic-pr8vg",
+                    "authorChannelId": {
+                        "value": "UCFenHjfqkwDFalw73fHvjww"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-09-14T03:27:21Z",
+                    "updatedAt": "2025-09-14T03:27:21Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "MH-X0CV6G0cOvfpcnVVWRmRTUog",
+        "id": "UgzbtbW7dKvIuYv80xR4AaABAg",
+        "snippet": {
+            "channelId": "UCFenHjfqkwDFalw73fHvjww",
+            "videoId": "znU0Nz9QRl8",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "ufSmPW8gZd9WHaSA3Gblfg3pKYI",
+                "id": "UgzbtbW7dKvIuYv80xR4AaABAg",
+                "snippet": {
+                    "channelId": "UCFenHjfqkwDFalw73fHvjww",
+                    "videoId": "znU0Nz9QRl8",
+                    "textDisplay": "Krasne❤",
+                    "textOriginal": "Krasne❤",
+                    "authorDisplayName": "@sonacapkova",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/nSPuYGvfMc6YkG4ESRfDZnLwy1Pj3DMHNebRR4k-Gvvx4Q9AysAMNoNhfbdQatqEN0u-bpKoAg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@sonacapkova",
+                    "authorChannelId": {
+                        "value": "UCpl89mXN5HKnG4I66oHyyvg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-11-26T20:03:54Z",
+                    "updatedAt": "2025-11-26T20:03:54Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

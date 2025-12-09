@@ -1,0 +1,91 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "uXodUWupCK7xdHJFXvFkkXWFdbM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "OlGkw_mVWy7AwryZEl6xfrOv6hs",
+            "id": "QNaog2sziu0",
+            "snippet": {
+                "publishedAt": "2025-06-24T11:30:23Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"잘했어, 오늘도\" 마음을 위로하는 수면음악",
+                "description": "잘했어, 오늘도~\n누군가에게 듣기를 바라는 말이 아닌, \n내가 나에게 해주는 가장 필요한 말 같아요~\n어른이 되었지만 아직도 많이 서툴고 \n아직도 많이 어렵자나요~ \n힘들어 하는 나를 너무 다그치지 말고 \n내가 나에게 참 잘했다고 말해주는 \n오늘이길 바랍니다! \n\n\"오늘도 참 잘했어👍 쓰담쓰담!\"\n\n\n🎵음악               \n01.하루하루\n02.평온한 시간\n\n✏️그림\nIllustrator 700 Artwork by@700_illust\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #편안한음악 #위로가되는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QNaog2sziu0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QNaog2sziu0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QNaog2sziu0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QNaog2sziu0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QNaog2sziu0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "수면음악",
+                    "숙면음악",
+                    "수면유도음악",
+                    "편안한음악",
+                    "마음이편안해지는음악",
+                    "잠잘때듣는음악",
+                    "잠오는음악",
+                    "평온한음악",
+                    "피아노음악",
+                    "PianoMusic",
+                    "SleepMusic",
+                    "SleepingMusic",
+                    "RelaxMusic",
+                    "RelaxingMusic",
+                    "스트레스해소음악",
+                    "휴식음악",
+                    "ComfortingMusic"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"잘했어, 오늘도\" 마음을 위로하는 수면음악",
+                    "description": "잘했어, 오늘도~\n누군가에게 듣기를 바라는 말이 아닌, \n내가 나에게 해주는 가장 필요한 말 같아요~\n어른이 되었지만 아직도 많이 서툴고 \n아직도 많이 어렵자나요~ \n힘들어 하는 나를 너무 다그치지 말고 \n내가 나에게 참 잘했다고 말해주는 \n오늘이길 바랍니다! \n\n\"오늘도 참 잘했어👍 쓰담쓰담!\"\n\n\n🎵음악               \n01.하루하루\n02.평온한 시간\n\n✏️그림\nIllustrator 700 Artwork by@700_illust\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #편안한음악 #위로가되는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9H32M24S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "227485",
+                "likeCount": "4148",
+                "favoriteCount": "0",
+                "commentCount": "161"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

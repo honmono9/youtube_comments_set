@@ -1,0 +1,90 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "IXr1GuyDPwTrMS5dKwlYf94jpyg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "lF-q3M1BcXBUFgqDPNQqD2k3tRI",
+            "id": "SLy9eLqqlTM",
+            "snippet": {
+                "publishedAt": "2021-11-23T10:34:15Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "밝고 빈티지한 감성의 크리스마스 캐롤",
+                "description": "따뜻한 시간 되세요 :)\n\nFootage: The Shop Around the Corner (1940)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SLy9eLqqlTM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SLy9eLqqlTM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SLy9eLqqlTM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SLy9eLqqlTM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SLy9eLqqlTM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "캐롤",
+                    "크리스마스 캐롤",
+                    "크리스마스 음악",
+                    "빈티지 캐롤",
+                    "재즈 캐롤",
+                    "vintage christmas song",
+                    "jazz christmas song",
+                    "carol",
+                    "christmas song",
+                    "감성 캐롤",
+                    "옛날 캐롤"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "밝고 빈티지한 감성의 크리스마스 캐롤",
+                    "description": "따뜻한 시간 되세요 :)\n\nFootage: The Shop Around the Corner (1940)"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT24M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "42168",
+                "likeCount": "1407",
+                "favoriteCount": "0",
+                "commentCount": "96"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

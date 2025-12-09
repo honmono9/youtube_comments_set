@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "kukzB6ugQrBd0S_bqggvUI5Y9fc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "O-VsIcQWUk7m6D5T1JMyVMlOuYI",
+            "id": "U8jwuPVks3I",
+            "snippet": {
+                "publishedAt": "2025-08-12T04:26:47Z",
+                "channelId": "UCXj1cdrw4nVpiqi3ffc-ZCw",
+                "title": "Y si soñamos💫 que mañana es 14 de Febrero❤️‍🔥 a quien se la dedicaría? #google #amor #lomasnuevo",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U8jwuPVks3I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U8jwuPVks3I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U8jwuPVks3I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/U8jwuPVks3I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/U8jwuPVks3I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Supreme Music Urban🇨🇺",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Y si soñamos💫 que mañana es 14 de Febrero❤️‍🔥 a quien se la dedicaría? #google #amor #lomasnuevo",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "contentDetails": {
+                "duration": "PT45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1273",
+                "likeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

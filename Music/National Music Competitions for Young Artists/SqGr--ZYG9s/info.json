@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "S_PcJkki1ZEXeRGFUNnzvp0cQOI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Ls2h0Vqi-1z_fQcaihhsaBuuooE",
+            "id": "SqGr--ZYG9s",
+            "snippet": {
+                "publishedAt": "2020-09-10T13:44:25Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "Tale of 2 Remotes: Philippine Music and Curricular Integration for Remote Areas and Remote Learning",
+                "description": "Speaker: Arjay Viray\nheld last September 4, 2020\n1 PM",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SqGr--ZYG9s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SqGr--ZYG9s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SqGr--ZYG9s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SqGr--ZYG9s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SqGr--ZYG9s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Tale of 2 Remotes: Philippine Music and Curricular Integration for Remote Areas and Remote Learning",
+                    "description": "Speaker: Arjay Viray\nheld last September 4, 2020\n1 PM"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H58M44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "190",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

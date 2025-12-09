@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "coLaKM8R4UVVCo8ziZOrVk36MoU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "1-k1dKTs9mUHNbTX7xZFdTcsFQ4",
+            "id": "hQmxjaa1Vk8",
+            "snippet": {
+                "publishedAt": "2025-07-26T14:00:06Z",
+                "channelId": "UCoAOTBoviujUGWXOWDgfKmw",
+                "title": "Blaqs ft Addi A1 - Mbali (visualizer)",
+                "description": "@ADDI_A1_1\nIt's a real situation song written and performed by blaqs & addi-a1,recorded at Kanairo classic records(KCR)mastered and mixed by @producer_kagoh_254 #summer#rap #hiphop",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hQmxjaa1Vk8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hQmxjaa1Vk8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hQmxjaa1Vk8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hQmxjaa1Vk8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hQmxjaa1Vk8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BlaQs music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Blaqs ft Addi A1 - Mbali (visualizer)",
+                    "description": "@ADDI_A1_1\nIt's a real situation song written and performed by blaqs & addi-a1,recorded at Kanairo classic records(KCR)mastered and mixed by @producer_kagoh_254 #summer#rap #hiphop"
+                },
+                "defaultAudioLanguage": "sw"
+            },
+            "contentDetails": {
+                "duration": "PT2M53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "373",
+                "likeCount": "45",
+                "favoriteCount": "0",
+                "commentCount": "23"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

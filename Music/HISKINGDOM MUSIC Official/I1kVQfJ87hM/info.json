@@ -1,0 +1,115 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "j7xZv7gafZ4l0Z3igv0Z0tGYK2k",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "heLcCnUUnGZFPMUfg7fRoagCSNM",
+            "id": "I1kVQfJ87hM",
+            "snippet": {
+                "publishedAt": "2025-09-23T10:45:02Z",
+                "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+                "title": "온기(이동희) live - 정상원",
+                "description": "#이동희 #온기 #정상원 #히킹뮤가블러썸",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I1kVQfJ87hM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I1kVQfJ87hM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I1kVQfJ87hM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/I1kVQfJ87hM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/I1kVQfJ87hM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HISKINGDOM MUSIC Official",
+                "tags": [
+                    "#히킹뮤가블러썸",
+                    "#히스킹덤뮤직",
+                    "#준하와 나",
+                    "#임성규",
+                    "#같이걸어가기",
+                    "#추천 찬양",
+                    "#찬양 추천",
+                    "#추천 CCM",
+                    "#CCM 추천",
+                    "#K-CCM",
+                    "#HISKINGDOM MUSIC",
+                    "#찬양 콘서트",
+                    "#찬양 컨텐츠",
+                    "#콘서트 실황",
+                    "#라이브 콘서트",
+                    "#찬양 콘서트 실황",
+                    "#라이브 찬양",
+                    "#찬양 라이브",
+                    "#기독교 컨텐츠",
+                    "#유튜브 라이브",
+                    "#실시간 라이브",
+                    "#라이브 클립",
+                    "찬양",
+                    "국내 찬양",
+                    "찬양 실황",
+                    "국내 CCM",
+                    "K-CCM",
+                    "K-GOSPEL",
+                    "CCM",
+                    "Christian Contemporary Music",
+                    "염평안",
+                    "조찬미",
+                    "같이걸어가기",
+                    "오벧",
+                    "장근희",
+                    "이상현",
+                    "박수진",
+                    "기독교 음악",
+                    "korean ccm",
+                    "찬양 릴스",
+                    "찬양 쇼츠"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "온기(이동희) live - 정상원",
+                    "description": "#이동희 #온기 #정상원 #히킹뮤가블러썸"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "677",
+                "likeCount": "13",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

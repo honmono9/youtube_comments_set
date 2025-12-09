@@ -1,0 +1,104 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "clt993Vq6hRmeTT0di-5uGDtSMs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "GeufXoK3zuxccDFii9inGVJHTMo",
+            "id": "eB3VOPfJvZY",
+            "snippet": {
+                "publishedAt": "2025-12-05T08:00:39Z",
+                "channelId": "UCEbRSmzD8xASRlYq2OLmCrg",
+                "title": "[4K/1열 직캠🎥] 68호 가수 '태양물고기'♪ 싱어게인4 (singagain4)",
+                "description": "[4K/1열 직캠🎥] 68호 가수 '태양물고기'♪ 싱어게인4 (singagain4)\n68호 가수 - 태양물고기♪\n\n#싱어게인4 #싱어게인 #직캠 #68호가수 #태양물고기",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eB3VOPfJvZY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eB3VOPfJvZY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eB3VOPfJvZY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eB3VOPfJvZY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eB3VOPfJvZY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JTBC Music",
+                "tags": [
+                    "싱어게인4",
+                    "무명가수전",
+                    "싱어게인4_1열직캠",
+                    "싱어게인4_직캠",
+                    "싱어게인전체공개",
+                    "태연",
+                    "코쿤",
+                    "규현",
+                    "이해리",
+                    "이승기",
+                    "임재범",
+                    "김이나",
+                    "백지영",
+                    "윤종신",
+                    "68호",
+                    "68호가수",
+                    "싱어게인4_68호",
+                    "JTBC음악예능",
+                    "무명가수",
+                    "가수",
+                    "singagain4",
+                    "TAEYEON",
+                    "CODE KUNST",
+                    "KYUHYUN",
+                    "Lee Hae Ri",
+                    "Lee Seung Gi",
+                    "Yim Jae-beum",
+                    "Kim Eana",
+                    "Baek Z Young",
+                    "Yoon Jongshin"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[4K/1열 직캠🎥] 68호 가수 '태양물고기'♪ 싱어게인4 (singagain4)",
+                    "description": "[4K/1열 직캠🎥] 68호 가수 '태양물고기'♪ 싱어게인4 (singagain4)\n68호 가수 - 태양물고기♪\n\n#싱어게인4 #싱어게인 #직캠 #68호가수 #태양물고기"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M2S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1630",
+                "likeCount": "18",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

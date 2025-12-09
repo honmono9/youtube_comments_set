@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "mfMMGENs_cNaybzmfm-dPysMAoY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "BZp1ljjsKSlzKAsLUO1SIQeWBCk",
+            "id": "iU-vO_pe49c",
+            "snippet": {
+                "publishedAt": "2023-04-23T01:01:00Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "로마에서 맞이하는 여유롭고 기분좋은 음악들",
+                "description": "Photo by Anna Church\n\n관련재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd-0KQd-tQHqCE5suxgjZ2b4",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iU-vO_pe49c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iU-vO_pe49c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iU-vO_pe49c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iU-vO_pe49c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iU-vO_pe49c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "이탈리아 음악",
+                    "팝송",
+                    "여유로운 음악",
+                    "기분좋아지는 음악",
+                    "italian song",
+                    "relax song",
+                    "주말 아침 노래"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "로마에서 맞이하는 여유롭고 기분좋은 음악들",
+                    "description": "Photo by Anna Church\n\n관련재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd-0KQd-tQHqCE5suxgjZ2b4"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT28M33S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "187630",
+                "likeCount": "2604",
+                "favoriteCount": "0",
+                "commentCount": "173"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

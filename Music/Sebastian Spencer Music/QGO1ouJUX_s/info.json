@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "rsq862JCtfHojkHoG1ldx_v21R8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Cl3smtTLgGhHrBjrIhAB08vGYvE",
+            "id": "QGO1ouJUX_s",
+            "snippet": {
+                "publishedAt": "2024-05-08T14:34:37Z",
+                "channelId": "UCwdmcaOcWQ7PW8_wuaB8Cjw",
+                "title": "KALEEN - WE WILL RAVE (Sebastian Spencer Remix)",
+                "description": "This is a Bootleg Remix",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QGO1ouJUX_s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QGO1ouJUX_s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QGO1ouJUX_s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QGO1ouJUX_s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QGO1ouJUX_s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sebastian Spencer Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "de",
+                "localized": {
+                    "title": "KALEEN - WE WILL RAVE (Sebastian Spencer Remix)",
+                    "description": "This is a Bootleg Remix"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M38S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5181",
+                "likeCount": "96",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "SJ_u7ZFzPD0nwQDMLtDGO4ZTTMo",
+        "id": "UgzzQjjZHQpzoy6RVp94AaABAg",
+        "snippet": {
+            "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+            "videoId": "7r0at-CjRV4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "gpJphJqg20NgVxh8ULCiqTMoozY",
+                "id": "UgzzQjjZHQpzoy6RVp94AaABAg",
+                "snippet": {
+                    "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                    "videoId": "7r0at-CjRV4",
+                    "textDisplay": "브라보",
+                    "textOriginal": "브라보",
+                    "authorDisplayName": "@LetMeBliJu",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/T8er4HgRpmjOWsPim6sYFM4XnabIK5qi8ChDPGWboG-qsmuVAmZ-oDM0eGkchoV4oxIeWulccQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@LetMeBliJu",
+                    "authorChannelId": {
+                        "value": "UC9QZ3iDUs4nfMkN-zft7c5g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-10-13T08:32:29Z",
+                    "updatedAt": "2025-10-13T08:32:29Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

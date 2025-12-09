@@ -1,0 +1,103 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "TtAHRisaOCmJO8kHZBQJZr5Zg2Y",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "P6LLJCIttyMpVeFSwYhfSvBFFsU",
+            "id": "1qDg50QyHb0",
+            "snippet": {
+                "publishedAt": "2025-12-02T14:04:51Z",
+                "channelId": "UCEbRSmzD8xASRlYq2OLmCrg",
+                "title": "[싱어게인4] 담백하지만 짙은 감성✨ 28호 가수의 〈all of my life〉♪ | 싱어게인4 8회 | JTBC 251202 방송",
+                "description": "담백하지만 짙은 감성✨ 28호 가수의 〈all of my life〉♪\n#싱어게인4 #28호가수 #allofmylife\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/singagain4",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1qDg50QyHb0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1qDg50QyHb0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1qDg50QyHb0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1qDg50QyHb0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1qDg50QyHb0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JTBC Music",
+                "tags": [
+                    "싱어게인4",
+                    "싱어게인",
+                    "top10결정전",
+                    "28호",
+                    "allofmylife",
+                    "이승기",
+                    "윤종신",
+                    "임재범",
+                    "백지영",
+                    "김이나",
+                    "규현",
+                    "태연",
+                    "이해리",
+                    "코드쿤스트",
+                    "싱어게인_8회",
+                    "음악예능",
+                    "JTBC음악예능",
+                    "무명가수",
+                    "JTBC예능",
+                    "singagain4",
+                    "TAEYEON",
+                    "CODE KUNST",
+                    "KYUHYUN",
+                    "Lee Hae Ri",
+                    "Lee Seung Gi",
+                    "Yim Jae-beum",
+                    "Kim Eana",
+                    "Baek Z Young",
+                    "Yoon Jongshin"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[싱어게인4] 담백하지만 짙은 감성✨ 28호 가수의 〈all of my life〉♪ | 싱어게인4 8회 | JTBC 251202 방송",
+                    "description": "담백하지만 짙은 감성✨ 28호 가수의 〈all of my life〉♪\n#싱어게인4 #28호가수 #allofmylife\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/singagain4"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "152074",
+                "likeCount": "2645",
+                "favoriteCount": "0",
+                "commentCount": "678"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "3jMnVzszJ3SIoKuj7DCpVqgNAgU",
+        "id": "Ugz-OOUuIfd1zxakuyR4AaABAg",
+        "snippet": {
+            "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+            "videoId": "gC7kOiL65-Y",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Yu-VqIble6wplyP2bo88eX9dUfY",
+                "id": "Ugz-OOUuIfd1zxakuyR4AaABAg",
+                "snippet": {
+                    "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                    "videoId": "gC7kOiL65-Y",
+                    "textDisplay": "Чертовски классно",
+                    "textOriginal": "Чертовски классно",
+                    "authorDisplayName": "@Formulistzzz",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/4r0Gj4ylpUATsHiTO3-O6_PORJzFZe5eFjrbxa56XyhQYjeYjzVMavU7DZ8FJwPmxnJO5mijJA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@Formulistzzz",
+                    "authorChannelId": {
+                        "value": "UC-bpI-fmea2Oo6YsneteE8w"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-06T17:52:28Z",
+                    "updatedAt": "2025-11-06T17:52:28Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

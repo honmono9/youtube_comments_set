@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Ie_3XHjCbqyYK0o9TSPJNx9_JTg",
+        "id": "Ugz-dY_ZmAlHfsCYzDB4AaABAg",
+        "snippet": {
+            "channelId": "UC3aVeoLde-l7GDpT22oDoPA",
+            "videoId": "NuQ2tjgwyg0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "CLIq9ySzVQIKsDleZ2CvdKrCfC0",
+                "id": "Ugz-dY_ZmAlHfsCYzDB4AaABAg",
+                "snippet": {
+                    "channelId": "UC3aVeoLde-l7GDpT22oDoPA",
+                    "videoId": "NuQ2tjgwyg0",
+                    "textDisplay": "♥️Ma vie✨en France 🇫🇷 et Suisse 🇨🇭 \nNow Is Brasil 🇧🇷",
+                    "textOriginal": "♥️Ma vie✨en France 🇫🇷 et Suisse 🇨🇭 \nNow Is Brasil 🇧🇷",
+                    "authorDisplayName": "@ninajavanarodriguesfernand8187",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l_pWBqcOxoiSPZx4UwgbhJv-9iza2pSt-XwTZRUFHk3XZ6=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@ninajavanarodriguesfernand8187",
+                    "authorChannelId": {
+                        "value": "UCD-P7bqp7HkXLaaZP_vbzNg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-09T00:44:28Z",
+                    "updatedAt": "2025-12-09T00:44:28Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

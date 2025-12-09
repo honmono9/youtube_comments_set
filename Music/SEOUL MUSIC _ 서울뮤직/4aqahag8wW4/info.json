@@ -1,0 +1,91 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "yiOYRk1HVtALUU4J_6yXiCnN82c",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "fkw-bKF5DCPG4I6nOGOhedDPhCU",
+            "id": "4aqahag8wW4",
+            "snippet": {
+                "publishedAt": "2023-02-14T09:00:04Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[MV] HOON - 지구와 달 (Earth and Moon) / Official Music Video",
+                "description": "[MV] HOON - 지구와 달 (Earth and Moon) / Official Music Video\n\n지구와 달\n\n[Credits]\n\nLyrics by HOON\nComposed by Tmlm, Chris CHO\nArranged by Ralf \n\nPiano performed by Chris CHO\nE.Guitar performed by Hyuk\nBass performed by Ralf\nDrum performed by HUN\nClarinet performed by IFI\n\nMixed by 배재한\nMastered by bk! at AB Room\n\nPhotograph by Shotfornerd\nA&R by DOWON\n\n#HOON #지구와달 #newrelease",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4aqahag8wW4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4aqahag8wW4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4aqahag8wW4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4aqahag8wW4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4aqahag8wW4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "tags": [
+                    "new release",
+                    "kpop",
+                    "최신곡",
+                    "노래 추천",
+                    "Kpop",
+                    "신곡",
+                    "인기곡",
+                    "인디",
+                    "락",
+                    "메탈",
+                    "HOON",
+                    "훈",
+                    "Earth and Moon",
+                    "지구와 달",
+                    "rock",
+                    "Korean rock",
+                    "락 신곡"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[MV] HOON - 지구와 달 (Earth and Moon) / Official Music Video",
+                    "description": "[MV] HOON - 지구와 달 (Earth and Moon) / Official Music Video\n\n지구와 달\n\n[Credits]\n\nLyrics by HOON\nComposed by Tmlm, Chris CHO\nArranged by Ralf \n\nPiano performed by Chris CHO\nE.Guitar performed by Hyuk\nBass performed by Ralf\nDrum performed by HUN\nClarinet performed by IFI\n\nMixed by 배재한\nMastered by bk! at AB Room\n\nPhotograph by Shotfornerd\nA&R by DOWON\n\n#HOON #지구와달 #newrelease"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1118",
+                "likeCount": "78",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

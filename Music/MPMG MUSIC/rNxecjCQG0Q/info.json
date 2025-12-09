@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "sL_whX1sTzNGyZq_Opm726co1Qc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "kGr7i7S2MuKF3UG_-LOx3ZSlpXA",
+            "id": "rNxecjCQG0Q",
+            "snippet": {
+                "publishedAt": "2025-02-15T14:00:45Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "🌙𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲 #6 | #SURL #설호승",
+                "description": "[𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲]\n\n여러분을 좋은 꿈으로 데려가 줄 오늘의 아티스트는\nSURL의 설호승님입니다.\n\n호승님의 저녁 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n모두 좋은 꿈 꾸세요!🌙\n\n[00:00] Close Days Finale #6 설호승\n[04:53] Mei Semones - Tegami\n[08:17] Jalen Ngonda - Come Around and Love Me\n[11:24] Jeff Buckley - Hallelujah\n[18:13] King Krule - La Lune\n[22:29] Matt Maltese - Complicated\n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#CloseDaysFinale #SURL #설호승",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rNxecjCQG0Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rNxecjCQG0Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rNxecjCQG0Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rNxecjCQG0Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rNxecjCQG0Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🌙𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲 #6 | #SURL #설호승",
+                    "description": "[𝗖𝗹𝗼𝘀𝗲 𝗗𝗮𝘆𝘀 𝗙𝗶𝗻𝗮𝗹𝗲]\n\n여러분을 좋은 꿈으로 데려가 줄 오늘의 아티스트는\nSURL의 설호승님입니다.\n\n호승님의 저녁 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n모두 좋은 꿈 꾸세요!🌙\n\n[00:00] Close Days Finale #6 설호승\n[04:53] Mei Semones - Tegami\n[08:17] Jalen Ngonda - Come Around and Love Me\n[11:24] Jeff Buckley - Hallelujah\n[18:13] King Krule - La Lune\n[22:29] Matt Maltese - Complicated\n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#CloseDaysFinale #SURL #설호승"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT25M58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "827",
+                "likeCount": "49",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

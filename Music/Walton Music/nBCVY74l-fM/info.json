@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "cDYS4YIVCzczJ4EmcgnLI7ry4L8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "P3oN9Cjr7oi9U9ntKvCZnZdsf2o",
+            "id": "nBCVY74l-fM",
+            "snippet": {
+                "publishedAt": "2025-11-03T14:01:26Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "The Peace of Wild Things | Sean Ivory",
+                "description": "The Peace of Wild Things composed by Sean Ivory for SSAA choirs with piano and viola accompaniment (parts included).\n\nhttps://www.giamusic.com/store/resour...\n\nWhile many settings of this Wendell Berry text exists, perhaps none capture its essence as beautifully as this work by Sean Ivory. With expertly crafted vocal lines, an artistic and supportive piano accompaniment, and a stunning viola part, this work for more advanced treble choirs will become a standard in the treble repertoire.\n\nThe Peace of Wild Things\n\nWhen despair for the world grows in me \nand I wake in the night at the least sound \nin fear of what my life and my children’s lives may be, \nI go and lie down where the wood drake \nrests in his beauty on the water, and the great heron feeds. \nI come into the peace of wild things \nwho do not tax their lives with forethought \nof grief. I come into the presence of still water. \nAnd I feel above me the day-blind stars \nwaiting with their light. For a time \nI rest in the grace of the world, and am free.\n\n#WaltonMusic #Choir #Choral",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nBCVY74l-fM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nBCVY74l-fM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nBCVY74l-fM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nBCVY74l-fM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nBCVY74l-fM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "The Peace of Wild Things | Sean Ivory",
+                    "description": "The Peace of Wild Things composed by Sean Ivory for SSAA choirs with piano and viola accompaniment (parts included).\n\nhttps://www.giamusic.com/store/resour...\n\nWhile many settings of this Wendell Berry text exists, perhaps none capture its essence as beautifully as this work by Sean Ivory. With expertly crafted vocal lines, an artistic and supportive piano accompaniment, and a stunning viola part, this work for more advanced treble choirs will become a standard in the treble repertoire.\n\nThe Peace of Wild Things\n\nWhen despair for the world grows in me \nand I wake in the night at the least sound \nin fear of what my life and my children’s lives may be, \nI go and lie down where the wood drake \nrests in his beauty on the water, and the great heron feeds. \nI come into the peace of wild things \nwho do not tax their lives with forethought \nof grief. I come into the presence of still water. \nAnd I feel above me the day-blind stars \nwaiting with their light. For a time \nI rest in the grace of the world, and am free.\n\n#WaltonMusic #Choir #Choral"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT6M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "78",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

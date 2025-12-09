@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "o5w6KN2YybNoVYKM1a4xNNE7Lrg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "5Ab6CdOelPFvef-P0spCSYzfVpk",
+            "id": "9eIBEneRsxA",
+            "snippet": {
+                "publishedAt": "2022-03-02T09:00:03Z",
+                "channelId": "UC2QOMTJ0Gz5vJPMl7KXkWaA",
+                "title": "STOP WAR  島谷ひとみ× HIPPY",
+                "description": "広島出身のアーティスト島谷ひとみと HIPPYが広島から強く訴える。\nこの世界から戦争なんていらない。\n\n対話で解決する方法を見出してほしい。\nそして被爆地広島出身だから言える、核兵器の使用を絶対に許してはいけないという強い思いがある。\n\nそんな思いを多くの方々と共有するために\nこの動画は制作されました。\n\n島谷ひとみ公式サイト　https://shimatani.tokyo\nHIPPY公式サイト　http://hippy-web.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9eIBEneRsxA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9eIBEneRsxA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9eIBEneRsxA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9eIBEneRsxA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9eIBEneRsxA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HITOMI SHIMATANI MUSIC Official Youtube",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "STOP WAR  島谷ひとみ× HIPPY",
+                    "description": "広島出身のアーティスト島谷ひとみと HIPPYが広島から強く訴える。\nこの世界から戦争なんていらない。\n\n対話で解決する方法を見出してほしい。\nそして被爆地広島出身だから言える、核兵器の使用を絶対に許してはいけないという強い思いがある。\n\nそんな思いを多くの方々と共有するために\nこの動画は制作されました。\n\n島谷ひとみ公式サイト　https://shimatani.tokyo\nHIPPY公式サイト　http://hippy-web.com"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT2M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "10843",
+                "likeCount": "1164",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

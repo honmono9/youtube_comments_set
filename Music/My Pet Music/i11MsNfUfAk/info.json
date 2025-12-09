@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "pBYPUwjE4pQEtgBSghDhAikWB9I",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Fui1dfRVjWqqxEA67l_DrI1p74E",
+            "id": "i11MsNfUfAk",
+            "snippet": {
+                "publishedAt": "2024-06-30T21:00:18Z",
+                "channelId": "UCo62tODW4YnxtszbusXyX-w",
+                "title": "힐링이 필요한 강아지들을 위한 음악🐶강아지 혼자 있을 때 들려주세요~🎵",
+                "description": "안녕하세요. My Pet Music 입니다.\n힐링이 필요한 강아지들을 위한 편안한 음악 이예요\n강아지가 혼자 있을 때 들려주면 좋을거 같아요!\n오늘도 반려 동물과 함께 행복한 시간 되길 바라요~^^\n\n \"let's be happy together\"\n\n\n🎵음악 제목\n01.너를 만나\n02.행복한 이야기\n03.푸른 구름\n\n\n#강아지음악 #강아지가좋아하는음악 #강아지힐링음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i11MsNfUfAk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i11MsNfUfAk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i11MsNfUfAk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/i11MsNfUfAk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/i11MsNfUfAk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "My Pet Music",
+                "tags": [
+                    "강아지힐링음악",
+                    "강아지음악",
+                    "개음악",
+                    "개가좋아하는음악",
+                    "펫뮤직",
+                    "강아지혼자있을때음악",
+                    "개혼자있을때음악",
+                    "DogMusic",
+                    "DogsMusic",
+                    "DogRelaxMusic",
+                    "DogRelaxingMusic",
+                    "DogHealingMusic",
+                    "Dog'sFavoriteMusic",
+                    "PetMusic"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "힐링이 필요한 강아지들을 위한 음악🐶강아지 혼자 있을 때 들려주세요~🎵",
+                    "description": "안녕하세요. My Pet Music 입니다.\n힐링이 필요한 강아지들을 위한 편안한 음악 이예요\n강아지가 혼자 있을 때 들려주면 좋을거 같아요!\n오늘도 반려 동물과 함께 행복한 시간 되길 바라요~^^\n\n \"let's be happy together\"\n\n\n🎵음악 제목\n01.너를 만나\n02.행복한 이야기\n03.푸른 구름\n\n\n#강아지음악 #강아지가좋아하는음악 #강아지힐링음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT10H46M42S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "10129",
+                "likeCount": "70",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

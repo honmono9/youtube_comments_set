@@ -1,0 +1,81 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "KST6eT3KJ4KrIL0eb82hQDi1pZE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "OmM4GKnv3oS4Uz6dJ8Du5l0etz0",
+            "id": "SGVz-F155No",
+            "snippet": {
+                "publishedAt": "2025-12-07T01:33:04Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "วิญญาณรักนิรันดร์ [ Eternal soul of love ] - Album One Web -Burapha Music Arena ( BMAARENA) #music",
+                "description": "หากรักคือคำสาป แม้ข้ามพันปี ก็จะตามหาเธอ \nAlbum - One Web 11-12-2025 \nเนื้อร้อง - Maysarin echo web \nเรียบเรียงและดนตรี - BMAARENA©\n#cinematicrock #music #spotify #คำสาป",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SGVz-F155No/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SGVz-F155No/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SGVz-F155No/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SGVz-F155No/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SGVz-F155No/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "tags": [
+                    "หากรักคือคำสาป",
+                    "วิญญาณรักนิรันดร์",
+                    "One Web",
+                    "BMAARENA",
+                    "Cinematic rock",
+                    "music",
+                    "เธอยังยิ้มอยู่ในความทรงจำ"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "วิญญาณรักนิรันดร์ [ Eternal soul of love ] - Album One Web -Burapha Music Arena ( BMAARENA) #music",
+                    "description": "หากรักคือคำสาป แม้ข้ามพันปี ก็จะตามหาเธอ \nAlbum - One Web 11-12-2025 \nเนื้อร้อง - Maysarin echo web \nเรียบเรียงและดนตรี - BMAARENA©\n#cinematicrock #music #spotify #คำสาป"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT47S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6182",
+                "likeCount": "79",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

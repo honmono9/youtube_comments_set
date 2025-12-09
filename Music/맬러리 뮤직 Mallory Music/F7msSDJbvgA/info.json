@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "YfG9MzdztB3v-0fVOA5AtSVncuA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "dgCcw69r9k0DnFPjsDp87Vt3i1s",
+            "id": "F7msSDJbvgA",
+            "snippet": {
+                "publishedAt": "2021-10-30T03:18:57Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "선선한 가을날 귀가 즐거워지는 소프트 팝송",
+                "description": "Photo by Yura Timoshenko\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd-0KQd-tQHqCE5suxgjZ2b4\n\n즐거운 주말 보내세요 :)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F7msSDJbvgA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F7msSDJbvgA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F7msSDJbvgA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/F7msSDJbvgA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/F7msSDJbvgA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "팝송",
+                    "가을 팝송",
+                    "팝송 모음",
+                    "여유로운 팝송",
+                    "주말 팝송",
+                    "노래",
+                    "부드러운 팝송",
+                    "autumn songs",
+                    "best songs",
+                    "playlist"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "선선한 가을날 귀가 즐거워지는 소프트 팝송",
+                    "description": "Photo by Yura Timoshenko\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd-0KQd-tQHqCE5suxgjZ2b4\n\n즐거운 주말 보내세요 :)"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT26M41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "42599",
+                "likeCount": "1143",
+                "favoriteCount": "0",
+                "commentCount": "111"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

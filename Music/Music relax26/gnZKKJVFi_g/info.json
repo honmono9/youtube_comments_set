@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "RTYi3e2j3waj7NBpOfw2QJ0e9mE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "K5X-CdvLiDFjd_AOMYb2FTzTJQo",
+            "id": "gnZKKJVFi_g",
+            "snippet": {
+                "publishedAt": "2025-11-27T17:01:24Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "เพื่อชีวิตติดมันส์ รวมเพลงลูกทุ่งเพื่อชีวิตโดน โจีะๆ ฟังกันยาวๆ Ep.1 musicrelax26",
+                "description": "เพื่อชีวิตติดมันส์ รวมเพลงลูกทุ่งเพื่อชีวิตโดน โจีะๆ ฟังกันยาวๆ Ep.1 musicrelax26",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gnZKKJVFi_g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gnZKKJVFi_g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gnZKKJVFi_g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gnZKKJVFi_g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gnZKKJVFi_g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "tags": [
+                    "เพื่อชีวิตติดมันส์ รวมเพลงลูกทุ่งเพื่อชีวิตโดน โจีะๆ ฟังกันยาวๆ Ep.1 musicrelax26",
+                    "รวมเพลงเพื่อชีวิต",
+                    "เพลงเพื่อชีวิต",
+                    "เพลงลูกทุ่ง"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "เพื่อชีวิตติดมันส์ รวมเพลงลูกทุ่งเพื่อชีวิตโดน โจีะๆ ฟังกันยาวๆ Ep.1 musicrelax26",
+                    "description": "เพื่อชีวิตติดมันส์ รวมเพลงลูกทุ่งเพื่อชีวิตโดน โจีะๆ ฟังกันยาวๆ Ep.1 musicrelax26"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT46M19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "11840",
+                "likeCount": "160",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

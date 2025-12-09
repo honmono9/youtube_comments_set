@@ -1,0 +1,70 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "TzqTPruPyF4uzNTnMpZMrKPx880",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "i9Ed9iG92k50N9eZFg1l08xeyWU",
+            "id": "HdnBUWAwppM",
+            "snippet": {
+                "publishedAt": "2025-08-19T14:41:00Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "แสดงสดมันส์ๆ รวมเพลงลูกทุ่ง หมอลำ เพื่อชีวิต จ้วดอย่างเดียว ยาวๆไปครับผม",
+                "description": "แสดงสดมันส์ๆ รวมเพลงลูกทุ่ง หมอลำ เพื่อชีวิต จ้วดอย่างเดียว ยาวๆไปครับผม\n#ดนตรีสด #เพลงลูกทุ่งหมอลำ #เพลงมันส์ๆ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HdnBUWAwppM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HdnBUWAwppM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HdnBUWAwppM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HdnBUWAwppM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "tags": [
+                    "แสดงสดมันส์ๆ รวมเพลงลูกทุ่ง หมอลำ เพื่อชีวิต จ้วดอย่างเดียว ยาวๆไปครับผม"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "แสดงสดมันส์ๆ รวมเพลงลูกทุ่ง หมอลำ เพื่อชีวิต จ้วดอย่างเดียว ยาวๆไปครับผม",
+                    "description": "แสดงสดมันส์ๆ รวมเพลงลูกทุ่ง หมอลำ เพื่อชีวิต จ้วดอย่างเดียว ยาวๆไปครับผม\n#ดนตรีสด #เพลงลูกทุ่งหมอลำ #เพลงมันส์ๆ"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT1H10M19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2891",
+                "likeCount": "60",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

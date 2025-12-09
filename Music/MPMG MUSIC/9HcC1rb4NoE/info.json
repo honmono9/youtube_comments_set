@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ntP3Qh7iS0Ik1hAzxEusC_VT8E0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "qSdcZlRkWK68n6q-s7MZmH67iGk",
+            "id": "9HcC1rb4NoE",
+            "snippet": {
+                "publishedAt": "2025-02-13T23:00:08Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "🌞𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀! #5 | #터치드 #존비킴",
+                "description": "[𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀!]\n\n여러분의 아침을 열어줄 오늘의 아티스트는\n터치드의 존비킴님입니다.\n\n존비킴님의 아침 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n좋은 아침 되세요!🌞\n\n[00:00] Good Morning my Friends! #5 존비킴\n[02:43] 김동률 - 출발\n[06:38] 한로로 - 금붕어\n[10:10] 터치드(TOUCHED) - Back to you\n[14:37] 한로로 - ㅈㅣㅂ\n[18:20] 터치드(TOUCHED) - Stand Up! \n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#GoodMorningmyFriends #터치드 #존비킴",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9HcC1rb4NoE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9HcC1rb4NoE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9HcC1rb4NoE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9HcC1rb4NoE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9HcC1rb4NoE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🌞𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀! #5 | #터치드 #존비킴",
+                    "description": "[𝗚𝗼𝗼𝗱 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗺𝘆 𝗙𝗿𝗶𝗲𝗻𝗱𝘀!]\n\n여러분의 아침을 열어줄 오늘의 아티스트는\n터치드의 존비킴님입니다.\n\n존비킴님의 아침 인사부터 추천곡까지\n오직 MPMG MUSIC 유튜브에서 만나보실 수 있습니다.\n\n좋은 아침 되세요!🌞\n\n[00:00] Good Morning my Friends! #5 존비킴\n[02:43] 김동률 - 출발\n[06:38] 한로로 - 금붕어\n[10:10] 터치드(TOUCHED) - Back to you\n[14:37] 한로로 - ㅈㅣㅂ\n[18:20] 터치드(TOUCHED) - Stand Up! \n\n#MPMG #MPMGWEEK #MPMGWEEK2025\n#엠피엠지 #믚믁 #믚믁주간\n#GoodMorningmyFriends #터치드 #존비킴"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT22M22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1585",
+                "likeCount": "172",
+                "favoriteCount": "0",
+                "commentCount": "33"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

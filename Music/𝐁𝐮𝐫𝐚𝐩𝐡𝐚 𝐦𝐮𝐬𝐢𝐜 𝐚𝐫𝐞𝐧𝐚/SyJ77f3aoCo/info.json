@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "IKromVL-MSsJ6kv435VMH3SKCqc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "aBWsw2jgfYvwoIoOgOQHFokjdGs",
+            "id": "SyJ77f3aoCo",
+            "snippet": {
+                "publishedAt": "2025-10-02T09:49:16Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "𝐓𝐡𝐨𝐮𝐠𝐡 𝐭𝐡𝐞 𝐅𝐢𝐫𝐞 - [ ไฟในใจ] | 𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐌𝐯 @𝐁𝐌𝐀𝐚𝐫𝐞𝐧𝐚 #𝐂𝐢𝐧𝐞𝐦𝐚𝐭𝐢𝐜𝐑𝐨𝐜𝐤 #𝐄𝐦𝐨𝐭𝐢𝐨𝐧𝐚𝐥𝐒𝐨𝐧𝐠 #𝐦𝐯",
+                "description": "🔥แม้เจ็บปวดหัวใจ ก็รักเพียงเธอ @BMAarena\n#เพลงใหม่   #cinematicrock  #เพลงร็อก\n #music #alternativerock \n\nเนื้อร้อง/ทำนอง: BMAARENA©\nดนตรี:BMA\nVocals:BMA\nmix sound: BMAARENA \nMv: Maysarin echo web©\n© 2025 BMAarena. ผลงานนี้มีลิขสิทธิ์ \nห้ามทำซ้ำ ดัดแปลง หรือเผยแพร่โดยไม่ได้รับอนุญาต",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SyJ77f3aoCo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SyJ77f3aoCo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SyJ77f3aoCo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SyJ77f3aoCo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SyJ77f3aoCo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "tags": [
+                    "@BMAarena",
+                    "Though the Fire",
+                    "Rock",
+                    "Cinematic rock",
+                    "เพลงร็อค",
+                    "love song",
+                    "แม้เจ็บปวดหัวใจ ก็รักเพียงเธอ",
+                    "ไฟในใจ",
+                    "Burapha Music Arena"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "𝐓𝐡𝐨𝐮𝐠𝐡 𝐭𝐡𝐞 𝐅𝐢𝐫𝐞 - [ ไฟในใจ] | 𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐌𝐯 @𝐁𝐌𝐀𝐚𝐫𝐞𝐧𝐚 #𝐂𝐢𝐧𝐞𝐦𝐚𝐭𝐢𝐜𝐑𝐨𝐜𝐤 #𝐄𝐦𝐨𝐭𝐢𝐨𝐧𝐚𝐥𝐒𝐨𝐧𝐠 #𝐦𝐯",
+                    "description": "🔥แม้เจ็บปวดหัวใจ ก็รักเพียงเธอ @BMAarena\n#เพลงใหม่   #cinematicrock  #เพลงร็อก\n #music #alternativerock \n\nเนื้อร้อง/ทำนอง: BMAARENA©\nดนตรี:BMA\nVocals:BMA\nmix sound: BMAARENA \nMv: Maysarin echo web©\n© 2025 BMAarena. ผลงานนี้มีลิขสิทธิ์ \nห้ามทำซ้ำ ดัดแปลง หรือเผยแพร่โดยไม่ได้รับอนุญาต"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT4M6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9446",
+                "likeCount": "44",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

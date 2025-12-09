@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "YwTr7krw-vBWqjkyVYciQT8cVvQ",
+        "id": "UgwKxAbe7T6NKz4cU5J4AaABAg",
+        "snippet": {
+            "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+            "videoId": "_aLXq4NXylA",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "p2lJyiCtwiMlpCBYj-DJAch6hXI",
+                "id": "UgwKxAbe7T6NKz4cU5J4AaABAg",
+                "snippet": {
+                    "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+                    "videoId": "_aLXq4NXylA",
+                    "textDisplay": "Love it!   I played,  varying above and below the root of each chord=      Bb..   1 7 3 5    G7..  1 b6 b7 3      cm. 1 2 b3 b7         F7..   1  6 10  b7     ... then   Bb..  1 8  7 10 5      G7 .. 1  8  b6  3                                      cm.. 1  8   9  b10  b7     F7..   1    8   6    3     and then some.......",
+                    "textOriginal": "Love it!   I played,  varying above and below the root of each chord=      Bb..   1 7 3 5    G7..  1 b6 b7 3      cm. 1 2 b3 b7         F7..   1  6 10  b7     ... then   Bb..  1 8  7 10 5      G7 .. 1  8  b6  3                                      cm.. 1  8   9  b10  b7     F7..   1    8   6    3     and then some.......",
+                    "authorDisplayName": "@alexcarrillo6764",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k-UYIIIBklfJlxTF60i7HiujIBq8pws-wOtN1hXfI=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@alexcarrillo6764",
+                    "authorChannelId": {
+                        "value": "UCHUrpY04LfJAvWSwahR49VA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-11-20T01:46:55Z",
+                    "updatedAt": "2025-11-20T01:49:42Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Wf9Daat2DgQ1xwLkeKEYQQ1Mrso",
+        "id": "UgzhkDF7TaFGeY1DiOp4AaABAg",
+        "snippet": {
+            "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+            "videoId": "_aLXq4NXylA",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "kpaU6M1pZUvuyPts8oWT2XVdLF4",
+                "id": "UgzhkDF7TaFGeY1DiOp4AaABAg",
+                "snippet": {
+                    "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+                    "videoId": "_aLXq4NXylA",
+                    "textDisplay": "I just wish the f7 was something else",
+                    "textOriginal": "I just wish the f7 was something else",
+                    "authorDisplayName": "@TriddyIPPY",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/VtXkQBL9dGX8hpQf_8OT0qvSXz2b8MaD8_O1ChgrC-RwD_np-gQmd6uWfbBZTttN1cuyN0MX=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@TriddyIPPY",
+                    "authorChannelId": {
+                        "value": "UCay6nT5XWkB5W6T2S5XIY9A"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-03-24T20:46:38Z",
+                    "updatedAt": "2025-03-24T20:46:38Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "bDYcRHKiqK6gBUH8JqO1R84hO0E",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "NbQynX34kkyrpRhfKRQjZsyLp7E",
+            "id": "WZJ-J--8HGI",
+            "snippet": {
+                "publishedAt": "2023-02-11T13:54:15Z",
+                "channelId": "UCwdmcaOcWQ7PW8_wuaB8Cjw",
+                "title": "LUKE COMBS - THE KIND OF LOVE WE MAKE (SEBASTIAN SPENCER REMIX)",
+                "description": "Folge mir:  \n@Instagram:\nhttps://www.instagram.com/sebastianspencermusic/\n\n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music\n\nBOOTLEG REMIX",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WZJ-J--8HGI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WZJ-J--8HGI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WZJ-J--8HGI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WZJ-J--8HGI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WZJ-J--8HGI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sebastian Spencer Music",
+                "tags": [
+                    "Luke combs",
+                    "Sebastian Spencer",
+                    "Edm"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "de",
+                "localized": {
+                    "title": "LUKE COMBS - THE KIND OF LOVE WE MAKE (SEBASTIAN SPENCER REMIX)",
+                    "description": "Folge mir:  \n@Instagram:\nhttps://www.instagram.com/sebastianspencermusic/\n\n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music\n\nBOOTLEG REMIX"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "152415",
+                "likeCount": "1380",
+                "favoriteCount": "0",
+                "commentCount": "24"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

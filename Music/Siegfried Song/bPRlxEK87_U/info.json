@@ -1,0 +1,69 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "uJI5SfGGQiRlioYM8ROhKyVK10Q",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "X550S4RqE1iN6hCtumVwstSiOyA",
+            "id": "bPRlxEK87_U",
+            "snippet": {
+                "publishedAt": "2015-12-04T20:36:31Z",
+                "channelId": "UCquS6S5yOGk2j5YS6WHj6eA",
+                "title": "휘성 - ..안되나요.. (Cover)",
+                "description": "This video was recorded by the request of my friend. I’m a metal singer and this is not my cup of tea, I had pretty hard moments to make this rapid vibratos while singing. Although it’s very experimental, I think it’s also enjoyable.\n\nHave a nice one!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bPRlxEK87_U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bPRlxEK87_U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bPRlxEK87_U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Siegfried Song",
+                "tags": [
+                    "Xieg",
+                    "안되나요",
+                    "Video",
+                    "SiegfriedSong",
+                    "휘성"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "휘성 - ..안되나요.. (Cover)",
+                    "description": "This video was recorded by the request of my friend. I’m a metal singer and this is not my cup of tea, I had pretty hard moments to make this rapid vibratos while singing. Although it’s very experimental, I think it’s also enjoyable.\n\nHave a nice one!"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M29S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "11451",
+                "likeCount": "224",
+                "favoriteCount": "0",
+                "commentCount": "43"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "4zeXzLPE_vCfTbcP6furWQvAtWY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "uQJ3OYlwUJVdwt7otPHiTLx6keI",
+            "id": "mQf5dhRo3Eo",
+            "snippet": {
+                "publishedAt": "2022-07-06T13:00:22Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Positive Bossa Nova - Happy Morning Jazz Music to Relax",
+                "description": "The best playlist of positive bossa nova and jazz music by Richard Freeman! \n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #positivejazz #bossanova \n\nl041",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mQf5dhRo3Eo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mQf5dhRo3Eo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mQf5dhRo3Eo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mQf5dhRo3Eo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mQf5dhRo3Eo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "tags": [
+                    "positive bossa nova",
+                    "happy jazz",
+                    "morning jazz",
+                    "jazz music",
+                    "jazz to relax",
+                    "positive thoughts jazz",
+                    "chill summer day jazz",
+                    "good mood jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Positive Bossa Nova - Happy Morning Jazz Music to Relax",
+                    "description": "The best playlist of positive bossa nova and jazz music by Richard Freeman! \n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #positivejazz #bossanova \n\nl041"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "17898",
+                "likeCount": "324",
+                "favoriteCount": "0",
+                "commentCount": "19"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

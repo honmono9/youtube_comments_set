@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "uRmi7GSo_H0XEKkZxqxGPiP9oSg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "-mZLfRUnC2GpB67QWYmiyIsCnRs",
+            "id": "v9jDIlfurUk",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:00:32Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[MV] O.O.O - 앞으로 (WE'll) / Official Music Video",
+                "description": "[MV] O.O.O - 앞으로 (WE'll) / Official Music Video\n\n앞으로\nLyrics written by 가성현 \nComposed by 가성현, 이지상, 김우석, 고도연 \nArranged by 가성현, 이지상, 김우석, 고도연\n\n#OOO #밴드OOO #Yellow #앞으로 #newrelease",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v9jDIlfurUk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v9jDIlfurUk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v9jDIlfurUk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/v9jDIlfurUk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/v9jDIlfurUk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "tags": [
+                    "NewRelease",
+                    "kpop",
+                    "신곡",
+                    "최신음악",
+                    "인기음악",
+                    "남자 보컬",
+                    "남자 가수",
+                    "랩",
+                    "O.O.O",
+                    "락",
+                    "락 밴드",
+                    "밴드 O.O.O",
+                    "남자 밴드",
+                    "Korean rock"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[MV] O.O.O - 앞으로 (WE'll) / Official Music Video",
+                    "description": "[MV] O.O.O - 앞으로 (WE'll) / Official Music Video\n\n앞으로\nLyrics written by 가성현 \nComposed by 가성현, 이지상, 김우석, 고도연 \nArranged by 가성현, 이지상, 김우석, 고도연\n\n#OOO #밴드OOO #Yellow #앞으로 #newrelease"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M3S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3225",
+                "likeCount": "151",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

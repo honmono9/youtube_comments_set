@@ -1,0 +1,75 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Meww8LqbO9iWcg1puEqs7TaMp6g",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "6dxmGzj6C1U2y91P3RHpSm04prE",
+            "id": "_ItDF6wPb94",
+            "snippet": {
+                "publishedAt": "2025-06-09T07:23:54Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "สกิลมือกลองขั้นเทพ Jordan Cannata Drum Solo แบบสามพะยางค์",
+                "description": "สกิลมือกลองขั้นเทพ Jordan Cannata Drum Solo แบบสามพะยางค์\n#drummer #มือกลองขั้นเทพ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_ItDF6wPb94/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_ItDF6wPb94/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_ItDF6wPb94/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_ItDF6wPb94/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_ItDF6wPb94/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "tags": [
+                    "สกิลมือกลองขั้นเทพ Jordan Cannata Drum Solo แบบสามพะยางค์"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "สกิลมือกลองขั้นเทพ Jordan Cannata Drum Solo แบบสามพะยางค์",
+                    "description": "สกิลมือกลองขั้นเทพ Jordan Cannata Drum Solo แบบสามพะยางค์\n#drummer #มือกลองขั้นเทพ"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3025",
+                "likeCount": "73",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

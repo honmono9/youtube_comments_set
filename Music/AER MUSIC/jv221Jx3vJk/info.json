@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "HHJkRaQXpmjaoNxJQy7gGZ77HJE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "FhkOvq0-25aZ9zPdU7CxF1wcmmY",
+            "id": "jv221Jx3vJk",
+            "snippet": {
+                "publishedAt": "2023-02-10T09:00:29Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[주은CAM] EP.2 주은이 직접쓰는 프로필 | MBTI 검사 (+팬덤명 공개) ✨ (ENG/JPN)",
+                "description": "EP.2 주은이 직접쓰는 프로필 | MBTI 검사 (+팬덤명 공개) ✨\n\nBGM :  공유마당, CC BY\n𝑴𝒖𝒔𝒊𝒄 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 : https://youtu.be/2gm2CDRgsgU\n\n#주은 #JUEUN\n#직접쓰는프로필 #MBTI검사 #팬덤명공개\n#AERMUSIC #아에르뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jv221Jx3vJk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jv221Jx3vJk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jv221Jx3vJk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jv221Jx3vJk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jv221Jx3vJk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[주은CAM] EP.2 주은이 직접쓰는 프로필 | MBTI 검사 (+팬덤명 공개) ✨ (ENG/JPN)",
+                    "description": "EP.2 주은이 직접쓰는 프로필 | MBTI 검사 (+팬덤명 공개) ✨\n\nBGM :  공유마당, CC BY\n𝑴𝒖𝒔𝒊𝒄 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 : https://youtu.be/2gm2CDRgsgU\n\n#주은 #JUEUN\n#직접쓰는프로필 #MBTI검사 #팬덤명공개\n#AERMUSIC #아에르뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT10M52S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4254",
+                "likeCount": "295",
+                "favoriteCount": "0",
+                "commentCount": "37"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

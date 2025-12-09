@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "0EkUxl04WrsDEJzO03UG5DBrugk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "sgcoGGKHbQPaDMR3cnvZrhCy1R0",
+            "id": "os-kN9cuouo",
+            "snippet": {
+                "publishedAt": "2020-09-27T13:27:30Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "센티멘탈 물고기의 자유롭고 그루비한 유영",
+                "description": "Photo by Danilo Batista\n\n오랜만에 찾아뵙게 되었어요.\n남은 휴일 편안히 마무리하세요 :)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/os-kN9cuouo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/os-kN9cuouo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/os-kN9cuouo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/os-kN9cuouo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/os-kN9cuouo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "알앤비",
+                    "팝송",
+                    "r&b",
+                    "외국 노래",
+                    "해외 팝송",
+                    "new r&b",
+                    "chill r&b",
+                    "pop songs",
+                    "playlist",
+                    "플레이리스트",
+                    "그루브",
+                    "팝송 모음",
+                    "r&b soul",
+                    "indie r&b songs",
+                    "감성 팝송"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "센티멘탈 물고기의 자유롭고 그루비한 유영",
+                    "description": "Photo by Danilo Batista\n\n오랜만에 찾아뵙게 되었어요.\n남은 휴일 편안히 마무리하세요 :)"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT28M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "52003",
+                "likeCount": "1360",
+                "favoriteCount": "0",
+                "commentCount": "120"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

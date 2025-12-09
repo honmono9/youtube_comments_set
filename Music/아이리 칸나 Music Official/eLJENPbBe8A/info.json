@@ -1,0 +1,104 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "-YnFVdE0vWUQbhmn6zuADOnN9oM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "vNI3zynLfu90pPh5VfHA_KbtCK8",
+            "id": "eLJENPbBe8A",
+            "snippet": {
+                "publishedAt": "2023-11-18T13:58:07Z",
+                "channelId": "UC6YnTqZidFg4WUiXpiCtSSQ",
+                "title": "勘ぐれい (ZUTOMAYO) / 藍璃かんな Cover",
+                "description": "original：https://youtu.be/ugpywe34_30?si=GBVT2mRdbfRCNJX0\n\n\n✧Illustration :  Gooak\nhttps://twitter.com/twit_gooak\n\n✧Movie：cappu \nhttps://twitter.com/c4ppu \n\n✧Director : REQ (Accelers)\nhttps://twitter.com/requiemdh\n\n✧Inst Arrange : REQ\nhttps://twitter.com/requiemdh\n\n✧Recording : JiHEE\n\n✧Guitar : Woong\n\n✧MIX&MASTERING ：TRMX Sound Lab \nhttps://twitter.com/Trmx_Sound_Lab \n\n\n✧Produce : The Cold\nhttps://twitter.com/thecold_\n\n\n✧Vocal & Chorus : Airi Kanna\nJP Twitter\n→https://twitter.com/AiriKanna_\n\nKR Twitter\n→https://twitter.com/AiriKannaKR\nKR Youtube \n→https://www.youtube.com/@airikannach\nKR Twitch\n→https://www.twitch.tv/airikanna_stellive\n\n----------------------------------------------------------------------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eLJENPbBe8A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eLJENPbBe8A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eLJENPbBe8A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eLJENPbBe8A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eLJENPbBe8A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "아이리 칸나 Music Official",
+                "tags": [
+                    "vtuber",
+                    "airikanna",
+                    "airikannacover",
+                    "covered",
+                    "cover",
+                    "歌ってみた",
+                    "yonezu",
+                    "아이리칸나",
+                    "노래",
+                    "노래 커버",
+                    "아이리칸나 노래",
+                    "아이리칸나 커버",
+                    "스텔라이브",
+                    "스텔라이브 칸나",
+                    "버튜버 커버",
+                    "버튜버 노래",
+                    "버튜버",
+                    "한국 버튜버",
+                    "かんな",
+                    "かんなうた",
+                    "あいりかんな",
+                    "勘ぐれい",
+                    "ZUTOMAYO",
+                    "감그레이",
+                    "칸나 감그레이",
+                    "ずっと真夜中でいいのに。",
+                    "즛토마요",
+                    "계속 함밤중이면 좋을 텐데",
+                    "아이리 칸나 감그레이",
+                    "かんな 勘ぐれい"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "勘ぐれい (ZUTOMAYO) / 藍璃かんな Cover",
+                    "description": "original：https://youtu.be/ugpywe34_30?si=GBVT2mRdbfRCNJX0\n\n\n✧Illustration :  Gooak\nhttps://twitter.com/twit_gooak\n\n✧Movie：cappu \nhttps://twitter.com/c4ppu \n\n✧Director : REQ (Accelers)\nhttps://twitter.com/requiemdh\n\n✧Inst Arrange : REQ\nhttps://twitter.com/requiemdh\n\n✧Recording : JiHEE\n\n✧Guitar : Woong\n\n✧MIX&MASTERING ：TRMX Sound Lab \nhttps://twitter.com/Trmx_Sound_Lab \n\n\n✧Produce : The Cold\nhttps://twitter.com/thecold_\n\n\n✧Vocal & Chorus : Airi Kanna\nJP Twitter\n→https://twitter.com/AiriKanna_\n\nKR Twitter\n→https://twitter.com/AiriKannaKR\nKR Youtube \n→https://www.youtube.com/@airikannach\nKR Twitch\n→https://www.twitch.tv/airikanna_stellive\n\n----------------------------------------------------------------------------------------------"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT4M11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2818811",
+                "likeCount": "19055",
+                "favoriteCount": "0",
+                "commentCount": "930"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "wjBuXvMz6aXyA6fLKmdUI6JFgSo",
+        "id": "UgzwYgGsLwC4nd_F04J4AaABAg",
+        "snippet": {
+            "channelId": "UC33yEDM8q3N8BeMpZMdP66Q",
+            "videoId": "5kkjzBlQZDc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "0xdf9zvNZSzBzq6GFnMzE43W5p0",
+                "id": "UgzwYgGsLwC4nd_F04J4AaABAg",
+                "snippet": {
+                    "channelId": "UC33yEDM8q3N8BeMpZMdP66Q",
+                    "videoId": "5kkjzBlQZDc",
+                    "textDisplay": "😮😮😮😮\n모야?",
+                    "textOriginal": "😮😮😮😮\n모야?",
+                    "authorDisplayName": "@방가루-eee",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/eNH8PaS65FG1hk1VZy69UUGU8ml-bAXv3BV8CY2LZG30J6UjSHiko4viiXavofysNLtNtJII=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EB%B0%A9%EA%B0%80%EB%A3%A8-eee",
+                    "authorChannelId": {
+                        "value": "UCVHj5vVmMQsl1QTmdWecD1w"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-12-09T09:31:34Z",
+                    "updatedAt": "2025-12-09T09:31:34Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

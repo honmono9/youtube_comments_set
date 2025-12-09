@@ -1,0 +1,67 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "dbq9S-wLb08pTJ3gQA_nHzI4YOE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "dgbFtcZq3M9gX73A-WQwhbk2J0k",
+            "id": "aaRN-JgKuBM",
+            "snippet": {
+                "publishedAt": "2024-05-31T14:58:44Z",
+                "channelId": "UCTAyNY6-yR1SfddUWWBs7KA",
+                "title": "One Madone🔥🎶🎶🏆@$#",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aaRN-JgKuBM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aaRN-JgKuBM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aaRN-JgKuBM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aaRN-JgKuBM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Madaan Music Official ",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "One Madone🔥🎶🎶🏆@$#",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "pa"
+            },
+            "contentDetails": {
+                "duration": "PT1M43S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "73",
+                "likeCount": "14",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "GF1PAA79ZmuzYoH87pSpEaSH1D4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ep9I6Ikgzw3epDUBs7cAUSho2Rs",
+            "id": "m62Ikqnrn2E",
+            "snippet": {
+                "publishedAt": "2025-09-12T10:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Leaving on a Nostalgic Day | Jazz at New York Train Station, Vintage Saxophone",
+                "description": "Step into 1950s New York in autumn, where the golden leaves fall to the sound of smooth saxophone jazz. This vintage playlist brings warmth and romance to your day—perfect for study, work, coffee time, or quiet evenings.\n\n#autumnjazz #saxophonejazz #1950sjazz #NewYorkjazz #vintagejazz #jazzplaylist #romanticjazz #smoothjazz #relaxingjazz #cozyjazz #oldiesjazz #classicjazz #caféjazz #pianojazz #studyjazz #jazzmusic #jazzinstrumental #eveningjazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m62Ikqnrn2E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m62Ikqnrn2E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m62Ikqnrn2E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m62Ikqnrn2E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m62Ikqnrn2E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "autumn jazz",
+                    "saxophone jazz",
+                    "cafe jazz",
+                    "oldies jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Leaving on a Nostalgic Day | Jazz at New York Train Station, Vintage Saxophone",
+                    "description": "Step into 1950s New York in autumn, where the golden leaves fall to the sound of smooth saxophone jazz. This vintage playlist brings warmth and romance to your day—perfect for study, work, coffee time, or quiet evenings.\n\n#autumnjazz #saxophonejazz #1950sjazz #NewYorkjazz #vintagejazz #jazzplaylist #romanticjazz #smoothjazz #relaxingjazz #cozyjazz #oldiesjazz #classicjazz #caféjazz #pianojazz #studyjazz #jazzmusic #jazzinstrumental #eveningjazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1937",
+                "likeCount": "42",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

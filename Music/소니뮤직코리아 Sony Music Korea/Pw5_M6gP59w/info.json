@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "DUMvmioKdVUjCe2nyQZ0IcNZwP0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "bQmbXK5QSTb4vkzNnTMWi4ad7fg",
+            "id": "Pw5_M6gP59w",
+            "snippet": {
+                "publishedAt": "2025-12-08T11:01:18Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "이 노래가 내 핫팩이고 핫초코야..🧣 재생하는 순간 마음이 따뜻해지는 빈티지 클래식 캐롤 ⛄💓",
+                "description": "🎧 Darlene Love - Christmas (Baby Please Come Home)\n\n#달린러브 #darlenelove #christmas #크리스마스 #크리스마스캐롤 #캐롤추천",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pw5_M6gP59w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pw5_M6gP59w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pw5_M6gP59w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Pw5_M6gP59w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Pw5_M6gP59w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "tags": [
+                    "darlene love",
+                    "christmas",
+                    "baby please come home",
+                    "달린러브",
+                    "크리스마스",
+                    "크리스마스 캐롤",
+                    "캐롤 추천",
+                    "캐롤 플리",
+                    "산타텔미",
+                    "santa tell me",
+                    "ariana grande",
+                    "스노우맨"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "이 노래가 내 핫팩이고 핫초코야..🧣 재생하는 순간 마음이 따뜻해지는 빈티지 클래식 캐롤 ⛄💓",
+                    "description": "🎧 Darlene Love - Christmas (Baby Please Come Home)\n\n#달린러브 #darlenelove #christmas #크리스마스 #크리스마스캐롤 #캐롤추천"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "878",
+                "likeCount": "8",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

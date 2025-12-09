@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "TJokcaXuUfsf04VPXJO--6DdoQA",
+        "id": "UgzHa9wSapbHAK5wbY94AaABAg",
+        "snippet": {
+            "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+            "videoId": "tUB-PSvRxV0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "K2yFo2OJGGZES2vhXdlpI1CJC7A",
+                "id": "UgzHa9wSapbHAK5wbY94AaABAg",
+                "snippet": {
+                    "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                    "videoId": "tUB-PSvRxV0",
+                    "textDisplay": "Классная песня",
+                    "textOriginal": "Классная песня",
+                    "authorDisplayName": "@ОльгаЛогинова-ф7ч",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/wIQTFTnv5JKOaVCvGw4zpwzAG0c1_QMFfKE2_eOeqPussrbKxcmkbA5mY7v-ox7idW1umapQmg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%D0%9B%D0%BE%D0%B3%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0-%D1%847%D1%87",
+                    "authorChannelId": {
+                        "value": "UCC6spjj2XJYkF_YlK1u0zKw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2024-05-21T20:42:59Z",
+                    "updatedAt": "2024-05-21T20:42:59Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

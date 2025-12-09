@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "6zDqEI0vxYZB1eltYA5T8_Zl9Yo",
+        "id": "UgzqSMyLO2VkgarBRF14AaABAg",
+        "snippet": {
+            "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+            "videoId": "oPGTBX-no78",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "T4N0vAhChP0Yor_tZ_pLwtYfw3Y",
+                "id": "UgzqSMyLO2VkgarBRF14AaABAg",
+                "snippet": {
+                    "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                    "videoId": "oPGTBX-no78",
+                    "textDisplay": "Enjoyed it more than I expected. I guess it goes to show that a good melody is a good melody, regardless of the arrangement.",
+                    "textOriginal": "Enjoyed it more than I expected. I guess it goes to show that a good melody is a good melody, regardless of the arrangement.",
+                    "authorDisplayName": "@faiclift",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lvvDgMQXyPhK9M5lK0pC-fn3U8r3XMcdPNyTE3OL4=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@faiclift",
+                    "authorChannelId": {
+                        "value": "UCA3-JqThrwfjlWdZXR0sA1Q"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-04T23:39:24Z",
+                    "updatedAt": "2025-11-04T23:39:24Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,108 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "xdjUpFbzGi_9gylS-86xDmek_Vo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "7jSyGtTFCxos9ZAz5160Hc5FP6w",
+            "id": "dPqyfwXQsjs",
+            "snippet": {
+                "publishedAt": "2023-12-22T03:38:39Z",
+                "channelId": "UCsfYd7AVFk_ASiMudok6_sQ",
+                "title": "Play Live!! with Jazz Music Korea - (In a Mellow tone)",
+                "description": "연남5701 에서 연주한 In a Mellow Tone 입니다.\n\n즐겁게 감상 해 주세요!\n\n보컬 - 조운\n색소폰 - 한호승\n피아노 - 이석원\n드럼 - 정성재\n베이스 - 최준혁\n\n협력 및  섭외문의\nContact  - chjh1234@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dPqyfwXQsjs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dPqyfwXQsjs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dPqyfwXQsjs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dPqyfwXQsjs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dPqyfwXQsjs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jazz Music Korea",
+                "tags": [
+                    "재즈",
+                    "재즈밴드",
+                    "재즈공연",
+                    "재즈밴드굿펠리스",
+                    "굿펠리스",
+                    "재즈밴드섭외",
+                    "재즈음악",
+                    "재즈뮤직코리아",
+                    "공연",
+                    "공연섭외",
+                    "재즈베이스",
+                    "콘트라베이스",
+                    "콘트라베이스최준혁",
+                    "재즈베이스최준혁",
+                    "워킹베이스",
+                    "jazz",
+                    "jazzband",
+                    "jazzmusic",
+                    "jazzmusickorea",
+                    "goodfellis",
+                    "uprightbass",
+                    "jazzbass",
+                    "choijunhyuk",
+                    "비브라폰",
+                    "livejazz",
+                    "jazzbandgoodfellis",
+                    "autumn leaves",
+                    "버스킹",
+                    "어텀리브스",
+                    "즉흥연주",
+                    "피렌체",
+                    "여행",
+                    "이태리",
+                    "italy"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Play Live!! with Jazz Music Korea - (In a Mellow tone)",
+                    "description": "연남5701 에서 연주한 In a Mellow Tone 입니다.\n\n즐겁게 감상 해 주세요!\n\n보컬 - 조운\n색소폰 - 한호승\n피아노 - 이석원\n드럼 - 정성재\n베이스 - 최준혁\n\n협력 및  섭외문의\nContact  - chjh1234@gmail.com"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8M30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3765",
+                "likeCount": "110",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

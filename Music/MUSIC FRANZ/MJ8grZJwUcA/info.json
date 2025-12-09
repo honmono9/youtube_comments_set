@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "cg_p0DKFDpwzH2RpUPy6aQBUrQ4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "W3wqzi4PQLOjn9eL4N4eN8YhDDY",
+            "id": "MJ8grZJwUcA",
+            "snippet": {
+                "publishedAt": "2025-11-19T13:04:16Z",
+                "channelId": "UCfrWVh-4M98j1WtDIR9IVNg",
+                "title": "SHOPEE RIDER/Rap and Reggae Remix/MUSIC FRANZ @Rabzmusics @TopTrending ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MJ8grZJwUcA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MJ8grZJwUcA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MJ8grZJwUcA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MJ8grZJwUcA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MJ8grZJwUcA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MUSIC FRANZ ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "SHOPEE RIDER/Rap and Reggae Remix/MUSIC FRANZ @Rabzmusics @TopTrending ",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT13M7S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "79",
+                "likeCount": "11",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

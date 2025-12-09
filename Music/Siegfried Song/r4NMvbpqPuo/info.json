@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "c_xr2oNV3JaZqPO0bBmLmRtpvyw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "btqo987i88NNMuZSZ7b6ij0WOBw",
+            "id": "r4NMvbpqPuo",
+            "snippet": {
+                "publishedAt": "2015-07-02T15:31:32Z",
+                "channelId": "UCquS6S5yOGk2j5YS6WHj6eA",
+                "title": "Judas Priest - Painkiller (Vocal Cover)",
+                "description": "Siegfried Song Facebook : http://www.facebook.com/SiegfriedSongOfficial\nI recorded this practice version sometime in 2013 before I left the states. If you'd like to support me plz like this video and share it with your friends. You can also visit my Facebook page. Thanks million!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r4NMvbpqPuo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r4NMvbpqPuo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r4NMvbpqPuo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/r4NMvbpqPuo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/r4NMvbpqPuo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Siegfried Song",
+                "tags": [
+                    "Siegfried Song",
+                    "Kamelot",
+                    "Symmetric Chaos",
+                    "Judas Priest",
+                    "Vocal Cover",
+                    "Power Metal",
+                    "Shadowland",
+                    "Rob Halford"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Judas Priest - Painkiller (Vocal Cover)",
+                    "description": "Siegfried Song Facebook : http://www.facebook.com/SiegfriedSongOfficial\nI recorded this practice version sometime in 2013 before I left the states. If you'd like to support me plz like this video and share it with your friends. You can also visit my Facebook page. Thanks million!"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT6M20S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "62919",
+                "likeCount": "1566",
+                "favoriteCount": "0",
+                "commentCount": "305"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "VgiA5HUuCeOOOpux91CupecapT4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "h3JzV4IEZ7Y4jq0hWPynmRObevU",
+            "id": "Ke7xvIu8gxU",
+            "snippet": {
+                "publishedAt": "2025-01-29T09:36:27Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "쿠우키 - 도피 [Audio]",
+                "description": "보고 싶지만 보고 싶지 않아\n\n\nTrack list.\n01. 도피 (작사 : REDO / 작곡 : REDO / 편곡 : REDO)\n02. 도피 (Inst.) (작곡 : REDO / 편곡 : REDO )\n\n[Credits]\nexecutive producer 공기남\nLyrics by REDO\nComposed by REDO\nArranged by REDO\nVocal by 쿠우키\nChorus by 쿠우키\nPiano by REDO\nGuitar by 양혁\nBass by REDO\nDrum by REDO\nMidi Programing by REDO\nRecorded by fovitz @AirMusic Studio\nMixed by fovitz @AirMusic Studio\nMastered by 권남우 @821 Sound\nAlbum artwork by 쿠우키\nManagement Airmusic\nTeam leader 박지호 @melanoalbinc\nDistributed by Wanermusic_Korea",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ke7xvIu8gxU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ke7xvIu8gxU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ke7xvIu8gxU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ke7xvIu8gxU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ke7xvIu8gxU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "쿠우키 - 도피 [Audio]",
+                    "description": "보고 싶지만 보고 싶지 않아\n\n\nTrack list.\n01. 도피 (작사 : REDO / 작곡 : REDO / 편곡 : REDO)\n02. 도피 (Inst.) (작곡 : REDO / 편곡 : REDO )\n\n[Credits]\nexecutive producer 공기남\nLyrics by REDO\nComposed by REDO\nArranged by REDO\nVocal by 쿠우키\nChorus by 쿠우키\nPiano by REDO\nGuitar by 양혁\nBass by REDO\nDrum by REDO\nMidi Programing by REDO\nRecorded by fovitz @AirMusic Studio\nMixed by fovitz @AirMusic Studio\nMastered by 권남우 @821 Sound\nAlbum artwork by 쿠우키\nManagement Airmusic\nTeam leader 박지호 @melanoalbinc\nDistributed by Wanermusic_Korea"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M43S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "481",
+                "likeCount": "24",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

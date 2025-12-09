@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "WCz2f7ophGr2LrWmZmzxJ8g8wP4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "TuBh8R3K_2YMxh29M_oesEGWsq0",
+            "id": "adYbIZsYPtI",
+            "snippet": {
+                "publishedAt": "2025-06-24T03:00:01Z",
+                "channelId": "UC9LkgSReKybPl-gABo3fbRQ",
+                "title": "[가사비디오 / Lyric Video] 김상희 - 기다려",
+                "description": "☑ 신청곡은 커뮤니티 댓글로 적어주세요  ▶https://www.youtube.com/@kbsmediamusicplus/community\n\n기다려 기다려요\n내 사랑아 내 사랑아\n기다려 기다려요\n언제까지 언제까지\n\n멀고도 가까운 곳에\n당신과 나는 있지만\n만날 수 없는 두 마음\n외롭고 쓸쓸하지만\n\n기다려 기다려요\n언제까지 내 사랑아\n\n멀고도 가까운 곳에\n당신과 나는 있지만\n만날 수 없는 두 마음\n외롭고 쓸쓸하지만\n\n기다려 기다려요\n언제까지 내 사랑아\n\n\n#김상희 #기다려 #지구레코드",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/adYbIZsYPtI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/adYbIZsYPtI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/adYbIZsYPtI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/adYbIZsYPtI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/adYbIZsYPtI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS Media Music +",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[가사비디오 / Lyric Video] 김상희 - 기다려",
+                    "description": "☑ 신청곡은 커뮤니티 댓글로 적어주세요  ▶https://www.youtube.com/@kbsmediamusicplus/community\n\n기다려 기다려요\n내 사랑아 내 사랑아\n기다려 기다려요\n언제까지 언제까지\n\n멀고도 가까운 곳에\n당신과 나는 있지만\n만날 수 없는 두 마음\n외롭고 쓸쓸하지만\n\n기다려 기다려요\n언제까지 내 사랑아\n\n멀고도 가까운 곳에\n당신과 나는 있지만\n만날 수 없는 두 마음\n외롭고 쓸쓸하지만\n\n기다려 기다려요\n언제까지 내 사랑아\n\n\n#김상희 #기다려 #지구레코드"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "522",
+                "likeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "BsHv0RDmoAQBYLruoYNwk1QfQZ4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "r58Ln4He4jnkJsYXdS4XzSQbXsY",
+            "id": "coRIdee-esI",
+            "snippet": {
+                "publishedAt": "2021-09-27T09:00:30Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "naru(나루) - 봄날 TEASER",
+                "description": "naru's new EP [Grayed Out] will be released on Sept 29, 12PM(KST)\nnaru(나루)의 EP [Grayed Out]이 2021. 09. 29. 수요일 오후 12시에 발매됩니다.\n\nTrack List\n1. 오늘도 난 살았네\n2. 그런걸까\n3. 봄날\n4. Did You Have A Good Time\n5. I'll Be Waiting\n\nMPMG MUSIC: http://www.mpmgmusic.com\nInstagram: http://www.instagram.com/ournaru\nTwitter: http://www.twitter.com/ournaru",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/coRIdee-esI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/coRIdee-esI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/coRIdee-esI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/coRIdee-esI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/coRIdee-esI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "naru(나루) - 봄날 TEASER",
+                    "description": "naru's new EP [Grayed Out] will be released on Sept 29, 12PM(KST)\nnaru(나루)의 EP [Grayed Out]이 2021. 09. 29. 수요일 오후 12시에 발매됩니다.\n\nTrack List\n1. 오늘도 난 살았네\n2. 그런걸까\n3. 봄날\n4. Did You Have A Good Time\n5. I'll Be Waiting\n\nMPMG MUSIC: http://www.mpmgmusic.com\nInstagram: http://www.instagram.com/ournaru\nTwitter: http://www.twitter.com/ournaru"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "360",
+                "likeCount": "31",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

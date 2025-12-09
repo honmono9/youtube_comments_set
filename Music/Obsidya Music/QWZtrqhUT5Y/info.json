@@ -1,0 +1,105 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "sc1wZuxgqHAGzDEPLQ4-e4Ibhlk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "jURegzpEZPVdSCIw4uYQmmM31NU",
+            "id": "QWZtrqhUT5Y",
+            "snippet": {
+                "publishedAt": "2025-09-07T22:05:20Z",
+                "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+                "title": "Sarı Saçlım Mavi Gözlüm",
+                "description": "O sarı saçlar ve o mavi gözler... Bir milletin kalbine kazınmış en aydınlık imza.\n\nBu sadece bir şarkı değil; Ulu Önderimiz Gazi Mustafa Kemal Atatürk'e duyduğumuz sonsuz sevginin, minnetin ve hiç dinmeyen özlemin notalara dökülmüş halidir. O'nun bizlere armağan ettiği bu vatan ve Cumhuriyet için taşıdığımız gururu, O'na olan bağlılığımızı bu eserle tekrar bir kez daha dile getirmek istedik.\n\nSiz de Ata'mıza olan sevgi ve saygınızı göstermek için videoyu beğenmeyi ve düşüncelerinizi yorumlarda bizimle paylaşmayı unutmayın. O'nun ışığı yolumuzu aydınlatmaya daima devam edecek.\n\nSaygı, sevgi ve özlemle...\n\n#Atatürk #MustafaKemalAtatürk #SarıSaçlımMaviGözlüm #10Kasım #29Ekim #UluÖnder #Müzik #Cumhuriyet",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QWZtrqhUT5Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QWZtrqhUT5Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QWZtrqhUT5Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QWZtrqhUT5Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QWZtrqhUT5Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Obsidya Music",
+                "tags": [
+                    "Mustafa Kemal Atatürk",
+                    "Atatürk",
+                    "Mustafa Kemal",
+                    "Sarı Saçlım Mavi Gözlüm",
+                    "Sarı Saçlım",
+                    "Mavi Gözlüm",
+                    "Edip Akbayram",
+                    "Cumhuriyet",
+                    "Ata",
+                    "19 Mayıs 1919",
+                    "ulu önder",
+                    "gazi mustafa kemal",
+                    "29 ekim",
+                    "23 nisan",
+                    "müzik",
+                    "marş",
+                    "türkü",
+                    "mahzuni şerif",
+                    "aşık mahzuni",
+                    "lider",
+                    "ordu",
+                    "türkiye",
+                    "tarih",
+                    "osmanlı",
+                    "reis",
+                    "turkey",
+                    "The Incredible Turk",
+                    "1881",
+                    "1938",
+                    "kamutan",
+                    "başkomutan"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "Sarı Saçlım Mavi Gözlüm",
+                    "description": "O sarı saçlar ve o mavi gözler... Bir milletin kalbine kazınmış en aydınlık imza.\n\nBu sadece bir şarkı değil; Ulu Önderimiz Gazi Mustafa Kemal Atatürk'e duyduğumuz sonsuz sevginin, minnetin ve hiç dinmeyen özlemin notalara dökülmüş halidir. O'nun bizlere armağan ettiği bu vatan ve Cumhuriyet için taşıdığımız gururu, O'na olan bağlılığımızı bu eserle tekrar bir kez daha dile getirmek istedik.\n\nSiz de Ata'mıza olan sevgi ve saygınızı göstermek için videoyu beğenmeyi ve düşüncelerinizi yorumlarda bizimle paylaşmayı unutmayın. O'nun ışığı yolumuzu aydınlatmaya daima devam edecek.\n\nSaygı, sevgi ve özlemle...\n\n#Atatürk #MustafaKemalAtatürk #SarıSaçlımMaviGözlüm #10Kasım #29Ekim #UluÖnder #Müzik #Cumhuriyet"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "contentDetails": {
+                "duration": "PT3M44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4492",
+                "likeCount": "41",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

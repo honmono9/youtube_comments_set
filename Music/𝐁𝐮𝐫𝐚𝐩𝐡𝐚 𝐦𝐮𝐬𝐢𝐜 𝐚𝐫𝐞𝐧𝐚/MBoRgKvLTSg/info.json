@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Nj6FfZclgIFZA69Go4sh7xo0x3g",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "BKTQbfxbmL3uAAvDXwrWJfOiH-U",
+            "id": "MBoRgKvLTSg",
+            "snippet": {
+                "publishedAt": "2025-11-19T11:04:14Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "หลงเธอหมดใจ | Re-Imagined Version by BMAARENA  #reimagined  #music",
+                "description": "RIV Version by BMAARENA\nNew melody. New phrasing. Re-imagined from the ground up.\nCreated entirely on a smartphone — dark futuristic rock vibe.\n\nNot a cover.\nAll vocals & arrangement are newly crafted for this RIV project.\n\nBMAARENA 🔥",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MBoRgKvLTSg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MBoRgKvLTSg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MBoRgKvLTSg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MBoRgKvLTSg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MBoRgKvLTSg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "tags": [
+                    "BMAARENA",
+                    "Burapha Music Arena",
+                    "Re-imagined version",
+                    "เพลงร็อค",
+                    "Music",
+                    "หลงเธอหมดใจ"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "หลงเธอหมดใจ | Re-Imagined Version by BMAARENA  #reimagined  #music",
+                    "description": "RIV Version by BMAARENA\nNew melody. New phrasing. Re-imagined from the ground up.\nCreated entirely on a smartphone — dark futuristic rock vibe.\n\nNot a cover.\nAll vocals & arrangement are newly crafted for this RIV project.\n\nBMAARENA 🔥"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT38S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "7399",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

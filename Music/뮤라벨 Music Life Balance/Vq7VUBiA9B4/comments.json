@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "yzqLsuqGLGlV5KukAAwD52i03Eg",
+        "id": "UgxnUovSz-Ru77DkuhN4AaABAg",
+        "snippet": {
+            "channelId": "UCk--BIdDhezTY294iDOwunQ",
+            "videoId": "Vq7VUBiA9B4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "MLHKEiKtRAcVrLSxdr9O1G3zjek",
+                "id": "UgxnUovSz-Ru77DkuhN4AaABAg",
+                "snippet": {
+                    "channelId": "UCk--BIdDhezTY294iDOwunQ",
+                    "videoId": "Vq7VUBiA9B4",
+                    "textDisplay": "피아노는  오른손의  움직임을  왼손이  보좌해 주는  느낌으로..\n가끔  주인공 역할을  할  때가  있으나  양념 느낌으로.  \n주선율과  대선율간  관계형성이.",
+                    "textOriginal": "피아노는  오른손의  움직임을  왼손이  보좌해 주는  느낌으로..\n가끔  주인공 역할을  할  때가  있으나  양념 느낌으로.  \n주선율과  대선율간  관계형성이.",
+                    "authorDisplayName": "@엘상산시리즈",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lUSLShDj8ozfnllIL_h4ro_fh7sTwvnp9DR3qPjqY=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EC%97%98%EC%83%81%EC%82%B0%EC%8B%9C%EB%A6%AC%EC%A6%88",
+                    "authorChannelId": {
+                        "value": "UCUGjKkPDZdklsE0yPI5cRiQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2024-10-23T09:11:28Z",
+                    "updatedAt": "2024-10-23T09:11:28Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 2,
+            "isPublic": true
+        }
+    }
+]

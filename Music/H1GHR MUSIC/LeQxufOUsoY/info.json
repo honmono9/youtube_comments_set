@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "1-shrNGtEyFfP57ySNktAGTGmQ8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "APWzVLZQJjJ6ZsHR-ozF0edk-tk",
+            "id": "LeQxufOUsoY",
+            "snippet": {
+                "publishedAt": "2025-11-17T09:00:29Z",
+                "channelId": "UC6TJkBRLMFJ-9c7pXehoZwg",
+                "title": "이서연 (Y:SY) 'NAKED' Official MV",
+                "description": "이서연 (Y:SY) 'NAKED' Official MV\n\n이서연 (Y:SY) DS [NAKED] is out! \nListen and download on your favorite platform : http://lnk.to/YSY_DS_NAKED\n\nMore Information Here:\n\n@Y:SY\nInstagram: https://www.instagram.com/im_theyeon/\n\n@H1GHRMUSIC\nInstagram: https://www.instagram.com/h1ghrmusic\nFacebook: https://www.facebook.com/H1GHRMUSICOFFICIAL\n\n#이서연 #YSY #YISEOYEON\n#NAKED\n#H1GHRMUSIC #하이어뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LeQxufOUsoY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LeQxufOUsoY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LeQxufOUsoY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LeQxufOUsoY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LeQxufOUsoY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "H1GHR MUSIC",
+                "tags": [
+                    "naked",
+                    "y:sy",
+                    "h1ghrmusic",
+                    "이서연",
+                    "하이어뮤직",
+                    "네이키드",
+                    "프로미스나인",
+                    "fromis9",
+                    "프미나이서연",
+                    "갱얼쥐",
+                    "이서연솔로",
+                    "션"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "이서연 (Y:SY) 'NAKED' Official MV",
+                    "description": "이서연 (Y:SY) 'NAKED' Official MV\n\n이서연 (Y:SY) DS [NAKED] is out! \nListen and download on your favorite platform : http://lnk.to/YSY_DS_NAKED\n\nMore Information Here:\n\n@Y:SY\nInstagram: https://www.instagram.com/im_theyeon/\n\n@H1GHRMUSIC\nInstagram: https://www.instagram.com/h1ghrmusic\nFacebook: https://www.facebook.com/H1GHRMUSICOFFICIAL\n\n#이서연 #YSY #YISEOYEON\n#NAKED\n#H1GHRMUSIC #하이어뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "182118",
+                "likeCount": "13978",
+                "favoriteCount": "0",
+                "commentCount": "1157"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

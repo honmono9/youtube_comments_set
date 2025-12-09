@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "H3zFATX33lffzKuYGSaRsgw296Q",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "mcuS6lkQ8W5kFONnw-JQ9FT7nfQ",
+            "id": "tABxM4IaQxw",
+            "snippet": {
+                "publishedAt": "2023-02-16T09:00:10Z",
+                "channelId": "UC6DbQObO-YiG5y3ojp0nZyA",
+                "title": "KOALA (코알라)- ‘Koalified Feat. pH-1’ Official Music Video",
+                "description": "#JayPark #pH1 #koala \n\nKOALA (코알라)- ‘Koalified Feat. pH-1’ Official Music Video\n\nExecutive ProducerㅣJay Park & Bobblehead Music\nCreative Director | ILLUMIN \nArt DirectorㅣInsoo Lee \nStrategy & MarketingㅣJohnny Lee (@NYB)\nPhotography | Euijin Kim\nHair & MakeupㅣSuji\n\nProduced by CuzD\nLyrics by KOALA, JohnJohn, JaeRiggs, pH-1, Jay Park\nComposed by CuzD, KOALA, JohnJohn, JaeRiggs, Jay Park, pH-1\nArranged by CuzD\nMix & Master by Gen Neo / Amos Ang\n\nFollow 코알라(KOALA)\nInstagram:https://www.instagram.com/alaokxv/\nhttps://www.instagram.com/bobblehead_music_official/\n\nCopyrights 2023 ⓒ Bobblehead Music All Rights Reserved",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tABxM4IaQxw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tABxM4IaQxw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tABxM4IaQxw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tABxM4IaQxw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tABxM4IaQxw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bobblehead Music",
+                "tags": [
+                    "#JayPark",
+                    "pH-1",
+                    "#Koalified",
+                    "#Koala",
+                    "#Bobbleheadmusic"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "KOALA (코알라)- ‘Koalified Feat. pH-1’ Official Music Video",
+                    "description": "#JayPark #pH1 #koala \n\nKOALA (코알라)- ‘Koalified Feat. pH-1’ Official Music Video\n\nExecutive ProducerㅣJay Park & Bobblehead Music\nCreative Director | ILLUMIN \nArt DirectorㅣInsoo Lee \nStrategy & MarketingㅣJohnny Lee (@NYB)\nPhotography | Euijin Kim\nHair & MakeupㅣSuji\n\nProduced by CuzD\nLyrics by KOALA, JohnJohn, JaeRiggs, pH-1, Jay Park\nComposed by CuzD, KOALA, JohnJohn, JaeRiggs, Jay Park, pH-1\nArranged by CuzD\nMix & Master by Gen Neo / Amos Ang\n\nFollow 코알라(KOALA)\nInstagram:https://www.instagram.com/alaokxv/\nhttps://www.instagram.com/bobblehead_music_official/\n\nCopyrights 2023 ⓒ Bobblehead Music All Rights Reserved"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT2M58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "542065",
+                "likeCount": "10702",
+                "favoriteCount": "0",
+                "commentCount": "881"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

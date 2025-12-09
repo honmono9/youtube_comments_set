@@ -1,0 +1,84 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "RNt4Mc-S-4-sFG1rPapFioPs8-s",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "0imPIuksSWcL-w8TTnJfWkgasqY",
+            "id": "c3CxRyIZCyE",
+            "snippet": {
+                "publishedAt": "2023-04-21T09:00:24Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "다프트 펑크 [Random Access Memories] 10주년을 기다리며",
+                "description": "5월 12일, 다프트 펑크 [Random Access Memories] 10주년을 기다리며🙏🙏\n두 번째 선공개 보너스 트랙 \"GLBTM (Studio Outtakes)\" 발매!🎉 \n\n🤖Daft Punk - GLBTM (Studio Outtakes)\n\n#다프크펑크 #DaftPunk #GLBTM #RandomAccessMemories #RAM",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c3CxRyIZCyE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c3CxRyIZCyE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c3CxRyIZCyE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c3CxRyIZCyE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/c3CxRyIZCyE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "tags": [
+                    "다프트 펑크",
+                    "Daft Punk",
+                    "Random Access Memories",
+                    "RAM",
+                    "GLBTM (Studio Outtakes)",
+                    "GLBTM",
+                    "Give Life Back To Music",
+                    "10th anniversary",
+                    "RAM 10주년",
+                    "Random Access Memories 10주년"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "다프트 펑크 [Random Access Memories] 10주년을 기다리며",
+                    "description": "5월 12일, 다프트 펑크 [Random Access Memories] 10주년을 기다리며🙏🙏\n두 번째 선공개 보너스 트랙 \"GLBTM (Studio Outtakes)\" 발매!🎉 \n\n🤖Daft Punk - GLBTM (Studio Outtakes)\n\n#다프크펑크 #DaftPunk #GLBTM #RandomAccessMemories #RAM"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9108",
+                "likeCount": "198",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "21IHbUf_Kr_EWHaBAKl1PFvujkc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "wI1IHbcBk_Xg-Y5AcO0EMsh4_oc",
+            "id": "qSZE8Ef_0-g",
+            "snippet": {
+                "publishedAt": "2025-08-28T09:30:30Z",
+                "channelId": "UC3fPnB3ds2xBY1PTtgkCCYw",
+                "title": "듣자마자 여기가 2025페스티벌!! 메인스테이지 노래 들으러갈래? | JERIDE 2025 FESTIVAL MIX",
+                "description": "#JERIDE #페스티벌 #2025festivals \n좋아요 구독 댓글은 사랑입니다..❤\n\n00:01 ━━❚━━━━━━ 31:04(광고제거 클릭) 📌\n ⇆ ⠀⠀⠀⠀⠀◃ ❚❚ ▹ ⠀⠀⠀⠀ ↻\n\n수익 및 광고가 없는 영상이지만\n음원 저작권과 조회수에 따라 유튜브에서 자체적으로 광고가 삽입될 수 있습니다! \n 31:04클릭후 다시 00:01 앞으로 돌아가시면 광고가 사라집니다!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qSZE8Ef_0-g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qSZE8Ef_0-g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qSZE8Ef_0-g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qSZE8Ef_0-g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qSZE8Ef_0-g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ASTER MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "듣자마자 여기가 2025페스티벌!! 메인스테이지 노래 들으러갈래? | JERIDE 2025 FESTIVAL MIX",
+                    "description": "#JERIDE #페스티벌 #2025festivals \n좋아요 구독 댓글은 사랑입니다..❤\n\n00:01 ━━❚━━━━━━ 31:04(광고제거 클릭) 📌\n ⇆ ⠀⠀⠀⠀⠀◃ ❚❚ ▹ ⠀⠀⠀⠀ ↻\n\n수익 및 광고가 없는 영상이지만\n음원 저작권과 조회수에 따라 유튜브에서 자체적으로 광고가 삽입될 수 있습니다! \n 31:04클릭후 다시 00:01 앞으로 돌아가시면 광고가 사라집니다!!"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT31M4S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "92795",
+                "likeCount": "838",
+                "favoriteCount": "0",
+                "commentCount": "47"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

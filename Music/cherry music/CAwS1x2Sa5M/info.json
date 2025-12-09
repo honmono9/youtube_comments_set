@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "w453G587X6vNaEmM7Pm74rW63tA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ALwzB2ENgCbOylqkIk7p4Pt6bJ4",
+            "id": "CAwS1x2Sa5M",
+            "snippet": {
+                "publishedAt": "2025-09-14T23:00:10Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "Cafe Playlist ☕ 시간 가는 줄 모르게 만드는 잔잔한 카페 음악 🎶 ",
+                "description": "조용하고 잔잔한 분위기의 카페 음악을 모아 플레이리스트로 준비했습니다 ☕\n공부할 때, 작업할 때, 혹은 커피 한 잔과 함께 휴식을 즐길 때 배경 음악으로 들어보세요 🎶\n하루 종일 틀어놔도 좋은 카페 감성 음악이 당신의 공간을 더 편안하게 만들어 줄 거예요 ✨\n\n\n#카페플리 #CafePlaylist #잔잔한음악 #카페음악 #공부할때좋은음악 #작업할때좋은음악\n#BGM #편안한음악 #힐링음악 #Playlist #집중할때좋은음악 #ChillMusic\n#커피 #카페 #감성음악 #음악추천 #편안한분위기 #StudyPlaylist #WorkPlaylist #RelaxingMusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CAwS1x2Sa5M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CAwS1x2Sa5M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CAwS1x2Sa5M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CAwS1x2Sa5M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CAwS1x2Sa5M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Cafe Playlist ☕ 시간 가는 줄 모르게 만드는 잔잔한 카페 음악 🎶 ",
+                    "description": "조용하고 잔잔한 분위기의 카페 음악을 모아 플레이리스트로 준비했습니다 ☕\n공부할 때, 작업할 때, 혹은 커피 한 잔과 함께 휴식을 즐길 때 배경 음악으로 들어보세요 🎶\n하루 종일 틀어놔도 좋은 카페 감성 음악이 당신의 공간을 더 편안하게 만들어 줄 거예요 ✨\n\n\n#카페플리 #CafePlaylist #잔잔한음악 #카페음악 #공부할때좋은음악 #작업할때좋은음악\n#BGM #편안한음악 #힐링음악 #Playlist #집중할때좋은음악 #ChillMusic\n#커피 #카페 #감성음악 #음악추천 #편안한분위기 #StudyPlaylist #WorkPlaylist #RelaxingMusic"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2H55M38S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "38645",
+                "likeCount": "151",
+                "favoriteCount": "0",
+                "commentCount": "26"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "dKMPVnffdduCg_FVXByYz5Zijns",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "fptxxdP-nZEVCa_gtCMOCaNpxW0",
+            "id": "g81ZoMRkV1E",
+            "snippet": {
+                "publishedAt": "2023-03-15T09:00:29Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "2023 서인국(Seo In Guk) Concert 'Blending' VCR Reaction",
+                "description": "2023 서인국(Seo In Guk) Concert 'Blending' VCR Reaction\n\n#SeoInGuk #서인국 \n#Blending #Concert #VCR #Reaction\n#AERMUSIC #아에르뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g81ZoMRkV1E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g81ZoMRkV1E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g81ZoMRkV1E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/g81ZoMRkV1E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/g81ZoMRkV1E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "2023 서인국(Seo In Guk) Concert 'Blending' VCR Reaction",
+                    "description": "2023 서인국(Seo In Guk) Concert 'Blending' VCR Reaction\n\n#SeoInGuk #서인국 \n#Blending #Concert #VCR #Reaction\n#AERMUSIC #아에르뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT16M59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "46184",
+                "likeCount": "2539",
+                "favoriteCount": "0",
+                "commentCount": "203"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

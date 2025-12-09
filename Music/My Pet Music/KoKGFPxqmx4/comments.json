@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Os-1ElKvXtHTtXfqMbV1_Api2mo",
+        "id": "UgzeECnt4H1RanMo_jB4AaABAg",
+        "snippet": {
+            "channelId": "UCo62tODW4YnxtszbusXyX-w",
+            "videoId": "KoKGFPxqmx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "q4_aIRRg3f_AsciTB80pUSMpQy4",
+                "id": "UgzeECnt4H1RanMo_jB4AaABAg",
+                "snippet": {
+                    "channelId": "UCo62tODW4YnxtszbusXyX-w",
+                    "videoId": "KoKGFPxqmx4",
+                    "textDisplay": "강아지도 덥나봐요    시원한  물소리 음악소리 와 함께  더위를  식혀 봅니다",
+                    "textOriginal": "강아지도 덥나봐요    시원한  물소리 음악소리 와 함께  더위를  식혀 봅니다",
+                    "authorDisplayName": "@임량숙-r6q",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l-0ru7facEnHxJ6lslgaBwrGMdfrL1p54e6rxW95U=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EC%9E%84%EB%9F%89%EC%88%99-r6q",
+                    "authorChannelId": {
+                        "value": "UCB7wiBIZKpXdz9OSuAL-Bbg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-07-25T03:27:26Z",
+                    "updatedAt": "2025-07-25T03:27:26Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

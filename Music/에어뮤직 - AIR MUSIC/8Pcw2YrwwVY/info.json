@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "8U_8QEKKVyaw22QMsHkbrSSehvA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "DVYZebVVQywXs-s35NYfdDMsuU4",
+            "id": "8Pcw2YrwwVY",
+            "snippet": {
+                "publishedAt": "2025-07-01T10:00:14Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "공기남 - 어디든 좋아 (Feat. Akita) [Short Lyric video]",
+                "description": "[D-1]\n2025. 7. 2. 12pm\n\n공기남 - 어디든 좋아 (Feat. Akita)\n\n싱어송라이터 ‘공기남’이 전하는 감성 에세이 앨범.\n‘Freshman Series’ 그 아홉 번째 이야기. [어디든 좋아]\n\n같이 있다면 어디든 좋아\n익숙하지 않아도,\n너와 함께라면\n모든 게 괜찮아\n\n#공기남 #어디든좋아 #Akita #에어뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Pcw2YrwwVY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Pcw2YrwwVY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Pcw2YrwwVY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8Pcw2YrwwVY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8Pcw2YrwwVY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "공기남 - 어디든 좋아 (Feat. Akita) [Short Lyric video]",
+                    "description": "[D-1]\n2025. 7. 2. 12pm\n\n공기남 - 어디든 좋아 (Feat. Akita)\n\n싱어송라이터 ‘공기남’이 전하는 감성 에세이 앨범.\n‘Freshman Series’ 그 아홉 번째 이야기. [어디든 좋아]\n\n같이 있다면 어디든 좋아\n익숙하지 않아도,\n너와 함께라면\n모든 게 괜찮아\n\n#공기남 #어디든좋아 #Akita #에어뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "230",
+                "likeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

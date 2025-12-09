@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "dGApPbSfj5HDItEn8yDbtitYoTE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "TmceAOLVamnhrMpr0j09SDn5wD8",
+            "id": "3xZ0vmp5fsY",
+            "snippet": {
+                "publishedAt": "2023-03-02T03:00:01Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[TEASER] 주은 - 처음 순간 | 꼭두의 계절 OST Part.5",
+                "description": "주은 - 처음 순간 | 꼭두의 계절 OST Part.5\n2023.03.03 6PM (KST) Release\n\nLyrics by 서씨네\nComposed by 서씨네, 서정진\nArranged by 서정진, 박경현\n\n#MBC드라마 #꼭두의계절 #OST \n#주은 #JUEUN #처음순간\n#아에르뮤직 #AERMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3xZ0vmp5fsY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3xZ0vmp5fsY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3xZ0vmp5fsY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3xZ0vmp5fsY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3xZ0vmp5fsY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[TEASER] 주은 - 처음 순간 | 꼭두의 계절 OST Part.5",
+                    "description": "주은 - 처음 순간 | 꼭두의 계절 OST Part.5\n2023.03.03 6PM (KST) Release\n\nLyrics by 서씨네\nComposed by 서씨네, 서정진\nArranged by 서정진, 박경현\n\n#MBC드라마 #꼭두의계절 #OST \n#주은 #JUEUN #처음순간\n#아에르뮤직 #AERMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2000",
+                "likeCount": "202",
+                "favoriteCount": "0",
+                "commentCount": "28"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

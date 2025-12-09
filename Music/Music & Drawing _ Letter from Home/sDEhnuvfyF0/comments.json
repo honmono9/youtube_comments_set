@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "NcGpd8227e8Nn_GMtKBps3k_uEs",
+        "id": "UgwknmOZ6yJoxpNmwk14AaABAg",
+        "snippet": {
+            "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+            "videoId": "sDEhnuvfyF0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "qu5oze6Wx5AhRNeQfczO5MrR9K4",
+                "id": "UgwknmOZ6yJoxpNmwk14AaABAg",
+                "snippet": {
+                    "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                    "videoId": "sDEhnuvfyF0",
+                    "textDisplay": "🎶🎵👋☺️",
+                    "textOriginal": "🎶🎵👋☺️",
+                    "authorDisplayName": "@aloryt",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mBDPTjSST3uzjDYUH-oMCrtfhSMTHSxruu8RWiGuTfPA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@aloryt",
+                    "authorChannelId": {
+                        "value": "UCe24vR5n8ZcBvSTS-vIX89g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-09-04T17:16:44Z",
+                    "updatedAt": "2025-09-04T17:16:44Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

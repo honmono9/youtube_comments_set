@@ -1,0 +1,98 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "gLXss8Akt1-03At-TQtDGbD6A1Y",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "7SBnGSrhje-HwLeP2XL0baiQiZk",
+            "id": "UHhQmEYKOxs",
+            "snippet": {
+                "publishedAt": "2020-08-13T14:55:56Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "잔잔한 물결과 별이 흐르는 신비로운 항해길",
+                "description": "Photo by Johannes Plenio",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UHhQmEYKOxs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UHhQmEYKOxs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UHhQmEYKOxs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UHhQmEYKOxs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UHhQmEYKOxs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "몽환 팝",
+                    "팝송",
+                    "밤 팝송",
+                    "신비로운 음악",
+                    "ambient music",
+                    "chill electronic",
+                    "감성 팝송",
+                    "몽환적인",
+                    "여름밤 팝송",
+                    "잔잔한 팝송",
+                    "calming pop",
+                    "relax music",
+                    "잠잘때 노래",
+                    "midnight vibes",
+                    "midnight chill",
+                    "best popular song",
+                    "chill",
+                    "플레이리스트",
+                    "밤에 듣는 팝송"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "잔잔한 물결과 별이 흐르는 신비로운 항해길",
+                    "description": "Photo by Johannes Plenio"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT26M57S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "106060",
+                "likeCount": "3026",
+                "favoriteCount": "0",
+                "commentCount": "233"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "EXdiQMdjSGH0Yt0sjpfWs-78ZaI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "avAFK5P5qfqjMaHIZpOWgrGURZ0",
+            "id": "csYF6Ne7XRQ",
+            "snippet": {
+                "publishedAt": "2025-10-01T06:00:38Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "가을 감성의 힐링음악 \"가을이 오는 소리\"",
+                "description": "뜨거웠던 여름이 지나고\n가을입니다..\n\n높고 맑은 가을 하늘을 한 번 올려다 보세요~\n당신의 마음 속 고민이나 어려움도 잠시 여백을 갖고,\n멀리서 바라볼 수 있는 여유가 생길 거예요.\n\n너무 애쓰지 마세요~\n지금도 잘하고 있어요~ \n\n\n🎵곡명               \n01.가을바람            \n02.Wish \n03.정원\n\n🎨그림명\n“코스모스”\n\n\n작곡 - G.W\n미술 - tagtraum208  \n\n\n🌙'Music Drawing' 의 음악과 그림을 통해 \n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#힐링음악 #피아노음악 #편안한음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/csYF6Ne7XRQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/csYF6Ne7XRQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/csYF6Ne7XRQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/csYF6Ne7XRQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/csYF6Ne7XRQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "피아노음악",
+                    "PianoMusic",
+                    "편안한음악",
+                    "힐링음악",
+                    "RelaxMusic",
+                    "RelaxingMusic",
+                    "가을에듣기좋은음악",
+                    "HealingMusic"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "가을 감성의 힐링음악 \"가을이 오는 소리\"",
+                    "description": "뜨거웠던 여름이 지나고\n가을입니다..\n\n높고 맑은 가을 하늘을 한 번 올려다 보세요~\n당신의 마음 속 고민이나 어려움도 잠시 여백을 갖고,\n멀리서 바라볼 수 있는 여유가 생길 거예요.\n\n너무 애쓰지 마세요~\n지금도 잘하고 있어요~ \n\n\n🎵곡명               \n01.가을바람            \n02.Wish \n03.정원\n\n🎨그림명\n“코스모스”\n\n\n작곡 - G.W\n미술 - tagtraum208  \n\n\n🌙'Music Drawing' 의 음악과 그림을 통해 \n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#힐링음악 #피아노음악 #편안한음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3H17M40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "65966",
+                "likeCount": "1146",
+                "favoriteCount": "0",
+                "commentCount": "95"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "_wfgVh740CcywjVZc2ReGyPcDsA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "mlYGzKatrfkM52t8ponbu67MBVQ",
+            "id": "DjwMk-sqSpc",
+            "snippet": {
+                "publishedAt": "2021-01-29T10:00:08Z",
+                "channelId": "UC8gRco988IELoTNTl4OBd2w",
+                "title": "BIBI (비비) - '사랑의 묘약 (Eat My Love)' Official M/V Teaser 1",
+                "description": "비비 (BIBI)\n'사랑의 묘약' (Eat  My Love)\nMusic Video Teaser\n@nakedbibi \n@project_feeliv\n\n21.02.01 Monday Noon \n월요일 점심시간 \nOUT SOON \n\nProject Felliv : https://bit.ly/3cpX5O8\n\n#비비 #BIBI #사랑의묘약 #EatMyLove\n#Project_feeliv #feeliv #프로젝트필리브 #필리브\n#필굿뮤직 #FeelghoodMusic #사랑하세요 \n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4\n - Website : http://www.feelghood.com/ \n - Facebook : https://www.facebook.com/Feelghood",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DjwMk-sqSpc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DjwMk-sqSpc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DjwMk-sqSpc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DjwMk-sqSpc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DjwMk-sqSpc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Feel Ghood Music [필굿뮤직]",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "BIBI (비비) - '사랑의 묘약 (Eat My Love)' Official M/V Teaser 1",
+                    "description": "비비 (BIBI)\n'사랑의 묘약' (Eat  My Love)\nMusic Video Teaser\n@nakedbibi \n@project_feeliv\n\n21.02.01 Monday Noon \n월요일 점심시간 \nOUT SOON \n\nProject Felliv : https://bit.ly/3cpX5O8\n\n#비비 #BIBI #사랑의묘약 #EatMyLove\n#Project_feeliv #feeliv #프로젝트필리브 #필리브\n#필굿뮤직 #FeelghoodMusic #사랑하세요 \n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4\n - Website : http://www.feelghood.com/ \n - Facebook : https://www.facebook.com/Feelghood"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT14S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "12493",
+                "likeCount": "1154",
+                "favoriteCount": "0",
+                "commentCount": "64"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

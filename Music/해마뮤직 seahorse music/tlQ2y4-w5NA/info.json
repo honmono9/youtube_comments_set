@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "A34RjlhWV7P0KHqnwHUw-hn_Px4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "PljEj3EzbjP_Wf2W3b-r9rce-pg",
+            "id": "tlQ2y4-w5NA",
+            "snippet": {
+                "publishedAt": "2025-10-26T09:01:16Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "[로블록스] It's Raining Tacos 🌮 피아노 양손 쉽게 연주하기 🎹",
+                "description": "#피아노커버 #pianocover #피아노연주 #로블록스 #로블록스노래 #itsrainingtacos #rainingtacos #tacos #roblox #robloxedit \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tlQ2y4-w5NA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tlQ2y4-w5NA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tlQ2y4-w5NA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tlQ2y4-w5NA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tlQ2y4-w5NA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "roblox",
+                    "roblox song",
+                    "roblox piano",
+                    "raining tacos",
+                    "its raining tacos",
+                    "piano",
+                    "로블록스",
+                    "로블록스 노래"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[로블록스] It's Raining Tacos 🌮 피아노 양손 쉽게 연주하기 🎹",
+                    "description": "#피아노커버 #pianocover #피아노연주 #로블록스 #로블록스노래 #itsrainingtacos #rainingtacos #tacos #roblox #robloxedit \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "185504",
+                "likeCount": "1675",
+                "favoriteCount": "0",
+                "commentCount": "28"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

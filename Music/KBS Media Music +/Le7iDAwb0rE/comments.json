@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "38cwXMymt7-8tkBL06BaNyPXakA",
+        "id": "Ugwq-ZqGjyorVSZ2niV4AaABAg",
+        "snippet": {
+            "channelId": "UC9LkgSReKybPl-gABo3fbRQ",
+            "videoId": "Le7iDAwb0rE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "GzKstVcdCo3kOH_g_LvL85PeXc8",
+                "id": "Ugwq-ZqGjyorVSZ2niV4AaABAg",
+                "snippet": {
+                    "channelId": "UC9LkgSReKybPl-gABo3fbRQ",
+                    "videoId": "Le7iDAwb0rE",
+                    "textDisplay": "뜨거운 여름도 \n기분좋게 신나게 \n즐길 수 있게 하는 멜로디예요\n휴가를 보내 듯이 여유롭게 들어요~",
+                    "textOriginal": "뜨거운 여름도 \n기분좋게 신나게 \n즐길 수 있게 하는 멜로디예요\n휴가를 보내 듯이 여유롭게 들어요~",
+                    "authorDisplayName": "@user-ov6nq8ev9g",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m3yH3CkDYbBlrEro0QnKb_ItobeFHLwKuQcGuP0f6Bn7OoKZ8W5OF5gGcuK2Gkd9LxEg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@user-ov6nq8ev9g",
+                    "authorChannelId": {
+                        "value": "UC0EWksGnYoONSt2xl_zPpsg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-08-25T05:46:02Z",
+                    "updatedAt": "2025-08-25T05:46:02Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

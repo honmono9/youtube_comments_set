@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "TOaORfTLpdH73_Z9c1fA0Bl3GYg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "9PxdeC5Eefj8FnMPMFHlkNrTTK4",
+            "id": "c3ezhy7HHiU",
+            "snippet": {
+                "publishedAt": "2025-11-22T21:11:56Z",
+                "channelId": "UCfrWVh-4M98j1WtDIR9IVNg",
+                "title": "LABAN KABABAYAN/Rap and Reggae Remix/Music Prince 1.1/@Rabzmusics @MusicprinceFR ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c3ezhy7HHiU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c3ezhy7HHiU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c3ezhy7HHiU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c3ezhy7HHiU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/c3ezhy7HHiU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MUSIC FRANZ ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "LABAN KABABAYAN/Rap and Reggae Remix/Music Prince 1.1/@Rabzmusics @MusicprinceFR ",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT18M39S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "81",
+                "likeCount": "25",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

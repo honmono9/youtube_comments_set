@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "u9aLvOsJFR3FP15-izTFPrYEWag",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ruJPNLrpa594OlVU4DDakEtEpFM",
+            "id": "I40ag-OtyZM",
+            "snippet": {
+                "publishedAt": "2025-08-20T03:00:29Z",
+                "channelId": "UC9LkgSReKybPl-gABo3fbRQ",
+                "title": "[Official Audio] 안녕! 틴틴팅클 - 노래 시작했다",
+                "description": "KBS MEDIA에서 새롭게 선보이는 음원들을 구독하고 만나보세요 '◡' ! \n   /   @KBSMEDIAMUSICPLUS\n\n[앨범소개]\n귀여운 고양이 다섯 마리, 틴틴 팅클 콩물 베리 미니가 만들어가는 사랑스러운 이야기!\nMBC, 투니버스 방영 애니메이션 [안녕! 틴틴팅클]\n00년대 투니버스 시절의 느낌이 들게 하는 신나면서도 가사가 기분을 묘하게 만드는 오프닝 [노래 시작했다],\n명창 팅클이가 부르는 친구들 헌정송, 어쿠스틱 엔딩 [노래 끝났다]\n가끔은 서툴지만, 함께라면 어떤 어려움도 이겨낼 수 있는 다섯아이들의 이야기.\n\n[Credit]\n01. 안녕! 틴틴팅클 - 노래 시작했다\nVocal by강은애\nLyrics by junto 유한별 이진\nChorus by 윤수정\nBass by Junto\nPiano by 조재철\nElectric Guitar by 이학인\nRecorded & Mixed by Playday Music Studio\nMastered by Playday Music Studio \n\n02. 안녕! 틴틴팅클 - 노래 끝났다\nVocal by 강규리 (Ch.팅클)\nLyrics by 유한별\nPercussion by Junto\nRecorder by 이학인\nPiano by Junto, 이학인\nRecorded & Mixed by Playday Music Studio\nMastered by Playday Music Studio\n\n\n\n#KBS미디어뮤직플러스 #KBSMEDIAMUSICPLUS #케이비에스미디어뮤직플러스 #안녕틴틴팅",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I40ag-OtyZM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I40ag-OtyZM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I40ag-OtyZM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/I40ag-OtyZM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/I40ag-OtyZM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS Media Music +",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Official Audio] 안녕! 틴틴팅클 - 노래 시작했다",
+                    "description": "KBS MEDIA에서 새롭게 선보이는 음원들을 구독하고 만나보세요 '◡' ! \n   /   @KBSMEDIAMUSICPLUS\n\n[앨범소개]\n귀여운 고양이 다섯 마리, 틴틴 팅클 콩물 베리 미니가 만들어가는 사랑스러운 이야기!\nMBC, 투니버스 방영 애니메이션 [안녕! 틴틴팅클]\n00년대 투니버스 시절의 느낌이 들게 하는 신나면서도 가사가 기분을 묘하게 만드는 오프닝 [노래 시작했다],\n명창 팅클이가 부르는 친구들 헌정송, 어쿠스틱 엔딩 [노래 끝났다]\n가끔은 서툴지만, 함께라면 어떤 어려움도 이겨낼 수 있는 다섯아이들의 이야기.\n\n[Credit]\n01. 안녕! 틴틴팅클 - 노래 시작했다\nVocal by강은애\nLyrics by junto 유한별 이진\nChorus by 윤수정\nBass by Junto\nPiano by 조재철\nElectric Guitar by 이학인\nRecorded & Mixed by Playday Music Studio\nMastered by Playday Music Studio \n\n02. 안녕! 틴틴팅클 - 노래 끝났다\nVocal by 강규리 (Ch.팅클)\nLyrics by 유한별\nPercussion by Junto\nRecorder by 이학인\nPiano by Junto, 이학인\nRecorded & Mixed by Playday Music Studio\nMastered by Playday Music Studio\n\n\n\n#KBS미디어뮤직플러스 #KBSMEDIAMUSICPLUS #케이비에스미디어뮤직플러스 #안녕틴틴팅"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M32S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "160",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

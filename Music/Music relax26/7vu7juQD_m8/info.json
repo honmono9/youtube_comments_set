@@ -1,0 +1,74 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "wdEdYBYCHBsChIz0k0pKKDDpcho",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "QMVFuVFMmFiQ2LvrcOGAgxqTpDU",
+            "id": "7vu7juQD_m8",
+            "snippet": {
+                "publishedAt": "2025-07-19T10:00:18Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "แสดงสดมันส์ๆ สามช่าคาราบาว ยาวไปครับ นำเสนอความมันส์โดย วงหมูตุ๋น",
+                "description": "แสดงสดมันส์ๆ สามช่าคาราบาว ยาวไปครับ นำเสนอความมันส์โดย วงหมูตุ๋น\n#วงหมูตุ๋น #แสดงสด2025 #สามช่าคาราบาว",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7vu7juQD_m8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7vu7juQD_m8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7vu7juQD_m8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7vu7juQD_m8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "tags": [
+                    "แสดงสดมันส์ๆ สามช่าคาราบาว ยาวไปครับ นำเสนอความมันส์โดย วงหมูตุ๋น",
+                    "สามช่าคาราบาว",
+                    "ดนตรีสดมันส์ๆจากวงหมูตุ๋น",
+                    "วงหมูตุ๋น",
+                    "หมูตุ๋นแบนด์"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "แสดงสดมันส์ๆ สามช่าคาราบาว ยาวไปครับ นำเสนอความมันส์โดย วงหมูตุ๋น",
+                    "description": "แสดงสดมันส์ๆ สามช่าคาราบาว ยาวไปครับ นำเสนอความมันส์โดย วงหมูตุ๋น\n#วงหมูตุ๋น #แสดงสด2025 #สามช่าคาราบาว"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT33M23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3908",
+                "likeCount": "65",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

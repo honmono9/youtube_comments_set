@@ -1,0 +1,70 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "t2giiqFTXgeMPN-9TjLfdVEqMaI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "dxCbT1ISCABO4f9MZvsmU-3mAmc",
+            "id": "TQxp4rj_0g4",
+            "snippet": {
+                "publishedAt": "2025-06-23T10:00:49Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "แสดงสด รวมฮิตลูกทุ่ง-เพื่อชีวิต ทั้งเพราะ ทั้งสนุก คลิบเดียวจบ By Music relax26",
+                "description": "แสดงสด รวมฮิตลูกทุ่ง-เพื่อชีวิต ทั้งเพราะ ทั้งสนุก คลิบเดียวจบ By Music relax26",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TQxp4rj_0g4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TQxp4rj_0g4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TQxp4rj_0g4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TQxp4rj_0g4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "tags": [
+                    "แสดงสด รวมฮิตลูกทุ่ง-เพื่อชีวิต ทั้งเพราะ ทั้งสนุก คลิบเดียวจบ By Music relax26"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "แสดงสด รวมฮิตลูกทุ่ง-เพื่อชีวิต ทั้งเพราะ ทั้งสนุก คลิบเดียวจบ By Music relax26",
+                    "description": "แสดงสด รวมฮิตลูกทุ่ง-เพื่อชีวิต ทั้งเพราะ ทั้งสนุก คลิบเดียวจบ By Music relax26"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT37M49S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "78970",
+                "likeCount": "947",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

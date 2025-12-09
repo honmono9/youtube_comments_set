@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "W_Ruf97d-o8JLxERtxCT02VG214",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "K_Ey7X_I7HIoRQHJANyjF1grLPw",
+            "id": "H_eIB1xMq9U",
+            "snippet": {
+                "publishedAt": "2025-10-26T04:13:30Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "카페에서 듣기 좋은 음악 추천 드립니다 #카페음악 #cafemusic #가을감성",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H_eIB1xMq9U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H_eIB1xMq9U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H_eIB1xMq9U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/H_eIB1xMq9U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/H_eIB1xMq9U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "카페에서 듣기 좋은 음악 추천 드립니다 #카페음악 #cafemusic #가을감성",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1494",
+                "likeCount": "18",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

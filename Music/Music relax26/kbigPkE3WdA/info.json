@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "tzTSNdrFzVkfVLt86LSrbiLsqCc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ca38aceqIvcvtY3d3L-Wv3_2teg",
+            "id": "kbigPkE3WdA",
+            "snippet": {
+                "publishedAt": "2025-06-16T17:37:16Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "OMG...นี่มันวงอะไรกันเนี่ย..!! มีความน่าสนใจ",
+                "description": "OMG...นี่มันวงอะไรกันเนี่ย..!! มีความน่าสนใจ #Till Lindemann",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kbigPkE3WdA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kbigPkE3WdA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kbigPkE3WdA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kbigPkE3WdA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kbigPkE3WdA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "OMG...นี่มันวงอะไรกันเนี่ย..!! มีความน่าสนใจ",
+                    "description": "OMG...นี่มันวงอะไรกันเนี่ย..!! มีความน่าสนใจ #Till Lindemann"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "940",
+                "likeCount": "11",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

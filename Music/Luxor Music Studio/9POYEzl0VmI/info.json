@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "rfsG39un6mKr6ziv6mLY6WBcZdQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "1GZLRWDc_f5881eV2g3g7HveYUk",
+            "id": "9POYEzl0VmI",
+            "snippet": {
+                "publishedAt": "2025-03-22T04:14:53Z",
+                "channelId": "UCirSyikc3MSAjkJNdFBcR-g",
+                "title": "Cat am știu și-am putut cu două mâini le-am făcut ! #IDLV",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9POYEzl0VmI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9POYEzl0VmI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9POYEzl0VmI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9POYEzl0VmI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9POYEzl0VmI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Luxor Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ro",
+                "localized": {
+                    "title": "Cat am știu și-am putut cu două mâini le-am făcut ! #IDLV",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ro"
+            },
+            "contentDetails": {
+                "duration": "PT44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "366",
+                "likeCount": "5",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "c9QWNY822ISt-VOoeFBUd7Ab09M",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "AHQKuZx01mxZrpgF-CTF2GAbAHI",
+            "id": "zNYEbJr1xj4",
+            "snippet": {
+                "publishedAt": "2024-01-31T11:07:31Z",
+                "channelId": "UC6YnTqZidFg4WUiXpiCtSSQ",
+                "title": "아이리 칸나 (Airi Kanna) - 최종화 (The Last Flower) Live Clip",
+                "description": "from Airi Kanna 1st solo Concert [ KANNA ]\n\n[KANNA] Re-Streaming VOD (Beyond LIVE) https://beyondlive.com/contents/343\nStreaming & Download : https://lnk.to/TheLastFlower\n\nPresented by STELLIVE\n\nLive Clip Produced by MMT & REZ&\n\nLyrics by REQ, Tsubasa Harihara（HarryP）\nComposed by Tsubasa Harihara（HarryP）\nArranged by Masataka Aratomai\n\n© STELLIVE\n© Accelers\n\nWARNING : All Rights Reserved. Unauthorized Duplication & Rent is\nProhibited.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zNYEbJr1xj4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zNYEbJr1xj4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zNYEbJr1xj4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zNYEbJr1xj4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zNYEbJr1xj4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "아이리 칸나 Music Official",
+                "tags": [
+                    "#아이리칸나",
+                    "칸나 노래",
+                    "버튜버",
+                    "스텔라이브",
+                    "강지",
+                    "airikanna",
+                    "airi kanna",
+                    "kanna",
+                    "칸나",
+                    "아이리칸나",
+                    "かんなTheLastFlower",
+                    "ステライブ",
+                    "kanna TheLastFlower",
+                    "칸나 최종화",
+                    "최종화 칸나",
+                    "아이리칸나 최종화",
+                    "最終花",
+                    "TheLastFlower",
+                    "藍璃かんな TheLastFlower",
+                    "최종화",
+                    "칸나콘"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "아이리 칸나 (Airi Kanna) - 최종화 (The Last Flower) Live Clip",
+                    "description": "from Airi Kanna 1st solo Concert [ KANNA ]\n\n[KANNA] Re-Streaming VOD (Beyond LIVE) https://beyondlive.com/contents/343\nStreaming & Download : https://lnk.to/TheLastFlower\n\nPresented by STELLIVE\n\nLive Clip Produced by MMT & REZ&\n\nLyrics by REQ, Tsubasa Harihara（HarryP）\nComposed by Tsubasa Harihara（HarryP）\nArranged by Masataka Aratomai\n\n© STELLIVE\n© Accelers\n\nWARNING : All Rights Reserved. Unauthorized Duplication & Rent is\nProhibited."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1377158",
+                "likeCount": "19027",
+                "favoriteCount": "0",
+                "commentCount": "970"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

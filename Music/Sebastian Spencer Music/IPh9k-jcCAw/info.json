@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "usLlqLBhW5w5AEP0mThewgfQW8U",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "__5-pccfj43T8AnPQ7iObUH0b1Q",
+            "id": "IPh9k-jcCAw",
+            "snippet": {
+                "publishedAt": "2022-12-07T14:24:22Z",
+                "channelId": "UCwdmcaOcWQ7PW8_wuaB8Cjw",
+                "title": "CHIP & DALE - TÄTOWIERER / IS A LEIWANDE HOCKN (Sebastian Spencer 2023 Remix) Official HD",
+                "description": "Official Remix / Tätowierer / CHIP & DALE\n\nFolge mir:  \n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Instagram:\nhttps://www.instagram.com/sebastianspencermusic/\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IPh9k-jcCAw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IPh9k-jcCAw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IPh9k-jcCAw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IPh9k-jcCAw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IPh9k-jcCAw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sebastian Spencer Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "de",
+                "localized": {
+                    "title": "CHIP & DALE - TÄTOWIERER / IS A LEIWANDE HOCKN (Sebastian Spencer 2023 Remix) Official HD",
+                    "description": "Official Remix / Tätowierer / CHIP & DALE\n\nFolge mir:  \n@Spotify :\nhttps://open.spotify.com/artist/6rjN1cZGF8zbUmD5eI3Mas?si=VrxMAUbNSr6iMGLqIGSkMg\n\n@Instagram:\nhttps://www.instagram.com/sebastianspencermusic/\n\n@Tiktok :\nhttps://www.tiktok.com/@sebastian_spencer_music"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M7S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "32292",
+                "likeCount": "267",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

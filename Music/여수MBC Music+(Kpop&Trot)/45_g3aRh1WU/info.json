@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "k1JUUvWsGClXCD0BzDxC5h1iImk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "p_cSuVchtQrUUb1zT62KuxxLFfA",
+            "id": "45_g3aRh1WU",
+            "snippet": {
+                "publishedAt": "2025-12-09T04:32:14Z",
+                "channelId": "UCwIiyFphTd-eTeLBvh8riNw",
+                "title": "[같은노래 다른매력 ♬꽃을 든 남자/최석준] 김희재vs무룡 #원곡커버곡 #k_music #trot #trotclass",
+                "description": "♬꽃을 든 남자/최석준\n\n외로운 가슴에 꽃씨를 뿌려요\n사랑이 싹틀 수 있게\n새벽에 맺힌 이슬이 꽃잎에 내릴 때부터.\n온통 나를 사로잡네요\n나는야 꽃잎되어 그대 가슴에 \n영원히 날고 싶어라\n사랑에 취해 향기에 취해 그대에게 빠져버린 \n나는 나는 꽃을 든 남자\n\n메마른 가슴에 꽃비를 뿌려요 \n사랑이 싹틀 수 있게\n하얗게 두 손 흔들며 내 곁에 내릴 때부터\n온통 나를 사로잡네요\n나는야 꽃 잎되어 그대 가슴에 \n영원히 날고 싶어라\n사랑에 취해 향기에 취해 그대에게 빠져버린 \n나는 나는 꽃을 든 남자",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/45_g3aRh1WU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/45_g3aRh1WU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/45_g3aRh1WU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/45_g3aRh1WU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/45_g3aRh1WU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "여수MBC Music+(Kpop&Trot)",
+                "tags": [
+                    "여수MBC",
+                    "여수MBC뮤직",
+                    "여수MBC Music+",
+                    "뮤직플러스",
+                    "트로트",
+                    "트로트메들리",
+                    "인기트로트",
+                    "trot",
+                    "ktrot"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[같은노래 다른매력 ♬꽃을 든 남자/최석준] 김희재vs무룡 #원곡커버곡 #k_music #trot #trotclass",
+                    "description": "♬꽃을 든 남자/최석준\n\n외로운 가슴에 꽃씨를 뿌려요\n사랑이 싹틀 수 있게\n새벽에 맺힌 이슬이 꽃잎에 내릴 때부터.\n온통 나를 사로잡네요\n나는야 꽃잎되어 그대 가슴에 \n영원히 날고 싶어라\n사랑에 취해 향기에 취해 그대에게 빠져버린 \n나는 나는 꽃을 든 남자\n\n메마른 가슴에 꽃비를 뿌려요 \n사랑이 싹틀 수 있게\n하얗게 두 손 흔들며 내 곁에 내릴 때부터\n온통 나를 사로잡네요\n나는야 꽃 잎되어 그대 가슴에 \n영원히 날고 싶어라\n사랑에 취해 향기에 취해 그대에게 빠져버린 \n나는 나는 꽃을 든 남자"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT6M33S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "251",
+                "likeCount": "35",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

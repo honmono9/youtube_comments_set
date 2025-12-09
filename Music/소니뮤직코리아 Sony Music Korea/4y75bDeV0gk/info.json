@@ -1,0 +1,76 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "VGXerW9fBqkH8UcVvBd9KVaeRUI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "L_zXGYmZrW7VCYNRQxFMpqO_zO8",
+            "id": "4y75bDeV0gk",
+            "snippet": {
+                "publishedAt": "2014-05-12T03:08:13Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "양송이 (Yang Song E) - 파라다이스(PARADISE)(우리 결혼했어요 세계판 2 삽입곡)",
+                "description": "Sony Music Korea's new artist Yang Song E releases the OST track for MBC's \"We Got Married; World Edition Season 2\" before her official debut.\n\nThe song describes feeling of couple who are about to start to love each other. In 'We Got Married; World Edition Season 2' Super Junior's Heechul and SHINee's Key are in as Korean representative with Taiwan idol Puff Kuo and Japanese Top model Yagi Arisa.\n\nYang Song E herself has participated writing lyrics of this song and Pento, one of the hottest rapper produced and featured for Yang Song E's first OST single.\n\n인기리에 방영중인 우리결혼했어요 세계판 2 삽입곡! 양송이 디지털싱글 [파라다이스]\n\n남녀가 사랑에 빠졌을때 사소한것부터 시작해 그 모든것이 행복하고 설레이는 느낌을 파라다이스에 빗대어 표현한 풋풋한 사랑노래로, 흥겨운 레게 리듬과 어쿠스틱 기타는 세상에 하나뿐인 아름다운 섬에 사랑하는 연인과 행복한 여행을 간 듯한 느낌을 준다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4y75bDeV0gk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4y75bDeV0gk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4y75bDeV0gk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4y75bDeV0gk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4y75bDeV0gk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "tags": [
+                    "We Got Married (TV Program)",
+                    "We Got Married (Season 2) (TV Season)"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "양송이 (Yang Song E) - 파라다이스(PARADISE)(우리 결혼했어요 세계판 2 삽입곡)",
+                    "description": "Sony Music Korea's new artist Yang Song E releases the OST track for MBC's \"We Got Married; World Edition Season 2\" before her official debut.\n\nThe song describes feeling of couple who are about to start to love each other. In 'We Got Married; World Edition Season 2' Super Junior's Heechul and SHINee's Key are in as Korean representative with Taiwan idol Puff Kuo and Japanese Top model Yagi Arisa.\n\nYang Song E herself has participated writing lyrics of this song and Pento, one of the hottest rapper produced and featured for Yang Song E's first OST single.\n\n인기리에 방영중인 우리결혼했어요 세계판 2 삽입곡! 양송이 디지털싱글 [파라다이스]\n\n남녀가 사랑에 빠졌을때 사소한것부터 시작해 그 모든것이 행복하고 설레이는 느낌을 파라다이스에 빗대어 표현한 풋풋한 사랑노래로, 흥겨운 레게 리듬과 어쿠스틱 기타는 세상에 하나뿐인 아름다운 섬에 사랑하는 연인과 행복한 여행을 간 듯한 느낌을 준다."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT28S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5951",
+                "likeCount": "44",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

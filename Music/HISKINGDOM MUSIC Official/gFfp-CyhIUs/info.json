@@ -1,0 +1,84 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "bbstXTRIiv8Vz45_ynQ1hkl7GdY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "fzanEQwGYmXOmvTj0giAfzvLoy4",
+            "id": "gFfp-CyhIUs",
+            "snippet": {
+                "publishedAt": "2025-07-14T10:39:27Z",
+                "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+                "title": "아맞다... 하나님이 날 사랑하시지...",
+                "description": "#아맞다 #박수진 #준하와나",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gFfp-CyhIUs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gFfp-CyhIUs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gFfp-CyhIUs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gFfp-CyhIUs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gFfp-CyhIUs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HISKINGDOM MUSIC Official",
+                "tags": [
+                    "아맞다",
+                    "박수진",
+                    "노래일기 박수진",
+                    "준하와나",
+                    "히스킹덤뮤직",
+                    "찬양 실황",
+                    "라이브 찬양",
+                    "ccm",
+                    "kccm",
+                    "국내ccm"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "아맞다... 하나님이 날 사랑하시지...",
+                    "description": "#아맞다 #박수진 #준하와나"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT49S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1442",
+                "likeCount": "25",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

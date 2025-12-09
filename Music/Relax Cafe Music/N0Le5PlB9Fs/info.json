@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "i_6MIS52iC6dxkFS73tabZAKZns",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "10Qnk2rG_q7s2OoFon1nvx83i54",
+            "id": "N0Le5PlB9Fs",
+            "snippet": {
+                "publishedAt": "2022-10-13T13:00:21Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "October Bossa Nova - Positive Jazz Piano Music for Relaxing Autumn Day",
+                "description": "The best playlist of october jazz music! Enjoy 10 hours of positive bossa nova and jazz piano music by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\nl143",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N0Le5PlB9Fs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N0Le5PlB9Fs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N0Le5PlB9Fs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/N0Le5PlB9Fs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/N0Le5PlB9Fs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "October Bossa Nova - Positive Jazz Piano Music for Relaxing Autumn Day",
+                    "description": "The best playlist of october jazz music! Enjoy 10 hours of positive bossa nova and jazz piano music by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\nl143"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "11847",
+                "likeCount": "161",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "hteElMy7b192CVWLoCe7900VsVY",
+        "id": "UgxfDiLUESBIY8rWiYV4AaABAg",
+        "snippet": {
+            "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+            "videoId": "bNc6ZbnrWzM",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "baamZk2S8DPDior1Ft2vU3Sz1vo",
+                "id": "UgxfDiLUESBIY8rWiYV4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                    "videoId": "bNc6ZbnrWzM",
+                    "textDisplay": "Z przyjemnością slucham tych utworów ☺️",
+                    "textOriginal": "Z przyjemnością slucham tych utworów ☺️",
+                    "authorDisplayName": "@aloryt",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mBDPTjSST3uzjDYUH-oMCrtfhSMTHSxruu8RWiGuTfPA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@aloryt",
+                    "authorChannelId": {
+                        "value": "UCe24vR5n8ZcBvSTS-vIX89g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-08-23T15:48:40Z",
+                    "updatedAt": "2025-08-23T15:48:40Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

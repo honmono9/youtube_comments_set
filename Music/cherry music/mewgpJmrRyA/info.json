@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "L8BteHVg5f_Nmr3yFWnfuylama4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "UYdK-47tNgg2iqnHFsLBPIv_-K8",
+            "id": "mewgpJmrRyA",
+            "snippet": {
+                "publishedAt": "2025-08-14T23:00:49Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "Cafe Playlist ☕ 그냥 틀어놓기만 해도 좋은 여름 카페 플리 🎶☕",
+                "description": "따뜻한 원두향이 퍼지는 공간, 조용한 오후의 카페.\n그 속에서 잔잔히 흐르는 음악이 하루를 더 포근하게 만들어줍니다.\n카페 한켠에 앉아 마음을 내려놓고 싶은 순간, 이 플레이리스트와 함께해보세요.\n일상에 작은 여유를 더해줄 감성 음악들이 가득 담겨 있어요 ☕✨\n\n🎧 이 플레이리스트의 모든 음악 저작권은 체리(CHERRY)에게 있습니다.\n\n00:00 Hate Me  \n02:56 Frozen By  \n05:55 Melody  \n08:46 Back to You  \n11:48 Listen Time  \n15:29 I Couldn't Sleep  \n18:19 Guitar  \n21:14 Bright and New  \n24:47 Every Moment  \n27:25 When You Speak  \n30:38 Feel So Fine  \n33:10 Lost Inside  \n37:23 Same Way  \n40:58 In Your Face  \n44:33 In the Glow  \n47:25 Baby Finally  \n52:24 Losing Sleep  \n56:19 Saving for Days  \n59:23 All Song Repeat\n\n⸻\n\n📎 해시태그\n\n#카페플레이리스트 #감성음악 #CafePlaylist #잔잔한노래 #카페음악 #원두향가득 #따뜻한시간 #CherryMusic #힐링음악 #커피와음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mewgpJmrRyA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mewgpJmrRyA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mewgpJmrRyA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mewgpJmrRyA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mewgpJmrRyA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Cafe Playlist ☕ 그냥 틀어놓기만 해도 좋은 여름 카페 플리 🎶☕",
+                    "description": "따뜻한 원두향이 퍼지는 공간, 조용한 오후의 카페.\n그 속에서 잔잔히 흐르는 음악이 하루를 더 포근하게 만들어줍니다.\n카페 한켠에 앉아 마음을 내려놓고 싶은 순간, 이 플레이리스트와 함께해보세요.\n일상에 작은 여유를 더해줄 감성 음악들이 가득 담겨 있어요 ☕✨\n\n🎧 이 플레이리스트의 모든 음악 저작권은 체리(CHERRY)에게 있습니다.\n\n00:00 Hate Me  \n02:56 Frozen By  \n05:55 Melody  \n08:46 Back to You  \n11:48 Listen Time  \n15:29 I Couldn't Sleep  \n18:19 Guitar  \n21:14 Bright and New  \n24:47 Every Moment  \n27:25 When You Speak  \n30:38 Feel So Fine  \n33:10 Lost Inside  \n37:23 Same Way  \n40:58 In Your Face  \n44:33 In the Glow  \n47:25 Baby Finally  \n52:24 Losing Sleep  \n56:19 Saving for Days  \n59:23 All Song Repeat\n\n⸻\n\n📎 해시태그\n\n#카페플레이리스트 #감성음악 #CafePlaylist #잔잔한노래 #카페음악 #원두향가득 #따뜻한시간 #CherryMusic #힐링음악 #커피와음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2H58M10S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "33611",
+                "likeCount": "208",
+                "favoriteCount": "0",
+                "commentCount": "28"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

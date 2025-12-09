@@ -1,0 +1,90 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "H82vGtxlyO3VepLXU7y9u5TqI-Y",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "dLbRihfWbMZjp6mEsI80c1ciIAI",
+            "id": "GLHhfKtvDS0",
+            "snippet": {
+                "publishedAt": "2022-03-22T10:02:07Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "센치한 퇴근길 운전하면서 감각적인 팝송 들어요",
+                "description": "Photo by Louis Lefèvre",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GLHhfKtvDS0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GLHhfKtvDS0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GLHhfKtvDS0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GLHhfKtvDS0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GLHhfKtvDS0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "운전할 때 노래",
+                    "퇴근길 노래",
+                    "팝송 모음",
+                    "팝송 추천",
+                    "퇴근 팝송",
+                    "드라이브 팝송",
+                    "밤에 운전할 때 노래",
+                    "drive songs",
+                    "playlist",
+                    "pop songs"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "센치한 퇴근길 운전하면서 감각적인 팝송 들어요",
+                    "description": "Photo by Louis Lefèvre"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT28M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "34911",
+                "likeCount": "596",
+                "favoriteCount": "0",
+                "commentCount": "45"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "BAReSGhDOB-K6l6-Rj0s-a88PNw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "3Bd-TH-2XZ7sTIDD_0ktG91DeOc",
+            "id": "tXm7hro1EWc",
+            "snippet": {
+                "publishedAt": "2023-04-19T10:15:02Z",
+                "channelId": "UCYTNxR2Z4ryz88WRWiaPCdg",
+                "title": "ひめごと＊クライシスターズ (nenpulse - bootleg remix)",
+                "description": "Track : ひめごと＊クライシスターズ | Himegoto*Crisisters\nAnime : お兄ちゃんはおしまい！| Onii-chan wa Oshimai!\nVocals  : ONIMAI SISTERS（高野麻里佳・石原夏織・金元寿子・津田美波)\nRemix : nenpulse\n---------------------------------------------\n★ Follow - nenpulse\n● Soundcloud : https://soundcloud.com/nenpulse\n● Twitter : https://twitter.com/nenpulse\n---------------------------------------------\n🎨 Wallpaper By (セトマン) : https://www.pixiv.net/en/artworks/104297759\n● Pixiv : https://www.pixiv.net/en/users/7075448\n● Twitter : https://twitter.com/Setmen_uU\n---------------------------------------------\n💌 If you would like to submit a song or have any questions , Please email me (kmusicsweet@gmail.com)\n\n#kmusicsweet",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tXm7hro1EWc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tXm7hro1EWc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tXm7hro1EWc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tXm7hro1EWc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tXm7hro1EWc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "K - Music Sweet",
+                "tags": [
+                    "kawaii music",
+                    "cute music",
+                    "kawaii song",
+                    "cute song",
+                    "anime"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "ひめごと＊クライシスターズ (nenpulse - bootleg remix)",
+                    "description": "Track : ひめごと＊クライシスターズ | Himegoto*Crisisters\nAnime : お兄ちゃんはおしまい！| Onii-chan wa Oshimai!\nVocals  : ONIMAI SISTERS（高野麻里佳・石原夏織・金元寿子・津田美波)\nRemix : nenpulse\n---------------------------------------------\n★ Follow - nenpulse\n● Soundcloud : https://soundcloud.com/nenpulse\n● Twitter : https://twitter.com/nenpulse\n---------------------------------------------\n🎨 Wallpaper By (セトマン) : https://www.pixiv.net/en/artworks/104297759\n● Pixiv : https://www.pixiv.net/en/users/7075448\n● Twitter : https://twitter.com/Setmen_uU\n---------------------------------------------\n💌 If you would like to submit a song or have any questions , Please email me (kmusicsweet@gmail.com)\n\n#kmusicsweet"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M43S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "105602",
+                "likeCount": "2223",
+                "favoriteCount": "0",
+                "commentCount": "60"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

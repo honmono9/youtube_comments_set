@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "OaA36HmDuflQjR6323AFOQ6OPe4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "3vfGmItqcuLFKed3ty4utFzI1GE",
+            "id": "VH7GkZRqMZ8",
+            "snippet": {
+                "publishedAt": "2025-09-01T01:18:19Z",
+                "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                "title": "🎷야마하 커스텀 색소폰 넥의 모든 것📂 - ① 넥 소개│색소포니스트 임유리 & 이병주",
+                "description": "색소폰 넥만 바꿔도 달라지는 사운드?! 🔊\n색소포니스트 이병주와 임유리가 직접 시연하고 들려주는\n야마하 커스텀 넥의 거의 모든 것 📂\n\nV1넥과 C1넥 중 이병주와 임유리의 픽은 무엇?! \n\n영상 속 시연한 모든 넥은 \n전국 21곳 야마하 관악기 전문대리점에서 시연해보실 수 있습니다! \n\n📍관악기 전문대리점 바로가기 : https://bit.ly/3UDlhBo\n\n#야마하 #야마하색소폰 #색소폰 \n#색소포니스트 #이병주 #임유리 \n#색소폰넥 #색소폰연주 #색소폰시연 \n#C1 #V1 #saxophone #Yamaha",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VH7GkZRqMZ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VH7GkZRqMZ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VH7GkZRqMZ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VH7GkZRqMZ8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VH7GkZRqMZ8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yamaha Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🎷야마하 커스텀 색소폰 넥의 모든 것📂 - ① 넥 소개│색소포니스트 임유리 & 이병주",
+                    "description": "색소폰 넥만 바꿔도 달라지는 사운드?! 🔊\n색소포니스트 이병주와 임유리가 직접 시연하고 들려주는\n야마하 커스텀 넥의 거의 모든 것 📂\n\nV1넥과 C1넥 중 이병주와 임유리의 픽은 무엇?! \n\n영상 속 시연한 모든 넥은 \n전국 21곳 야마하 관악기 전문대리점에서 시연해보실 수 있습니다! \n\n📍관악기 전문대리점 바로가기 : https://bit.ly/3UDlhBo\n\n#야마하 #야마하색소폰 #색소폰 \n#색소포니스트 #이병주 #임유리 \n#색소폰넥 #색소폰연주 #색소폰시연 \n#C1 #V1 #saxophone #Yamaha"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8M39S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1130",
+                "likeCount": "15",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "03rCJojJ1gezUIr9TwsluEthGaA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "1VVoQvLAuKawKDihzEUq3-xBDfw",
+            "id": "6akLeQrsHis",
+            "snippet": {
+                "publishedAt": "2025-08-25T11:00:18Z",
+                "channelId": "UC6TJkBRLMFJ-9c7pXehoZwg",
+                "title": "pH-1 'DRUGGED2THRILLS' Official MV",
+                "description": "pH-1 The 3rd Studio Album 【WHAT HAVE WE DONE】 is out! \nListen and download on your favorite platform : https://lnk.to/pH1_WHAT_HAVE_WE_DONE\n\nMore Information Here:\n\n@pH-1\nInstagram : https://www.instagram.com/ph1boyyy\nTwitter : https://twitter.com/ph1boyyy\n\n@H1GHRMUSIC\nInstagram : https://www.instagram.com/h1ghrmusic\nFacebook : https://www.facebook.com/H1GHRMUSICOFFICIAL\nTwitter:https ://twitter.com/H1GHRMUSIC\nWeibo : https://www.weibo.com/h1ghrmusic\n\n#pH1 #피에이치원 \n#DRUGGED2THRILLS\n#WHAT_HAVE_WE_DONE\n#H1GHRMUSIC #하이어뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6akLeQrsHis/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6akLeQrsHis/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6akLeQrsHis/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6akLeQrsHis/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6akLeQrsHis/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "H1GHR MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "pH-1 'DRUGGED2THRILLS' Official MV",
+                    "description": "pH-1 The 3rd Studio Album 【WHAT HAVE WE DONE】 is out! \nListen and download on your favorite platform : https://lnk.to/pH1_WHAT_HAVE_WE_DONE\n\nMore Information Here:\n\n@pH-1\nInstagram : https://www.instagram.com/ph1boyyy\nTwitter : https://twitter.com/ph1boyyy\n\n@H1GHRMUSIC\nInstagram : https://www.instagram.com/h1ghrmusic\nFacebook : https://www.facebook.com/H1GHRMUSICOFFICIAL\nTwitter:https ://twitter.com/H1GHRMUSIC\nWeibo : https://www.weibo.com/h1ghrmusic\n\n#pH1 #피에이치원 \n#DRUGGED2THRILLS\n#WHAT_HAVE_WE_DONE\n#H1GHRMUSIC #하이어뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "116209",
+                "likeCount": "2007",
+                "favoriteCount": "0",
+                "commentCount": "65"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

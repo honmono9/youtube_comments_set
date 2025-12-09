@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "KcJVOqACfT1Wkx-I5ZHGfFgR7Bg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "7lwxLMRhhm9g-BuAQL96yCNwiWw",
+            "id": "aPCCDCGQMh0",
+            "snippet": {
+                "publishedAt": "2022-09-26T13:00:02Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Smooth October Jazz - Elegant Fall Jazz Music to Relax & Study",
+                "description": "The best of smooth october jazz music! Enjoy 10 hours of elegant autumn jazz music by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\nl120",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aPCCDCGQMh0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aPCCDCGQMh0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aPCCDCGQMh0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aPCCDCGQMh0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aPCCDCGQMh0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Smooth October Jazz - Elegant Fall Jazz Music to Relax & Study",
+                    "description": "The best of smooth october jazz music! Enjoy 10 hours of elegant autumn jazz music by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\nl120"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "20881",
+                "likeCount": "236",
+                "favoriteCount": "0",
+                "commentCount": "22"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

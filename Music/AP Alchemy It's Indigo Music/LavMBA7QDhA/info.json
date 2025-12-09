@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "_83LzVgJwMFZSO-d9w6mCeDoQ9o",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "LxFixpgemkUBPHkZhzNClntIutA",
+            "id": "LavMBA7QDhA",
+            "snippet": {
+                "publishedAt": "2022-09-01T09:00:22Z",
+                "channelId": "UCE4IM82TdhmOl4Qtn8nsaGQ",
+                "title": "[Official M/V] JUSTHIS (저스디스) - Noble Game (Feat. ILLINIT) (EN)",
+                "description": "JUSTHIS (저스디스) - Noble Game (Feat. ILLINIT) (Prod. ILLUID HALLER)\n\nExecutive Director : JUSTHIS\nDirector : Luke Choi  \nTypography : Shinwon Kim, Songyi Park\n\n- - - - -\n\n🎵 듣기 (Listen and download on your platform) :\nhttp://IndigoMusic.lnk.to/DNGGITGN2\n\n- - - - -\n\n[Official Channel]\n·JUSTHIS (저스디스) : https://instagram.com/thisisjusthis\n·인디고뮤직 (Indigo Music) : http://indigomusic3.com\nhttps://www.instagram.com/indigomusic...\n\n- - - - -\n\n#JUSTHIS #NobleGame #인디고뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LavMBA7QDhA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LavMBA7QDhA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LavMBA7QDhA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LavMBA7QDhA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LavMBA7QDhA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AP Alchemy It's Indigo Music",
+                "tags": [
+                    "noble game",
+                    "노블게임",
+                    "justhis",
+                    "저스디스",
+                    "저스디스 노블게임",
+                    "Justhis 노블게임",
+                    "저스디스 noble game",
+                    "NOBLE GAME",
+                    "일리닛",
+                    "illinit",
+                    "ILLUID HALLER",
+                    "do not go gentle into that good night II",
+                    "DNGGITGNII"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Official M/V] JUSTHIS (저스디스) - Noble Game (Feat. ILLINIT) (EN)",
+                    "description": "JUSTHIS (저스디스) - Noble Game (Feat. ILLINIT) (Prod. ILLUID HALLER)\n\nExecutive Director : JUSTHIS\nDirector : Luke Choi  \nTypography : Shinwon Kim, Songyi Park\n\n- - - - -\n\n🎵 듣기 (Listen and download on your platform) :\nhttp://IndigoMusic.lnk.to/DNGGITGN2\n\n- - - - -\n\n[Official Channel]\n·JUSTHIS (저스디스) : https://instagram.com/thisisjusthis\n·인디고뮤직 (Indigo Music) : http://indigomusic3.com\nhttps://www.instagram.com/indigomusic...\n\n- - - - -\n\n#JUSTHIS #NobleGame #인디고뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M38S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "22124",
+                "likeCount": "968",
+                "favoriteCount": "0",
+                "commentCount": "96"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

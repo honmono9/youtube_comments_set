@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "OupH85mvaaKSODILl3_mtinqvzs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "MFitBcjzWDZLJSfomdGPKGqtACE",
+            "id": "TCH-HL1G8nk",
+            "snippet": {
+                "publishedAt": "2021-06-13T12:34:30Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "JUNE 12, 7 PM: Dr. Nicole Cherry \"Violin Virtuoso, Composer, African Prince; George Bridgetower\"",
+                "description": "This ENCORE YouTube LIVE lecture will begin at 7 PM EST.\n\nDr. Nicole Cherry is Assistant Professor of Violin and String Area Chair at The University of Texas at San Antonio and second violinist of the history making Marian Anderson String Quartet.  Dr. Cherry’s research on the nineteenth-century Afro-European violin virtuoso, George Bridgetower, exploring historical socio-cultural theories in string music ha led to national interviews and awards that include Texas Tech University’s Paul Whitfield Horn Award and the President’s Excellence in Diversity and Equity Award. As a graduate of the Masters degree program, The Juilliard School profiled Dr. Cherry in the Journal’s 100th-Anniversary issue, “A Quiet Revolution: Juilliard Alumni and the Transformation of Education in America Through the Arts.”",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TCH-HL1G8nk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TCH-HL1G8nk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TCH-HL1G8nk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TCH-HL1G8nk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TCH-HL1G8nk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "JUNE 12, 7 PM: Dr. Nicole Cherry \"Violin Virtuoso, Composer, African Prince; George Bridgetower\"",
+                    "description": "This ENCORE YouTube LIVE lecture will begin at 7 PM EST.\n\nDr. Nicole Cherry is Assistant Professor of Violin and String Area Chair at The University of Texas at San Antonio and second violinist of the history making Marian Anderson String Quartet.  Dr. Cherry’s research on the nineteenth-century Afro-European violin virtuoso, George Bridgetower, exploring historical socio-cultural theories in string music ha led to national interviews and awards that include Texas Tech University’s Paul Whitfield Horn Award and the President’s Excellence in Diversity and Equity Award. As a graduate of the Masters degree program, The Juilliard School profiled Dr. Cherry in the Journal’s 100th-Anniversary issue, “A Quiet Revolution: Juilliard Alumni and the Transformation of Education in America Through the Arts.”"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT1H52M37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "279",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

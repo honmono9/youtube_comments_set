@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "tKs9sCghbTXZEXJjaKavpm328a4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "E2BqQsax_Oz81D1wjgP0ElPqSQM",
+            "id": "2vKuK4Tj0uQ",
+            "snippet": {
+                "publishedAt": "2021-02-08T05:46:38Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[MV] 왁스 (WAX) - 나를 끝낼 수 있나요 (Can you end this now) / Official Music Video",
+                "description": "[MV] 왁스 (WAX) - 나를 끝낼 수 있나요 (Can you end this now) / Official Music Video\n\n[Credit]\n\nLyrics by 빨간양말\nCompose by 빨간양말\nArrange by 빨간양말 \n\nGuitar 김민규\nBass 김미성\nSynthsizer 임동균\nPiano 어한중\nMixing 김영식\nMastering 최효영(Souno)\n\nMusic Video Editing by Ro Rock Hoon @Trybe(트라이브)\n\n\n#왁스 #WAX #결혼작사이혼작곡 #나를끝낼수있나요",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2vKuK4Tj0uQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2vKuK4Tj0uQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2vKuK4Tj0uQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2vKuK4Tj0uQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2vKuK4Tj0uQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "tags": [
+                    "왁스",
+                    "결혼작사이혼작곡",
+                    "나를끝낼수있나요",
+                    "드라마",
+                    "TV조선",
+                    "OST",
+                    "WAX",
+                    "Canyouendthisnow",
+                    "kdrama",
+                    "drama",
+                    "dramaost",
+                    "kdramaost",
+                    "ballad",
+                    "kpop",
+                    "seoulmusic"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[MV] 왁스 (WAX) - 나를 끝낼 수 있나요 (Can you end this now) / Official Music Video",
+                    "description": "[MV] 왁스 (WAX) - 나를 끝낼 수 있나요 (Can you end this now) / Official Music Video\n\n[Credit]\n\nLyrics by 빨간양말\nCompose by 빨간양말\nArrange by 빨간양말 \n\nGuitar 김민규\nBass 김미성\nSynthsizer 임동균\nPiano 어한중\nMixing 김영식\nMastering 최효영(Souno)\n\nMusic Video Editing by Ro Rock Hoon @Trybe(트라이브)\n\n\n#왁스 #WAX #결혼작사이혼작곡 #나를끝낼수있나요"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "21859",
+                "likeCount": "199",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

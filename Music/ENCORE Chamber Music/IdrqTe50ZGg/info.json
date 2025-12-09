@@ -1,0 +1,67 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "43cSX4068DDQicSl9INmH4oJJLw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "CuDirZAYFrYdwHfFwUZvK__pzbo",
+            "id": "IdrqTe50ZGg",
+            "snippet": {
+                "publishedAt": "2020-08-16T15:46:55Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "Highlights from Gabriel Fauré: La Bonne Chanson, Op. 61",
+                "description": "2018 Festival Somewhere Over the Rainbow\n\nJune 15, 2018\nGabriel Fauré: La Bonne Chanson, Op. 61\n\nChantal Mathias, soprano\nHyunsoo Kim, piano\nCavani String Quartet \n\nFrench soprano Chantal Mathias presented a powerful program of vocal chamber music, including a French song set, Britten's Folksong Arrangement, and Judy Garland's 'Somewhere Over the Rainbow'.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IdrqTe50ZGg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IdrqTe50ZGg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IdrqTe50ZGg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IdrqTe50ZGg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Highlights from Gabriel Fauré: La Bonne Chanson, Op. 61",
+                    "description": "2018 Festival Somewhere Over the Rainbow\n\nJune 15, 2018\nGabriel Fauré: La Bonne Chanson, Op. 61\n\nChantal Mathias, soprano\nHyunsoo Kim, piano\nCavani String Quartet \n\nFrench soprano Chantal Mathias presented a powerful program of vocal chamber music, including a French song set, Britten's Folksong Arrangement, and Judy Garland's 'Somewhere Over the Rainbow'."
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT3M46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "843",
+                "likeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

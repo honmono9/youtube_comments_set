@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "_CQf1-zMALYdKghCRBib61FX-9A",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "gxnUgp91LyXSKym0x3CkJ6RxtL8",
+            "id": "W-dhjzRF8LU",
+            "snippet": {
+                "publishedAt": "2022-04-13T10:01:56Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "벚꽃 노스탤지어",
+                "description": "Photo by Carolina\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd936vpMWBnrJiwa_7y-n0Re",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W-dhjzRF8LU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W-dhjzRF8LU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W-dhjzRF8LU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/W-dhjzRF8LU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/W-dhjzRF8LU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "플레이리스트",
+                    "봄 노래",
+                    "팝송 모음",
+                    "봄 팝송",
+                    "잔잔한 팝송",
+                    "playlist",
+                    "pop songs",
+                    "벚꽃",
+                    "cherry blossom"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "벚꽃 노스탤지어",
+                    "description": "Photo by Carolina\n\n관련 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd936vpMWBnrJiwa_7y-n0Re"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT27M51S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "26534",
+                "likeCount": "622",
+                "favoriteCount": "0",
+                "commentCount": "45"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

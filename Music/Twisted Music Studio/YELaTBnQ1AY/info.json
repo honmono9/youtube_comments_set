@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "aXCt_Y1-I5HVfH60ULFx-lmPBXk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "vGgMNDzoKlU1P3d8JVTbLbSUk80",
+            "id": "YELaTBnQ1AY",
+            "snippet": {
+                "publishedAt": "2025-11-03T18:02:51Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Foo Fighters - Everlong | Soul AI Cover",
+                "description": "Everlong by Foo Fighters twisted into some sweet Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nHello\nI've waited here for you\nEverlong\nTonight\nI throw myself into\nAnd out of the red\nOut of her head she sang\n\nCome down\nAnd waste away with me\nDown with me\nSlow how\nYou wanted it to be\nI'm over my head\nOut of her head she sang\n\nAnd I wonder\nWhen I sing along with you\nIf everything could ever feel this real forever\nIf anything could ever be this good again\nThe only thing I'll ever ask of you\nYou gotta promise not to stop when I say when she sang\n\nBreathe out\nSo I can breathe you in\nHold you in\nAnd now\nI know you've always been\nOut of your head\nOut of my head I sang\n\nAnd I wonder\nWhen I sing along with you\nIf everything could ever feel this real forever\nIf anything could ever be this good again\nThe only thing I'll ever ask of you\nYou gotta promise not to stop when I say when she sang\n\n[Whisper:]\nSo, Dad would take the Sundays off.\nAnd that's the only time he could ever get any rest.\nAnd so, because we were loud on Sundays, he'd make us hold his construction boots over our head, 'til we'd sleep.\nAnd they were really heavy boots and I used to say, \"Dad, come on, please.\"\nAnd like start crying, 'cause they're too heavy.\n\nAnd I wonder\nIf everything could ever feel this real forever\nIf anything could ever be this good again\nThe only thing I'll ever ask of you\nYou've got to promise not to stop when I say when",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YELaTBnQ1AY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YELaTBnQ1AY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YELaTBnQ1AY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YELaTBnQ1AY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YELaTBnQ1AY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Foo Fighters - Everlong | Soul AI Cover",
+                    "description": "Everlong by Foo Fighters twisted into some sweet Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nHello\nI've waited here for you\nEverlong\nTonight\nI throw myself into\nAnd out of the red\nOut of her head she sang\n\nCome down\nAnd waste away with me\nDown with me\nSlow how\nYou wanted it to be\nI'm over my head\nOut of her head she sang\n\nAnd I wonder\nWhen I sing along with you\nIf everything could ever feel this real forever\nIf anything could ever be this good again\nThe only thing I'll ever ask of you\nYou gotta promise not to stop when I say when she sang\n\nBreathe out\nSo I can breathe you in\nHold you in\nAnd now\nI know you've always been\nOut of your head\nOut of my head I sang\n\nAnd I wonder\nWhen I sing along with you\nIf everything could ever feel this real forever\nIf anything could ever be this good again\nThe only thing I'll ever ask of you\nYou gotta promise not to stop when I say when she sang\n\n[Whisper:]\nSo, Dad would take the Sundays off.\nAnd that's the only time he could ever get any rest.\nAnd so, because we were loud on Sundays, he'd make us hold his construction boots over our head, 'til we'd sleep.\nAnd they were really heavy boots and I used to say, \"Dad, come on, please.\"\nAnd like start crying, 'cause they're too heavy.\n\nAnd I wonder\nIf everything could ever feel this real forever\nIf anything could ever be this good again\nThe only thing I'll ever ask of you\nYou've got to promise not to stop when I say when"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2196",
+                "likeCount": "58",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

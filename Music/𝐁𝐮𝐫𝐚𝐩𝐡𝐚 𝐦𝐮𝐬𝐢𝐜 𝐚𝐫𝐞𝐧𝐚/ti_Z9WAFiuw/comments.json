@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "7NMqgRxvRHPSiOQIveBG4vUZEls",
+        "id": "Ugws68Ez1akWM1X9O_Z4AaABAg",
+        "snippet": {
+            "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+            "videoId": "ti_Z9WAFiuw",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "6HUM7gHCQXT1jucr3DanESsp5V0",
+                "id": "Ugws68Ez1akWM1X9O_Z4AaABAg",
+                "snippet": {
+                    "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                    "videoId": "ti_Z9WAFiuw",
+                    "textDisplay": "🎬 เตรียมพบกับ MV เพลงใหม่ “เต็มระบบ”\nEpic visuals • Power sound • Full cinematic vibe ⚡\nComing soon on YouTube! 🎸🤘🏻🔥",
+                    "textOriginal": "🎬 เตรียมพบกับ MV เพลงใหม่ “เต็มระบบ”\nEpic visuals • Power sound • Full cinematic vibe ⚡\nComing soon on YouTube! 🎸🤘🏻🔥",
+                    "authorDisplayName": "@BMAarena",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-roBiYFyedSn6ETMteOjdi1_pT5keQFkEeiv8tJFvSti2JSOuBmqVDnUf-k0lYXsqzdZe2trsQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@BMAarena",
+                    "authorChannelId": {
+                        "value": "UCGUvUVuthSVOk0Kq34krOGA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-04T18:53:12Z",
+                    "updatedAt": "2025-11-04T18:53:12Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

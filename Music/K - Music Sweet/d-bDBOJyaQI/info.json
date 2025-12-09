@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "1yEaHJmQllLharEeoHknwi3nJzg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "lFiequ8RIWW0L84LvOSg0XmwfYY",
+            "id": "d-bDBOJyaQI",
+            "snippet": {
+                "publishedAt": "2023-08-15T10:15:04Z",
+                "channelId": "UCYTNxR2Z4ryz88WRWiaPCdg",
+                "title": "LCwwww (feat. Shion) - Dream Canvas",
+                "description": "Composed / Released : LCwwww\nVocals  : Shion\nAlbum : Magic Diary\n\nVideo design : K - Music Sweet \n---------------------------------------------\n🔉 Free Listening  \n● Soundcloud : https://soundcloud.com/lc-wwww/sets/magic-diary\n● Spotify : https://open.spotify.com/album/1bxDuLI2gPjTcpWcObK7Fx\n\n 🛒 Buy Support \n●  iTunes : https://music.apple.com/us/album/magic-diary/1695888146\n●  Bandcamp : https://lcwwww.bandcamp.com/album/magic-diary\n---------------------------------------------\n★ Follow - LCwwww\n● Soundcloud : https://soundcloud.com/lc-wwww\n● Youtube : @LCwwww \n● Twitter : https://twitter.com/LCwwww233\n● Web : https://open.spotify.com/artist/277j7GYRn0uqGPdN1n81fb\n\n★ Follow - Shion Lee (リーシオン)\n● Youtube : @Shion_Lee \n● Twitter : https://twitter.com/LeeShionVG\n---------------------------------------------\n🎨 Wallpaper By (もち) : https://www.pixiv.net/en/artworks/107985659\n● Pixiv : https://www.pixiv.net/en/users/4364096\n● Twitter : https://twitter.com/Mozzi_an1357\n---------------------------------------------\n💌 If you would like to submit a song or have any questions , Please email me (kmusicsweet@gmail.com)\n\n#kmusicsweet",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d-bDBOJyaQI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d-bDBOJyaQI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d-bDBOJyaQI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/d-bDBOJyaQI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/d-bDBOJyaQI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "K - Music Sweet",
+                "tags": [
+                    "kawaii music",
+                    "cute music",
+                    "kawaii song",
+                    "cute song",
+                    "anime"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "LCwwww (feat. Shion) - Dream Canvas",
+                    "description": "Composed / Released : LCwwww\nVocals  : Shion\nAlbum : Magic Diary\n\nVideo design : K - Music Sweet \n---------------------------------------------\n🔉 Free Listening  \n● Soundcloud : https://soundcloud.com/lc-wwww/sets/magic-diary\n● Spotify : https://open.spotify.com/album/1bxDuLI2gPjTcpWcObK7Fx\n\n 🛒 Buy Support \n●  iTunes : https://music.apple.com/us/album/magic-diary/1695888146\n●  Bandcamp : https://lcwwww.bandcamp.com/album/magic-diary\n---------------------------------------------\n★ Follow - LCwwww\n● Soundcloud : https://soundcloud.com/lc-wwww\n● Youtube : @LCwwww \n● Twitter : https://twitter.com/LCwwww233\n● Web : https://open.spotify.com/artist/277j7GYRn0uqGPdN1n81fb\n\n★ Follow - Shion Lee (リーシオン)\n● Youtube : @Shion_Lee \n● Twitter : https://twitter.com/LeeShionVG\n---------------------------------------------\n🎨 Wallpaper By (もち) : https://www.pixiv.net/en/artworks/107985659\n● Pixiv : https://www.pixiv.net/en/users/4364096\n● Twitter : https://twitter.com/Mozzi_an1357\n---------------------------------------------\n💌 If you would like to submit a song or have any questions , Please email me (kmusicsweet@gmail.com)\n\n#kmusicsweet"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2M44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "13440",
+                "likeCount": "381",
+                "favoriteCount": "0",
+                "commentCount": "21"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

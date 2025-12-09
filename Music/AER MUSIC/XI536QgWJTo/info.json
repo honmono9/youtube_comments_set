@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "6__qIrtB5GeZwaOqpRY1xI12i7U",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "RKhNlnArEg2L-TaNQstEQ-7Dtp4",
+            "id": "XI536QgWJTo",
+            "snippet": {
+                "publishedAt": "2023-03-24T09:08:45Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[Playlist] 꼭두의 계절 OST 전곡 MV모음 .zip",
+                "description": "꼭두의 계절 OST 전곡 MV모음 .zip\n\n💿 𝚃𝚁𝙰𝙲𝙺 𝙻𝙸𝚂𝚃\n𝙿𝚊𝚛𝚝. 𝟷 김정현 - 난 말야\n𝙿𝚊𝚛𝚝. 2 홍이삭 - 휘\n𝙿𝚊𝚛𝚝. 3 한동근 - 비밀\n𝙿𝚊𝚛𝚝. 4  지한 (Weeekly) - Latte Latte\n𝙿𝚊𝚛𝚝. 5  주은 - 처음 순간\n\n#MBC드라마 #꼭두의계절 #OST\n#김정현 #난말야 #홍이삭 #휘 #한동근 #비밀 #지한 #Weeekly #LatteLatte #주은 #JUEUN #처음순간\n#아에르뮤직 #AERMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XI536QgWJTo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XI536QgWJTo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XI536QgWJTo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XI536QgWJTo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XI536QgWJTo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Playlist] 꼭두의 계절 OST 전곡 MV모음 .zip",
+                    "description": "꼭두의 계절 OST 전곡 MV모음 .zip\n\n💿 𝚃𝚁𝙰𝙲𝙺 𝙻𝙸𝚂𝚃\n𝙿𝚊𝚛𝚝. 𝟷 김정현 - 난 말야\n𝙿𝚊𝚛𝚝. 2 홍이삭 - 휘\n𝙿𝚊𝚛𝚝. 3 한동근 - 비밀\n𝙿𝚊𝚛𝚝. 4  지한 (Weeekly) - Latte Latte\n𝙿𝚊𝚛𝚝. 5  주은 - 처음 순간\n\n#MBC드라마 #꼭두의계절 #OST\n#김정현 #난말야 #홍이삭 #휘 #한동근 #비밀 #지한 #Weeekly #LatteLatte #주은 #JUEUN #처음순간\n#아에르뮤직 #AERMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT18M53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "44399",
+                "likeCount": "641",
+                "favoriteCount": "0",
+                "commentCount": "59"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

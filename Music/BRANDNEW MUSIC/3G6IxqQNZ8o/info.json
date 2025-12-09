@@ -1,0 +1,76 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "K1AbJFO6uHc-zjFXT0JS9KXorhQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "HPwacejFiC1cIFJp1-fBxchstMY",
+            "id": "3G6IxqQNZ8o",
+            "snippet": {
+                "publishedAt": "2022-02-19T12:00:02Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "범키 (BUMKEY) '난치병 (Incurable Disease)' TEASER",
+                "description": "범키 (BUMKEY) '난치병 (Incurable Disease)' TEASER\n\n2022.02.20 6PM (KST) RELEASE\n\n범키(BUMKEY) Official @\nhttps://www.youtube.com/c/BUMKEYofficial\nhttp://www.twitter.com/BUMKEY\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music\n\n#범키 #BUMKEY #난치병 #IncurableDisease #브랜뉴뮤직 #BRANDNEWMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3G6IxqQNZ8o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3G6IxqQNZ8o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3G6IxqQNZ8o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3G6IxqQNZ8o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3G6IxqQNZ8o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "tags": [
+                    "#브랜뉴뮤직",
+                    "#BRANDNEWMUSIC"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "범키 (BUMKEY) '난치병 (Incurable Disease)' TEASER",
+                    "description": "범키 (BUMKEY) '난치병 (Incurable Disease)' TEASER\n\n2022.02.20 6PM (KST) RELEASE\n\n범키(BUMKEY) Official @\nhttps://www.youtube.com/c/BUMKEYofficial\nhttp://www.twitter.com/BUMKEY\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music\n\n#범키 #BUMKEY #난치병 #IncurableDisease #브랜뉴뮤직 #BRANDNEWMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1561",
+                "likeCount": "219",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

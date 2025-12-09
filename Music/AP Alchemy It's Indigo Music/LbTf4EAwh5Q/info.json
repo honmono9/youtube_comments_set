@@ -1,0 +1,90 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "3ctTx-1A37kbTRuRJ4QzEv1b7TA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "CEncZBMLuGstDsBxeLjWomV7Gps",
+            "id": "LbTf4EAwh5Q",
+            "snippet": {
+                "publishedAt": "2022-01-18T09:00:20Z",
+                "channelId": "UCE4IM82TdhmOl4Qtn8nsaGQ",
+                "title": "D-1, 키드밀리 (Kid Milli) \"Summer (Feat. 박재범)\"",
+                "description": "D-1\n2022.01.19.6PM (KST)\n키드밀리 (Kid Milli) \"Summer (Feat. 박재범)\"\n\n- - - - -\n\n[Official Channel]\n·키드밀리 (Kid Milli) : https://instagram.com/kidcozyboy\n·인디고뮤직 (Indigo Music) : http://indigomusic3.com\nhttps://www.instagram.com/indigomusic_official\n\n- - - - -\n\n#KidMilli #키드밀리 \n#JayPark #박재범 \n#Summer #썸머",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LbTf4EAwh5Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LbTf4EAwh5Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LbTf4EAwh5Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LbTf4EAwh5Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LbTf4EAwh5Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AP Alchemy It's Indigo Music",
+                "tags": [
+                    "키드밀리",
+                    "Kid Milli",
+                    "KM",
+                    "박재범",
+                    "Jay Park",
+                    "Summer",
+                    "썸머",
+                    "서머",
+                    "써머",
+                    "인디고",
+                    "인디고뮤직",
+                    "Indigo Music",
+                    "Indigo",
+                    "IM",
+                    "IMJM",
+                    "IMJMWDP"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "D-1, 키드밀리 (Kid Milli) \"Summer (Feat. 박재범)\"",
+                    "description": "D-1\n2022.01.19.6PM (KST)\n키드밀리 (Kid Milli) \"Summer (Feat. 박재범)\"\n\n- - - - -\n\n[Official Channel]\n·키드밀리 (Kid Milli) : https://instagram.com/kidcozyboy\n·인디고뮤직 (Indigo Music) : http://indigomusic3.com\nhttps://www.instagram.com/indigomusic_official\n\n- - - - -\n\n#KidMilli #키드밀리 \n#JayPark #박재범 \n#Summer #썸머"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT20S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "7963",
+                "likeCount": "291",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

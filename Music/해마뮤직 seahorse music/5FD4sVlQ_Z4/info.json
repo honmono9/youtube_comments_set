@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "A3qTEnezYJ5L8GzxdgRIkmeKG3A",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Ckb9YlGyxcXKeXG2WM87wJKb_zE",
+            "id": "5FD4sVlQ_Z4",
+            "snippet": {
+                "publishedAt": "2025-12-06T09:00:08Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "Jingle Bells 🔔 피아노 건반 5개로 쉽게 연주하기 🎹",
+                "description": "#피아노커버 #pianocover #피아노연주 #크리스마스 #캐롤 #carol #christmas #jinglebells #징글벨 \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5FD4sVlQ_Z4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5FD4sVlQ_Z4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5FD4sVlQ_Z4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5FD4sVlQ_Z4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5FD4sVlQ_Z4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "piano",
+                    "피아노",
+                    "캐롤",
+                    "carol",
+                    "jingle bells",
+                    "징글벨"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Jingle Bells 🔔 피아노 건반 5개로 쉽게 연주하기 🎹",
+                    "description": "#피아노커버 #pianocover #피아노연주 #크리스마스 #캐롤 #carol #christmas #jinglebells #징글벨 \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "40906",
+                "likeCount": "432",
+                "favoriteCount": "0",
+                "commentCount": "14"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

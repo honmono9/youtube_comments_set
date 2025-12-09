@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "L2H7Zn6fbuxPHm5QKVYDkuMOnR0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "DFk_UedX9-nZOgkWaVcRsLIhHvw",
+            "id": "H6xj9GSqdTI",
+            "snippet": {
+                "publishedAt": "2025-11-17T23:20:32Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "Cafe Playlist ☕ 지금 듣기 딱 좋은 감성 가득한 카페 음악 | 틀어두면 분위기가 달라지는 편안한 플레이리스트 ",
+                "description": "🟢 Spotify\n\nhttps://open.spotify.com/artist/2K7ZrQf4vYvuGKWAjD54WW?si=-Ke52_OASUiXCsP-fU3vQw\n\n\n▶️ YouTube Music\n/ https://youtube.com/channel/UCtgK5ZUYqmqOhtbJzc7wRiA?si=pfPQiMmo_0ldvZ_i\n\n\n🍎 Apple Music\n/ https://music.apple.com/kr/artist/cherry/1828855228\n\n\n\n\n#가을팝송 #가을플레이리스트 #겨울플레이리스트 #겨울팝송\n#카페플리 #카페음악 #매장음악 #따뜻한음악 #감성음악\n#가을카페 #겨울카페 #가을음악 #겨울음악\n#분위기좋은노래 #카페에서듣기좋은노래\n#공부할때듣기좋은노래 #집중할때듣기좋은노래\n#노래모음 #감성플리 #감성팝송 #체리뮤직\n\n#AutumnPlaylist #WinterPlaylist #CafeMusic #ChillPop #IndiePop #RelaxingSongs #CozySongs #StudyPlaylist #FocusMusic #WorkMusic #ChillVibes #WarmVibes #CafeVibes #FallVibes #WinterVibes #BGM #SoftPlaylist #AestheticMusic #SeasonalPlaylist",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H6xj9GSqdTI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H6xj9GSqdTI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H6xj9GSqdTI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/H6xj9GSqdTI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/H6xj9GSqdTI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Cafe Playlist ☕ 지금 듣기 딱 좋은 감성 가득한 카페 음악 | 틀어두면 분위기가 달라지는 편안한 플레이리스트 ",
+                    "description": "🟢 Spotify\n\nhttps://open.spotify.com/artist/2K7ZrQf4vYvuGKWAjD54WW?si=-Ke52_OASUiXCsP-fU3vQw\n\n\n▶️ YouTube Music\n/ https://youtube.com/channel/UCtgK5ZUYqmqOhtbJzc7wRiA?si=pfPQiMmo_0ldvZ_i\n\n\n🍎 Apple Music\n/ https://music.apple.com/kr/artist/cherry/1828855228\n\n\n\n\n#가을팝송 #가을플레이리스트 #겨울플레이리스트 #겨울팝송\n#카페플리 #카페음악 #매장음악 #따뜻한음악 #감성음악\n#가을카페 #겨울카페 #가을음악 #겨울음악\n#분위기좋은노래 #카페에서듣기좋은노래\n#공부할때듣기좋은노래 #집중할때듣기좋은노래\n#노래모음 #감성플리 #감성팝송 #체리뮤직\n\n#AutumnPlaylist #WinterPlaylist #CafeMusic #ChillPop #IndiePop #RelaxingSongs #CozySongs #StudyPlaylist #FocusMusic #WorkMusic #ChillVibes #WarmVibes #CafeVibes #FallVibes #WinterVibes #BGM #SoftPlaylist #AestheticMusic #SeasonalPlaylist"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3H26M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "19615",
+                "likeCount": "100",
+                "favoriteCount": "0",
+                "commentCount": "21"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

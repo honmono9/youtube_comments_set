@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "97qCGDfMBPZceJ7jPuyhrKOy60U",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "QOgyxUK5GPHPyBRw7PDSQlh3CF8",
+            "id": "0TyVwPqanIk",
+            "snippet": {
+                "publishedAt": "2025-10-13T15:45:01Z",
+                "channelId": "UCL_O5w1_yeGyukBIRB_1alw",
+                "title": "Deep Sleep Relaxing Rain Piano Music + Slow and Calm Make You Relax + Stress Relief",
+                "description": "If you have a sleep problem take a deep breath and blow it slowly while listen to this music, hope this can help you. Have a good night. \n\n#relaxingmusic #pianomusic #insturmentals #chill #sleepmusic30minutes #deepsleep #insomnia #musicforsleep #relaxingmusic #musicforsleep",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0TyVwPqanIk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0TyVwPqanIk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0TyVwPqanIk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0TyVwPqanIk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0TyVwPqanIk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Xadiya Music",
+                "tags": [
+                    "Sleepmusic",
+                    "Chillmusic",
+                    "rainmusic",
+                    "rainpiano",
+                    "deepsleep",
+                    "insomniamusic",
+                    "musicforsleeping",
+                    "musicforrelax",
+                    "relaxingmusic",
+                    "relaxingpiano",
+                    "xadiyamusic",
+                    "calmmusic",
+                    "calmandrelax",
+                    "helpingtosleep",
+                    "stressrelief"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Deep Sleep Relaxing Rain Piano Music + Slow and Calm Make You Relax + Stress Relief",
+                    "description": "If you have a sleep problem take a deep breath and blow it slowly while listen to this music, hope this can help you. Have a good night. \n\n#relaxingmusic #pianomusic #insturmentals #chill #sleepmusic30minutes #deepsleep #insomnia #musicforsleep #relaxingmusic #musicforsleep"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT34M33S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "37",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

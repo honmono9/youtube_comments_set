@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "8XSvpU0WzWk6Znx16Z_FC7v_BkI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "BolusbQC9oWVlohVtiDS2JBetAc",
+            "id": "p6_-YdTHID0",
+            "snippet": {
+                "publishedAt": "2025-10-16T07:20:33Z",
+                "channelId": "UCL_O5w1_yeGyukBIRB_1alw",
+                "title": "He is the best! ✨ #kpopdemonhunters #netflixanime #kpopmusic #huntrix #sajaboys #diva",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p6_-YdTHID0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p6_-YdTHID0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p6_-YdTHID0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/p6_-YdTHID0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/p6_-YdTHID0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Xadiya Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "id",
+                "localized": {
+                    "title": "He is the best! ✨ #kpopdemonhunters #netflixanime #kpopmusic #huntrix #sajaboys #diva",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT20S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "963",
+                "likeCount": "16",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

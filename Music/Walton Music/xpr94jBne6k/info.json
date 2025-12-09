@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "976ITZfiRmqHXErzg2t15Q-R9TM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "HxGk4jFQcRWyWf7vuvDZMU5wbVE",
+            "id": "xpr94jBne6k",
+            "snippet": {
+                "publishedAt": "2025-08-12T18:18:42Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Can We Sing the Darkness to Light (mini-documentary) | Kyle Pederson",
+                "description": "Composer Kyle Pederson speaks on the inspiration for his work, Can We Sing the Darkness to Light, in this new mini-documentary. \"I wanted to invite people to think about a world, not only without weapons and violence, but also without judgements, and more healthy ways of being in community - peace and compassion, grace and empathy.\" -Kyle Pederson\n\nPerformance by Transept, conducted by Timothy J. Campbell. Watch the full performance: https://www.youtube.com/watch?v=IuEDkY7cwMs\n\nVideo production by Brian Gaukel. \n\nPurchase the music: https://giamusic.com/resource/can-we-sing-the-darkness-to-light-print-ww1736",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xpr94jBne6k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xpr94jBne6k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xpr94jBne6k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xpr94jBne6k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xpr94jBne6k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Can We Sing the Darkness to Light (mini-documentary) | Kyle Pederson",
+                    "description": "Composer Kyle Pederson speaks on the inspiration for his work, Can We Sing the Darkness to Light, in this new mini-documentary. \"I wanted to invite people to think about a world, not only without weapons and violence, but also without judgements, and more healthy ways of being in community - peace and compassion, grace and empathy.\" -Kyle Pederson\n\nPerformance by Transept, conducted by Timothy J. Campbell. Watch the full performance: https://www.youtube.com/watch?v=IuEDkY7cwMs\n\nVideo production by Brian Gaukel. \n\nPurchase the music: https://giamusic.com/resource/can-we-sing-the-darkness-to-light-print-ww1736"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "212",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

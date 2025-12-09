@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "N4_u_IF7uweRJssiKIxQvc_OUe0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "n-Uzic3FmsVZvCeCPZewYNp4MdM",
+            "id": "t5aMGQFfZgk",
+            "snippet": {
+                "publishedAt": "2020-10-01T17:25:56Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "Horn Playing in the History of Brass Bands in the Philippines",
+                "description": "Horn Playing in the History of Brass Bands in the Philippines",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t5aMGQFfZgk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t5aMGQFfZgk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t5aMGQFfZgk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/t5aMGQFfZgk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/t5aMGQFfZgk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Horn Playing in the History of Brass Bands in the Philippines",
+                    "description": "Horn Playing in the History of Brass Bands in the Philippines"
+                },
+                "defaultAudioLanguage": "und"
+            },
+            "contentDetails": {
+                "duration": "PT50M47S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "337",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "hq7_JZta660Xt1r1raXmQvFJE0w",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "_F-7OWyEcJ3DkvecJGYNj3fxnUM",
+            "id": "b7aDszstdL4",
+            "snippet": {
+                "publishedAt": "2025-08-21T10:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Romantic Jazz in New York Café – Vintage Bossa Nova Piano Trio for Relaxing Autumn Evenings. BGM",
+                "description": "Step back in time to a vintage New York café in the golden autumn light. 🍂☕\nThis video brings you warm, nostalgic 1950s jazz tunes with the charm of a vintage café morning. Perfect for:\n\nRelaxing with coffee\n\nReading and studying\n\nCreating a cozy autumn mood at home\n\n🎷 Feel the timeless magic of jazz and let the day slow down with vintage charm.\n\n#AutumnJazz #bossanova #bossanovajazz #VintageCafé #1950sOldies #RelaxingJazz #NewYorkJazz #CoffeeJazz #CozyAutumnMusic #JazzBackground #OldCaféMusic #JazzVibes #jazzinstrumental #instrumentaljazz #instrumentalmusic #vintagemusic #vintagejazz #pianotrio",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b7aDszstdL4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b7aDszstdL4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b7aDszstdL4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/b7aDszstdL4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/b7aDszstdL4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "guitar jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "rain jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "autumn jazz",
+                    "cafe jazz",
+                    "oldies"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Romantic Jazz in New York Café – Vintage Bossa Nova Piano Trio for Relaxing Autumn Evenings. BGM",
+                    "description": "Step back in time to a vintage New York café in the golden autumn light. 🍂☕\nThis video brings you warm, nostalgic 1950s jazz tunes with the charm of a vintage café morning. Perfect for:\n\nRelaxing with coffee\n\nReading and studying\n\nCreating a cozy autumn mood at home\n\n🎷 Feel the timeless magic of jazz and let the day slow down with vintage charm.\n\n#AutumnJazz #bossanova #bossanovajazz #VintageCafé #1950sOldies #RelaxingJazz #NewYorkJazz #CoffeeJazz #CozyAutumnMusic #JazzBackground #OldCaféMusic #JazzVibes #jazzinstrumental #instrumentaljazz #instrumentalmusic #vintagemusic #vintagejazz #pianotrio"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "785",
+                "likeCount": "18",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

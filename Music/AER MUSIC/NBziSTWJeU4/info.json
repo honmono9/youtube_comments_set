@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "NRj5s3XhrlAswvckAIgiYawxreg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "8pWjbn1uwa7W2Zn1CroWsA74DpQ",
+            "id": "NBziSTWJeU4",
+            "snippet": {
+                "publishedAt": "2023-02-23T09:00:11Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[Behind] 레이나(Raina) ‘그때 우리처럼’ 제작 비하인드 (feat. 서 감독님) (ENG/JPN)",
+                "description": "레이나(Raina) ‘그때 우리처럼’ \nRecording & MV Behind The Scenes (feat. 서 감독님)\n\n#Raina #레이나\n#그때우리처럼 #제작 #비하인드\n#Recording #MV #BehindTheScenes #BTS\n#SeoInGuk #서인국 #디렉팅\n#AERMUSIC #아에르뮤직ink",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NBziSTWJeU4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NBziSTWJeU4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NBziSTWJeU4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NBziSTWJeU4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NBziSTWJeU4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Behind] 레이나(Raina) ‘그때 우리처럼’ 제작 비하인드 (feat. 서 감독님) (ENG/JPN)",
+                    "description": "레이나(Raina) ‘그때 우리처럼’ \nRecording & MV Behind The Scenes (feat. 서 감독님)\n\n#Raina #레이나\n#그때우리처럼 #제작 #비하인드\n#Recording #MV #BehindTheScenes #BTS\n#SeoInGuk #서인국 #디렉팅\n#AERMUSIC #아에르뮤직ink"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M48S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6662",
+                "likeCount": "478",
+                "favoriteCount": "0",
+                "commentCount": "30"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

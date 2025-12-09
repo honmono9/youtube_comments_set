@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "KLMuU_XFdqoeeLX8jveMVsV_hqo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "grL8KP7xNnRRq2SLciccTcI77k4",
+            "id": "myiW7Egzyiw",
+            "snippet": {
+                "publishedAt": "2024-07-19T21:00:24Z",
+                "channelId": "UCo62tODW4YnxtszbusXyX-w",
+                "title": "\"뜻밖의 위로\" 반려견에게 위로받는 당신을 위한 음악🐶강아지와 함께 듣는 힐링 수면음악",
+                "description": "작은 너의 존재가 \n내게 얼마나 힘이 되는지\n위로가 되는지,\n뜻밖의 찾아온 선물 같은 너를 \n오늘도 많이 사랑해! ^^\n\n\n🎵Music List\n01.뜻밖의 위로\n02.너를 만난 날\n03.선물\n\n\n#강아지수면음악 #강아지음악 #강아지힐링음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/myiW7Egzyiw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/myiW7Egzyiw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/myiW7Egzyiw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/myiW7Egzyiw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/myiW7Egzyiw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "My Pet Music",
+                "tags": [
+                    "강아지음악",
+                    "개음악",
+                    "강아지힐링음악",
+                    "강아지수면음악",
+                    "펫뮤직",
+                    "PetMusic",
+                    "반려견음악",
+                    "DogMusic",
+                    "DogsMusic",
+                    "DogSleepMusic",
+                    "DogSleepingMusic",
+                    "DogRelaxMusic",
+                    "DogRelaxingMusic",
+                    "강아지외출시음악",
+                    "강아지휴식음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"뜻밖의 위로\" 반려견에게 위로받는 당신을 위한 음악🐶강아지와 함께 듣는 힐링 수면음악",
+                    "description": "작은 너의 존재가 \n내게 얼마나 힘이 되는지\n위로가 되는지,\n뜻밖의 찾아온 선물 같은 너를 \n오늘도 많이 사랑해! ^^\n\n\n🎵Music List\n01.뜻밖의 위로\n02.너를 만난 날\n03.선물\n\n\n#강아지수면음악 #강아지음악 #강아지힐링음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9H40M6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "8972",
+                "likeCount": "69",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

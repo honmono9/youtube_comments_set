@@ -1,0 +1,91 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Ru5q34dZlpkdXcSyYkhM2kxOaiA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "pN_doKCjqxmciXLp57a8c5J6v_M",
+            "id": "Rk0o8b7TMfw",
+            "snippet": {
+                "publishedAt": "2020-07-19T00:59:43Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "희미하지만 꿈처럼 아름다웠던 그 해 여름",
+                "description": "- Photo by Al Butler\n\n- 맬러리 뮤직 Mallory Music\ninstagram: https://instagram.com/mallory_playlist\nspotify: https://open.spotify.com/user/vu7nka2udi3uow4uwbf1dub4b?si=ITQBaM5yRZKHlX63reNEnw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Rk0o8b7TMfw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Rk0o8b7TMfw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Rk0o8b7TMfw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Rk0o8b7TMfw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Rk0o8b7TMfw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "감성 팝송",
+                    "감성 노래",
+                    "여름 팝송",
+                    "여름 어쿠스틱",
+                    "어쿠스틱 팝",
+                    "여름 노래",
+                    "콜바넴",
+                    "call me by your name",
+                    "콜 미 바이 유어 네임",
+                    "summer indie",
+                    "어쿠스틱 팝송"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "희미하지만 꿈처럼 아름다웠던 그 해 여름",
+                    "description": "- Photo by Al Butler\n\n- 맬러리 뮤직 Mallory Music\ninstagram: https://instagram.com/mallory_playlist\nspotify: https://open.spotify.com/user/vu7nka2udi3uow4uwbf1dub4b?si=ITQBaM5yRZKHlX63reNEnw"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT27M9S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "148604",
+                "likeCount": "4187",
+                "favoriteCount": "0",
+                "commentCount": "225"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

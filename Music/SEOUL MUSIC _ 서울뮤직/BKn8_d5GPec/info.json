@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "AjF-YfXJOZedcEpAwadbCS7OibY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "XpTTl8CrBO6fhDNNVesw5lJ9gVY",
+            "id": "BKn8_d5GPec",
+            "snippet": {
+                "publishedAt": "2025-12-09T03:00:22Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[Teaser] kyuman - Good Night (feat. g1nger) / Official Teaser",
+                "description": "[Teaser] kyuman - Good Night (feat. g1nger) / Official Teaser\n\nkyuman의 싱글 앨범 'Good Night (feat. g1nger)'이 12월 16일 (화) 오후 12시에 공개됩니다!\n\nkyuman's single album 'Good Night (feat. g1nger)' will be released on December 16th (Tue) 12PM KST.\n\n#kyuman #g1nger #teaser",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BKn8_d5GPec/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BKn8_d5GPec/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BKn8_d5GPec/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BKn8_d5GPec/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BKn8_d5GPec/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "tags": [
+                    "new release",
+                    "최신음악",
+                    "뮤직비디오",
+                    "mv",
+                    "최신뮤비",
+                    "new",
+                    "playlist",
+                    "플레이리스트",
+                    "kyuman",
+                    "규만",
+                    "Good Night",
+                    "g1nger",
+                    "티저"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Teaser] kyuman - Good Night (feat. g1nger) / Official Teaser",
+                    "description": "[Teaser] kyuman - Good Night (feat. g1nger) / Official Teaser\n\nkyuman의 싱글 앨범 'Good Night (feat. g1nger)'이 12월 16일 (화) 오후 12시에 공개됩니다!\n\nkyuman's single album 'Good Night (feat. g1nger)' will be released on December 16th (Tue) 12PM KST.\n\n#kyuman #g1nger #teaser"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT14S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "74",
+                "likeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

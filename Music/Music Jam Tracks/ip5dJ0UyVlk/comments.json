@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "OoyxNjRRuePlx7s1HphujqwC-5I",
+        "id": "UgwP4H7YEETnbc028gd4AaABAg",
+        "snippet": {
+            "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+            "videoId": "ip5dJ0UyVlk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "a0fq5AYELJihub3SmApMvc7q5Gs",
+                "id": "UgwP4H7YEETnbc028gd4AaABAg",
+                "snippet": {
+                    "channelId": "UCytnvGHYURcrVPcFcB2gMOw",
+                    "videoId": "ip5dJ0UyVlk",
+                    "textDisplay": "クールなバッキングありがとう！\n演奏で使用させていただきました\n\r\n【投稿動画】\nhttps://www.youtube.com/watch?v=hTewE1FGhYM\n\n※動画内の映像は自主制作したものです。",
+                    "textOriginal": "クールなバッキングありがとう！\n演奏で使用させていただきました\n\r\n【投稿動画】\nhttps://www.youtube.com/watch?v=hTewE1FGhYM\n\n※動画内の映像は自主制作したものです。",
+                    "authorDisplayName": "@shinnosukesakuragi1024",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/_rUGBwZAlckG_1ZK3ZqRkln4CCUvni8LqwallycKEUMgS9Yuuecn7mt35FnIP_0uhC-CtcEVpA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@shinnosukesakuragi1024",
+                    "authorChannelId": {
+                        "value": "UCRqmo1FpZQs2T5Qw4wx9Cvw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-10-25T04:21:30Z",
+                    "updatedAt": "2025-10-25T04:21:30Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

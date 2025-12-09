@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Erfvnj13JgqAc7L80a4PsbTEwHc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "WJAlIP_-yFaxGA5Z7vf6YN99Ngo",
+            "id": "hcMMupFUsrY",
+            "snippet": {
+                "publishedAt": "2025-12-09T08:08:44Z",
+                "channelId": "UCYA3gLE34set7Xn_FVU8D0Q",
+                "title": "KIM PUREUM (김푸름) - 밤송이와 고슴도치 (The Hedgehog Who Loved a Chestnut Burr) [가사]",
+                "description": "KIM PUREUM (김푸름) - 밤송이와 고슴도치 (The Hedgehog Who Loved a Chestnut Burr) [가사]\n_\n아티스트:김푸름\n유형:EP(미니)\n장르:포크/어쿠스틱, 인디\n스타일:포크 팝, 인디 팝\n발매일:2025.12.08\n유통사:마운드미디어\n기획사:톤스튜디오\n_\n#KIMPUREUM #김푸름 #밤송이와고슴도치",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hcMMupFUsrY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hcMMupFUsrY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hcMMupFUsrY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hcMMupFUsrY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hcMMupFUsrY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Time | 뮤직 타임",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "KIM PUREUM (김푸름) - 밤송이와 고슴도치 (The Hedgehog Who Loved a Chestnut Burr) [가사]",
+                    "description": "KIM PUREUM (김푸름) - 밤송이와 고슴도치 (The Hedgehog Who Loved a Chestnut Burr) [가사]\n_\n아티스트:김푸름\n유형:EP(미니)\n장르:포크/어쿠스틱, 인디\n스타일:포크 팝, 인디 팝\n발매일:2025.12.08\n유통사:마운드미디어\n기획사:톤스튜디오\n_\n#KIMPUREUM #김푸름 #밤송이와고슴도치"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "52",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "mg-1XuTmY9TQtUs41Tub58-IQpM",
+        "id": "UgxDC108tKoHIUWreqB4AaABAg",
+        "snippet": {
+            "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+            "videoId": "fQheHVJvJb8",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "485TctEKbMqcB8STGnvduh-0aDA",
+                "id": "UgxDC108tKoHIUWreqB4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                    "videoId": "fQheHVJvJb8",
+                    "textDisplay": "Que bacana a composição dessa capa, vídeo ... Uma voz muito linda também ! Ouvir essa canção continua sempre sendo bom como na primeira vez 🌺🌸🌺🥰🎧",
+                    "textOriginal": "Que bacana a composição dessa capa, vídeo ... Uma voz muito linda também ! Ouvir essa canção continua sempre sendo bom como na primeira vez 🌺🌸🌺🥰🎧",
+                    "authorDisplayName": "@gilvaneidemendes7577",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/hWj-V4YzzEBJcD6wD7PU6tsq0XiXzvQwNjLNwMzXrgT413Al2vG5k7ouwRpBR7VfjngPFEUO_g=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@gilvaneidemendes7577",
+                    "authorChannelId": {
+                        "value": "UCtIh5e5LWl1d3G_BzAI6fmw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2024-07-29T00:52:01Z",
+                    "updatedAt": "2024-07-29T01:21:50Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "O5t9awkWfEQUFjc2u3C6dtsVcnY",
+        "id": "UgwMM8CCFMHtBhL5SRF4AaABAg",
+        "snippet": {
+            "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+            "videoId": "fQheHVJvJb8",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "rW_6JXq0oQnzyHWD4DwBpj2Jtz0",
+                "id": "UgwMM8CCFMHtBhL5SRF4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                    "videoId": "fQheHVJvJb8",
+                    "textDisplay": "❤❤❤❤❤ 헤헤~~ 좋아욧!!",
+                    "textOriginal": "❤❤❤❤❤ 헤헤~~ 좋아욧!!",
+                    "authorDisplayName": "@김정희-c4n1g",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/eWvSTEqVtOFgofdf6TeYGkX4W6twSTzphhc_zaW4eGU-pgp5tX3ApvpxteqXdbzTuA6rX9BaDA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EA%B9%80%EC%A0%95%ED%9D%AC-c4n1g",
+                    "authorChannelId": {
+                        "value": "UCmgPAWpG0N3i_YiLwxxu3Qw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2024-07-28T13:34:16Z",
+                    "updatedAt": "2024-07-28T13:34:16Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

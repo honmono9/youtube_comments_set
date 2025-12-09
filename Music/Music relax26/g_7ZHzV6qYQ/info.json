@@ -1,0 +1,71 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "mLfq9HVX_GUD8JO_O26rRyQBn3U",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "9u-QbKhTJVKdrSjOlG0CA8HD4Yw",
+            "id": "g_7ZHzV6qYQ",
+            "snippet": {
+                "publishedAt": "2025-05-14T11:01:17Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "ดนตรีสด รวมฮิตเพลงยุค90 เพราะๆ ฮิตตลอดกาล ฟังกันยาวๆ",
+                "description": "ดนตรีสด รวมฮิตเพลงยุค90 เพราะๆ ฮิตตลอดกาล ฟังกันยาวๆ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g_7ZHzV6qYQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g_7ZHzV6qYQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g_7ZHzV6qYQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/g_7ZHzV6qYQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "tags": [
+                    "ดนตรีสด รวมฮิตเพลงยุค90 เพราะๆ ฮิตตลอดกาล ฟังกันยาวๆ",
+                    "เพลง90"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "ดนตรีสด รวมฮิตเพลงยุค90 เพราะๆ ฮิตตลอดกาล ฟังกันยาวๆ",
+                    "description": "ดนตรีสด รวมฮิตเพลงยุค90 เพราะๆ ฮิตตลอดกาล ฟังกันยาวๆ"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT23M46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3673",
+                "likeCount": "34",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

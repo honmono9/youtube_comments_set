@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "QeBFryYVpNqtOeo_VdLv4LKJ30U",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "sDV2Axq4lBI6zqMY-dzAnnZVv54",
+            "id": "o-iprwa3_5c",
+            "snippet": {
+                "publishedAt": "2025-09-24T13:01:47Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Kwaxabana Oxamu | arr. Barrett and Ndlovu",
+                "description": "Kwaxabana Oxamu is arranged for TTBB voices and djembe. \n\nKwaxabana Oxamu is a celebration of the isiXhosa language. It uses the various click sounds found in the Xhosa language to a stunning effect. The language will be a challenge, but the work will be well worth it for the end result! \n\nPurchase the music: https://giamusic.com/resource/kwaxabana-oxamu-ttbb-print-ww1841\n\nAlso available for SATB voicing: https://giamusic.com/resource/kwaxabana-oxamu-satb-print-ww1840",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o-iprwa3_5c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o-iprwa3_5c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o-iprwa3_5c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/o-iprwa3_5c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/o-iprwa3_5c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Kwaxabana Oxamu | arr. Barrett and Ndlovu",
+                    "description": "Kwaxabana Oxamu is arranged for TTBB voices and djembe. \n\nKwaxabana Oxamu is a celebration of the isiXhosa language. It uses the various click sounds found in the Xhosa language to a stunning effect. The language will be a challenge, but the work will be well worth it for the end result! \n\nPurchase the music: https://giamusic.com/resource/kwaxabana-oxamu-ttbb-print-ww1841\n\nAlso available for SATB voicing: https://giamusic.com/resource/kwaxabana-oxamu-satb-print-ww1840"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "111",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

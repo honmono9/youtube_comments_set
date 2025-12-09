@@ -1,0 +1,91 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "_r74tczjsKCkOs4AYT6wlj2RjPo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "N4Mhc4D2p9AhWSp55FEnG67nHQg",
+            "id": "qRES6Eyt7gw",
+            "snippet": {
+                "publishedAt": "2025-07-05T06:00:06Z",
+                "channelId": "UClbjf4pXBzXVk3ImyeBa__w",
+                "title": "🔥💥세상 오싹한 한일 대통합ㄷㄷ : Balming Tiger - 나란히 나란히 feat. ATARASHII GAKKO! [가사/번역/해석/Lyrics]",
+                "description": "🎧이어폰 착용은 필수입니다!\n📺화질을 1080p로 설정 후 시청해주세요!\n😁구독과 좋아요는 큰 힘이 됩니다!\n📝노래 가사에 오역이 있을 수 있습니다!\n\n\n[🎬영상자료🎬]\n오징어 게임 2 (2024)\n오징어 게임 3 (2025)\n\n[🎶노래🎶]\nBalming Tiger - 나란히 나란히 feat. ATARASHII GAKKO!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qRES6Eyt7gw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qRES6Eyt7gw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qRES6Eyt7gw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qRES6Eyt7gw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qRES6Eyt7gw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뮤플비 Music Plus Movie",
+                "tags": [
+                    "팝송",
+                    "영화",
+                    "팝송가사해석",
+                    "가사해석",
+                    "오겜",
+                    "오징어게임",
+                    "오징어게임2",
+                    "오징어게임3",
+                    "오겜3",
+                    "Squid Game 3",
+                    "Balming Tiger",
+                    "바밈타이거",
+                    "바밍타이거",
+                    "나란히 나란히",
+                    "나란히 나란히 가사해석",
+                    "ATARASHII GAKKO!",
+                    "새로운 학교의 리더즈"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🔥💥세상 오싹한 한일 대통합ㄷㄷ : Balming Tiger - 나란히 나란히 feat. ATARASHII GAKKO! [가사/번역/해석/Lyrics]",
+                    "description": "🎧이어폰 착용은 필수입니다!\n📺화질을 1080p로 설정 후 시청해주세요!\n😁구독과 좋아요는 큰 힘이 됩니다!\n📝노래 가사에 오역이 있을 수 있습니다!\n\n\n[🎬영상자료🎬]\n오징어 게임 2 (2024)\n오징어 게임 3 (2025)\n\n[🎶노래🎶]\nBalming Tiger - 나란히 나란히 feat. ATARASHII GAKKO!"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M49S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "11600",
+                "likeCount": "208",
+                "favoriteCount": "0",
+                "commentCount": "18"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

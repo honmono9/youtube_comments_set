@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "HdgiExZJ9-lQs_BEkw7yjX120dw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "61wdbaOZ9wFv-axNMTrCcu3Rfvs",
+            "id": "4S7_pN8Z6cs",
+            "snippet": {
+                "publishedAt": "2025-11-10T19:26:59Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Radiohead - High and Dry | Soul AI Cover",
+                "description": "High and Dry by Radiohead twisted into Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nTwo jumps in a week, I bet you\nThink that's pretty clever, don't you, boy\nFlying on your motorcycle\nWatching all the ground beneath you drop\nYou'd kill yourself for recognition\nKill yourself to never, ever stop\nYou broke another mirror\nYou're turning into something you are not\n\nDon't leave me high\nDon't leave me dry\nDon't leave me high\nDon't leave me dry\n\nDrying up in conversation\nYou will be the one who cannot talk\nAll your insides fall to pieces\nYou just sit there wishing you could still make love\nThey're the ones who'll hate you\nWhen you think you've got the world all sussed out\nThey're the ones who'll spit at you\nYou will be the one screaming out\n\nDon't leave me high\nDon't leave me dry\nDon't leave me high\nDon't leave me dry\n\nOh, it's the best thing that you've ever had\nThe best thing that you've ever, ever had\nIt's the best thing that you've ever had\nThe best thing you've had has gone away\n\nSo don't leave me high\nDon't leave me dry\nDon't leave me high\nDon't leave me dry\nDon't leave me high\nDon't leave me high\nDon't leave me dry",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4S7_pN8Z6cs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4S7_pN8Z6cs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4S7_pN8Z6cs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4S7_pN8Z6cs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4S7_pN8Z6cs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Radiohead - High and Dry | Soul AI Cover",
+                    "description": "High and Dry by Radiohead twisted into Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nTwo jumps in a week, I bet you\nThink that's pretty clever, don't you, boy\nFlying on your motorcycle\nWatching all the ground beneath you drop\nYou'd kill yourself for recognition\nKill yourself to never, ever stop\nYou broke another mirror\nYou're turning into something you are not\n\nDon't leave me high\nDon't leave me dry\nDon't leave me high\nDon't leave me dry\n\nDrying up in conversation\nYou will be the one who cannot talk\nAll your insides fall to pieces\nYou just sit there wishing you could still make love\nThey're the ones who'll hate you\nWhen you think you've got the world all sussed out\nThey're the ones who'll spit at you\nYou will be the one screaming out\n\nDon't leave me high\nDon't leave me dry\nDon't leave me high\nDon't leave me dry\n\nOh, it's the best thing that you've ever had\nThe best thing that you've ever, ever had\nIt's the best thing that you've ever had\nThe best thing you've had has gone away\n\nSo don't leave me high\nDon't leave me dry\nDon't leave me high\nDon't leave me dry\nDon't leave me high\nDon't leave me high\nDon't leave me dry"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M29S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2558",
+                "likeCount": "81",
+                "favoriteCount": "0",
+                "commentCount": "15"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

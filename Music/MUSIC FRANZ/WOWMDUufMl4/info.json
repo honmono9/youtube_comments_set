@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "H3Ab873Z1X_WQyV2zAh3HLFhXXQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "zJDiUKUWa_EiKxyQN-m1BMJGpIk",
+            "id": "WOWMDUufMl4",
+            "snippet": {
+                "publishedAt": "2025-11-24T05:05:28Z",
+                "channelId": "UCfrWVh-4M98j1WtDIR9IVNg",
+                "title": "Abuso sa kapangyarihan/Rock Reggae Remix/Music Prince 2.1/@Rabzmusics @MusicprinceFR @TopTrending ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WOWMDUufMl4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WOWMDUufMl4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WOWMDUufMl4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WOWMDUufMl4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WOWMDUufMl4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MUSIC FRANZ ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Abuso sa kapangyarihan/Rock Reggae Remix/Music Prince 2.1/@Rabzmusics @MusicprinceFR @TopTrending ",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT20M33S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "92",
+                "likeCount": "15",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

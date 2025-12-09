@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "6AbQe5snGTkbd-iIzqMBJeZs5uQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ipkYv2ZBbI1DRRPSLmctpv54JEA",
+            "id": "2JvxEaJsweU",
+            "snippet": {
+                "publishedAt": "2023-02-11T03:00:17Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[MV] 홍이삭 - 휘 | 꼭두의 계절 OST Part.2",
+                "description": "홍이삭 - 휘 | 꼭두의 계절 OST Part.2\n2023.02.011 12PM (KST)\n\nMBC 금토드라마 ‘꼭두의 계절’의 두 번째 OST, 가수 홍이삭의 ‘휘’\n\n‘휘’는 오리엔탈 풍의 발라드로 리얼 스트링 편곡과 벨 사운드로 신비로운 분위기의 곡이다.\n 박효신의 야생화를 작사한 김지향 작사가가 참여해 슬프면서도 아름다운 가사말로 곡에 깊이감을 더했다.\n\nLyrics by 김지향\nComposed by 서씨네, 서정진\nArranged by 서정진, 박경현\n\nGuitar by 정수완\nPiano by 서정진\nViolin by 박동석, 권혁민, 김우형, 김지민\nViola by 노원빈\nCello by 이현지\n\nStrings Arrangement by 김우상\n\nVocal directed by 서정진, 모상훈\n\nVocal recorded by 박정호 @ TitanStudio\nStrings recorded by 이재명 @ JM Studio\nVocal edited by 허은숙\nMixed by 松田龍太(Lyuta Mazda) @ studio Serendipity\nMastered by nior @ 해안선스튜디오\n\n#MBC드라마 #꼭두의계절 #OST\n#홍이삭 #휘\n#AERMUSIC #아에르뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2JvxEaJsweU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2JvxEaJsweU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2JvxEaJsweU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2JvxEaJsweU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2JvxEaJsweU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[MV] 홍이삭 - 휘 | 꼭두의 계절 OST Part.2",
+                    "description": "홍이삭 - 휘 | 꼭두의 계절 OST Part.2\n2023.02.011 12PM (KST)\n\nMBC 금토드라마 ‘꼭두의 계절’의 두 번째 OST, 가수 홍이삭의 ‘휘’\n\n‘휘’는 오리엔탈 풍의 발라드로 리얼 스트링 편곡과 벨 사운드로 신비로운 분위기의 곡이다.\n 박효신의 야생화를 작사한 김지향 작사가가 참여해 슬프면서도 아름다운 가사말로 곡에 깊이감을 더했다.\n\nLyrics by 김지향\nComposed by 서씨네, 서정진\nArranged by 서정진, 박경현\n\nGuitar by 정수완\nPiano by 서정진\nViolin by 박동석, 권혁민, 김우형, 김지민\nViola by 노원빈\nCello by 이현지\n\nStrings Arrangement by 김우상\n\nVocal directed by 서정진, 모상훈\n\nVocal recorded by 박정호 @ TitanStudio\nStrings recorded by 이재명 @ JM Studio\nVocal edited by 허은숙\nMixed by 松田龍太(Lyuta Mazda) @ studio Serendipity\nMastered by nior @ 해안선스튜디오\n\n#MBC드라마 #꼭두의계절 #OST\n#홍이삭 #휘\n#AERMUSIC #아에르뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "8134",
+                "likeCount": "392",
+                "favoriteCount": "0",
+                "commentCount": "42"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

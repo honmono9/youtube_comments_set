@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "o6D_uiyI5OpxpyvQiDmOADBfUgU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "4gdcduhTMc_851JDr-doMMQs0iQ",
+            "id": "J2l2jsTBs9E",
+            "snippet": {
+                "publishedAt": "2018-08-27T21:13:49Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "061718 Mozart - String Quintet No 3 in C Major K515; IV Allegro",
+                "description": "ENCORE Chamber Music 2018 Season 'Somewhere Over the Rainbow'\nJinjoo Cho, violin\nAaron Chan, violin\nMathieu Herzog, viola\nEric Wong, viola\nTate Zawadiuk, cello",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J2l2jsTBs9E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J2l2jsTBs9E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J2l2jsTBs9E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/J2l2jsTBs9E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/J2l2jsTBs9E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "061718 Mozart - String Quintet No 3 in C Major K515; IV Allegro",
+                    "description": "ENCORE Chamber Music 2018 Season 'Somewhere Over the Rainbow'\nJinjoo Cho, violin\nAaron Chan, violin\nMathieu Herzog, viola\nEric Wong, viola\nTate Zawadiuk, cello"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT8M41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "354",
+                "likeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

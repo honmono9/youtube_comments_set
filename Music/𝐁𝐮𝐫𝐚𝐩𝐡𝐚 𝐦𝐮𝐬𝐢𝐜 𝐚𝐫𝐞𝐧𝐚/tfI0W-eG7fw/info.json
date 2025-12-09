@@ -1,0 +1,81 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "XIdgHNb4FVKmJumsLe4HYpICJNY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "gZkKVDkkDKdNi78d_8BC33IH5LY",
+            "id": "tfI0W-eG7fw",
+            "snippet": {
+                "publishedAt": "2025-12-05T09:21:04Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "รักย้ำคำ | Teaser trailer Album -The Reason One (BMAARENA).             Burapha Music Arena #music",
+                "description": "🔥รักย้ำคำ ซ้ำช้ำ แต่ดันไม่ลืมคำนั้น 💗\n | Album The Reason One\nเขียนเนื้อเรียบเรียง\nMaysarin echo web ® \nเรียบเรียงดนตรีและมิกซ์\nBurapha Music Arena ©\n\n#cinematicrock #music #mv \n#เพลงใหม่ #bmaarena",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tfI0W-eG7fw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tfI0W-eG7fw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tfI0W-eG7fw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tfI0W-eG7fw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tfI0W-eG7fw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "tags": [
+                    "Burapha Music Arena",
+                    "รักย้ำคำ",
+                    "New song 2026",
+                    "Music",
+                    "Cinematic futuristic rock",
+                    "BMAARENA",
+                    "เพลงใหม่"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "รักย้ำคำ | Teaser trailer Album -The Reason One (BMAARENA).             Burapha Music Arena #music",
+                    "description": "🔥รักย้ำคำ ซ้ำช้ำ แต่ดันไม่ลืมคำนั้น 💗\n | Album The Reason One\nเขียนเนื้อเรียบเรียง\nMaysarin echo web ® \nเรียบเรียงดนตรีและมิกซ์\nBurapha Music Arena ©\n\n#cinematicrock #music #mv \n#เพลงใหม่ #bmaarena"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2444",
+                "likeCount": "108",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "9NIVzY5cM4QVIyGLsL57wKBKyxM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "J1Nav2WJ6yfZthN8vjLVyOo9ARc",
+            "id": "yIvyshPpB9M",
+            "snippet": {
+                "publishedAt": "2021-09-18T09:00:23Z",
+                "channelId": "UC2QOMTJ0Gz5vJPMl7KXkWaA",
+                "title": "島谷ひとみ　幻のCMソングを公開！！②ボサノヴァ編",
+                "description": "『幻のCMソングを公開！！』\n\n某テレビ番組で披露した幻のテCMソングを【2曲同時】にYouTube内で公開しちゃいます！\n\n皆様、応援コメントをお願い致します！\n\n\n#島谷ひとみ\n#YouTube\n#ドン・キホーテ\n#ドンペン\n#ドンコ\n#オーディション\n#ドッキリ\n#CMソング",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yIvyshPpB9M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yIvyshPpB9M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yIvyshPpB9M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yIvyshPpB9M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yIvyshPpB9M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HITOMI SHIMATANI MUSIC Official Youtube",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "島谷ひとみ　幻のCMソングを公開！！②ボサノヴァ編",
+                    "description": "『幻のCMソングを公開！！』\n\n某テレビ番組で披露した幻のテCMソングを【2曲同時】にYouTube内で公開しちゃいます！\n\n皆様、応援コメントをお願い致します！\n\n\n#島谷ひとみ\n#YouTube\n#ドン・キホーテ\n#ドンペン\n#ドンコ\n#オーディション\n#ドッキリ\n#CMソング"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT1M19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3202",
+                "likeCount": "146",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

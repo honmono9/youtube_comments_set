@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "4YGsrS0I-yVlwg_LnHBBFKlriiA",
+        "id": "UgwJw6VkOFAI2ny_OEZ4AaABAg",
+        "snippet": {
+            "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+            "videoId": "xMd4vUzzhrg",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "P3CORnv8cFneuBxAu-L-6TcG4IM",
+                "id": "UgwJw6VkOFAI2ny_OEZ4AaABAg",
+                "snippet": {
+                    "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+                    "videoId": "xMd4vUzzhrg",
+                    "textDisplay": "뭐지 이 감미로운 골드키위감자는",
+                    "textOriginal": "뭐지 이 감미로운 골드키위감자는",
+                    "authorDisplayName": "@마운틴듀산듀-p7z",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/9Pke-_1wja2MErz9AS52y9XBxSJsSqupj1DYAeJSHOAPkRbr10LmsS-Ryfo-tneoXssWjdQqX80=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EB%A7%88%EC%9A%B4%ED%8B%B4%EB%93%80%EC%82%B0%EB%93%80-p7z",
+                    "authorChannelId": {
+                        "value": "UCAgstjCVcFdyEwcHSySfVKw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 3,
+                    "publishedAt": "2025-12-09T09:07:28Z",
+                    "updatedAt": "2025-12-09T09:07:43Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

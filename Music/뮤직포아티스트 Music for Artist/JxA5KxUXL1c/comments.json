@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "LVFHMbAnlM-YvANNPZb2owzDgk8",
+        "id": "UgxmIma0CIICpBfRYsJ4AaABAg",
+        "snippet": {
+            "channelId": "UCh_8srMF2Q-i1nORhHI8zdw",
+            "videoId": "JxA5KxUXL1c",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "irjlnEPCMyhNJlNxoM8m6xv-_E0",
+                "id": "UgxmIma0CIICpBfRYsJ4AaABAg",
+                "snippet": {
+                    "channelId": "UCh_8srMF2Q-i1nORhHI8zdw",
+                    "videoId": "JxA5KxUXL1c",
+                    "textDisplay": "안녕하세요, Music for Artist입니다. 실시간 라이브 스트리밍을 제외한 모든 영상은 음악 감상에 방해가 되지 않도록 중간광고가 없이 업로드됩니다. 좋아요와 구독은 큰 힘이 됩니다! 오늘도 당신의 창작을 음악과 함께 응원할게요🍀",
+                    "textOriginal": "안녕하세요, Music for Artist입니다. 실시간 라이브 스트리밍을 제외한 모든 영상은 음악 감상에 방해가 되지 않도록 중간광고가 없이 업로드됩니다. 좋아요와 구독은 큰 힘이 됩니다! 오늘도 당신의 창작을 음악과 함께 응원할게요🍀",
+                    "authorDisplayName": "@MusicforArtist",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/2ZceX27GIkG9Gx2TA3VtabSdL9xfcDfqHc3SznNb3HzbFsFFO2oTUPxZX6IGgFdC7vXv4K1W=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@MusicforArtist",
+                    "authorChannelId": {
+                        "value": "UCh_8srMF2Q-i1nORhHI8zdw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-11-10T00:19:47Z",
+                    "updatedAt": "2025-11-10T00:19:47Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "DEMs4RbmY3Yo5FhmzJHJrlNbxnE",
+        "id": "UgyN0vSfQc0TnufynEl4AaABAg",
+        "snippet": {
+            "channelId": "UCh_8srMF2Q-i1nORhHI8zdw",
+            "videoId": "JxA5KxUXL1c",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "xBQGj67Z-MHW6ZZjBPItFvKXrIA",
+                "id": "UgyN0vSfQc0TnufynEl4AaABAg",
+                "snippet": {
+                    "channelId": "UCh_8srMF2Q-i1nORhHI8zdw",
+                    "videoId": "JxA5KxUXL1c",
+                    "textDisplay": "라이브 스트리밍에 이상한 찬양하라는 글이 막 올라오던데... 관리하셔야 할 것 같아요.",
+                    "textOriginal": "라이브 스트리밍에 이상한 찬양하라는 글이 막 올라오던데... 관리하셔야 할 것 같아요.",
+                    "authorDisplayName": "@켐-p5c",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/Z4UkfSoRp1KCXudh1l5s0G--q4IKU6Qzt0jX6ExYkGY3q-lfBwaYgPrpXfaYj7_d6UDbc21I=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EC%BC%90-p5c",
+                    "authorChannelId": {
+                        "value": "UChDCsdcK2fNYEXaKwq7ohog"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-11-11T07:33:28Z",
+                    "updatedAt": "2025-11-11T07:33:28Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

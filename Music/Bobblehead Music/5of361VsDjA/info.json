@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "LZp2stBfSZ5FGCuzmhDoURH99bk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "x3KESC6bhQepqsrsglbShnRY6YM",
+            "id": "5of361VsDjA",
+            "snippet": {
+                "publishedAt": "2019-07-05T03:07:33Z",
+                "channelId": "UC6DbQObO-YiG5y3ojp0nZyA",
+                "title": "Johnjohn - Look At Me feat. Koala",
+                "description": "Johnjohn - \"Look at me feat. Koala\"\n\nComposed by: Johnjohn, Koala, Jae Riggs, CuzD\nLyrics by: Koala, Johnjohn, Jae Riggs\nProduced by: Johnjohn, CuzD\nArtwork and cover design by: \"Hyke\" https://www.instagram.com/11yke/\n\n Available on all streaming platforms including Apple Music & Spotify.\n\n\nBobblehead Music official Instagram:\nhttps://www.instagram.com/bobbleheadmusicla/\nhttps://www.instagram.com/alaokxv/\nhttps://www.instagram.com/johnjizzle/\nhttps://www.instagram.com/jaeriggs213/\nhttps://www.instagram.com/cuzd_official/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5of361VsDjA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5of361VsDjA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5of361VsDjA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5of361VsDjA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5of361VsDjA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bobblehead Music",
+                "tags": [
+                    "johnjohn",
+                    "koala",
+                    "bobblehead music",
+                    "westcoast",
+                    "hiphop",
+                    "rap",
+                    "kpop",
+                    "korean",
+                    "look at me"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Johnjohn - Look At Me feat. Koala",
+                    "description": "Johnjohn - \"Look at me feat. Koala\"\n\nComposed by: Johnjohn, Koala, Jae Riggs, CuzD\nLyrics by: Koala, Johnjohn, Jae Riggs\nProduced by: Johnjohn, CuzD\nArtwork and cover design by: \"Hyke\" https://www.instagram.com/11yke/\n\n Available on all streaming platforms including Apple Music & Spotify.\n\n\nBobblehead Music official Instagram:\nhttps://www.instagram.com/bobbleheadmusicla/\nhttps://www.instagram.com/alaokxv/\nhttps://www.instagram.com/johnjizzle/\nhttps://www.instagram.com/jaeriggs213/\nhttps://www.instagram.com/cuzd_official/"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5561",
+                "likeCount": "59",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

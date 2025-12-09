@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "hPCDZlU87u8wHBOlBkRRxQnCh_Q",
+        "id": "UgzEuXw1JKwoHjzXpWd4AaABAg",
+        "snippet": {
+            "channelId": "UCFenHjfqkwDFalw73fHvjww",
+            "videoId": "-hfgaIdRu4k",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "6AYQ1xRrlPXZ04JpU-xAFN3dpZ4",
+                "id": "UgzEuXw1JKwoHjzXpWd4AaABAg",
+                "snippet": {
+                    "channelId": "UCFenHjfqkwDFalw73fHvjww",
+                    "videoId": "-hfgaIdRu4k",
+                    "textDisplay": "안녕하세요. 작곡가 MJ입니다.\n모두가 등을 돌려도, 바다는 끝까지 당신을 안아줍니다.\n이 짧은 영상이 당신의 무너진 마음을 다시 일으켜주길 바랍니다.",
+                    "textOriginal": "안녕하세요. 작곡가 MJ입니다.\n모두가 등을 돌려도, 바다는 끝까지 당신을 안아줍니다.\n이 짧은 영상이 당신의 무너진 마음을 다시 일으켜주길 바랍니다.",
+                    "authorDisplayName": "@therapymusic-pr8vg",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/GyKAwTEKIvpCTBHKYpyY2dOmSppcD3tYqRcbvGBCpLVh35LzNES8NiQ1H_gZCHpu7jBwITktSA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@therapymusic-pr8vg",
+                    "authorChannelId": {
+                        "value": "UCFenHjfqkwDFalw73fHvjww"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 3,
+                    "publishedAt": "2025-09-01T15:44:45Z",
+                    "updatedAt": "2025-09-01T15:44:45Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "KSE8yMwTukqgCvY5Ae8y86IdQRQ",
+        "id": "UgwObkoOzV4GGQGDYqp4AaABAg",
+        "snippet": {
+            "channelId": "UCFenHjfqkwDFalw73fHvjww",
+            "videoId": "-hfgaIdRu4k",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Xfc-umSbEITzQCW4QwMKa-EzhvM",
+                "id": "UgwObkoOzV4GGQGDYqp4AaABAg",
+                "snippet": {
+                    "channelId": "UCFenHjfqkwDFalw73fHvjww",
+                    "videoId": "-hfgaIdRu4k",
+                    "textDisplay": "😍😍😍😇",
+                    "textOriginal": "😍😍😍😇",
+                    "authorDisplayName": "@sonacapkova",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/nSPuYGvfMc6YkG4ESRfDZnLwy1Pj3DMHNebRR4k-Gvvx4Q9AysAMNoNhfbdQatqEN0u-bpKoAg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@sonacapkova",
+                    "authorChannelId": {
+                        "value": "UCpl89mXN5HKnG4I66oHyyvg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-26T20:06:40Z",
+                    "updatedAt": "2025-11-26T20:06:40Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

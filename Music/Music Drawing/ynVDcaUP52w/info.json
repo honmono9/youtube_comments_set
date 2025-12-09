@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "cNmpfkOtThjoVs-eCilCf1Srcfc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ocO1c69RGuoDc8Xe_4Kb3ojM4eQ",
+            "id": "ynVDcaUP52w",
+            "snippet": {
+                "publishedAt": "2024-12-07T11:45:04Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"내 마음을 채우는 시간\" 마음을 위로하는 수면음악",
+                "description": "내 마음을 나도 모르겠는 그런 날..\n마음속이 허기지고 텅빈 것 같은 그런 날..\n\n나를 채우기 보다 다른것을 채우기 바빴고,\n나를 알아주기 보다 남을 알려고 더 노력한 시간들..\n\n이제는 비어버린 나의 마음을 다독여주고\n누구보다 아끼고 사랑해 주길 바라..\n\n넌 그만큼 소중하고 빛나는 존재니까..!\n\n\n\n🎵곡 제목                      \n01.눈 내리는 밤\n02.꿈꾸는 여행\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n\n#수면유도음악 #편안한음악 #위로가되는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ynVDcaUP52w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ynVDcaUP52w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ynVDcaUP52w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ynVDcaUP52w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ynVDcaUP52w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "수면음악",
+                    "수면유도음악",
+                    "편안한음악",
+                    "잠잘때듣는음악",
+                    "위로음악",
+                    "피아노음악",
+                    "숙면음악",
+                    "SleepingMusic",
+                    "SleepMusic",
+                    "Relaxmusic",
+                    "RelaxingMusic",
+                    "PianoMusic",
+                    "휴식음악",
+                    "ComfortingMusic"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"내 마음을 채우는 시간\" 마음을 위로하는 수면음악",
+                    "description": "내 마음을 나도 모르겠는 그런 날..\n마음속이 허기지고 텅빈 것 같은 그런 날..\n\n나를 채우기 보다 다른것을 채우기 바빴고,\n나를 알아주기 보다 남을 알려고 더 노력한 시간들..\n\n이제는 비어버린 나의 마음을 다독여주고\n누구보다 아끼고 사랑해 주길 바라..\n\n넌 그만큼 소중하고 빛나는 존재니까..!\n\n\n\n🎵곡 제목                      \n01.눈 내리는 밤\n02.꿈꾸는 여행\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n\n#수면유도음악 #편안한음악 #위로가되는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9H25M6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1644935",
+                "likeCount": "29933",
+                "favoriteCount": "0",
+                "commentCount": "806"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

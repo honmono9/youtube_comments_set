@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "zoRhrDmRVQyIl2DohdzhJriyDf4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "n36uH9VwkUaCC3fcgb0DLUhimjk",
+            "id": "4KJ2GmbHmCQ",
+            "snippet": {
+                "publishedAt": "2025-09-30T04:29:46Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Relaxing Piano Jazz 🔴 Live Vol. 9 | Vintage Café Bossa Nova Jazz Music for Work & Study",
+                "description": "🔴 Enjoy the timeless sound of a piano trio jazz live stream — smooth piano, gentle bass, subtle drums and Bossa Nova Jazz Rhythm. Perfect background music for working, studying, relaxing, or creating a cozy café atmosphere at home. Let the warmth of vintage jazz take you back to the golden era of music. \n\n#jazz #pianojazz #bossanovajazz #jazzlive #Pianotrio #relaxingjazz #vintagejazz #smoothjazz #bossanova  #cozyjazz #caféjazz #studyjazz #jazzmusic #backgroundmusic #classicjazz #oldiesjazz #24/7 #jazzradio #chilljazzmusic #jazzplaylist",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4KJ2GmbHmCQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4KJ2GmbHmCQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4KJ2GmbHmCQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4KJ2GmbHmCQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4KJ2GmbHmCQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "jazz live",
+                    "jazz music",
+                    "jazz song",
+                    "female vocal jazz",
+                    "timeless jazz",
+                    "piano jazz",
+                    "jazz instrumental",
+                    "autumn jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Relaxing Piano Jazz 🔴 Live Vol. 9 | Vintage Café Bossa Nova Jazz Music for Work & Study",
+                    "description": "🔴 Enjoy the timeless sound of a piano trio jazz live stream — smooth piano, gentle bass, subtle drums and Bossa Nova Jazz Rhythm. Perfect background music for working, studying, relaxing, or creating a cozy café atmosphere at home. Let the warmth of vintage jazz take you back to the golden era of music. \n\n#jazz #pianojazz #bossanovajazz #jazzlive #Pianotrio #relaxingjazz #vintagejazz #smoothjazz #bossanova  #cozyjazz #caféjazz #studyjazz #jazzmusic #backgroundmusic #classicjazz #oldiesjazz #24/7 #jazzradio #chilljazzmusic #jazzplaylist"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H57M50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "139",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

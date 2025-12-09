@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "z2eeXszVivVWSDUMOXyVfdHf05w",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "1z4zJwGeDqWHbEy3hOvluVOn9mM",
+            "id": "EXnX9-nVeTY",
+            "snippet": {
+                "publishedAt": "2025-10-22T16:46:47Z",
+                "channelId": "UCL_O5w1_yeGyukBIRB_1alw",
+                "title": "Gugu Gaga Baby ✨ #kpopdemonhunters #sajaboys #netflix #kpop #music #huntrix",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EXnX9-nVeTY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EXnX9-nVeTY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EXnX9-nVeTY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EXnX9-nVeTY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EXnX9-nVeTY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Xadiya Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "id",
+                "localized": {
+                    "title": "Gugu Gaga Baby ✨ #kpopdemonhunters #sajaboys #netflix #kpop #music #huntrix",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "17281",
+                "likeCount": "930",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

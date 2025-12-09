@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "-7j3oNVVghWKkV4d_RaVXE03oh8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "eD5ZnmzbNmEi67MhEAZCw-rTPQY",
+            "id": "pbL1bgLliT8",
+            "snippet": {
+                "publishedAt": "2025-01-23T12:01:19Z",
+                "channelId": "UCtj5rIKd3atoia8j033p-Ow",
+                "title": "「파수인」 \"과거, 그리고 시작\" 피아노 편곡&연주 (티저 Ver.) / 명조",
+                "description": "Wuthering Waves - Shorekeeper Trailer OST \"THE BEGINNING OF OUR STORY\" Piano Performance (Teaser Ver.)\n\n------------------------------------------------------------------------------------------------------\n* 15초 분량의 티저 버전입니다.\n* 2025년 1월 30일 21:00(UTC+9) 에 공개됩니다.\n------------------------------------------------------------------------------------------------------\n---------------------------------------------------\n디스코드 채널 : https://discord.gg/TGvwJR9rs7\n치지직 : https://chzzk.naver.com/b09be9f2f4a04fbfb660d13cce01197f\n---------------------------------------------------\n#명조 #명조워더링웨이브 #wutheringwaves #鳴潮",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pbL1bgLliT8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pbL1bgLliT8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pbL1bgLliT8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pbL1bgLliT8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pbL1bgLliT8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Frost Music (프뮤)",
+                "tags": [
+                    "명조워더링웨이브",
+                    "명조",
+                    "파수인",
+                    "WutheringWaves",
+                    "Shorekeeper",
+                    "Stars Rebirth and You"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "「파수인」 \"과거, 그리고 시작\" 피아노 편곡&연주 (티저 Ver.) / 명조",
+                    "description": "Wuthering Waves - Shorekeeper Trailer OST \"THE BEGINNING OF OUR STORY\" Piano Performance (Teaser Ver.)\n\n------------------------------------------------------------------------------------------------------\n* 15초 분량의 티저 버전입니다.\n* 2025년 1월 30일 21:00(UTC+9) 에 공개됩니다.\n------------------------------------------------------------------------------------------------------\n---------------------------------------------------\n디스코드 채널 : https://discord.gg/TGvwJR9rs7\n치지직 : https://chzzk.naver.com/b09be9f2f4a04fbfb660d13cce01197f\n---------------------------------------------------\n#명조 #명조워더링웨이브 #wutheringwaves #鳴潮"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1139",
+                "likeCount": "28",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

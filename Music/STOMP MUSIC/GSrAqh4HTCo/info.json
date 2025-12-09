@@ -1,0 +1,84 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "eOfcVSVNACeZ7RZIVzG5gHD9gmY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "vFGsDpLmO4h-SkKdmZvjvWwEzMo",
+            "id": "GSrAqh4HTCo",
+            "snippet": {
+                "publishedAt": "2022-10-12T09:40:23Z",
+                "channelId": "UCEhxA_aRk5gPi7PbzvmkSlg",
+                "title": "둠칫둠칫 연주자도 리듬타게 만드는 메이플스토리 공연 현장 #IlliyardMoor #얌얌아일랜드",
+                "description": "이 짧은 영상에 킬포가 도대체 몇 개나 있는지,,,🤗\n\n남은 전국투어 공연(인천, 여수, 대구)도 함께해 주세요!🧡\n\n🍄심포니 오브 메이플스토리 전국투어🍁\n - 11월 6일 아트센터인천 콘서트홀 (𝐒𝐎𝐋𝐃 𝐎𝐔𝐓)\n - 11월 13일 여수예울마루 대극장 (10월 13일 티켓 𝐎𝐏𝐄𝐍!) \n - 12월 17-18일 대구콘서트하우스 그랜드홀 (𝐂𝐎𝐌𝐈𝐍𝐆 𝐒𝐎𝐎𝐍)\n\n#심포니오브메이플스토리\n#전국투어 #Shorts",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GSrAqh4HTCo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GSrAqh4HTCo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GSrAqh4HTCo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GSrAqh4HTCo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GSrAqh4HTCo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "STOMP MUSIC",
+                "tags": [
+                    "메이플스토리",
+                    "메이플 오케스트라",
+                    "게임 오케스트라",
+                    "메이플스토리 오케스트라",
+                    "넥슨",
+                    "강원기",
+                    "메이플 실황",
+                    "심포니 오브 메이플스토리",
+                    "메이플 공연",
+                    "안두현"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "둠칫둠칫 연주자도 리듬타게 만드는 메이플스토리 공연 현장 #IlliyardMoor #얌얌아일랜드",
+                    "description": "이 짧은 영상에 킬포가 도대체 몇 개나 있는지,,,🤗\n\n남은 전국투어 공연(인천, 여수, 대구)도 함께해 주세요!🧡\n\n🍄심포니 오브 메이플스토리 전국투어🍁\n - 11월 6일 아트센터인천 콘서트홀 (𝐒𝐎𝐋𝐃 𝐎𝐔𝐓)\n - 11월 13일 여수예울마루 대극장 (10월 13일 티켓 𝐎𝐏𝐄𝐍!) \n - 12월 17-18일 대구콘서트하우스 그랜드홀 (𝐂𝐎𝐌𝐈𝐍𝐆 𝐒𝐎𝐎𝐍)\n\n#심포니오브메이플스토리\n#전국투어 #Shorts"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT57S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9598",
+                "likeCount": "205",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "7JWkbJi9S7E7rEWinb4UQdp7y-E",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "nLLYzO5ZUV2bYFjnO_0v76zvtG4",
+            "id": "f42LfpJ4VGQ",
+            "snippet": {
+                "publishedAt": "2022-06-20T13:00:22Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Morning Jazz - Good Mood Bossa Nova and Jazz Music for Coffee",
+                "description": "Good morning begins with jazz music! Enjoy 10 hours of jazz and bossa nova playlist by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #morningjazz #bossanova \n\nl128",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f42LfpJ4VGQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f42LfpJ4VGQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f42LfpJ4VGQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/f42LfpJ4VGQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/f42LfpJ4VGQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "tags": [
+                    "morning jazz",
+                    "good mood jazz",
+                    "bossa nova music",
+                    "coffee jazz",
+                    "jazz music",
+                    "happy thoughts jazz",
+                    "sweet jazz for early vibes",
+                    "jazz for new day"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Morning Jazz - Good Mood Bossa Nova and Jazz Music for Coffee",
+                    "description": "Good morning begins with jazz music! Enjoy 10 hours of jazz and bossa nova playlist by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #morningjazz #bossanova \n\nl128"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "10308",
+                "likeCount": "178",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

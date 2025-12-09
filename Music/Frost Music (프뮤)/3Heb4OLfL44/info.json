@@ -1,0 +1,96 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "k72i-fC3L00lBgRTRBV6UAekWGg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ggEFJVI1G69VOxtM4ax5irEsrYs",
+            "id": "3Heb4OLfL44",
+            "snippet": {
+                "publishedAt": "2023-07-09T10:42:39Z",
+                "channelId": "UCtj5rIKd3atoia8j033p-Ow",
+                "title": "\"유라\" 캐릭터 PV - 「깊은 밤 주점에서의 만남」",
+                "description": "Genshin Impact - Eula Teaser 「Midnight Encounter at the Tavern」 OST Piano Performance\n\n\n풀버전 : https://youtu.be/nRSb2G-8u0E\n\n\n#genshin #原神 #원신 #genshinimpact #hoyocreators #shorts",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3Heb4OLfL44/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3Heb4OLfL44/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3Heb4OLfL44/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3Heb4OLfL44/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3Heb4OLfL44/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Frost Music (프뮤)",
+                "tags": [
+                    "genshin ost",
+                    "genshin piano",
+                    "원신 ost",
+                    "원신 피아노",
+                    "原神 ost",
+                    "原神 piano",
+                    "輝く燭光",
+                    "夜深き酒場での出会い",
+                    "Midnight Encounter at the Tavern",
+                    "Flickering Candlelight",
+                    "깊은 밤 주점에서의 만남",
+                    "빛나는 촛불",
+                    "Eula teaser",
+                    "원신 유라",
+                    "優菈",
+                    "エウルア",
+                    "유라 복각",
+                    "유라 pv",
+                    "유라 ost",
+                    "Eula",
+                    "Eula demo",
+                    "エウルア pv"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "\"유라\" 캐릭터 PV - 「깊은 밤 주점에서의 만남」",
+                    "description": "Genshin Impact - Eula Teaser 「Midnight Encounter at the Tavern」 OST Piano Performance\n\n\n풀버전 : https://youtu.be/nRSb2G-8u0E\n\n\n#genshin #原神 #원신 #genshinimpact #hoyocreators #shorts"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT25S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1568",
+                "likeCount": "61",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

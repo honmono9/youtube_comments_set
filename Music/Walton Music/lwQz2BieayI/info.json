@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "94cJBUj9SlyVBG9cwlgSXvyOvqw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Gj-V91L15dWuwDJY5slV6KIRsBQ",
+            "id": "lwQz2BieayI",
+            "snippet": {
+                "publishedAt": "2025-08-27T13:03:22Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Threads of Joy | Tim Brent and Amanda Quist",
+                "description": "Threads of Joy composed by Tim Brent and Amanda Quist for unaccompanied SATB divisi choirs.\n\nI have noticed joy, how it threads below the darkness… this moving work by Tim Brent and Amanda Quist expresses what it means to have hope. Laura Foley's incredible - yet simple - poem is brought to life by the composers with a steady melody and lovely partwriting.\n\nPurchase the music: https://www.giamusic.com/store/resource/threads-of-joy-print-ww1788\n\nThreads of Joy\n\nI have noticed joy,\nhow it threads below\nthe darkness.\nHave you seen it too?\nAnd have you heard it,\nhow it speaks\nthe unspeakable,\nthe bliss?\nA kind of silence, a light\nbeneath pain.\nHave you noticed?\nIt rises like fingers\nand then—look!\nit presses through.\n\n#WaltonMusic #Choir #Choral",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lwQz2BieayI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lwQz2BieayI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lwQz2BieayI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lwQz2BieayI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lwQz2BieayI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Threads of Joy | Tim Brent and Amanda Quist",
+                    "description": "Threads of Joy composed by Tim Brent and Amanda Quist for unaccompanied SATB divisi choirs.\n\nI have noticed joy, how it threads below the darkness… this moving work by Tim Brent and Amanda Quist expresses what it means to have hope. Laura Foley's incredible - yet simple - poem is brought to life by the composers with a steady melody and lovely partwriting.\n\nPurchase the music: https://www.giamusic.com/store/resource/threads-of-joy-print-ww1788\n\nThreads of Joy\n\nI have noticed joy,\nhow it threads below\nthe darkness.\nHave you seen it too?\nAnd have you heard it,\nhow it speaks\nthe unspeakable,\nthe bliss?\nA kind of silence, a light\nbeneath pain.\nHave you noticed?\nIt rises like fingers\nand then—look!\nit presses through.\n\n#WaltonMusic #Choir #Choral"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT5M29S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "233",
+                "likeCount": "9",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

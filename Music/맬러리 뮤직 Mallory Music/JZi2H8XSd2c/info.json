@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "WI5pPOSyhlm5PAzEucVlyzXczBk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "t1n7gU_i9KaainTrFHkv0djXSc8",
+            "id": "JZi2H8XSd2c",
+            "snippet": {
+                "publishedAt": "2022-09-13T13:02:32Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "은은한 조명 아래 분위기 있게 듣기 좋은 감성 팝송",
+                "description": "Photo by Khiet Tam",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JZi2H8XSd2c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JZi2H8XSd2c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JZi2H8XSd2c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JZi2H8XSd2c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JZi2H8XSd2c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "잔잔한 팝송",
+                    "잔잔한 노래",
+                    "playlist",
+                    "calm songs",
+                    "분위기 좋은 팝송",
+                    "팝송 추천",
+                    "팝송 플레이리스트",
+                    "감성 팝송"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "은은한 조명 아래 분위기 있게 듣기 좋은 감성 팝송",
+                    "description": "Photo by Khiet Tam"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT28M34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "29133",
+                "likeCount": "560",
+                "favoriteCount": "0",
+                "commentCount": "66"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

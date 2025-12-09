@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "CEESvfAYaW2X2p1RVbut0VG9B9s",
+        "id": "UgztC6ZhgVtTL_aA5_V4AaABAg",
+        "snippet": {
+            "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+            "videoId": "Klnnz4fvWTk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "LnsQzagyy4WoM5PBEZwgRuZsysU",
+                "id": "UgztC6ZhgVtTL_aA5_V4AaABAg",
+                "snippet": {
+                    "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+                    "videoId": "Klnnz4fvWTk",
+                    "textDisplay": "アコースティックがとっても素敵で、「是非旅動画に使いたいな☺️」と思っております！\nもちろん、クレジット表記はさせていただきます！\n\n楽曲のダウンロードページなどはありますでしょうか？？",
+                    "textOriginal": "アコースティックがとっても素敵で、「是非旅動画に使いたいな☺️」と思っております！\nもちろん、クレジット表記はさせていただきます！\n\n楽曲のダウンロードページなどはありますでしょうか？？",
+                    "authorDisplayName": "@sotoasobi2525",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/lqdcgiqFibwqAzKpoL0zC4CaVjgw9EPv3ph0P3oEJZg8QTsMm706p4n1jxCzmNDCaCwZBWKqIA4=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@sotoasobi2525",
+                    "authorChannelId": {
+                        "value": "UCvmTw_wtAUBbzz4ulcS_YNQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-02-26T01:47:19Z",
+                    "updatedAt": "2025-02-26T01:47:19Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 3,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "UGvHEa8jmSxlDEQa2BmUs34DKYE",
+        "id": "Ugy0uwDn9ZjStvc2UlZ4AaABAg",
+        "snippet": {
+            "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+            "videoId": "Klnnz4fvWTk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "6cpv_-TRxVPe-1ktUHi2Ou5fDuw",
+                "id": "Ugy0uwDn9ZjStvc2UlZ4AaABAg",
+                "snippet": {
+                    "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+                    "videoId": "Klnnz4fvWTk",
+                    "textDisplay": "おはようございます。\nやっと巡り会えました❤穏やかな優しい曲🎶🎼ソフトな歌声❤\n朝の出勤前に聴いています。ありがとうございます😊",
+                    "textOriginal": "おはようございます。\nやっと巡り会えました❤穏やかな優しい曲🎶🎼ソフトな歌声❤\n朝の出勤前に聴いています。ありがとうございます😊",
+                    "authorDisplayName": "@おおやまとしこ-f5g",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lIgLxBCeJr_jpI_f2gUOfdxqWwXgCHamIVrjSAvpA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%E3%81%8A%E3%81%8A%E3%82%84%E3%81%BE%E3%81%A8%E3%81%97%E3%81%93-f5g",
+                    "authorChannelId": {
+                        "value": "UCIpAR9kPFKP9PT_KBjintBg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-02-15T22:28:14Z",
+                    "updatedAt": "2025-02-15T22:28:14Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

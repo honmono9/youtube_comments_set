@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "IWNRUIv48KEcisOoAdGJaLnUeLA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "NJNt9Vs30rPQksnMJF9NxQIx454",
+            "id": "ryJSuRLdCpw",
+            "snippet": {
+                "publishedAt": "2020-06-26T09:00:33Z",
+                "channelId": "UC8gRco988IELoTNTl4OBd2w",
+                "title": "Bizzy (비지) - '좋은 게 다 좋은 거 (Everything Is Everything)' Official M/V Teaser",
+                "description": "Bizzy (비지) - '좋은 게 다 좋은 거 (Everything Is Everything)' Official M/V Teaser\nOUT SOON\n@bizzionary \n⁣⁣@feelghoodmusicofficial \n#bizzy #좋은게다좋은거\n#필굿뮤직 #FeelghoodMusic\n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4\n - Website : http://www.feelghood.com/ \n - Facebook : https://www.facebook.com/Feelghood",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ryJSuRLdCpw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ryJSuRLdCpw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ryJSuRLdCpw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ryJSuRLdCpw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ryJSuRLdCpw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Feel Ghood Music [필굿뮤직]",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Bizzy (비지) - '좋은 게 다 좋은 거 (Everything Is Everything)' Official M/V Teaser",
+                    "description": "Bizzy (비지) - '좋은 게 다 좋은 거 (Everything Is Everything)' Official M/V Teaser\nOUT SOON\n@bizzionary \n⁣⁣@feelghoodmusicofficial \n#bizzy #좋은게다좋은거\n#필굿뮤직 #FeelghoodMusic\n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4\n - Website : http://www.feelghood.com/ \n - Facebook : https://www.facebook.com/Feelghood"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1488",
+                "likeCount": "226",
+                "favoriteCount": "0",
+                "commentCount": "28"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

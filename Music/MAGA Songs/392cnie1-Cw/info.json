@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "W8Uy85tyvZQJTGXRXkL6rS8m4F4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "kEWy72FFPdHhYmqn_GW_IremxeE",
+            "id": "392cnie1-Cw",
+            "snippet": {
+                "publishedAt": "2025-12-01T15:00:16Z",
+                "channelId": "UCJu-1kHQFbvQuTzm-_Uz3lA",
+                "title": "AMERICA IS CHARLIE KIRK ORIGINAL MUSIC VIDEO",
+                "description": "Turn up the volume and dive into this high-energy patriotic anthem. This lyric video celebrates American spirit, bold ideas, and the people who aren’t afraid to stand up for what they believe in.\n\nWhether you’re here for the message, the music, or just to sing along, thanks for watching!\n\n✨ Don’t forget to LIKE, COMMENT, and SUBSCRIBE for more lyric videos.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/392cnie1-Cw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/392cnie1-Cw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/392cnie1-Cw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/392cnie1-Cw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/392cnie1-Cw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MAGA Songs",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "AMERICA IS CHARLIE KIRK ORIGINAL MUSIC VIDEO",
+                    "description": "Turn up the volume and dive into this high-energy patriotic anthem. This lyric video celebrates American spirit, bold ideas, and the people who aren’t afraid to stand up for what they believe in.\n\nWhether you’re here for the message, the music, or just to sing along, thanks for watching!\n\n✨ Don’t forget to LIKE, COMMENT, and SUBSCRIBE for more lyric videos."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "251",
+                "likeCount": "44",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "pHB8UnORkNIfi93PtRZyArp2HYI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "F_xPVgJ_ZGoj2jYo4d61_BxI-Bg",
+            "id": "5nAkfON7SEI",
+            "snippet": {
+                "publishedAt": "2023-02-23T03:00:35Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[TEASER] 지한 (Weeekly) - Latte Latte | 꼭두의 계절 OST Part.4",
+                "description": "지한 (Weeekly) - Latte Latte | 꼭두의 계절 OST Part.4\n2023.02.24 6PM (KST) Release\n\nLyrics by 이현상(ARTMATIC), RAMI NU\nComposed by Nomasgood, Sam Carter, RAMI NU\nArranged by Nomasgood, 이현상(ARTMATIC)\n\n#MBC드라마 #꼭두의계절 #OST \n#지한 #Weeekly #LatteLatte\n#아에르뮤직 #AERMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5nAkfON7SEI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5nAkfON7SEI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5nAkfON7SEI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5nAkfON7SEI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5nAkfON7SEI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[TEASER] 지한 (Weeekly) - Latte Latte | 꼭두의 계절 OST Part.4",
+                    "description": "지한 (Weeekly) - Latte Latte | 꼭두의 계절 OST Part.4\n2023.02.24 6PM (KST) Release\n\nLyrics by 이현상(ARTMATIC), RAMI NU\nComposed by Nomasgood, Sam Carter, RAMI NU\nArranged by Nomasgood, 이현상(ARTMATIC)\n\n#MBC드라마 #꼭두의계절 #OST \n#지한 #Weeekly #LatteLatte\n#아에르뮤직 #AERMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1916",
+                "likeCount": "197",
+                "favoriteCount": "0",
+                "commentCount": "22"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

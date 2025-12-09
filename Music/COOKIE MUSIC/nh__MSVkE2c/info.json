@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "O2I6OcnvhSntnLK-6dDa2dMESQw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "YyXFfKlvb7bZtIZRMTDtF_ofWb8",
+            "id": "nh__MSVkE2c",
+            "snippet": {
+                "publishedAt": "2025-09-04T10:01:23Z",
+                "channelId": "UCd9lGAZOEOYB4KRgIRDOHag",
+                "title": "𝗰𝗮𝗳𝗲 𝗽𝗹𝗮𝘆𝗹𝗶𝘀𝘁 편안한 무드 playlist 🌿 집에서 듣기 좋은 낮·저녁 감성 음악",
+                "description": "바쁜 하루 속, 잠시 쉬어가는 순간을 위해 준비한 감성 playlist.\n낮에도, 저녁에도 조용히 흘려두기 좋은 음악으로 마음을 채워보세요.\n\n\n\n\n[𝐏𝐥𝐚𝐲𝐋𝐢𝐬𝐭] \n\n00:00 Letting Go Slowly\n03:17 Lost in Yesterday\n06:40 Golden Afterglow\n09:54 Falling Apart\n12:55 Brighter Days\n15:51 STAY\n19:16 Where the Map Stops\n21:59 I Stayed at the Station\n25:19 Even If You're Gone\n28:34 Where the Map Stops리믹스\n31:49 All repeated\n\n\n\n\n\n\n#편안한음악 #카페음악 #music #playlist #newmusic #musiclover #goodmusic #musicislife #chillmusic #soulmusic #lofimusic #집에서듣는음악  #감성음악 #공부할때듣는노래 #힐링음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nh__MSVkE2c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nh__MSVkE2c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nh__MSVkE2c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nh__MSVkE2c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nh__MSVkE2c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "COOKIE MUSIC",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "𝗰𝗮𝗳𝗲 𝗽𝗹𝗮𝘆𝗹𝗶𝘀𝘁 편안한 무드 playlist 🌿 집에서 듣기 좋은 낮·저녁 감성 음악",
+                    "description": "바쁜 하루 속, 잠시 쉬어가는 순간을 위해 준비한 감성 playlist.\n낮에도, 저녁에도 조용히 흘려두기 좋은 음악으로 마음을 채워보세요.\n\n\n\n\n[𝐏𝐥𝐚𝐲𝐋𝐢𝐬𝐭] \n\n00:00 Letting Go Slowly\n03:17 Lost in Yesterday\n06:40 Golden Afterglow\n09:54 Falling Apart\n12:55 Brighter Days\n15:51 STAY\n19:16 Where the Map Stops\n21:59 I Stayed at the Station\n25:19 Even If You're Gone\n28:34 Where the Map Stops리믹스\n31:49 All repeated\n\n\n\n\n\n\n#편안한음악 #카페음악 #music #playlist #newmusic #musiclover #goodmusic #musicislife #chillmusic #soulmusic #lofimusic #집에서듣는음악  #감성음악 #공부할때듣는노래 #힐링음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1H35M30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "607",
+                "likeCount": "7",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

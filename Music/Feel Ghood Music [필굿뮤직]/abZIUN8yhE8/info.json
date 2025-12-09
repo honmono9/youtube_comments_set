@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "hdtGKezwF_OP2uPOvAnuVtSOewo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "HJ0JIoiiye-pfCm6R79MyUBHqeE",
+            "id": "abZIUN8yhE8",
+            "snippet": {
+                "publishedAt": "2020-07-07T09:00:11Z",
+                "channelId": "UC8gRco988IELoTNTl4OBd2w",
+                "title": "BIBI (비비) '안녕히 (I'm good at goodbyes)' Official Visualizer Teaser 1",
+                "description": "BIBI \n안녕히 \nI’m good at goodbyes \n2020.07.10 (금) \n6PM KST \n-\n오는 10일 정오 발매되는 비비의 새 싱글 '안녕히 (I’m good at goodbyes)’ 이는 필굿뮤직의 새 프로젝트 ‘필굿쨈스’(Feel Ghood Jams)의 세 번째로, 비비의 싱글 수익금 역시 코로나19 관련 기부될 예정입니다.  \n-\n#비비 #BIBI #필굿쨈스 #FeelGhoodJams \n#안녕히 #I’mgoodatgoodbyes\n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4\n - Website : http://www.feelghood.com/ \n - Facebook : https://www.facebook.com/Feelghood",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/abZIUN8yhE8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/abZIUN8yhE8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/abZIUN8yhE8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/abZIUN8yhE8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/abZIUN8yhE8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Feel Ghood Music [필굿뮤직]",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "BIBI (비비) '안녕히 (I'm good at goodbyes)' Official Visualizer Teaser 1",
+                    "description": "BIBI \n안녕히 \nI’m good at goodbyes \n2020.07.10 (금) \n6PM KST \n-\n오는 10일 정오 발매되는 비비의 새 싱글 '안녕히 (I’m good at goodbyes)’ 이는 필굿뮤직의 새 프로젝트 ‘필굿쨈스’(Feel Ghood Jams)의 세 번째로, 비비의 싱글 수익금 역시 코로나19 관련 기부될 예정입니다.  \n-\n#비비 #BIBI #필굿쨈스 #FeelGhoodJams \n#안녕히 #I’mgoodatgoodbyes\n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4\n - Website : http://www.feelghood.com/ \n - Facebook : https://www.facebook.com/Feelghood"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6018",
+                "likeCount": "827",
+                "favoriteCount": "0",
+                "commentCount": "81"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "yFDqgBjCQtIEUiz4wgUe7CeMz7I",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "PRD-xOUiY_bQiyKntDest6K43kM",
+            "id": "hBrn3C4IH6E",
+            "snippet": {
+                "publishedAt": "2020-04-27T09:49:45Z",
+                "channelId": "UC8gRco988IELoTNTl4OBd2w",
+                "title": "BIBI (비비) - '사장님 도박은 재미로 하셔야 합니다 (KAZINO)' Official M/V Teaser 2",
+                "description": "BIBI (비비) - '사장님 도박은 재미로 하셔야 합니다 (KAZINO)' Official M/V Teaser 2\n2020.04.29 \n6PM KST \nOUT SOON\n@nakedbibi\n⁣⁣\n#비비 #BIBI #사장님도박 #사장님도박은재미로하셔야합니다\n#필굿뮤직 #FeelghoodMusic\n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4\n - Website : http://www.feelghood.com/ \n - Facebook : https://www.facebook.com/Feelghood",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hBrn3C4IH6E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hBrn3C4IH6E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hBrn3C4IH6E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hBrn3C4IH6E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hBrn3C4IH6E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Feel Ghood Music [필굿뮤직]",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "BIBI (비비) - '사장님 도박은 재미로 하셔야 합니다 (KAZINO)' Official M/V Teaser 2",
+                    "description": "BIBI (비비) - '사장님 도박은 재미로 하셔야 합니다 (KAZINO)' Official M/V Teaser 2\n2020.04.29 \n6PM KST \nOUT SOON\n@nakedbibi\n⁣⁣\n#비비 #BIBI #사장님도박 #사장님도박은재미로하셔야합니다\n#필굿뮤직 #FeelghoodMusic\n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4\n - Website : http://www.feelghood.com/ \n - Facebook : https://www.facebook.com/Feelghood"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT24S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6488",
+                "likeCount": "706",
+                "favoriteCount": "0",
+                "commentCount": "25"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

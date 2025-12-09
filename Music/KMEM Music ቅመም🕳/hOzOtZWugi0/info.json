@@ -1,0 +1,67 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "z2-IAk3HZIrGGvAi9lNz5BYDdjw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "q6p3t8ULfwwikbvTgMGTJOIbSdI",
+            "id": "hOzOtZWugi0",
+            "snippet": {
+                "publishedAt": "2025-12-08T07:29:36Z",
+                "channelId": "UCH1VQkBY5lN73--RjIwIHqw",
+                "title": "ጎሳዬ ተስፋዬ_ዝም_(official remix music) 2025",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hOzOtZWugi0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hOzOtZWugi0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hOzOtZWugi0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hOzOtZWugi0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "KMEM Music ቅመም🕳",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "arc",
+                "localized": {
+                    "title": "ጎሳዬ ተስፋዬ_ዝም_(official remix music) 2025",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "8",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "cusVqMTfeGB2X5dP8nPxcoRi-oY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "yheZKwWazPqLXGRcJiuLmKO1lwo",
+            "id": "xOqVVwIES3w",
+            "snippet": {
+                "publishedAt": "2025-11-29T10:48:45Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "เสี้ยววินาที – Teaser Trailer BMAARENA #cinematicrock #music",
+                "description": "ตัวอย่างเพลง เสี้ยววินาที - Teaser trailer Official \n#cinematicrock #music #mv \n#BMAarena #Buraphamusicarena",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xOqVVwIES3w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xOqVVwIES3w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xOqVVwIES3w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xOqVVwIES3w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xOqVVwIES3w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "tags": [
+                    "เสี้ยววินาที",
+                    "อย่าจากไปเลย",
+                    "BMAARENA",
+                    "Burapha Music Arena",
+                    "Cinematic rock",
+                    "Futuristic melodic rock",
+                    "เพลงรัก",
+                    "เพลงใหม่2025"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "เสี้ยววินาที – Teaser Trailer BMAARENA #cinematicrock #music",
+                    "description": "ตัวอย่างเพลง เสี้ยววินาที - Teaser trailer Official \n#cinematicrock #music #mv \n#BMAarena #Buraphamusicarena"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT24S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "16545",
+                "likeCount": "251",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

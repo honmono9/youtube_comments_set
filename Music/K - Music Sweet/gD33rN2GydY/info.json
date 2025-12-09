@@ -1,0 +1,84 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "iQ0QSkSAqfgDjcceaB4MTPyLPPc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "JjP6CEW7hu6mUffiEz800cjmSMU",
+            "id": "gD33rN2GydY",
+            "snippet": {
+                "publishedAt": "2024-10-01T11:30:25Z",
+                "channelId": "UCYTNxR2Z4ryz88WRWiaPCdg",
+                "title": "Heavy Is The Crown [Anime Style Cover] | LoL Worlds 2024",
+                "description": "Heavy Is The Crown (Anime Style Cover) | LoL Worlds Song 2024 (Cover by Loli Evil) |リーグ・オブ・レジェンド  アンセム\nListen to the original song: http://lprk.co/fromzero\n--------------------\n🔊 If you find it interesting, Please Like Subscribe and Click on the notification bell 🔔 So you don't miss new videos :3\n★ Follow -  Loli Evil\n--------------------\n➥ Please Share this song on Social sites ( Tik Tok, Facebook, Threads, Twitter etc. ) to more person could listen it !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gD33rN2GydY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gD33rN2GydY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gD33rN2GydY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gD33rN2GydY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gD33rN2GydY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "K - Music Sweet",
+                "tags": [
+                    "Nightcore",
+                    "Gaming Music",
+                    "Heavy Is The Crown",
+                    "Anime Style Cover",
+                    "Loli Evil",
+                    "LoL Worlds 2024 Song",
+                    "League of Legends",
+                    "Linkin Park",
+                    "Lol Cover Remix",
+                    "Japanese Version"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Heavy Is The Crown [Anime Style Cover] | LoL Worlds 2024",
+                    "description": "Heavy Is The Crown (Anime Style Cover) | LoL Worlds Song 2024 (Cover by Loli Evil) |リーグ・オブ・レジェンド  アンセム\nListen to the original song: http://lprk.co/fromzero\n--------------------\n🔊 If you find it interesting, Please Like Subscribe and Click on the notification bell 🔔 So you don't miss new videos :3\n★ Follow -  Loli Evil\n--------------------\n➥ Please Share this song on Social sites ( Tik Tok, Facebook, Threads, Twitter etc. ) to more person could listen it !"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M8S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1032",
+                "likeCount": "48",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

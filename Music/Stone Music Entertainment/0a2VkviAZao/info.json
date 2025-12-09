@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "3NDrqN2aHKiAxbiJYUlIB6xKBJA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "qq26M1oyk360CES_PDhgqKicKdo",
+            "id": "0a2VkviAZao",
+            "snippet": {
+                "publishedAt": "2025-12-05T09:00:02Z",
+                "channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
+                "title": "윤석원 (Sukwon Yoon) - 아기로보트 (Little Robot) MV",
+                "description": "윤석원 (Sukwon Yoon) - 아기로보트 (Little Robot) MV\n\n머뭇거리고 뚝딱거렸던 나를\n기다려줬던 그 몇몇 어른들\n아마 같은 아기 로봇이라\n나를 알아본 것 같아\n\n[Credit]\nLyrics by 윤석원\nComposed by 윤석원\nArranged by 윤석원, Baloo(발루), 김주완\n\nAcoustic guitar by Baloo(발루)\nElectric guitar by Baloo(발루)\nBass by 김주완\nDrum by 윤석원\nSynth by 윤석원\n\nVocal by 윤석원\n\nMixed & Mastered by 고현정 @Koko sound\nArtwork by 박건규, 전지우\n\nStaff\nExecutive Producer WONMINBOSS\nA&R Cho Jihan, Yu Yeji, Gil Sehee\nMarketing Choi Sungkwon, Seo Haeyeong, Yu Jongwon, Oh Nahyun\n\n#윤석원 #SukwonYoon #아기로보트 #LittleRobot",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0a2VkviAZao/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0a2VkviAZao/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0a2VkviAZao/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0a2VkviAZao/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0a2VkviAZao/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Stone Music Entertainment",
+                "tags": [
+                    "K-CULTURE",
+                    "korean Music",
+                    "MV",
+                    "Music Video",
+                    "K-Pop",
+                    "Kpop",
+                    "뮤비",
+                    "뮤직비디오",
+                    "Stone Music Entertainment",
+                    "윤석원 (Sukwon Yoon)",
+                    "아기로보트 (Little Robot)"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "윤석원 (Sukwon Yoon) - 아기로보트 (Little Robot) MV",
+                    "description": "윤석원 (Sukwon Yoon) - 아기로보트 (Little Robot) MV\n\n머뭇거리고 뚝딱거렸던 나를\n기다려줬던 그 몇몇 어른들\n아마 같은 아기 로봇이라\n나를 알아본 것 같아\n\n[Credit]\nLyrics by 윤석원\nComposed by 윤석원\nArranged by 윤석원, Baloo(발루), 김주완\n\nAcoustic guitar by Baloo(발루)\nElectric guitar by Baloo(발루)\nBass by 김주완\nDrum by 윤석원\nSynth by 윤석원\n\nVocal by 윤석원\n\nMixed & Mastered by 고현정 @Koko sound\nArtwork by 박건규, 전지우\n\nStaff\nExecutive Producer WONMINBOSS\nA&R Cho Jihan, Yu Yeji, Gil Sehee\nMarketing Choi Sungkwon, Seo Haeyeong, Yu Jongwon, Oh Nahyun\n\n#윤석원 #SukwonYoon #아기로보트 #LittleRobot"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2722",
+                "likeCount": "161",
+                "favoriteCount": "0",
+                "commentCount": "13"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

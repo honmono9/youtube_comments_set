@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "6w-tIjRmWxkbOcSzJhSGFxVrRAo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Wp95OYBXFmZoQMUBY5FlMRu2Pno",
+            "id": "Dj0xnCWNISo",
+            "snippet": {
+                "publishedAt": "2022-07-15T13:26:41Z",
+                "channelId": "UCwdmcaOcWQ7PW8_wuaB8Cjw",
+                "title": "Armin van Buuren feat. Maia Wright - one more time (Sebastian Spencer Remix)",
+                "description": "Disclaimer: All rights and credits go to the original owners, producers and other involved acts.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Dj0xnCWNISo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Dj0xnCWNISo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Dj0xnCWNISo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Dj0xnCWNISo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Dj0xnCWNISo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sebastian Spencer Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Armin van Buuren feat. Maia Wright - one more time (Sebastian Spencer Remix)",
+                    "description": "Disclaimer: All rights and credits go to the original owners, producers and other involved acts."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2M42S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6370",
+                "likeCount": "102",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

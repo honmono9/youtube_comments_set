@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "M8iGg8ofoQr2lXBBx72TJyymG2k",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "PUJl4vAgHTkT1zhmWX_9DJKA6aU",
+            "id": "CtRIN4R-JmQ",
+            "snippet": {
+                "publishedAt": "2025-03-14T15:00:06Z",
+                "channelId": "UCoAOTBoviujUGWXOWDgfKmw",
+                "title": "YEYE-BLAQS- OFFICIAL MUSIC AUDIO",
+                "description": "OFFICIAL MUSIC AUDIO WRITTEN AND PERFOMED BY BLAQS KE \nPRODUCED BY KAGOH ONTHEBEAT\n\nTHE SONG IS ABOUT A LADY WHO DESTROYED A MANS LEFE\nFOR COLLABOS, SHOWS, INTERVIEWS AND SPECIAL APPEARANCES\nCONTACT BLAQS MANAGEMENT\n0748636018\n+",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CtRIN4R-JmQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CtRIN4R-JmQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CtRIN4R-JmQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CtRIN4R-JmQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CtRIN4R-JmQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BlaQs music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "YEYE-BLAQS- OFFICIAL MUSIC AUDIO",
+                    "description": "OFFICIAL MUSIC AUDIO WRITTEN AND PERFOMED BY BLAQS KE \nPRODUCED BY KAGOH ONTHEBEAT\n\nTHE SONG IS ABOUT A LADY WHO DESTROYED A MANS LEFE\nFOR COLLABOS, SHOWS, INTERVIEWS AND SPECIAL APPEARANCES\nCONTACT BLAQS MANAGEMENT\n0748636018\n+"
+                },
+                "defaultAudioLanguage": "sw"
+            },
+            "contentDetails": {
+                "duration": "PT2M59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "619",
+                "likeCount": "57",
+                "favoriteCount": "0",
+                "commentCount": "31"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

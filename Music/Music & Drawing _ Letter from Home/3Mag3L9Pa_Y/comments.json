@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "XG-uq2Mej8DJIfRJ9ewAgSgMR1E",
+        "id": "UgzAxJbW0PqA-0zGQSJ4AaABAg",
+        "snippet": {
+            "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+            "videoId": "3Mag3L9Pa_Y",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "wkNfSBOXhsZqhCSkpQ4qMq5MyvU",
+                "id": "UgzAxJbW0PqA-0zGQSJ4AaABAg",
+                "snippet": {
+                    "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                    "videoId": "3Mag3L9Pa_Y",
+                    "textDisplay": "Take the train to the autumn~~~♡",
+                    "textOriginal": "Take the train to the autumn~~~♡",
+                    "authorDisplayName": "@김유림-z3i",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kSgzsn-PaGdvyWXb6AMhFa1gscZpG84RXiatevNLqmSu1hqWQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EA%B9%80%EC%9C%A0%EB%A6%BC-z3i",
+                    "authorChannelId": {
+                        "value": "UCN9hkIseygo_dCY9HhcjDew"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 3,
+                    "publishedAt": "2025-10-11T10:17:59Z",
+                    "updatedAt": "2025-10-11T10:17:59Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 3,
+            "isPublic": true
+        }
+    }
+]

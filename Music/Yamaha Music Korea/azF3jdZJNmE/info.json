@@ -1,0 +1,67 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ogrs5etj4VPlrba9snRPzNW7GLU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "76K8QBxS_jcK720lINabDbKyjIU",
+            "id": "azF3jdZJNmE",
+            "snippet": {
+                "publishedAt": "2024-05-16T08:35:34Z",
+                "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                "title": "[Make Waves] 여러분의 추억 속 젓가락 행진곡을 완성해 보세요🥢🎹 #리멤버마이메이트 #챌린지",
+                "description": "🎵솔솔솔 솔솔솔 시시시 시시시🎵\n손가락이 건반을 두드리는 느낌을 기억하시나요? \n\n야마하와 함께하는 추억의 '젓가락 행진곡' 연주 챌린지! \n\n지금 바로 Remember My Mate 챌린지에 참여하고 \n쏟아지는 경품의 혜택도 누려보세요💜\n\n📆챌린지 기간 : 2024.05.16(목)~2024.05.31(금) \n🔗챌린지 바로가기 : https://bit.ly/3yoEkYo\n\n#야마하 #야마하뮤직코리아 #리멤버마이메이트 \n#피아노 #피아노연주 #연주챌린지 #젓가락행진곡 \n#야마하피아노",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/azF3jdZJNmE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/azF3jdZJNmE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/azF3jdZJNmE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/azF3jdZJNmE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Yamaha Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Make Waves] 여러분의 추억 속 젓가락 행진곡을 완성해 보세요🥢🎹 #리멤버마이메이트 #챌린지",
+                    "description": "🎵솔솔솔 솔솔솔 시시시 시시시🎵\n손가락이 건반을 두드리는 느낌을 기억하시나요? \n\n야마하와 함께하는 추억의 '젓가락 행진곡' 연주 챌린지! \n\n지금 바로 Remember My Mate 챌린지에 참여하고 \n쏟아지는 경품의 혜택도 누려보세요💜\n\n📆챌린지 기간 : 2024.05.16(목)~2024.05.31(금) \n🔗챌린지 바로가기 : https://bit.ly/3yoEkYo\n\n#야마하 #야마하뮤직코리아 #리멤버마이메이트 \n#피아노 #피아노연주 #연주챌린지 #젓가락행진곡 \n#야마하피아노"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT43S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "550",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

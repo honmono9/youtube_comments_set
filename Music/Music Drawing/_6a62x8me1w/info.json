@@ -1,0 +1,84 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "c1k9gR3nmqrhO6HsdiBI7Ortozs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "nT6aXM2J4PGZKXLycjl_L3LUjEs",
+            "id": "_6a62x8me1w",
+            "snippet": {
+                "publishedAt": "2023-08-27T23:00:11Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "당신의 하루를 빛나게 해줄 힐링음악 - \"Feeling Good!\"",
+                "description": "숨이 가득 차오르게 너와 함께 달리는 이 순간,\n쿵쾅 쿵쾅 뛰어 오르는 이 심장 박동,\n찬란하게 비춰오는 저 태양..\n모든게 너무 아름답고 행복한 순간이야~\n\n따사로운 햇살 가득한 날에~\n\"오늘도 너의 하루가 빛나길 바라며..\"\n\n\n🎵곡명                        \n \"Feeling Good\" \n \"햇살\"            \n\n 작곡 - G.W\n https://www.facebook.com/MusicDrawingComposer\n\n🎨그림명 \n “달리기 좋은 날씨”\n\n 그림 - 타그트라움\n https://www.instagram.com/tagtraum208\n\n\n\n#힐링음악 #피아노음악 #편안한음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_6a62x8me1w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_6a62x8me1w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_6a62x8me1w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_6a62x8me1w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_6a62x8me1w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "painoMusic",
+                    "피아노음악",
+                    "편안한음악",
+                    "RelaxingMusic",
+                    "RelaxMusic",
+                    "힐링음악",
+                    "스트레스해소음악",
+                    "뉴에이지음악",
+                    "피아노곡",
+                    "HealingMusic"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "당신의 하루를 빛나게 해줄 힐링음악 - \"Feeling Good!\"",
+                    "description": "숨이 가득 차오르게 너와 함께 달리는 이 순간,\n쿵쾅 쿵쾅 뛰어 오르는 이 심장 박동,\n찬란하게 비춰오는 저 태양..\n모든게 너무 아름답고 행복한 순간이야~\n\n따사로운 햇살 가득한 날에~\n\"오늘도 너의 하루가 빛나길 바라며..\"\n\n\n🎵곡명                        \n \"Feeling Good\" \n \"햇살\"            \n\n 작곡 - G.W\n https://www.facebook.com/MusicDrawingComposer\n\n🎨그림명 \n “달리기 좋은 날씨”\n\n 그림 - 타그트라움\n https://www.instagram.com/tagtraum208\n\n\n\n#힐링음악 #피아노음악 #편안한음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2H37M10S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1075926",
+                "likeCount": "21555",
+                "favoriteCount": "0",
+                "commentCount": "265"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

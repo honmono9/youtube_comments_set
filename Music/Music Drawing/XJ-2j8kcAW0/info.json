@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "FWfAfx5292YIwDnnikweD_LJtdQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "XIpWxuOWBRoBr_N_N4zTjx5D9vk",
+            "id": "XJ-2j8kcAW0",
+            "snippet": {
+                "publishedAt": "2025-05-25T11:30:21Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"그래,잠시 쉬어가도 괜찮아\" 마음을 위로하는 수면음악",
+                "description": "뭐든 잘해내고 싶은 마음에\n날 지치게 하고 있지는 않은지..\n\n힘들땐 한 숨, 두 숨 고르고\n다시 달려나가도 늦지 않은걸~\n\n오늘은 그 누구도 아닌\n나를 안아주고 위로하는\n그런 날이 되길 바라~\n\n널 항상 응원해! :)\n\n\n🎵곡 제목                      \n 01.가득한 하루\n 02.Happy Ending\n\n ✏️그림\n Illustrator 700 Artwork by@700_illust\n\n\n#잠오는음악 #잠잘때듣는음악 #수면유도음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XJ-2j8kcAW0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XJ-2j8kcAW0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XJ-2j8kcAW0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XJ-2j8kcAW0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XJ-2j8kcAW0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "수면음악",
+                    "수면유도음악",
+                    "편안한음악",
+                    "잠오는음악",
+                    "자기전에듣는음악",
+                    "숙면음악",
+                    "잠잘때듣는음악",
+                    "SleepingMusic",
+                    "SleepMusic",
+                    "RelaxMusic",
+                    "RelaxingMusic",
+                    "PianoMusic",
+                    "피아노음악",
+                    "MusicForSleep"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"그래,잠시 쉬어가도 괜찮아\" 마음을 위로하는 수면음악",
+                    "description": "뭐든 잘해내고 싶은 마음에\n날 지치게 하고 있지는 않은지..\n\n힘들땐 한 숨, 두 숨 고르고\n다시 달려나가도 늦지 않은걸~\n\n오늘은 그 누구도 아닌\n나를 안아주고 위로하는\n그런 날이 되길 바라~\n\n널 항상 응원해! :)\n\n\n🎵곡 제목                      \n 01.가득한 하루\n 02.Happy Ending\n\n ✏️그림\n Illustrator 700 Artwork by@700_illust\n\n\n#잠오는음악 #잠잘때듣는음악 #수면유도음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9H34M57S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "159340",
+                "likeCount": "2573",
+                "favoriteCount": "0",
+                "commentCount": "135"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

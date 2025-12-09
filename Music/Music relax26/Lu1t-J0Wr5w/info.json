@@ -1,0 +1,70 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "TQU1FfFiRYvVg8VwkOzqFiqg3ck",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "K9xsSm-Dks03pCURsRVU4DICah8",
+            "id": "Lu1t-J0Wr5w",
+            "snippet": {
+                "publishedAt": "2025-08-29T08:31:05Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "บรรยากาศ ดนตรีสด เพลงสไตล์ร้านเหล้า ปี2025",
+                "description": "บรรยากาศ ดนตรีสด เพลงสไตล์ร้านเหล้า ปี2025\n#ดนตรีสด #แสดงสด2025",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Lu1t-J0Wr5w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Lu1t-J0Wr5w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Lu1t-J0Wr5w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Lu1t-J0Wr5w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "tags": [
+                    "บรรยากาศ ดนตรีสด เพลงสไตล์ร้านเหล้า ปี2025"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "บรรยากาศ ดนตรีสด เพลงสไตล์ร้านเหล้า ปี2025",
+                    "description": "บรรยากาศ ดนตรีสด เพลงสไตล์ร้านเหล้า ปี2025\n#ดนตรีสด #แสดงสด2025"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT38M31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "569",
+                "likeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

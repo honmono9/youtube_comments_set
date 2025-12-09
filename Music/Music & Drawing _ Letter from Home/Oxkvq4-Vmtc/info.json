@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "1up5CfJ3SVpQc2MtuiIssd-Cav8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "9-M9CV9VDiMUC6BlXac567NFwxI",
+            "id": "Oxkvq4-Vmtc",
+            "snippet": {
+                "publishedAt": "2025-09-01T10:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Beneath the Paris Sky, Autumn Whispers in Saxophone jazz : Vintage Jazz Night",
+                "description": "As autumn leaves drift gently through the streets of Paris, the night is filled with the quiet voice of the saxophone.\nThis is a journey into nostalgia — where 1950s jazz meets the poetry of falling leaves, painting the city with timeless elegance.\nLet the music guide you through a Parisian night, where every note feels like a memory written in autumn light.\n\n#autumnjazz #ParisJazz #saxophonejazz #romanticjazz #vintagejazz #1950sjazz #nostalgicjazz #cafémusic #nightjazz #timelessjazz #relaxingjazz #relaxingmusic #jazzinstrumental #jazzmusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Oxkvq4-Vmtc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Oxkvq4-Vmtc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Oxkvq4-Vmtc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Oxkvq4-Vmtc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "autumn jazz",
+                    "saxophone jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Beneath the Paris Sky, Autumn Whispers in Saxophone jazz : Vintage Jazz Night",
+                    "description": "As autumn leaves drift gently through the streets of Paris, the night is filled with the quiet voice of the saxophone.\nThis is a journey into nostalgia — where 1950s jazz meets the poetry of falling leaves, painting the city with timeless elegance.\nLet the music guide you through a Parisian night, where every note feels like a memory written in autumn light.\n\n#autumnjazz #ParisJazz #saxophonejazz #romanticjazz #vintagejazz #1950sjazz #nostalgicjazz #cafémusic #nightjazz #timelessjazz #relaxingjazz #relaxingmusic #jazzinstrumental #jazzmusic"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H14S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2824",
+                "likeCount": "65",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

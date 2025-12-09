@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "x61iU3VqfBH2q_oYKItG0Gs8Oyk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "NfSWi4JBHmmA28Nzu1csfSSxXr4",
+            "id": "LBSjVc575ow",
+            "snippet": {
+                "publishedAt": "2024-11-28T02:26:07Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "2024 NAMCYA Opening Concert of the National Music Week",
+                "description": "2024 NAMCYA 𝐎𝐩𝐞𝐧𝐢𝐧𝐠 𝐂𝐨𝐧𝐜𝐞𝐫𝐭 𝐨𝐟 𝐭𝐡𝐞 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐌𝐮𝐬𝐢𝐜 𝐖𝐞𝐞𝐤, featuring countertenor Paul Ryan Arcolas and pianist Clement B. Acevedo.\n—\nThe 2024 National Music Competitions for Young Artists (NAMCYA): 𝐎𝐩𝐞𝐧𝐢𝐧𝐠 𝐂𝐨𝐧𝐜𝐞𝐫𝐭 𝐨𝐟 𝐭𝐡𝐞 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐌𝐮𝐬𝐢𝐜 𝐖𝐞𝐞𝐤 is in partnership with the National Commission for Culture and the Arts and the Cultural Center of the Philippines, and in cooperation with The Metropolitan Theater and DepEd Philippines.\n\n#NAMCYA\n#NAMCYA2024\n#SalinlahingMusika\n#GalingNAMCYA\n#NAMCYAatTheMet\n#YoungArtists\n#MusicalExcellence",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LBSjVc575ow/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LBSjVc575ow/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LBSjVc575ow/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LBSjVc575ow/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LBSjVc575ow/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "2024 NAMCYA Opening Concert of the National Music Week",
+                    "description": "2024 NAMCYA 𝐎𝐩𝐞𝐧𝐢𝐧𝐠 𝐂𝐨𝐧𝐜𝐞𝐫𝐭 𝐨𝐟 𝐭𝐡𝐞 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐌𝐮𝐬𝐢𝐜 𝐖𝐞𝐞𝐤, featuring countertenor Paul Ryan Arcolas and pianist Clement B. Acevedo.\n—\nThe 2024 National Music Competitions for Young Artists (NAMCYA): 𝐎𝐩𝐞𝐧𝐢𝐧𝐠 𝐂𝐨𝐧𝐜𝐞𝐫𝐭 𝐨𝐟 𝐭𝐡𝐞 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐌𝐮𝐬𝐢𝐜 𝐖𝐞𝐞𝐤 is in partnership with the National Commission for Culture and the Arts and the Cultural Center of the Philippines, and in cooperation with The Metropolitan Theater and DepEd Philippines.\n\n#NAMCYA\n#NAMCYA2024\n#SalinlahingMusika\n#GalingNAMCYA\n#NAMCYAatTheMet\n#YoungArtists\n#MusicalExcellence"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H18M5S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "99",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

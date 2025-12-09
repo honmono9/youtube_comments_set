@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "sGlnepbYIoqCY1w5UyZunUe-9oQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "FTVraXEYMPJWBZ4YkHD2q1iNMuI",
+            "id": "meOxPQ9Wdtk",
+            "snippet": {
+                "publishedAt": "2025-06-20T07:57:45Z",
+                "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                "title": "🌐KOBA 2025 속 야마하의 모든 순간! 야마하 부스 현장 스케치🔍",
+                "description": "5월 20일부터 23일까지, 서울 코엑스에서 열린 \n국내 최대 규모의 방송 음향 전시회 KOBA 2025 현장 스케치🎬\n\n야마하 프로 오디오 제품부터 \n신디사이저, 기타, 드럼을 직접 연주해볼 수 있는 악기 체험존,\n전문 세미나와 야마하 아티스트들의 공연까지!\n\n성황리에 마무리된 KOBA 2025 \n야마하 부스 현장을 영상으로 만나보세요📷\n\n내년 야마하 부스에서 또 만나요! \n\n🔗KOBA 2025 현장 자세히 보기 : https://bit.ly/44ot6As \n\n#야마하 #야마하뮤직코리아 \n#KOBA2025 #KOBA #코엑스 \n#전시회 #야마하부스 #Yamaha\n#코바쇼 #음향 #악기 #전시",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/meOxPQ9Wdtk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/meOxPQ9Wdtk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/meOxPQ9Wdtk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/meOxPQ9Wdtk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/meOxPQ9Wdtk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yamaha Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🌐KOBA 2025 속 야마하의 모든 순간! 야마하 부스 현장 스케치🔍",
+                    "description": "5월 20일부터 23일까지, 서울 코엑스에서 열린 \n국내 최대 규모의 방송 음향 전시회 KOBA 2025 현장 스케치🎬\n\n야마하 프로 오디오 제품부터 \n신디사이저, 기타, 드럼을 직접 연주해볼 수 있는 악기 체험존,\n전문 세미나와 야마하 아티스트들의 공연까지!\n\n성황리에 마무리된 KOBA 2025 \n야마하 부스 현장을 영상으로 만나보세요📷\n\n내년 야마하 부스에서 또 만나요! \n\n🔗KOBA 2025 현장 자세히 보기 : https://bit.ly/44ot6As \n\n#야마하 #야마하뮤직코리아 \n#KOBA2025 #KOBA #코엑스 \n#전시회 #야마하부스 #Yamaha\n#코바쇼 #음향 #악기 #전시"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "575",
+                "likeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

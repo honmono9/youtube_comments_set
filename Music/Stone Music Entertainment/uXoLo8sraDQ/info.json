@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "HLLq3wVruHltZIYjj2XVzob1uMo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "wxyYy_dKQTOz-3z_wLG1oCmtuvY",
+            "id": "uXoLo8sraDQ",
+            "snippet": {
+                "publishedAt": "2025-12-07T09:01:28Z",
+                "channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
+                "title": "김필 (KIM FEEL) - Dry Flower MV Teaser",
+                "description": "김필 (KIM FEEL) - Dry Flower MV Teaser\n\n★Album Release 2025.07.25.18:00 (KST)\n\n#김필 #KIMFEEL #DryFlower",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uXoLo8sraDQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uXoLo8sraDQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uXoLo8sraDQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uXoLo8sraDQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uXoLo8sraDQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Stone Music Entertainment",
+                "tags": [
+                    "K-CULTURE",
+                    "korean Music",
+                    "MV",
+                    "Music Video",
+                    "K-Pop",
+                    "Kpop",
+                    "뮤비",
+                    "뮤직비디오",
+                    "Stone Music Entertainment",
+                    "김필 (KIM FEEL)",
+                    "Dry Flower"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "김필 (KIM FEEL) - Dry Flower MV Teaser",
+                    "description": "김필 (KIM FEEL) - Dry Flower MV Teaser\n\n★Album Release 2025.07.25.18:00 (KST)\n\n#김필 #KIMFEEL #DryFlower"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1334",
+                "likeCount": "112",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

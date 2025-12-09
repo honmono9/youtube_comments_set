@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "oTHo9f53BvezPpsGTZtHworDOOs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "mrY3wYgG9AKQxKK1-lXQ96k7aoI",
+            "id": "q2yMn3H5BZc",
+            "snippet": {
+                "publishedAt": "2019-06-17T02:47:08Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "060919 Mendelssohn Octet in E-flat major, Op. 20 - 1st mov.",
+                "description": "ENCORE Chamber Music 2019 Season 'La bohème' \n\nJupiter String Quartet \nLafontaine Quartet \nAaron Chan, violin\nAstrid Nakamura, violin\nEmily Rekrut-Pressey, viola\nFiona Robson, cello",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q2yMn3H5BZc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q2yMn3H5BZc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q2yMn3H5BZc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/q2yMn3H5BZc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/q2yMn3H5BZc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "060919 Mendelssohn Octet in E-flat major, Op. 20 - 1st mov.",
+                    "description": "ENCORE Chamber Music 2019 Season 'La bohème' \n\nJupiter String Quartet \nLafontaine Quartet \nAaron Chan, violin\nAstrid Nakamura, violin\nEmily Rekrut-Pressey, viola\nFiona Robson, cello"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT14M50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "612",
+                "likeCount": "11",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

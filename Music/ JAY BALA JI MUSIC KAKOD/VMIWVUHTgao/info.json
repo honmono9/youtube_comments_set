@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "VO4jkUT1vCGFVniRLLLvFjStBqg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "uqetTMyFAj49z8j8Omip0ZQbB84",
+            "id": "VMIWVUHTgao",
+            "snippet": {
+                "publishedAt": "2025-09-01T05:59:14Z",
+                "channelId": "UC5oWa6pisfCuXtGmPWhPNMg",
+                "title": "।। श्याम बाबा का बहुत अच्छा भजन गाया भाई नेहनु सैनी ने की पब्लिक बाबा में मगन हो गई डायरेक्टर राजेश ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VMIWVUHTgao/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VMIWVUHTgao/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VMIWVUHTgao/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VMIWVUHTgao/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VMIWVUHTgao/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": " JAY BALA JI MUSIC KAKOD.",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "hi",
+                "localized": {
+                    "title": "।। श्याम बाबा का बहुत अच्छा भजन गाया भाई नेहनु सैनी ने की पब्लिक बाबा में मगन हो गई डायरेक्टर राजेश ",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "contentDetails": {
+                "duration": "PT13M16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "553",
+                "likeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

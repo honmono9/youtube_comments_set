@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "hkd-4a_ZTKJYDkoziK7sKR4Ea5U",
+        "id": "Ugy4I-9rclMJlgApEpJ4AaABAg",
+        "snippet": {
+            "channelId": "UCuF5t0ziFf7QfoR9_xlti1w",
+            "videoId": "oTZF9dXbkig",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "p16dLCdrs7wbtXQjYaSokeTwf0g",
+                "id": "Ugy4I-9rclMJlgApEpJ4AaABAg",
+                "snippet": {
+                    "channelId": "UCuF5t0ziFf7QfoR9_xlti1w",
+                    "videoId": "oTZF9dXbkig",
+                    "textDisplay": "当日見れなかった画角からも楽しめて嬉しいです！",
+                    "textOriginal": "当日見れなかった画角からも楽しめて嬉しいです！",
+                    "authorDisplayName": "@hiromik-be2cc",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lOMOFHK7fYJsg8qokQI2GZJvsp1Xxl2p3tzcZdVMhy6kQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@hiromik-be2cc",
+                    "authorChannelId": {
+                        "value": "UCfK1CSglXjB8TorOtQxaVug"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-11-13T14:29:23Z",
+                    "updatedAt": "2025-11-13T14:29:23Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

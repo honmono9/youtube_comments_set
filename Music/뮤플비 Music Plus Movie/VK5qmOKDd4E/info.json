@@ -1,0 +1,100 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "GAxWZkHWrw7CSL-ag9xmdcClMb4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "bVg8mfC0dR0EjFYsO96cwlykJ-A",
+            "id": "VK5qmOKDd4E",
+            "snippet": {
+                "publishedAt": "2025-02-19T19:00:19Z",
+                "channelId": "UClbjf4pXBzXVk3ImyeBa__w",
+                "title": "[𝐃𝐎𝐎𝐌𝐄𝐑 𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 매일 눈물을 흘려야 살만한 세상",
+                "description": "0:03 d4vd - Here With Me - Doomerwave\n0:03 d4vd - Here With Me - Doomerwave\n\n4:40 Fools Garden - Lemontree (Doomer)\n4:40 Fools Garden - Lemontree (Doomer)\n\n8:03 Wiz Khalifa - See You Again Doomer Wave\n8:03 Wiz Khalifa - See You Again Doomer Wave\n\n13:06 d4vd - Romantic Homicide (doomer wave)\n13:06 d4vd - Romantic Homicide (doomer wave)\n\n15:43 Dido - Thank you ( doomer wave )\n15:43 Dido - Thank you ( doomer wave )\n\n19:32 Alone again\n19:32 Alone again",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VK5qmOKDd4E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VK5qmOKDd4E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VK5qmOKDd4E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VK5qmOKDd4E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VK5qmOKDd4E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뮤플비 Music Plus Movie",
+                "tags": [
+                    "팝송",
+                    "영화",
+                    "팝송가사해석",
+                    "가사해석",
+                    "두머 웨이브",
+                    "두머",
+                    "doomer",
+                    "우울팝송",
+                    "우울플리",
+                    "우울",
+                    "슬픈팝소으",
+                    "우울한노래",
+                    "우울한느낌노래",
+                    "우울한플리",
+                    "새벽플리",
+                    "슬픈",
+                    "sa",
+                    "sad",
+                    "die",
+                    "우울증"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[𝐃𝐎𝐎𝐌𝐄𝐑 𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 매일 눈물을 흘려야 살만한 세상",
+                    "description": "0:03 d4vd - Here With Me - Doomerwave\n0:03 d4vd - Here With Me - Doomerwave\n\n4:40 Fools Garden - Lemontree (Doomer)\n4:40 Fools Garden - Lemontree (Doomer)\n\n8:03 Wiz Khalifa - See You Again Doomer Wave\n8:03 Wiz Khalifa - See You Again Doomer Wave\n\n13:06 d4vd - Romantic Homicide (doomer wave)\n13:06 d4vd - Romantic Homicide (doomer wave)\n\n15:43 Dido - Thank you ( doomer wave )\n15:43 Dido - Thank you ( doomer wave )\n\n19:32 Alone again\n19:32 Alone again"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT24M21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "7876",
+                "likeCount": "224",
+                "favoriteCount": "0",
+                "commentCount": "27"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

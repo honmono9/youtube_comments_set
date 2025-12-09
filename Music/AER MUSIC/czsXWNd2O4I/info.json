@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "BlXOA-Vw7qC730-My-DEXODIci8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "aF0ZoeQz_1F8DA3SkegaI8bIRMI",
+            "id": "czsXWNd2O4I",
+            "snippet": {
+                "publishedAt": "2023-02-17T09:00:35Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[MV] 한동근 - 비밀 | 꼭두의 계절 OST Part.3",
+                "description": "한동근 - 비밀 | 꼭두의 계절 OST Part.3 \n2023.02.17 18PM (KST)\n\nMBC 금토드라마 ‘꼭두의 계절’ 세 번째 OST, 가수 한동근의 ‘비밀\n\n'비밀'은 가수 부활의 '비밀'을 드라마의 분위기와 어울리게 리메이크한 곡이다.\n\n원곡의 록 적인 요소와 폭발적인 감성을 \n서정적인 오케스트라 선율과 피아노 연주로 편곡해 \n시적인 아름다움을 극대화하여 재해석했다.\n\n특히, 3화 말미 엔딩곡으로 삽입되어 따뜻한 분위기를 조성하며 \n시청자들에게 큰 감동을 선사했다. \n\nLyrics by 김태원\nComposed by 김태원\nArranged by 서정진, 박경현\n\nGuitar by 정수완\nPiano by 서정진\nViolin by 박동석, 권혁민, 김우형, 김지민\nViola by 노원빈\nCello by 이현지\n\nStrings Arrangement by 김우상\n\nVocal recorded by 최자연 @ W SOUND\nStrings recorded by 이재명 @ JM Studio\nVocal Edited by 허은숙\nMixed by 조준성 (Assi. 최자연) @ W SOUND\nMastered by nior @ 해안선스튜디오\n\n#MBC드라마 #꼭두의계절 #OST \n#한동근 #비밀\n#아에르뮤직 #AERMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/czsXWNd2O4I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/czsXWNd2O4I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/czsXWNd2O4I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/czsXWNd2O4I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/czsXWNd2O4I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[MV] 한동근 - 비밀 | 꼭두의 계절 OST Part.3",
+                    "description": "한동근 - 비밀 | 꼭두의 계절 OST Part.3 \n2023.02.17 18PM (KST)\n\nMBC 금토드라마 ‘꼭두의 계절’ 세 번째 OST, 가수 한동근의 ‘비밀\n\n'비밀'은 가수 부활의 '비밀'을 드라마의 분위기와 어울리게 리메이크한 곡이다.\n\n원곡의 록 적인 요소와 폭발적인 감성을 \n서정적인 오케스트라 선율과 피아노 연주로 편곡해 \n시적인 아름다움을 극대화하여 재해석했다.\n\n특히, 3화 말미 엔딩곡으로 삽입되어 따뜻한 분위기를 조성하며 \n시청자들에게 큰 감동을 선사했다. \n\nLyrics by 김태원\nComposed by 김태원\nArranged by 서정진, 박경현\n\nGuitar by 정수완\nPiano by 서정진\nViolin by 박동석, 권혁민, 김우형, 김지민\nViola by 노원빈\nCello by 이현지\n\nStrings Arrangement by 김우상\n\nVocal recorded by 최자연 @ W SOUND\nStrings recorded by 이재명 @ JM Studio\nVocal Edited by 허은숙\nMixed by 조준성 (Assi. 최자연) @ W SOUND\nMastered by nior @ 해안선스튜디오\n\n#MBC드라마 #꼭두의계절 #OST \n#한동근 #비밀\n#아에르뮤직 #AERMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M9S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4263",
+                "likeCount": "240",
+                "favoriteCount": "0",
+                "commentCount": "35"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

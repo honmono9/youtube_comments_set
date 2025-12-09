@@ -1,0 +1,98 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "hL8dKQePk6VrHHscgS33hLIO9AI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "xUyu8_GnO5HsYZYpfqC_oEQthCM",
+            "id": "U27zQDqjcXo",
+            "snippet": {
+                "publishedAt": "2025-12-09T01:00:01Z",
+                "channelId": "UCEbRSmzD8xASRlYq2OLmCrg",
+                "title": "[9회/2차 선공개] ＂미치겠다＂ 대선배들의 곡을 180도 바꿔놓은 26호&59호🔥| 〈싱어게인4〉12/9(화) 밤 10시 30분 방송!",
+                "description": "[9회/2차 선공개] ＂미치겠다＂ 대선배들의 곡을 180도 바꿔놓은 26호&59호🔥\n#싱어게인4 #싱어게인4선공개 #편곡\n\n〈싱어게인4〉 12월 9일 화요일 밤 10시 30분 방송!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U27zQDqjcXo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U27zQDqjcXo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U27zQDqjcXo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/U27zQDqjcXo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/U27zQDqjcXo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JTBC Music",
+                "tags": [
+                    "싱어게인4",
+                    "무명가수전",
+                    "싱어게인4선공개",
+                    "싱어게인4_9회선공개",
+                    "심사위원",
+                    "태연",
+                    "코드쿤스트",
+                    "규현",
+                    "해리",
+                    "이승기",
+                    "임재범",
+                    "김이나",
+                    "백지영",
+                    "윤종신",
+                    "싱어게인탑텐",
+                    "싱어게인TOP10",
+                    "결정전",
+                    "TOP10결정전",
+                    "26호가수",
+                    "59호가수",
+                    "JTBC음악예능",
+                    "무명가수",
+                    "가수",
+                    "singagain4"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[9회/2차 선공개] ＂미치겠다＂ 대선배들의 곡을 180도 바꿔놓은 26호&59호🔥| 〈싱어게인4〉12/9(화) 밤 10시 30분 방송!",
+                    "description": "[9회/2차 선공개] ＂미치겠다＂ 대선배들의 곡을 180도 바꿔놓은 26호&59호🔥\n#싱어게인4 #싱어게인4선공개 #편곡\n\n〈싱어게인4〉 12월 9일 화요일 밤 10시 30분 방송!"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M36S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "128111",
+                "likeCount": "2060",
+                "favoriteCount": "0",
+                "commentCount": "455"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "zbe50G8SIPR-JqoR_KfFxPifLoc",
+        "id": "Ugxxwv2cEMLYzjLcKiN4AaABAg",
+        "snippet": {
+            "channelId": "UCFenHjfqkwDFalw73fHvjww",
+            "videoId": "hy7j79iuoOI",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "IyJl3Go0fYufaZGEIAGsDkNI3t8",
+                "id": "Ugxxwv2cEMLYzjLcKiN4AaABAg",
+                "snippet": {
+                    "channelId": "UCFenHjfqkwDFalw73fHvjww",
+                    "videoId": "hy7j79iuoOI",
+                    "textDisplay": "Nadherné❤",
+                    "textOriginal": "Nadherné❤",
+                    "authorDisplayName": "@sonacapkova",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/nSPuYGvfMc6YkG4ESRfDZnLwy1Pj3DMHNebRR4k-Gvvx4Q9AysAMNoNhfbdQatqEN0u-bpKoAg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@sonacapkova",
+                    "authorChannelId": {
+                        "value": "UCpl89mXN5HKnG4I66oHyyvg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-26T20:08:50Z",
+                    "updatedAt": "2025-11-26T20:08:50Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

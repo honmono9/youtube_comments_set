@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "vNPXmS9iyw1mGLLyMf__53wpL5U",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "v3KDF_aJE_N5Qxk1HqD0MYJU4bQ",
+            "id": "wJiF0k-ZLE8",
+            "snippet": {
+                "publishedAt": "2017-03-03T09:04:31Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "[ALiEN Dance Studio] Zara Larsson - Ain't My Fault (Choreography by Luna Hyun)",
+                "description": "ALiEN DANCE STUDIO's 2017.01 Choreography.\nChoreography by LUNA HYUN as Team Leader of 'ALiEN'\nDance Arrange by Euanflow\nPerform by A.YOUTH from ALiEN DANCE STUDIO\nFilm by ALiEN DANCE STUDIO\n\n의상협찬 by 아이스크림12(icecream12.com)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wJiF0k-ZLE8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wJiF0k-ZLE8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wJiF0k-ZLE8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wJiF0k-ZLE8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wJiF0k-ZLE8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "tags": [
+                    "에일리언 댄스 스튜디오",
+                    "Zara Larsson",
+                    "Ain't My Fault",
+                    "Alien Dance Studio",
+                    "choreography"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[ALiEN Dance Studio] Zara Larsson - Ain't My Fault (Choreography by Luna Hyun)",
+                    "description": "ALiEN DANCE STUDIO's 2017.01 Choreography.\nChoreography by LUNA HYUN as Team Leader of 'ALiEN'\nDance Arrange by Euanflow\nPerform by A.YOUTH from ALiEN DANCE STUDIO\nFilm by ALiEN DANCE STUDIO\n\n의상협찬 by 아이스크림12(icecream12.com)"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "30264095",
+                "likeCount": "350019",
+                "favoriteCount": "0",
+                "commentCount": "2275"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

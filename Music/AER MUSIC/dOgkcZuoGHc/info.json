@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "qGvM3cXTBdyA-Lj3PyXAvWBJ304",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "xTdviKDvMpoq4IjB2mO0qou1nAs",
+            "id": "dOgkcZuoGHc",
+            "snippet": {
+                "publishedAt": "2023-02-03T09:00:12Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[MV] 김정현 - 난 말야 | 꼭두의 계절 OST Part.1",
+                "description": "김정현 - 난 말야 | 꼭두의 계절 OST Part.1\n2023.02.03 6PM (KST)\n\n\nMBC 금토드라마 ‘꼭두의 계절’의 주인공 ‘꼭두’와 ‘도진우’ 역으로 열연 중인 배우 김정현이 부른 OST ‘난 말야’\n\n첫 번째 트랙 ‘난 말야’는 프로듀싱 팀 서씨네가 작사와 작곡을 맡았으며, \n피아노 선율과 어쿠스틱한 기타, 서정적인 스트링 편곡이 조화로운 발라드 곡이다. \n덤덤하면서도 힘 있는 김정현의 목소리와 솔직한 가사가 어우러져 그의 애절함이 잘 표현되었다.\n\n\nLyrics by 서씨네\nComposed by 서씨네\nArranged by 박경현\n\nGuitar by 정수완\nPiano by 박경현\nStrings by 강민훈 @ Aim Strings\n\nVocal directed by 모상훈\n\nRecorded and edited by 온성윤 @ s87studio\nMixed by 松田龍太(Lyuta Mazda) @ studio Serendipity\nMastered by nior @ 해안선스튜디오\n\n\n#MBC드라마 #꼭두의계절 #OST \n#김정현 #난말야 \n#아에르뮤직 #AERMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dOgkcZuoGHc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dOgkcZuoGHc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dOgkcZuoGHc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dOgkcZuoGHc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dOgkcZuoGHc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[MV] 김정현 - 난 말야 | 꼭두의 계절 OST Part.1",
+                    "description": "김정현 - 난 말야 | 꼭두의 계절 OST Part.1\n2023.02.03 6PM (KST)\n\n\nMBC 금토드라마 ‘꼭두의 계절’의 주인공 ‘꼭두’와 ‘도진우’ 역으로 열연 중인 배우 김정현이 부른 OST ‘난 말야’\n\n첫 번째 트랙 ‘난 말야’는 프로듀싱 팀 서씨네가 작사와 작곡을 맡았으며, \n피아노 선율과 어쿠스틱한 기타, 서정적인 스트링 편곡이 조화로운 발라드 곡이다. \n덤덤하면서도 힘 있는 김정현의 목소리와 솔직한 가사가 어우러져 그의 애절함이 잘 표현되었다.\n\n\nLyrics by 서씨네\nComposed by 서씨네\nArranged by 박경현\n\nGuitar by 정수완\nPiano by 박경현\nStrings by 강민훈 @ Aim Strings\n\nVocal directed by 모상훈\n\nRecorded and edited by 온성윤 @ s87studio\nMixed by 松田龍太(Lyuta Mazda) @ studio Serendipity\nMastered by nior @ 해안선스튜디오\n\n\n#MBC드라마 #꼭두의계절 #OST \n#김정현 #난말야 \n#아에르뮤직 #AERMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "29228",
+                "likeCount": "1067",
+                "favoriteCount": "0",
+                "commentCount": "147"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

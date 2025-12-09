@@ -1,0 +1,62 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "f1r1oj9dnNRpVBbsGStRNStxbsA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "W4WHGMyh7BPcYG74O3IFmTzZ-_U",
+            "id": "e8h_J0xKF5U",
+            "snippet": {
+                "publishedAt": "2023-08-22T17:21:15Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "Wagi Lagi: Gáling NAMCYA, Balik Musika",
+                "description": "Watch and experience the mesmerizing performances once again from the 'Wagi Lagi: Gáling NAMCYA, Balik Musika' concert held on August 14, 2023, at the Metropolitan Theater✨\n#NAMCYA2023 #GintongPamana #gálingNAMCYAgalíngNAMCYA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e8h_J0xKF5U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e8h_J0xKF5U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e8h_J0xKF5U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "fil",
+                "localized": {
+                    "title": "Wagi Lagi: Gáling NAMCYA, Balik Musika",
+                    "description": "Watch and experience the mesmerizing performances once again from the 'Wagi Lagi: Gáling NAMCYA, Balik Musika' concert held on August 14, 2023, at the Metropolitan Theater✨\n#NAMCYA2023 #GintongPamana #gálingNAMCYAgalíngNAMCYA"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2H5M21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1848",
+                "likeCount": "23",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

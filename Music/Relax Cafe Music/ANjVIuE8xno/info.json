@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "LdbZ9Fjm26hmG7INO9Q-a8d0-R0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "AUiyRwbVi8p4ayf3Ing5H_GNyuU",
+            "id": "ANjVIuE8xno",
+            "snippet": {
+                "publishedAt": "2022-08-07T13:00:04Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Smooth August Jazz - Relax Summer Jazz Piano and Saxophone Music",
+                "description": "Instrumental Jazz and Bossa Nova music by Richard Freeman.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#smoothjazz #jazz #august \n\nl091",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ANjVIuE8xno/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ANjVIuE8xno/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ANjVIuE8xno/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ANjVIuE8xno/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ANjVIuE8xno/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "tags": [
+                    "smooth jazz",
+                    "august jazz",
+                    "relax jazz",
+                    "summer time jazz",
+                    "piano jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Smooth August Jazz - Relax Summer Jazz Piano and Saxophone Music",
+                    "description": "Instrumental Jazz and Bossa Nova music by Richard Freeman.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#smoothjazz #jazz #august \n\nl091"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "7879",
+                "likeCount": "129",
+                "favoriteCount": "0",
+                "commentCount": "11"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

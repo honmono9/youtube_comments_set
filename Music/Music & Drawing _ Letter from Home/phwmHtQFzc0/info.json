@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "T6aXWgONuZlg51rnjYoZZ_27iYE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "mFHOsmEXPjTvoVWoG3DhoHLdwjI",
+            "id": "phwmHtQFzc0",
+            "snippet": {
+                "publishedAt": "2025-09-29T11:00:07Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Nostalgic Saxophone Jazz Night | Autumn in Paris. Relaxing Smooth Jazz Music",
+                "description": "Relax with the warm and nostalgic sounds of vintage saxophone jazz.  \nSet against the romantic Paris night, with the Eiffel Tower shining under the moonlight,  \nthis playlist brings you timeless jazz to unwind, study, or enjoy with a cup of coffee.  \nLet the saxophone guide you through the cozy streets of Paris and into a vintage café atmosphere.  \nPerfect for late nights, relaxation, and those who love the golden age of jazz.  \n\n#saxophonejazz #vintagejazz #parisjazz #nightjazz #relaxingjazz #romanticjazz #jazz #eiffeltowerjazz #cafémusic #smoothjazz #saxophonemusic #jazzplaylist #nostalgicjazz #cafejazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/phwmHtQFzc0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/phwmHtQFzc0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/phwmHtQFzc0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/phwmHtQFzc0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/phwmHtQFzc0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "rain jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "saxophone jazz",
+                    "paris jazz",
+                    "cafe jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Nostalgic Saxophone Jazz Night | Autumn in Paris. Relaxing Smooth Jazz Music",
+                    "description": "Relax with the warm and nostalgic sounds of vintage saxophone jazz.  \nSet against the romantic Paris night, with the Eiffel Tower shining under the moonlight,  \nthis playlist brings you timeless jazz to unwind, study, or enjoy with a cup of coffee.  \nLet the saxophone guide you through the cozy streets of Paris and into a vintage café atmosphere.  \nPerfect for late nights, relaxation, and those who love the golden age of jazz.  \n\n#saxophonejazz #vintagejazz #parisjazz #nightjazz #relaxingjazz #romanticjazz #jazz #eiffeltowerjazz #cafémusic #smoothjazz #saxophonemusic #jazzplaylist #nostalgicjazz #cafejazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1107",
+                "likeCount": "21",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

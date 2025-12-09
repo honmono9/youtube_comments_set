@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "V1Vy-Nb8Xj6sYybCTUnBdFksRpk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Xl47lYux81ttjRLXLpVO4Wv614M",
+            "id": "lenr92jnWlQ",
+            "snippet": {
+                "publishedAt": "2025-09-11T23:01:00Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "Cafe Playlist ☕ 아침에 그냥 틀어두세요 | 편하게 듣기 좋은 카페팝송 플레이리스트 🎶🌿",
+                "description": "아침의 따뜻한 햇살과 함께 듣기 좋은 카페팝송 🎶☕\n차분하고 기분 좋은 선율로 하루를 시작해보세요.\n공부할 때, 일할 때, 혹은 여유로운 순간에 배경음악으로 완벽하게 어울립니다 🌿✨\n\n⸻\n\n\n\n#카페플레이리스트 #아침팝송 #카페음악 #편안한음악 #모닝팝 #공부할때좋은노래 #작업용음악 #집중할때듣기좋은노래 #감성팝송 #카페팝송 #기분좋은아침 #배경음악 #힐링음악 #편하게듣기좋은노래 #하루시작플리 #코지플레이리스트 #CafePlaylist #MorningVibes #CafeMusic #RelaxingPlaylist",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lenr92jnWlQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lenr92jnWlQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lenr92jnWlQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lenr92jnWlQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lenr92jnWlQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Cafe Playlist ☕ 아침에 그냥 틀어두세요 | 편하게 듣기 좋은 카페팝송 플레이리스트 🎶🌿",
+                    "description": "아침의 따뜻한 햇살과 함께 듣기 좋은 카페팝송 🎶☕\n차분하고 기분 좋은 선율로 하루를 시작해보세요.\n공부할 때, 일할 때, 혹은 여유로운 순간에 배경음악으로 완벽하게 어울립니다 🌿✨\n\n⸻\n\n\n\n#카페플레이리스트 #아침팝송 #카페음악 #편안한음악 #모닝팝 #공부할때좋은노래 #작업용음악 #집중할때듣기좋은노래 #감성팝송 #카페팝송 #기분좋은아침 #배경음악 #힐링음악 #편하게듣기좋은노래 #하루시작플리 #코지플레이리스트 #CafePlaylist #MorningVibes #CafeMusic #RelaxingPlaylist"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2H52M51S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "45110",
+                "likeCount": "190",
+                "favoriteCount": "0",
+                "commentCount": "14"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "WJ7OdxDTIIypODM3KsEX8ZdYpVM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "RK0wqngTWr7cDcbk-QGCxtxCmms",
+            "id": "OQfcwS2eEaw",
+            "snippet": {
+                "publishedAt": "2024-11-06T05:07:43Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "MPMG MUSIC VINYL Playlist_241106",
+                "description": "MPMG MUSIC VINYL Playlist_241106\n\n00:00 THE SOLUTIONS - Lines\n04:38 Lacuna(라쿠나) - 나의 거짓말은 새벽 늦게 자는 것\n09:24 노리플라이(no reply) - 반짝이고 있어\n13:03 나루 - 천왕성으로\n15:47 소란 - 고백직전\n19:02 쏜애플 - 서울\n25:06 터치드 - 야경 (inst) / Vinyl Only\n28:40 유다빈밴드 - 우리의 밤 (feat. 유승우)\n32:30 SURL - 열기구",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OQfcwS2eEaw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OQfcwS2eEaw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OQfcwS2eEaw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OQfcwS2eEaw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OQfcwS2eEaw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "tags": [
+                    "해피로봇레코드",
+                    "민트페이퍼",
+                    "장희원"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "MPMG MUSIC VINYL Playlist_241106",
+                    "description": "MPMG MUSIC VINYL Playlist_241106\n\n00:00 THE SOLUTIONS - Lines\n04:38 Lacuna(라쿠나) - 나의 거짓말은 새벽 늦게 자는 것\n09:24 노리플라이(no reply) - 반짝이고 있어\n13:03 나루 - 천왕성으로\n15:47 소란 - 고백직전\n19:02 쏜애플 - 서울\n25:06 터치드 - 야경 (inst) / Vinyl Only\n28:40 유다빈밴드 - 우리의 밤 (feat. 유승우)\n32:30 SURL - 열기구"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT36M46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "957",
+                "likeCount": "36",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

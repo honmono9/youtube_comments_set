@@ -1,0 +1,115 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Dr8MceO8KoW-QMkgcl9eEz8CmPY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "gR8S3-fC3tP7OQeV5ILuk8Un2XA",
+            "id": "OTjfOnjHS3c",
+            "snippet": {
+                "publishedAt": "2025-07-08T10:30:30Z",
+                "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+                "title": "[브이로그] 언제나 사역을 여행처럼",
+                "description": "브이로그 입니다.\n#염평안 #조찬미 #임성규 @sungQ\n#같이걸어가기\n\n#브이로그 \n#사역자\n#기독교\n#찬양",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OTjfOnjHS3c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OTjfOnjHS3c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OTjfOnjHS3c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OTjfOnjHS3c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OTjfOnjHS3c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HISKINGDOM MUSIC Official",
+                "tags": [
+                    "찬양사역자",
+                    "찬양사역",
+                    "ccm",
+                    "찬양",
+                    "찬양추천",
+                    "염평안",
+                    "조찬미",
+                    "임성규",
+                    "요게벳의노래",
+                    "같이걸어가기",
+                    "손경민",
+                    "피아워십",
+                    "마커스",
+                    "어노인팅",
+                    "예람워십",
+                    "팀룩워십",
+                    "주를 찾는 모든 이들이",
+                    "교회",
+                    "교회 찬양",
+                    "명성교회",
+                    "우미쉘",
+                    "만나교회",
+                    "브이로그",
+                    "유부남의 여행",
+                    "이 아이들을 만나주세요",
+                    "함께 지어져 가는 교회",
+                    "함께 지어져가는 교회",
+                    "함께 지어져가네",
+                    "특송",
+                    "특송 추천",
+                    "그곳에",
+                    "기독교 브이로그",
+                    "목사 사모",
+                    "크리스마스",
+                    "장한이",
+                    "하니",
+                    "은혜",
+                    "행복",
+                    "극동방송",
+                    "행저즐라",
+                    "사역"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[브이로그] 언제나 사역을 여행처럼",
+                    "description": "브이로그 입니다.\n#염평안 #조찬미 #임성규 @sungQ\n#같이걸어가기\n\n#브이로그 \n#사역자\n#기독교\n#찬양"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT12M41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "994",
+                "likeCount": "43",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

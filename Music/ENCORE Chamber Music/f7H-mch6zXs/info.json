@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "JodtdIYupEwAm9FKK-nmILSLjQ0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "bwLdUGHUtHoDO_yHFOQmNSLOkl4",
+            "id": "f7H-mch6zXs",
+            "snippet": {
+                "publishedAt": "2019-05-16T19:21:28Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "062418 Schumann String Quartet No.3 in a minor, Op. 41/3",
+                "description": "ENCORE Chamber Music 2018 Season 'Somewhere Over the Rainbow' String Quartet Intensive Blooming Artists Concert\n\nTerremoto Quartet \nYu-Ming Andrew Ma, violin\nSherri Zhang, violin\nMicaela Murphy, viola\nKyle Anderson, cello",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f7H-mch6zXs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f7H-mch6zXs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f7H-mch6zXs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/f7H-mch6zXs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/f7H-mch6zXs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "062418 Schumann String Quartet No.3 in a minor, Op. 41/3",
+                    "description": "ENCORE Chamber Music 2018 Season 'Somewhere Over the Rainbow' String Quartet Intensive Blooming Artists Concert\n\nTerremoto Quartet \nYu-Ming Andrew Ma, violin\nSherri Zhang, violin\nMicaela Murphy, viola\nKyle Anderson, cello"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT5M29S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "517",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "7tVYPuD3iVhViEh57J3p4Fh5rZA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ECEIvqeU-JFZdbdQBZiLaGAI7BI",
+            "id": "4g7Cn_KIpl4",
+            "snippet": {
+                "publishedAt": "2025-05-28T12:34:18Z",
+                "channelId": "UCk--BIdDhezTY294iDOwunQ",
+                "title": "피아노를 정말 섬세하게 치는 방법",
+                "description": "네이버에 뮤라벨 성인전문음악학원을 검색해보세요\n\n뮤라벨 성인전문음악학원 강남본점: https://naver.me/5gidwwAh\n뮤라벨 성인전문음악학원 천호역점: https://naver.me/GnCRUoWq\n뮤라벨 성인전문음악학원 분당수지점: https://naver.me/5BvoDzk1\n뮤라벨 성인전문음악학원 선릉점: https://naver.me/5QuiFDvB\n\n▫ 1:1 프라이빗 레슨\n▫ 연습실 무제한 제공\n▫ 피아노•성악•뮤지컬•바이올린•재즈피아노 수강권 내 교차수강\n▫ 와인클래스•맥주파티•MT등 다양한 친목모임\n▫ 학원 자체 정기연주회 개최\n\n-\n✔ 운영시간: 연중무휴 06시~24시 (상담가능시간 14시~22시)\n✔ instagram: https://www.instagram.com/music_life_balance_\n✔ http://musiclifebalance.com\n\n강남본원(010-2316-9308) 강남구 강남대로 94길 9, 4층 (교대이층집건물)\n천호역점(010-7629-9308) 강동구 천호대로 1037, 3층 (스타벅스건물)\n분당수지점(010-2835-9308) 수지구 풍덕천로129번길, 2층\n선릉점(010-8078-9308)  서울 강남구 테헤란로53길 14, 2층(시골빈대떡건물)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4g7Cn_KIpl4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4g7Cn_KIpl4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4g7Cn_KIpl4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4g7Cn_KIpl4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4g7Cn_KIpl4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뮤라벨 Music Life Balance",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "피아노를 정말 섬세하게 치는 방법",
+                    "description": "네이버에 뮤라벨 성인전문음악학원을 검색해보세요\n\n뮤라벨 성인전문음악학원 강남본점: https://naver.me/5gidwwAh\n뮤라벨 성인전문음악학원 천호역점: https://naver.me/GnCRUoWq\n뮤라벨 성인전문음악학원 분당수지점: https://naver.me/5BvoDzk1\n뮤라벨 성인전문음악학원 선릉점: https://naver.me/5QuiFDvB\n\n▫ 1:1 프라이빗 레슨\n▫ 연습실 무제한 제공\n▫ 피아노•성악•뮤지컬•바이올린•재즈피아노 수강권 내 교차수강\n▫ 와인클래스•맥주파티•MT등 다양한 친목모임\n▫ 학원 자체 정기연주회 개최\n\n-\n✔ 운영시간: 연중무휴 06시~24시 (상담가능시간 14시~22시)\n✔ instagram: https://www.instagram.com/music_life_balance_\n✔ http://musiclifebalance.com\n\n강남본원(010-2316-9308) 강남구 강남대로 94길 9, 4층 (교대이층집건물)\n천호역점(010-7629-9308) 강동구 천호대로 1037, 3층 (스타벅스건물)\n분당수지점(010-2835-9308) 수지구 풍덕천로129번길, 2층\n선릉점(010-8078-9308)  서울 강남구 테헤란로53길 14, 2층(시골빈대떡건물)"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "39366",
+                "likeCount": "1467",
+                "favoriteCount": "0",
+                "commentCount": "33"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

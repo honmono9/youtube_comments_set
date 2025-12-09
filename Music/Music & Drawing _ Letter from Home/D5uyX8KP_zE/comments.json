@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "M4JSSLr5U2XktMfCxHj6LSErEwU",
+        "id": "Ugyz440Nbjl18GKDzR14AaABAg",
+        "snippet": {
+            "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+            "videoId": "D5uyX8KP_zE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "d_R4WXx1Cn4gJ5bxiZjAKFN7T1o",
+                "id": "Ugyz440Nbjl18GKDzR14AaABAg",
+                "snippet": {
+                    "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                    "videoId": "D5uyX8KP_zE",
+                    "textDisplay": "Nastrojowa muzyka i opadające liście! Piękna kompozycja!👏☺️",
+                    "textOriginal": "Nastrojowa muzyka i opadające liście! Piękna kompozycja!👏☺️",
+                    "authorDisplayName": "@aloryt",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mBDPTjSST3uzjDYUH-oMCrtfhSMTHSxruu8RWiGuTfPA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@aloryt",
+                    "authorChannelId": {
+                        "value": "UCe24vR5n8ZcBvSTS-vIX89g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-09-17T17:40:20Z",
+                    "updatedAt": "2025-09-17T17:40:20Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 3,
+            "isPublic": true
+        }
+    }
+]

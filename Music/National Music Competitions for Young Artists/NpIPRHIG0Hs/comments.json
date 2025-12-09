@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "AA400EA9iYBIrm-dOSYfXOjSOzk",
+        "id": "UgxS03AGkL10XJeRRaN4AaABAg",
+        "snippet": {
+            "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+            "videoId": "NpIPRHIG0Hs",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "_XqZbcPo68FsX87C9X-ioYoNr_I",
+                "id": "UgxS03AGkL10XJeRRaN4AaABAg",
+                "snippet": {
+                    "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                    "videoId": "NpIPRHIG0Hs",
+                    "textDisplay": "too much politics here. you dont go to their workshop you never win.",
+                    "textOriginal": "too much politics here. you dont go to their workshop you never win.",
+                    "authorDisplayName": "@walangbigas208",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lVWraBn0a1sEA_1KpW2SM4uJwy_8yOlTYSuYPSgISNHCLQwyyu6T_DJvcGl5Wq2SmwtA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@walangbigas208",
+                    "authorChannelId": {
+                        "value": "UCtwey1UjtFtY6hcKpMnF9Lw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-10-08T19:35:10Z",
+                    "updatedAt": "2025-10-08T19:35:10Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "94lX4v8ML-5zW_1IRpooOqAz5GI",
+        "id": "UgyKAHe8MZSI8ntLw5J4AaABAg",
+        "snippet": {
+            "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+            "videoId": "NpIPRHIG0Hs",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "GVEAIPdPP3ZMfanbmeU4axIesas",
+                "id": "UgyKAHe8MZSI8ntLw5J4AaABAg",
+                "snippet": {
+                    "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                    "videoId": "NpIPRHIG0Hs",
+                    "textDisplay": "ganda mo nikki",
+                    "textOriginal": "ganda mo nikki",
+                    "authorDisplayName": "@JohnWalterSacley",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/u3TmBE0g6TGrzcw8oyWyhqur6LMk8ZFIlDo_oigPOiTfmsDhFRXc3O2cEEuFInT_DkQr2lRc=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@JohnWalterSacley",
+                    "authorChannelId": {
+                        "value": "UCKVda8wWyKl7CRyJlx9BggA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2024-12-18T06:26:12Z",
+                    "updatedAt": "2024-12-18T06:26:12Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

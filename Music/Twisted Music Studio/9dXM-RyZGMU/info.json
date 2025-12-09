@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "DUmXhG-s1D-2rEAnHz8eeImSIRY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "wO8C9XANe4_1tDHBjfJ0jYo9UCw",
+            "id": "9dXM-RyZGMU",
+            "snippet": {
+                "publishedAt": "2025-12-01T20:00:08Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Stone Temple Pilots - Vasoline | 70s Soul/Funk AI Cover",
+                "description": "Vasoline by Stone Temp Pilots twisted into Soul Funk\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nOne time a thing occurred to me\nWhat's real, and what's for sale?\nBlew a kiss and tried to take it home\n\nIsn't you, isn't me\nSearch for things that you can't see\nGoing blind, out of reach\nSomewhere in the Vasoline\n\nTwo times and it has rendered me\nPunch drunk and without bail\nThink I'd be safer all alone\n\nFlies in the Vasoline we are\nSometimes it blows my mind\nKeep getting stuck here all the time\n\nIsn't you, isn't me\nSearch for things that you can't see\nGoing blind, out of reach\nSomewhere in the Vasoline\n\nYou'll see the look and you'll see the lies\nYou'll eat the lies, and you will.\n\nFlies in the Vasoline we are\nSometimes it blows my mind\nKeep getting stuck here all the time\n\nIt isn't you, isn't me\nSearch for things that you can't see\nGoing blind, out of reach",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9dXM-RyZGMU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9dXM-RyZGMU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9dXM-RyZGMU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9dXM-RyZGMU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9dXM-RyZGMU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Stone Temple Pilots - Vasoline | 70s Soul/Funk AI Cover",
+                    "description": "Vasoline by Stone Temp Pilots twisted into Soul Funk\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nOne time a thing occurred to me\nWhat's real, and what's for sale?\nBlew a kiss and tried to take it home\n\nIsn't you, isn't me\nSearch for things that you can't see\nGoing blind, out of reach\nSomewhere in the Vasoline\n\nTwo times and it has rendered me\nPunch drunk and without bail\nThink I'd be safer all alone\n\nFlies in the Vasoline we are\nSometimes it blows my mind\nKeep getting stuck here all the time\n\nIsn't you, isn't me\nSearch for things that you can't see\nGoing blind, out of reach\nSomewhere in the Vasoline\n\nYou'll see the look and you'll see the lies\nYou'll eat the lies, and you will.\n\nFlies in the Vasoline we are\nSometimes it blows my mind\nKeep getting stuck here all the time\n\nIt isn't you, isn't me\nSearch for things that you can't see\nGoing blind, out of reach"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1561",
+                "likeCount": "60",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

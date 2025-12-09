@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "BeeP8hfHw9evwO1ulaKlD5il5ko",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ORcVfuU6887GadaYCMzznx45_xE",
+            "id": "pVCm8bSer7g",
+            "snippet": {
+                "publishedAt": "2022-08-03T07:35:46Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "듣는 순간 여기가 여름 해변가🏖 #영밤스 X #오드리미카 신곡",
+                "description": "😎Young Bombs - Kinda Funny (ft. Audrey Mika)\n\n#영밤스 #YoungBombs #오드리미카 #AudreyMika #KindaFunny #음악추천 #추천음악 #파티",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pVCm8bSer7g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pVCm8bSer7g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pVCm8bSer7g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "tags": [
+                    "영 밤스",
+                    "Young Bombs",
+                    "Audrey Mika",
+                    "오드리 미카",
+                    "Kinda Funny",
+                    "음악 추천",
+                    "추천 음악",
+                    "추천 팝송",
+                    "팝송 추천",
+                    "최신 팝",
+                    "최신 팝송",
+                    "Dance",
+                    "파티",
+                    "댄스",
+                    "신나는 노래",
+                    "최신 음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "듣는 순간 여기가 여름 해변가🏖 #영밤스 X #오드리미카 신곡",
+                    "description": "😎Young Bombs - Kinda Funny (ft. Audrey Mika)\n\n#영밤스 #YoungBombs #오드리미카 #AudreyMika #KindaFunny #음악추천 #추천음악 #파티"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "940",
+                "likeCount": "15",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

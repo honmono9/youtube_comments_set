@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "DloxsmeFmrQpRuBgQDgrhh2_3u0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "GkH1xRFM3zVjvRn4OfVgiGz0PNE",
+            "id": "oPGTBX-no78",
+            "snippet": {
+                "publishedAt": "2025-11-04T21:50:00Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Nirvana - In Bloom | Soul Rock AI Cover",
+                "description": "In Bloom by Nirvana twisted into Soul Rock\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nSell the kids for food\nWeather changes moods\nSpring is here again\nReproductive glands\n\nHe's the one who likes all our pretty songs\nAnd he likes to sing along and he likes to shoot his gun\nBut he knows not what it means\nKnows not what it means, and I say\nHe's the one who likes all our pretty songs\nAnd he likes to sing along and he likes to shoot his gun\nBut he knows not what it means, knows not what it means, and I say, \"Yeah\"\n\nWe can have some more\nNature is a whore\nBruises on the fruit\nTender age in bloom\n\nHe's the one who likes all our pretty songs\nAnd he likes to sing along and he likes to shoot his gun\nBut he knows not what it means\nKnows not what it means, and I say\nHe's the one who likes all our pretty songs\nAnd he likes to sing along and he likes to shoot his gun\nBut he knows not what it means\nKnows not what it means, and I say, \"Yeah\"\n\nHe's the one who likes all our pretty songs\nAnd he likes to sing along and he likes to shoot his gun\nBut he knows not what it means\nKnows not what it means, and I say\nHe's the one who likes all our pretty songs\nAnd he likes to sing along and he likes to shoot his gun\nBut he knows not what it means\nKnows not what it means\nKnows not what it means\nKnows not what it means, and I say, \"Yeah\"",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oPGTBX-no78/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oPGTBX-no78/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oPGTBX-no78/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oPGTBX-no78/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oPGTBX-no78/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Nirvana - In Bloom | Soul Rock AI Cover",
+                    "description": "In Bloom by Nirvana twisted into Soul Rock\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nSell the kids for food\nWeather changes moods\nSpring is here again\nReproductive glands\n\nHe's the one who likes all our pretty songs\nAnd he likes to sing along and he likes to shoot his gun\nBut he knows not what it means\nKnows not what it means, and I say\nHe's the one who likes all our pretty songs\nAnd he likes to sing along and he likes to shoot his gun\nBut he knows not what it means, knows not what it means, and I say, \"Yeah\"\n\nWe can have some more\nNature is a whore\nBruises on the fruit\nTender age in bloom\n\nHe's the one who likes all our pretty songs\nAnd he likes to sing along and he likes to shoot his gun\nBut he knows not what it means\nKnows not what it means, and I say\nHe's the one who likes all our pretty songs\nAnd he likes to sing along and he likes to shoot his gun\nBut he knows not what it means\nKnows not what it means, and I say, \"Yeah\"\n\nHe's the one who likes all our pretty songs\nAnd he likes to sing along and he likes to shoot his gun\nBut he knows not what it means\nKnows not what it means, and I say\nHe's the one who likes all our pretty songs\nAnd he likes to sing along and he likes to shoot his gun\nBut he knows not what it means\nKnows not what it means\nKnows not what it means\nKnows not what it means, and I say, \"Yeah\""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "729",
+                "likeCount": "25",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

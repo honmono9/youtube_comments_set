@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Z-XTrT1qocm4Fe1PoR-nKd2Y8bU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Y0skUDlOuYKC2VNQlhQJFmItwbg",
+            "id": "GOIiRYuZES8",
+            "snippet": {
+                "publishedAt": "2021-12-31T22:55:49Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "겨울 아침을 닮은 잔잔한 팝송 with 알프레드 시슬레",
+                "description": "살롱 드 맬러리 - 명화와 음악 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd_noxcKl6MQfrZHr9PFAhWF\n\n영상에서 소개된 알프레드 시슬레(Alfred Sisley) 의 작품\n- Banks of the Loing, 1891\n- Mooring Lines, the Effect of Snow at Saint-Cloud, 1879\n- Snowy Weather at Veneux-Nadon, 1880\n- The Seine at Bougival in Winter, 1872\n- Snow Effect in Louveciennes, 1874\n- Early Snow at Louveciennes, 1870\n- View of the Thames Charing Cross Bridge, 1874\n- The Watering Place at Marly-le-Roi, 1875",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GOIiRYuZES8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GOIiRYuZES8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GOIiRYuZES8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GOIiRYuZES8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GOIiRYuZES8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "겨울 팝송",
+                    "잔잔한 팝송",
+                    "겨울 아침",
+                    "잔잔한 노래",
+                    "아침 팝송",
+                    "팝송 모음",
+                    "겨울 노래",
+                    "playlist",
+                    "relax pop song",
+                    "morning pop song",
+                    "winter songs",
+                    "새해 팝송"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "겨울 아침을 닮은 잔잔한 팝송 with 알프레드 시슬레",
+                    "description": "살롱 드 맬러리 - 명화와 음악 재생목록: https://youtube.com/playlist?list=PLQGOsOnYSzd_noxcKl6MQfrZHr9PFAhWF\n\n영상에서 소개된 알프레드 시슬레(Alfred Sisley) 의 작품\n- Banks of the Loing, 1891\n- Mooring Lines, the Effect of Snow at Saint-Cloud, 1879\n- Snowy Weather at Veneux-Nadon, 1880\n- The Seine at Bougival in Winter, 1872\n- Snow Effect in Louveciennes, 1874\n- Early Snow at Louveciennes, 1870\n- View of the Thames Charing Cross Bridge, 1874\n- The Watering Place at Marly-le-Roi, 1875"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT26M40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "54097",
+                "likeCount": "1070",
+                "favoriteCount": "0",
+                "commentCount": "76"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

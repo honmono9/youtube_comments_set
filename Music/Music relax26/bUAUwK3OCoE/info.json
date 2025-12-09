@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "xsublY6MYbSEUPKJ6qrUEYwoP_w",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "wZ36hpqwi4DyLIifoi_BFCT7e-s",
+            "id": "bUAUwK3OCoE",
+            "snippet": {
+                "publishedAt": "2025-05-10T11:00:58Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "ดนตรีสดๆ รวมเพลงเพื่อชีวิต ลูกทุ่งเพราะๆ มันส์ๆ หลากหลายอารมณ์เพลง โดย วงหมูตุ๋น",
+                "description": "ดนตรีสดๆ รวมเพลงเพื่อชีวิต ลูกทุ่งเพราะๆ มันส์ๆ หลากหลายอารมณ์เพลง โดย วงหมูตุ๋น\n#เพลงเพื่อชีวิตซึ้งๆ #ดนตรีสด3ช่า #เพื่อชีวิตลูกทุ่ง",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bUAUwK3OCoE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bUAUwK3OCoE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bUAUwK3OCoE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bUAUwK3OCoE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "tags": [
+                    "ดนตรีสดๆ รวมเพลงเพื่อชีวิต ลูกทุ่งเพราะๆ มันส์ๆ หลากหลายอารมณ์เพลง โดย วงหมูตุ๋น",
+                    "ดนตรีสดๆ",
+                    "เพลงเพื่อชีวิตเพราะๆ",
+                    "เพลงเพื่อชีวิตมันส์ๆ",
+                    "วงหมูตุ๋น",
+                    "วงปากอง",
+                    "วงข้าวเปลือก",
+                    "วงฟู"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "ดนตรีสดๆ รวมเพลงเพื่อชีวิต ลูกทุ่งเพราะๆ มันส์ๆ หลากหลายอารมณ์เพลง โดย วงหมูตุ๋น",
+                    "description": "ดนตรีสดๆ รวมเพลงเพื่อชีวิต ลูกทุ่งเพราะๆ มันส์ๆ หลากหลายอารมณ์เพลง โดย วงหมูตุ๋น\n#เพลงเพื่อชีวิตซึ้งๆ #ดนตรีสด3ช่า #เพื่อชีวิตลูกทุ่ง"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT45M40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9044",
+                "likeCount": "112",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

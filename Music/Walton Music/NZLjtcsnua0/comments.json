@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "aRiNjcXLIj5Fu7Zg6JPneDwalOM",
+        "id": "UgyRbhSyVAPBsju0vVZ4AaABAg",
+        "snippet": {
+            "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+            "videoId": "NZLjtcsnua0",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "j-nRO5JkmBHivl5sJfhFAymxQRA",
+                "id": "UgyRbhSyVAPBsju0vVZ4AaABAg",
+                "snippet": {
+                    "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                    "videoId": "NZLjtcsnua0",
+                    "textDisplay": "Please do Kakarelani by Mbuso Ndlovu🙏🏽",
+                    "textOriginal": "Please do Kakarelani by Mbuso Ndlovu🙏🏽",
+                    "authorDisplayName": "@itzzjustasa5529",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/5HxKRbjSOAFrxSV0B8EAQAW7dTiarKs_5nYFuEdw35qfCRaLHs9DbShmDBI2nOLrzq0zkZK_sg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@itzzjustasa5529",
+                    "authorChannelId": {
+                        "value": "UCpwWkHCbkIvefAc-X2GEhnw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-11-26T19:27:57Z",
+                    "updatedAt": "2025-11-26T19:27:57Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

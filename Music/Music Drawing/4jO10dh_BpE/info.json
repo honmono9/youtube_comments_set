@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "hIaj3vK5yAN0RklYeyJfbcDhORk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "wlY98kiYbqbmHQmwvJas3uE3wls",
+            "id": "4jO10dh_BpE",
+            "snippet": {
+                "publishedAt": "2024-11-13T11:45:01Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"오늘도 빛나는 너에게\" 위로가 되는 수면음악 - Your Dream🌙",
+                "description": "오늘도 꿈을 꾸고 있나요?\n아니면 그 꿈을 잊고 살지는 않나요?\n\n때로는 내가 그리던 꿈들이,\n조금씩 멀어지더라도\n그 꿈이 사라지지 않았음을..\n언제든 다시 꺼내어 빛을 낼 수 있음을..\n잊지 않길 바랄게요~\n\n- 오늘도 빛나는 그대에게..\n\n\n🎵곡 제목                      \n01.너의 꿈\n02.물결\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #편안한음악 #위로가되는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4jO10dh_BpE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4jO10dh_BpE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4jO10dh_BpE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4jO10dh_BpE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4jO10dh_BpE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "수면음악",
+                    "수면유도음악",
+                    "편안한음악",
+                    "잠잘때듣는음악",
+                    "SleepingMusic",
+                    "SleepMusic",
+                    "Relaxmusic",
+                    "RelaxingMusic",
+                    "PianoMusic",
+                    "위로음악",
+                    "위로가되는음악",
+                    "ComfortingMusic",
+                    "편안한피아노음악",
+                    "피아노음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"오늘도 빛나는 너에게\" 위로가 되는 수면음악 - Your Dream🌙",
+                    "description": "오늘도 꿈을 꾸고 있나요?\n아니면 그 꿈을 잊고 살지는 않나요?\n\n때로는 내가 그리던 꿈들이,\n조금씩 멀어지더라도\n그 꿈이 사라지지 않았음을..\n언제든 다시 꺼내어 빛을 낼 수 있음을..\n잊지 않길 바랄게요~\n\n- 오늘도 빛나는 그대에게..\n\n\n🎵곡 제목                      \n01.너의 꿈\n02.물결\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #편안한음악 #위로가되는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9H10M59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "200052",
+                "likeCount": "3771",
+                "favoriteCount": "0",
+                "commentCount": "196"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

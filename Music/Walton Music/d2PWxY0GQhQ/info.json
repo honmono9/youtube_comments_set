@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Z2f5RDkSNK9ertuOle7vrYJM1_g",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "pU_zXpui9YWakv0TryHZ1TPSBFc",
+            "id": "d2PWxY0GQhQ",
+            "snippet": {
+                "publishedAt": "2025-09-08T13:01:13Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Seasons (SATB) | Ola Gjeilo",
+                "description": "This composition by Ola Gjeilo is for SATB choir, piano, and optional flute. It features text by poet Charles Anthony Silvestri that beautifully explores the unfolding of the four seasons. \n\nAlso available for SSA and two-part treble voicing. \n\nPurchase the music: https://giamusic.com/resource/seasons-satb-printed-music-ww2120\n\n#waltonmusic #olagjeilo #mixedchoir #seasons",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d2PWxY0GQhQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d2PWxY0GQhQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d2PWxY0GQhQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/d2PWxY0GQhQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/d2PWxY0GQhQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Seasons (SATB) | Ola Gjeilo",
+                    "description": "This composition by Ola Gjeilo is for SATB choir, piano, and optional flute. It features text by poet Charles Anthony Silvestri that beautifully explores the unfolding of the four seasons. \n\nAlso available for SSA and two-part treble voicing. \n\nPurchase the music: https://giamusic.com/resource/seasons-satb-printed-music-ww2120\n\n#waltonmusic #olagjeilo #mixedchoir #seasons"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M20S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1738",
+                "likeCount": "25",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

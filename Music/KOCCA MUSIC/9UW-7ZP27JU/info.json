@@ -1,0 +1,75 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "zlGD3jeEUz3cvGKwN8kRrwpRmRg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "KzIwjss0ViWNF8vDj0zRwnqHwIs",
+            "id": "9UW-7ZP27JU",
+            "snippet": {
+                "publishedAt": "2025-12-05T09:02:58Z",
+                "channelId": "UCS6GXGMTU9MeDI00PvjH7Rw",
+                "title": "[뉴욕을 사로잡은 윤산하(ASTRO)의 'EXTRA VIRGIN' XR 무대]",
+                "description": "🗽뉴욕 타임스 스퀘어에 퍼진 그의 목소리\n빌딩 숲 전체를 채운 청량한 K-POP 무드\n\nXR로 확장된 공간에서 만나는\n윤산하(ASTRO)의 ‘EXTRA VIRGIN'🫒\n\n\n🗽His voice spreading across Times Square,\nfilling the entire cityscape with a refreshing K-POP mood\n\nStep into the XR-expanded space to meet\nYoon San-ha (ASTRO)’s ‘EXTRA VIRGIN’ 🫒\n\n\n🗽Su voz extendiéndose por Times Square en Nueva York,\nllenando todo el bosque de edificios con un fresco mood de K-POP.\n\nEn el espacio ampliado por XR, te encontrarás con\n‘EXTRA VIRGIN’ de Yoon San-ha (ASTRO) 🫒\n\n#윤산하 #YOONSANHA #한국콘텐츠진흥원 #KOCCAMUSIC #코카뮤직 #KOCCA #온더케이 #ONTHEK #랩소디 #RHAPSODY #케이팝 #KPOP #XR",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9UW-7ZP27JU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9UW-7ZP27JU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9UW-7ZP27JU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9UW-7ZP27JU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9UW-7ZP27JU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KOCCA MUSIC",
+                "tags": [
+                    "대중음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[뉴욕을 사로잡은 윤산하(ASTRO)의 'EXTRA VIRGIN' XR 무대]",
+                    "description": "🗽뉴욕 타임스 스퀘어에 퍼진 그의 목소리\n빌딩 숲 전체를 채운 청량한 K-POP 무드\n\nXR로 확장된 공간에서 만나는\n윤산하(ASTRO)의 ‘EXTRA VIRGIN'🫒\n\n\n🗽His voice spreading across Times Square,\nfilling the entire cityscape with a refreshing K-POP mood\n\nStep into the XR-expanded space to meet\nYoon San-ha (ASTRO)’s ‘EXTRA VIRGIN’ 🫒\n\n\n🗽Su voz extendiéndose por Times Square en Nueva York,\nllenando todo el bosque de edificios con un fresco mood de K-POP.\n\nEn el espacio ampliado por XR, te encontrarás con\n‘EXTRA VIRGIN’ de Yoon San-ha (ASTRO) 🫒\n\n#윤산하 #YOONSANHA #한국콘텐츠진흥원 #KOCCAMUSIC #코카뮤직 #KOCCA #온더케이 #ONTHEK #랩소디 #RHAPSODY #케이팝 #KPOP #XR"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M32S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6208",
+                "likeCount": "1302",
+                "favoriteCount": "0",
+                "commentCount": "116"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

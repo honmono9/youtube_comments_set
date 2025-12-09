@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "-JMpqb8Z7xoZcXP2ZKHG_HAlUbg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "DLZhUrh4k7A40lFtwDr6ghAF2kg",
+            "id": "-f_pept4hxw",
+            "snippet": {
+                "publishedAt": "2024-02-24T09:15:56Z",
+                "channelId": "UC2QOMTJ0Gz5vJPMl7KXkWaA",
+                "title": "【島谷ひとみが選ぶ楽曲シリーズ】春歌ランキング！",
+                "description": "今回の\n公式ミュージックチャンネルは…\n【島谷ひとみが選ぶ楽曲シリーズ】春歌ランキング！\n\n今回は\n島谷ひとみが歌う曲の中から、\n\n今の季節、\n春にピッタリな曲をランキング形式でご紹介♩\n\n皆様も予想してみてください〜！\n是非ご覧ください！\n\n👁島谷ひとみの島谷・製作所（オフィシャルYoutube）\nhttps://www.youtube.com/channel/UCo-tnZZgllohoIMgXLOuuBg\n是非こちらもチャンネル登録お願いします！\n\n👁島谷ひとみ公式サイト\nhttps://shimatani.tokyo/\n\n👁島谷ひとみオフィシャルTwitter\nhttps://twitter.com/Shimatani_Staff\n\n👁島谷ひとみオフィシャルInstagram\nhttps://www.instagram.com/shimatani_hitomi_official/\n\n#島谷ひとみ\n#春歌\n#ランキング",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-f_pept4hxw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-f_pept4hxw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-f_pept4hxw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-f_pept4hxw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-f_pept4hxw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HITOMI SHIMATANI MUSIC Official Youtube",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "【島谷ひとみが選ぶ楽曲シリーズ】春歌ランキング！",
+                    "description": "今回の\n公式ミュージックチャンネルは…\n【島谷ひとみが選ぶ楽曲シリーズ】春歌ランキング！\n\n今回は\n島谷ひとみが歌う曲の中から、\n\n今の季節、\n春にピッタリな曲をランキング形式でご紹介♩\n\n皆様も予想してみてください〜！\n是非ご覧ください！\n\n👁島谷ひとみの島谷・製作所（オフィシャルYoutube）\nhttps://www.youtube.com/channel/UCo-tnZZgllohoIMgXLOuuBg\n是非こちらもチャンネル登録お願いします！\n\n👁島谷ひとみ公式サイト\nhttps://shimatani.tokyo/\n\n👁島谷ひとみオフィシャルTwitter\nhttps://twitter.com/Shimatani_Staff\n\n👁島谷ひとみオフィシャルInstagram\nhttps://www.instagram.com/shimatani_hitomi_official/\n\n#島谷ひとみ\n#春歌\n#ランキング"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT12M32S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4041",
+                "likeCount": "205",
+                "favoriteCount": "0",
+                "commentCount": "21"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

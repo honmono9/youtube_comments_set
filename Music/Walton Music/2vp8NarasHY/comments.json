@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "v4P0shKY0jV0_x6Rva9-3bdS3ug",
+        "id": "UgwxF8ijK9UZ_T8WZaR4AaABAg",
+        "snippet": {
+            "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+            "videoId": "2vp8NarasHY",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "x1NOfj4gp5SA0GJ7G7uZrhBk23c",
+                "id": "UgwxF8ijK9UZ_T8WZaR4AaABAg",
+                "snippet": {
+                    "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                    "videoId": "2vp8NarasHY",
+                    "textDisplay": "Não sei se trata-se de um menino abandonado e seu cavalo numa noite fria, Ou de um homem com saudades de casa.",
+                    "textOriginal": "Não sei se trata-se de um menino abandonado e seu cavalo numa noite fria, Ou de um homem com saudades de casa.",
+                    "authorDisplayName": "@bakuhyuu",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n9mDbU5mTDHSiYzVyAFX0xQSAxD-lAMP3xc6O0tIw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@bakuhyuu",
+                    "authorChannelId": {
+                        "value": "UCvj4NyeKTBlEcZAkWyy7OaQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-09T07:14:50Z",
+                    "updatedAt": "2025-12-09T07:14:50Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "JeKMIPqPBOiYt-DmCugcPfK0rwU",
+        "id": "UgzNhxnJqKlvZPzgmzF4AaABAg",
+        "snippet": {
+            "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+            "videoId": "2vp8NarasHY",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "3eJ3v0Nh04ITh_D_JB5I-wJXfYE",
+                "id": "UgzNhxnJqKlvZPzgmzF4AaABAg",
+                "snippet": {
+                    "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                    "videoId": "2vp8NarasHY",
+                    "textDisplay": "This is what heaven sounds like",
+                    "textOriginal": "This is what heaven sounds like",
+                    "authorDisplayName": "@Sesame-Sweet-Soup-Music",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kobcjz6iox0-EqfhW6Rr7zR4vC3USLjqAVLSWwkIIzKLY=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@Sesame-Sweet-Soup-Music",
+                    "authorChannelId": {
+                        "value": "UCUz3s7rDn0fAeYo2NGSwmEQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-09-16T05:52:13Z",
+                    "updatedAt": "2025-09-16T05:52:13Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

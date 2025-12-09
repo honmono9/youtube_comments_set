@@ -1,0 +1,101 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "_xU-b7glvENRarH-_KdcBKHZYFc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "WuQWG2Fr4wQQBq8ckuXEUxgljwI",
+            "id": "_HeRrncP1_Y",
+            "snippet": {
+                "publishedAt": "2025-03-02T13:00:52Z",
+                "channelId": "UClbjf4pXBzXVk3ImyeBa__w",
+                "title": "⚡🌌아무도 날 막을 수 없으셈, '괴수 8호' 오프닝 곡 : YUNGBLUD - Abyss [가사/번역/해석/Lyrics]",
+                "description": "🎧이어폰 착용은 필수입니다!\n📺화질을 1080p로 설정 후 시청해주세요!\n😁구독과 좋아요는 큰 힘이 됩니다!\n📝노래 가사에 오역이 있을 수 있습니다!\n\n\n[🎬영상자료🎬]\n괴수 8호 (2024)\n\n[🎶노래🎶]\nYUNGBLUD - Abyss",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_HeRrncP1_Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_HeRrncP1_Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_HeRrncP1_Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_HeRrncP1_Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_HeRrncP1_Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뮤플비 Music Plus Movie",
+                "tags": [
+                    "팝송",
+                    "영화",
+                    "팝송가사해석",
+                    "가사해석",
+                    "애니op",
+                    "단다단",
+                    "괴수8호",
+                    "괴수8호오프닝",
+                    "괴수8호op",
+                    "怪獣8号op",
+                    "怪獣8号",
+                    "Kaiju No.8 op",
+                    "Kaiju No.8 op노래",
+                    "괴수8호오프닝노래",
+                    "괴수8호op가사해석",
+                    "YUNGBLUD - Abyss 가사해석",
+                    "YUNGBLUD - Abyss",
+                    "Abyss 가사",
+                    "Abyss",
+                    "YUNGBLUD",
+                    "어비스"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "⚡🌌아무도 날 막을 수 없으셈, '괴수 8호' 오프닝 곡 : YUNGBLUD - Abyss [가사/번역/해석/Lyrics]",
+                    "description": "🎧이어폰 착용은 필수입니다!\n📺화질을 1080p로 설정 후 시청해주세요!\n😁구독과 좋아요는 큰 힘이 됩니다!\n📝노래 가사에 오역이 있을 수 있습니다!\n\n\n[🎬영상자료🎬]\n괴수 8호 (2024)\n\n[🎶노래🎶]\nYUNGBLUD - Abyss"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M4S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "13066",
+                "likeCount": "241",
+                "favoriteCount": "0",
+                "commentCount": "21"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

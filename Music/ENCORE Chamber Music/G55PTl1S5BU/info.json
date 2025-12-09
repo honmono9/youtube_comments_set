@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "LxvHpawLDADodXwICP4gJaP51Jc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Ohqkqhc9Oy8Qlb2_O5xhsoGgRsQ",
+            "id": "G55PTl1S5BU",
+            "snippet": {
+                "publishedAt": "2018-08-27T22:09:44Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "062218 Brahms String Quartet No.1 in C minor Op.51 4th mvt",
+                "description": "ENCORE Chamber Music 2018 Season 'Somewhere Over the Rainbow'\nString Quartet Intensive Blooming Artists Concert\n\nThe Everest Quartet\nAaron Chan, violin\nIsabelle Durrenberger, violin\nEsther Kim, viola\nTate Zawadiuk, cello",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G55PTl1S5BU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G55PTl1S5BU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G55PTl1S5BU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/G55PTl1S5BU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/G55PTl1S5BU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "062218 Brahms String Quartet No.1 in C minor Op.51 4th mvt",
+                    "description": "ENCORE Chamber Music 2018 Season 'Somewhere Over the Rainbow'\nString Quartet Intensive Blooming Artists Concert\n\nThe Everest Quartet\nAaron Chan, violin\nIsabelle Durrenberger, violin\nEsther Kim, viola\nTate Zawadiuk, cello"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT7M19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1008",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

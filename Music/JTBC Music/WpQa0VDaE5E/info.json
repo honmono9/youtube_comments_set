@@ -1,0 +1,103 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "UXBXoqe6p5cyZK7OTyqUhfurY5Q",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "LeyGmRX9wjm59hPP_gWn8CuIqVE",
+            "id": "WpQa0VDaE5E",
+            "snippet": {
+                "publishedAt": "2025-12-02T15:18:05Z",
+                "channelId": "UCEbRSmzD8xASRlYq2OLmCrg",
+                "title": "[싱어게인4] 너무 새로운데? 또 너무 좋음😮 심사위원들을 고민에 빠지게 만든 55호 가수💦 | 싱어게인4 8회 | JTBC 251202 방송",
+                "description": "너무 새로운데? 또 너무 좋음😮 심사위원들을 고민에 빠지게 만든 55호 가수💦\n#싱어게인4 #55호가수 #심사평\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/singagain4",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WpQa0VDaE5E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WpQa0VDaE5E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WpQa0VDaE5E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WpQa0VDaE5E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WpQa0VDaE5E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JTBC Music",
+                "tags": [
+                    "싱어게인4",
+                    "싱어게인",
+                    "top10결정전",
+                    "55호",
+                    "내낡은서랍속의바다",
+                    "55호_심사평",
+                    "이승기",
+                    "윤종신",
+                    "임재범",
+                    "백지영",
+                    "김이나",
+                    "규현",
+                    "태연",
+                    "이해리",
+                    "코드쿤스트",
+                    "싱어게인_8회",
+                    "JTBC음악예능",
+                    "무명가수",
+                    "JTBC예능",
+                    "singagain4",
+                    "TAEYEON",
+                    "CODE KUNST",
+                    "KYUHYUN",
+                    "Lee Hae Ri",
+                    "Lee Seung Gi",
+                    "Yim Jae-beum",
+                    "Kim Eana",
+                    "Baek Z Young",
+                    "Yoon Jongshin"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[싱어게인4] 너무 새로운데? 또 너무 좋음😮 심사위원들을 고민에 빠지게 만든 55호 가수💦 | 싱어게인4 8회 | JTBC 251202 방송",
+                    "description": "너무 새로운데? 또 너무 좋음😮 심사위원들을 고민에 빠지게 만든 55호 가수💦\n#싱어게인4 #55호가수 #심사평\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/singagain4"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M56S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "8772",
+                "likeCount": "94",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

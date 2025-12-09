@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "g5i7pMpw3i6-xoyTfwhHqw6c-4s",
+        "id": "UgwYyVQ03CcHLVVdgVB4AaABAg",
+        "snippet": {
+            "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+            "videoId": "GebrHRBj33U",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "UI7zbUJib-wpjwlp2kVmgRLZF-c",
+                "id": "UgwYyVQ03CcHLVVdgVB4AaABAg",
+                "snippet": {
+                    "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+                    "videoId": "GebrHRBj33U",
+                    "textDisplay": "🙏🙏🙏🙏🙏",
+                    "textOriginal": "🙏🙏🙏🙏🙏",
+                    "authorDisplayName": "@수경1205",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/GwmRitsCILK10HnotJIKKxeLexDoHaY6hbsm3-Dnsgp0luAsrdEXmOBMPSU3AfrvcFlWnEPq=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EC%88%98%EA%B2%BD1205",
+                    "authorChannelId": {
+                        "value": "UCHoGWXd0HYJXA8JeO5gi1ww"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-10-29T11:44:27Z",
+                    "updatedAt": "2025-10-29T11:44:27Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "YY7dSSK-84sRtneJkT4X3Yx__Mc",
+        "id": "UgyxnRboUBTjfvzyAIV4AaABAg",
+        "snippet": {
+            "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+            "videoId": "GebrHRBj33U",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "GlYHY_cTrp193sSNO9AZKmxUKhM",
+                "id": "UgyxnRboUBTjfvzyAIV4AaABAg",
+                "snippet": {
+                    "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+                    "videoId": "GebrHRBj33U",
+                    "textDisplay": "아 멘",
+                    "textOriginal": "아 멘",
+                    "authorDisplayName": "@이창섭-k1s",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nJcEDcr38Q0KjSJL5pfRfVjF7ZgvVghIfq2LfLG8ZgL_PJsmY=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EC%9D%B4%EC%B0%BD%EC%84%AD-k1s",
+                    "authorChannelId": {
+                        "value": "UCjkb059zwBtmg62q3Ev42aw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-10-29T11:22:05Z",
+                    "updatedAt": "2025-10-29T11:22:05Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

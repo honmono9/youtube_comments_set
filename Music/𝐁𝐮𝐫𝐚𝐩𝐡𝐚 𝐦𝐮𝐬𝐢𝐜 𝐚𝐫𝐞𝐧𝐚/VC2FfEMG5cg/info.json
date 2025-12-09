@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Bp_VPACKcBVdPRxKXLOA_XMaKV8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "kNjkvSnFdh5Ohjc-CGXKEYEF-AM",
+            "id": "VC2FfEMG5cg",
+            "snippet": {
+                "publishedAt": "2025-10-18T15:04:10Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "ผู้พิทักษ์แผ่นดิน (Defender of the land) ฟังเต็มเพลงได้แล้ววันนี้ #music #thaimusic #thaiarmy",
+                "description": "เร็ว แรง ดุเดือด! สัมผัสพลังนักรบใน ‘Defender of the Land’ 🛡️⚔️”\n#DefenderOfTheLand #RockMusic #ไทยร็อก #cinematicrock #นักรบ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VC2FfEMG5cg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VC2FfEMG5cg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VC2FfEMG5cg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VC2FfEMG5cg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VC2FfEMG5cg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "ผู้พิทักษ์แผ่นดิน (Defender of the land) ฟังเต็มเพลงได้แล้ววันนี้ #music #thaimusic #thaiarmy",
+                    "description": "เร็ว แรง ดุเดือด! สัมผัสพลังนักรบใน ‘Defender of the Land’ 🛡️⚔️”\n#DefenderOfTheLand #RockMusic #ไทยร็อก #cinematicrock #นักรบ"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT56S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2431",
+                "likeCount": "29",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "gQJe-PZaP8XCeDvFCnBOsNyOIe0",
+        "id": "UgxwLkEgTlTODLSKmhF4AaABAg",
+        "snippet": {
+            "channelId": "UCuF5t0ziFf7QfoR9_xlti1w",
+            "videoId": "ybaXYbbuqZA",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "i4b4T1Vzv2uhjWnb4V1LARslTK4",
+                "id": "UgxwLkEgTlTODLSKmhF4AaABAg",
+                "snippet": {
+                    "channelId": "UCuF5t0ziFf7QfoR9_xlti1w",
+                    "videoId": "ybaXYbbuqZA",
+                    "textDisplay": "真翔くんのアップ待ってました！ありがとうございます🥰\nゆずの桜木町カバーもどうかお願いします！！",
+                    "textOriginal": "真翔くんのアップ待ってました！ありがとうございます🥰\nゆずの桜木町カバーもどうかお願いします！！",
+                    "authorDisplayName": "@MK-uq9wr",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kADI8Hgp8zv3k7abkeJ7rAvEQcqYNvpCjI0br2RxuWJ2Mm-T7ZRrNtBs24Go7O2mLSVVw1=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@MK-uq9wr",
+                    "authorChannelId": {
+                        "value": "UCrQajA_Mk6obbPhzmj9Rrgw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-11-24T12:05:41Z",
+                    "updatedAt": "2025-11-24T12:05:41Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "iXsxew1BuJmNV1I7ZtqVPGbHkH8",
+        "id": "UgwNcheHwAUIMMkTrHF4AaABAg",
+        "snippet": {
+            "channelId": "UCCgvGC3qecoN6kn64Q-dpsw",
+            "videoId": "67ZkThP7HIQ",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "vN1dkdjdQLtC5K8euuAIoSAB9OI",
+                "id": "UgwNcheHwAUIMMkTrHF4AaABAg",
+                "snippet": {
+                    "channelId": "UCCgvGC3qecoN6kn64Q-dpsw",
+                    "videoId": "67ZkThP7HIQ",
+                    "textDisplay": "Chathi Maiya 🙏  🙏 ♥️",
+                    "textOriginal": "Chathi Maiya 🙏  🙏 ♥️",
+                    "authorDisplayName": "@sandeepkumarguptagupta6498",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mhaQX_ZERDRcyJ29mLdfDkpIwB-ct3iG5QAdIdjnLWkw4=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@sandeepkumarguptagupta6498",
+                    "authorChannelId": {
+                        "value": "UCjPI7mqapqAl-VnNXJIxRPw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-10-25T02:56:21Z",
+                    "updatedAt": "2025-10-25T02:56:21Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "RCsP0Xmlo667ZWbL7ZUrocQ6npw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "SpXr8UsELgI3_NcZwLETRnhz3SA",
+            "id": "_VUscOaTALk",
+            "snippet": {
+                "publishedAt": "2025-12-07T08:49:14Z",
+                "channelId": "UCYA3gLE34set7Xn_FVU8D0Q",
+                "title": "Azurever (애주레버) - 겨울잠 (Hibernation) [가사]",
+                "description": "Azurever (애주레버) - 겨울잠 (Hibernation) [가사]\n_\n아티스트:애주레버 (Azurever)\n유형:싱글\n장르:인디\n스타일:인디 팝\n발매일:2025.12.07\n유통사:LUNE\n기획사:애주레버\n_\n#Azurever #애주레버 #겨울잠",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_VUscOaTALk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_VUscOaTALk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_VUscOaTALk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_VUscOaTALk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_VUscOaTALk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Time | 뮤직 타임",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Azurever (애주레버) - 겨울잠 (Hibernation) [가사]",
+                    "description": "Azurever (애주레버) - 겨울잠 (Hibernation) [가사]\n_\n아티스트:애주레버 (Azurever)\n유형:싱글\n장르:인디\n스타일:인디 팝\n발매일:2025.12.07\n유통사:LUNE\n기획사:애주레버\n_\n#Azurever #애주레버 #겨울잠"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "385",
+                "likeCount": "16",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

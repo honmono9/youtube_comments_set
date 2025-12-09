@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "51NqOuGUkyRh-EUOfUR9S7zQXD4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "3jJONA-GDCzSrgaT0aCV7IPchC8",
+            "id": "zaDfzCMCqtM",
+            "snippet": {
+                "publishedAt": "2025-08-24T23:00:56Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "Cafe Playlist ☕ 이 플리 하나면 오늘의 카페 완성 🎶 카페 감성 가득한 음악 🌿 ",
+                "description": "카페 문을 열고 커피향이 퍼지는 순간, 음악이 공간을 감싸면\n그곳은 단순한 공간이 아닌 감성 가득한 하루의 쉼표가 됩니다.\n이 플레이리스트 하나면 오늘의 분위기는 이미 완성.\n편안하고 따뜻한 카페 감성을 음악으로 채워보세요 ☕🎶\n\n🎧 이 플레이리스트의 모든 음악 저작권은 체리(CHERRY)에게 있습니다.\n\n⸻\n\n📎 해시태그\n\n#카페플리 #CafePlaylist #카페감성 #카페음악 #감성음악 #오늘의카페 #CherryMusic #편안한하루 #음악으로완성된공간",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zaDfzCMCqtM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zaDfzCMCqtM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zaDfzCMCqtM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zaDfzCMCqtM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zaDfzCMCqtM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Cafe Playlist ☕ 이 플리 하나면 오늘의 카페 완성 🎶 카페 감성 가득한 음악 🌿 ",
+                    "description": "카페 문을 열고 커피향이 퍼지는 순간, 음악이 공간을 감싸면\n그곳은 단순한 공간이 아닌 감성 가득한 하루의 쉼표가 됩니다.\n이 플레이리스트 하나면 오늘의 분위기는 이미 완성.\n편안하고 따뜻한 카페 감성을 음악으로 채워보세요 ☕🎶\n\n🎧 이 플레이리스트의 모든 음악 저작권은 체리(CHERRY)에게 있습니다.\n\n⸻\n\n📎 해시태그\n\n#카페플리 #CafePlaylist #카페감성 #카페음악 #감성음악 #오늘의카페 #CherryMusic #편안한하루 #음악으로완성된공간"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3H2M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "40194",
+                "likeCount": "168",
+                "favoriteCount": "0",
+                "commentCount": "29"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

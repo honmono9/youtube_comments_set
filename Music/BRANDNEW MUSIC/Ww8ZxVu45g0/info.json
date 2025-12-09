@@ -1,0 +1,81 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "scJ-NcoGck_sJcZqj8pddlHSf54",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "erGJE5bm9RL3xh1uLfdHW7qiNy8",
+            "id": "Ww8ZxVu45g0",
+            "snippet": {
+                "publishedAt": "2013-08-14T05:09:08Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "범키 (BUMKEY) '갖고놀래 (Attraction) (Feat. 다이나믹 듀오)' M/V TEASER",
+                "description": "범키 (BUMKEY) '갖고놀래 (Attraction) (Feat. 다이나믹 듀오)' M/V TEASER\n\n범키 '갖고놀래' 2013.08.16 RELEASE\n\n\n범키(BUMKEY) Official @\nhttp://www.twitter.com/BUMKEY\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ww8ZxVu45g0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ww8ZxVu45g0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ww8ZxVu45g0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ww8ZxVu45g0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ww8ZxVu45g0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "tags": [
+                    "범키",
+                    "갖고놀래",
+                    "다이나믹듀어",
+                    "다이나믹듀오",
+                    "Dynamic Duo",
+                    "Bumkey",
+                    "Attraction"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "범키 (BUMKEY) '갖고놀래 (Attraction) (Feat. 다이나믹 듀오)' M/V TEASER",
+                    "description": "범키 (BUMKEY) '갖고놀래 (Attraction) (Feat. 다이나믹 듀오)' M/V TEASER\n\n범키 '갖고놀래' 2013.08.16 RELEASE\n\n\n범키(BUMKEY) Official @\nhttp://www.twitter.com/BUMKEY\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "101360",
+                "likeCount": "723",
+                "favoriteCount": "0",
+                "commentCount": "104"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

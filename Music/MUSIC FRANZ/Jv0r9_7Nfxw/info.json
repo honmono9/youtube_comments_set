@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "xqId0xqBaQPP7JPgTukihlvd3TQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "8qaS7yUlIEtaQI2NGI090l94318",
+            "id": "Jv0r9_7Nfxw",
+            "snippet": {
+                "publishedAt": "2025-11-26T13:51:19Z",
+                "channelId": "UCfrWVh-4M98j1WtDIR9IVNg",
+                "title": "BENG BANG/Rap and Reggae Remix/Music Prince 2.1 @Rabzmusics @TopTrending ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Jv0r9_7Nfxw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Jv0r9_7Nfxw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Jv0r9_7Nfxw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Jv0r9_7Nfxw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Jv0r9_7Nfxw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MUSIC FRANZ ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "BENG BANG/Rap and Reggae Remix/Music Prince 2.1 @Rabzmusics @TopTrending ",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT14M24S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "104",
+                "likeCount": "12",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

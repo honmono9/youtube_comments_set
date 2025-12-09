@@ -1,0 +1,76 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "U_S3ZF1cU0p9PJG5qJBeLVlwtoM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "jsly5oZlh6Q8gmLwB48up-hD9HE",
+            "id": "Qf09PoAikY0",
+            "snippet": {
+                "publishedAt": "2025-02-28T05:00:30Z",
+                "channelId": "UCquS6S5yOGk2j5YS6WHj6eA",
+                "title": "Skid Row - Wasted Time (At O'Shucks Karaoke Bar, FL)",
+                "description": "#orlando #karaoke\n\nSiegfried Song Facebook : http://www.facebook.com/SiegfriedSongOfficial\n\nSometimes, I’m pushed forward by someone’s encouragement, but in the end, it’s always me who has to step onto the stage.\n\nBefore singing, I ask myself: Is my condition okay? Does this song fit the atmosphere? Will the monitoring be good? But the answer is always the same—I’ll never know until I try.\n\nWhether it’s a karaoke where country songs dominate, a stage where I can’t hear anything, or a day when I’m in the worst condition, I’m the one standing there. And I have to accept it.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qf09PoAikY0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qf09PoAikY0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qf09PoAikY0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Qf09PoAikY0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Qf09PoAikY0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Siegfried Song",
+                "tags": [
+                    "Siegfried",
+                    "Song"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Skid Row - Wasted Time (At O'Shucks Karaoke Bar, FL)",
+                    "description": "#orlando #karaoke\n\nSiegfried Song Facebook : http://www.facebook.com/SiegfriedSongOfficial\n\nSometimes, I’m pushed forward by someone’s encouragement, but in the end, it’s always me who has to step onto the stage.\n\nBefore singing, I ask myself: Is my condition okay? Does this song fit the atmosphere? Will the monitoring be good? But the answer is always the same—I’ll never know until I try.\n\nWhether it’s a karaoke where country songs dominate, a stage where I can’t hear anything, or a day when I’m in the worst condition, I’m the one standing there. And I have to accept it."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT5M47S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2648",
+                "likeCount": "135",
+                "favoriteCount": "0",
+                "commentCount": "93"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

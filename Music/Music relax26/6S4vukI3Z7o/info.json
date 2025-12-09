@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "GLiho7OZghQ2s7hbqhn-GbRGH-Q",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "uxGxVEYpgobtMMgMXHmARAdQ_kU",
+            "id": "6S4vukI3Z7o",
+            "snippet": {
+                "publishedAt": "2025-08-13T06:56:34Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "แอฟริกาแดนซ์ รูปแบบการเต้น ที่แปลกปะหลาดและโคตรมันส์สุดๆ #แอฟริกาแดนซ์",
+                "description": "แอฟริกาแดนซ์ รูปแบบการเต้น ที่แปลกปะหลาดและโคตรมันส์สุดๆ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6S4vukI3Z7o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6S4vukI3Z7o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6S4vukI3Z7o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6S4vukI3Z7o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6S4vukI3Z7o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "tags": [
+                    "แอฟริกาแดนซ์ รูปแบบการเต้น ที่แปลกปะหลาดและโคตรมันส์สุดๆ",
+                    "ท่าเต้นสุดแปลก",
+                    "การเต้นอันอันทรงพลง",
+                    "คนแอฟริกาเต้น"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "แอฟริกาแดนซ์ รูปแบบการเต้น ที่แปลกปะหลาดและโคตรมันส์สุดๆ #แอฟริกาแดนซ์",
+                    "description": "แอฟริกาแดนซ์ รูปแบบการเต้น ที่แปลกปะหลาดและโคตรมันส์สุดๆ"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT43S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1716",
+                "likeCount": "17",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

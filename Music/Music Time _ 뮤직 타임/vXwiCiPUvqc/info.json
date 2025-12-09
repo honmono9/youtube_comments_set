@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "HyfeBNdI5LvovyC3hvsSMcv6bR8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "QLCLJCSgWgOMh4qw6BYirvu5Q-A",
+            "id": "vXwiCiPUvqc",
+            "snippet": {
+                "publishedAt": "2025-12-09T07:16:20Z",
+                "channelId": "UCYA3gLE34set7Xn_FVU8D0Q",
+                "title": "Zia (지아) - 소심한 여자 (A Timid Woman) (PROD. ROCOBERRY (로코베리)) [가사]",
+                "description": "Zia (지아) - 소심한 여자 (A Timid Woman) (PROD. ROCOBERRY (로코베리)) [가사]\n_\n아티스트:지아\n유형:싱글\n장르:발라드\n스타일:발라드\n발매일:2025.12.08\n유통사:카카오엔터테인먼트\n기획사:파인드스타\n_\n#Zia #지아 #소심한여자 #ROCOBERRY #로코베리",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vXwiCiPUvqc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vXwiCiPUvqc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vXwiCiPUvqc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vXwiCiPUvqc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vXwiCiPUvqc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Time | 뮤직 타임",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Zia (지아) - 소심한 여자 (A Timid Woman) (PROD. ROCOBERRY (로코베리)) [가사]",
+                    "description": "Zia (지아) - 소심한 여자 (A Timid Woman) (PROD. ROCOBERRY (로코베리)) [가사]\n_\n아티스트:지아\n유형:싱글\n장르:발라드\n스타일:발라드\n발매일:2025.12.08\n유통사:카카오엔터테인먼트\n기획사:파인드스타\n_\n#Zia #지아 #소심한여자 #ROCOBERRY #로코베리"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M52S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "150",
+                "likeCount": "15",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

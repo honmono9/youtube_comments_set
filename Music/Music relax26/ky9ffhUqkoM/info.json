@@ -1,0 +1,70 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "a33gkOSlJKlDujl3DEYHP6wcYlU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Tk19_Wn1Efw9Y0bryDu_n4ZGAfM",
+            "id": "ky9ffhUqkoM",
+            "snippet": {
+                "publishedAt": "2025-09-02T11:33:52Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "แสดงสดโคตรมัน2 จากวงหมูตุ๋น",
+                "description": "แสดงสดโคตรมัน2 จากวงหมูตุ๋น",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ky9ffhUqkoM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ky9ffhUqkoM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ky9ffhUqkoM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ky9ffhUqkoM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "tags": [
+                    "แสดงสดโคตรมัน2 จากวงหมูตุ๋น"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "แสดงสดโคตรมัน2 จากวงหมูตุ๋น",
+                    "description": "แสดงสดโคตรมัน2 จากวงหมูตุ๋น"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT2H1M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "27995",
+                "likeCount": "460",
+                "favoriteCount": "0",
+                "commentCount": "12"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

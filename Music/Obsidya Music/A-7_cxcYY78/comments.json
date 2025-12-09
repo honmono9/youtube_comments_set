@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "ySMOMnbZMA0m_aze-JcdKXAhjnA",
+        "id": "UgwDsToFLMJkUfXWDD14AaABAg",
+        "snippet": {
+            "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+            "videoId": "A-7_cxcYY78",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "gT1xnRfIcDmXu17czs7VzLqIXZg",
+                "id": "UgwDsToFLMJkUfXWDD14AaABAg",
+                "snippet": {
+                    "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+                    "videoId": "A-7_cxcYY78",
+                    "textDisplay": "Sofu baba arusi tarikatindan di bilirim turbesı nin ici kipkirmizı badanay dı",
+                    "textOriginal": "Sofu baba arusi tarikatindan di bilirim turbesı nin ici kipkirmizı badanay dı",
+                    "authorDisplayName": "@nakiyegure3211",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n0MMutDuKjLMCSBuc9PhCgQ8-rJNe5AvDvapVgcrGi7d0=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@nakiyegure3211",
+                    "authorChannelId": {
+                        "value": "UCedTIDF1CvLoOgzJTQwEJug"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-08-31T13:02:21Z",
+                    "updatedAt": "2025-08-31T13:02:21Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

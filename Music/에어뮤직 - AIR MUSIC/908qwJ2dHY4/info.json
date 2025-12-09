@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "xC44xbrW9upk2ao8sPzyhfUtHvo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "-cpL0hy-rHWTs-NhI4v89SYlaZc",
+            "id": "908qwJ2dHY4",
+            "snippet": {
+                "publishedAt": "2024-12-26T03:00:09Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "[Audio] 범준 - 그때 우리",
+                "description": "영원할 거라 믿었던\n젊은날의 꿈은\n여느 사랑처럼\n점차 흐려져갔다\n\n그때의 우리로 다시 돌아간다면\n우린 행복했을까?\n\nTrack list.\n01. 그때 우리 (작사 : 범준, REDO / 작곡 : 범준, REDO / 편곡 : REDO)\n02. 그때 우리 (Inst.) (작곡 : REDO / 편곡 : REDO )\n\n[Credits]\nexecutive producer 공기남\nLyrics by 범준, REDO\nComposed by 범준, REDO\nArranged by REDO\nVocal by 범준\nPiano by REDO\nGuitar by 고주한\nBass by REDO\nDrum by REDO\nMidi Programing by REDO\nRecorded by fovitz @AirMusic Studio\nMixed by fovitz @AirMusic Studio\nMastered by 권남우 @821 Sound\nAlbum artwork by 겨울재@_winterwo\nManagement Airmusic\nTeam leader 박지호 @melanoalbinc\nDistributed by Wanermusic_Korea\n\n\n#범준 #그때우리 #에어뮤직 #싱어송라이터 #신곡 #노래 #감성 #노래추천",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/908qwJ2dHY4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/908qwJ2dHY4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/908qwJ2dHY4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/908qwJ2dHY4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/908qwJ2dHY4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Audio] 범준 - 그때 우리",
+                    "description": "영원할 거라 믿었던\n젊은날의 꿈은\n여느 사랑처럼\n점차 흐려져갔다\n\n그때의 우리로 다시 돌아간다면\n우린 행복했을까?\n\nTrack list.\n01. 그때 우리 (작사 : 범준, REDO / 작곡 : 범준, REDO / 편곡 : REDO)\n02. 그때 우리 (Inst.) (작곡 : REDO / 편곡 : REDO )\n\n[Credits]\nexecutive producer 공기남\nLyrics by 범준, REDO\nComposed by 범준, REDO\nArranged by REDO\nVocal by 범준\nPiano by REDO\nGuitar by 고주한\nBass by REDO\nDrum by REDO\nMidi Programing by REDO\nRecorded by fovitz @AirMusic Studio\nMixed by fovitz @AirMusic Studio\nMastered by 권남우 @821 Sound\nAlbum artwork by 겨울재@_winterwo\nManagement Airmusic\nTeam leader 박지호 @melanoalbinc\nDistributed by Wanermusic_Korea\n\n\n#범준 #그때우리 #에어뮤직 #싱어송라이터 #신곡 #노래 #감성 #노래추천"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2104",
+                "likeCount": "80",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

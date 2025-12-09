@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "KCbhk8ZfEvIeZr30w5WVOPDMaQM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "j6DGT3sO1gwWkzSQmGy7hA6fRME",
+            "id": "q7BUP6xLCR8",
+            "snippet": {
+                "publishedAt": "2025-07-21T13:01:28Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Lift Every Voice and Sing | Arr. Roland Carter",
+                "description": "Lift Every Voice and Sing with music by J. Rosamond Johnson, arranged by Roland Carter for SATB choirs with a piano accompaniment.\n\nLift Every Voice and Sing, often referred to as the \"Black National Anthem\" in the U.S., is arranged here by Roland Carter. Accessible vocal writing with a celebratory accompaniment makes this a great selection for honor choirs and festivals.\n\nPurchase the music: https://www.giamusic.com/store/resource/lift-every-voice-and-sing-print-ww1880\n\n#choral #lifteveryvoice #waltonmusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q7BUP6xLCR8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q7BUP6xLCR8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q7BUP6xLCR8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/q7BUP6xLCR8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/q7BUP6xLCR8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Lift Every Voice and Sing | Arr. Roland Carter",
+                    "description": "Lift Every Voice and Sing with music by J. Rosamond Johnson, arranged by Roland Carter for SATB choirs with a piano accompaniment.\n\nLift Every Voice and Sing, often referred to as the \"Black National Anthem\" in the U.S., is arranged here by Roland Carter. Accessible vocal writing with a celebratory accompaniment makes this a great selection for honor choirs and festivals.\n\nPurchase the music: https://www.giamusic.com/store/resource/lift-every-voice-and-sing-print-ww1880\n\n#choral #lifteveryvoice #waltonmusic"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "450",
+                "likeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

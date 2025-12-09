@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "u7jF7tcZx30C483xjTXz4j2kqDk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "k8dG0O9sE6fVGbNUYNq1HY0BW78",
+            "id": "P2Yy-tf9JR0",
+            "snippet": {
+                "publishedAt": "2025-11-02T23:06:23Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "The Smashing Pumpkins - Cherub Rock | Soul/Funk AI Cover",
+                "description": "Cherub Rock by The Smashing Pumpkins twisted with Soul Funk music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nFreak out and give in\nDoesn't matter what you believe in\nStay cool\nAnd be somebody's fool this year\n'Cause they know\nWho is righteous, what is bold\nSo I'm told\n\nWho wants honey?\nAs long as there's some money\nWho wants that honey?\n\nOh-oh, oh-oh\nHipsters unite\nCome align for the big fight to rock for you\nBut beware\nAll those angels with their wings glued on\n'Cause deep down\nThey are frightened and they're scared\nIf you don't stare\n\nWho wants honey?\nAs long as there's some money\nWho wants that honey?\n\nLet me out\nLet, let me out\nLet, let me out\nLet, let me out\n\nTell me all of your secrets\nCannot help but believe this is true\nTell me all of your secrets\nI know, I know, I know\nShould have listened when I was told\n\nWho wants that honey?\nAs long as there's some money\nWho wants that honey?\n\nLet me out\nLet, let me out\nLet, let me out\nLet, let me out",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P2Yy-tf9JR0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P2Yy-tf9JR0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P2Yy-tf9JR0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/P2Yy-tf9JR0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/P2Yy-tf9JR0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "The Smashing Pumpkins - Cherub Rock | Soul/Funk AI Cover",
+                    "description": "Cherub Rock by The Smashing Pumpkins twisted with Soul Funk music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nFreak out and give in\nDoesn't matter what you believe in\nStay cool\nAnd be somebody's fool this year\n'Cause they know\nWho is righteous, what is bold\nSo I'm told\n\nWho wants honey?\nAs long as there's some money\nWho wants that honey?\n\nOh-oh, oh-oh\nHipsters unite\nCome align for the big fight to rock for you\nBut beware\nAll those angels with their wings glued on\n'Cause deep down\nThey are frightened and they're scared\nIf you don't stare\n\nWho wants honey?\nAs long as there's some money\nWho wants that honey?\n\nLet me out\nLet, let me out\nLet, let me out\nLet, let me out\n\nTell me all of your secrets\nCannot help but believe this is true\nTell me all of your secrets\nI know, I know, I know\nShould have listened when I was told\n\nWho wants that honey?\nAs long as there's some money\nWho wants that honey?\n\nLet me out\nLet, let me out\nLet, let me out\nLet, let me out"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M52S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1883",
+                "likeCount": "62",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "wfmf-x9-i5ZRigKFZ0OhH18QB9w",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "eXEWpFgE-10g_aK7NGDdAv--Ym8",
+            "id": "MiOsOHvYHWo",
+            "snippet": {
+                "publishedAt": "2025-09-10T11:30:16Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "VISION BANGKOK 2025 Playlist",
+                "description": "#MPMGMUSICFESTIVAL #VISIONBANGKOK\n\nVISION BANGKOK 2025 \n플레이리스트를 공개합니다!\n\nVISION BANGKOK 2025\nขอเปิดเผยเพลย์ลิสต์อย่างเป็นทางการ!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MiOsOHvYHWo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MiOsOHvYHWo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MiOsOHvYHWo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MiOsOHvYHWo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MiOsOHvYHWo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "VISION BANGKOK 2025 Playlist",
+                    "description": "#MPMGMUSICFESTIVAL #VISIONBANGKOK\n\nVISION BANGKOK 2025 \n플레이리스트를 공개합니다!\n\nVISION BANGKOK 2025\nขอเปิดเผยเพลย์ลิสต์อย่างเป็นทางการ!"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT40M29S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "255",
+                "likeCount": "14",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "9M_Id51VmTPaCFQEofKt3NZIQus",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "18KWgg3huI0jfias2R4QYWVU-7o",
+            "id": "yW6RBv_DlUA",
+            "snippet": {
+                "publishedAt": "2025-09-10T13:01:59Z",
+                "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                "title": "Personent Hodie | arr. Mark Burrows",
+                "description": "Personent Hodie arranged by Mark Burrows for SATB divisi and percussion. \n\nMark Burrow's imaginative arrangement of the ancient Personent Hodie creates a festive atmosphere that captures the joy of the holiday season. Featuring vibrant interplay between the choir and the percussionists.\n\nPurchase the music: https://giamusic.com/resource/personent-hodie-printed-music-ww2106",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yW6RBv_DlUA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yW6RBv_DlUA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yW6RBv_DlUA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yW6RBv_DlUA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yW6RBv_DlUA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walton Music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Personent Hodie | arr. Mark Burrows",
+                    "description": "Personent Hodie arranged by Mark Burrows for SATB divisi and percussion. \n\nMark Burrow's imaginative arrangement of the ancient Personent Hodie creates a festive atmosphere that captures the joy of the holiday season. Featuring vibrant interplay between the choir and the percussionists.\n\nPurchase the music: https://giamusic.com/resource/personent-hodie-printed-music-ww2106"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M39S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1563",
+                "likeCount": "17",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

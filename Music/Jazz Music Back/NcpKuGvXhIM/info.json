@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "abN9spSeevFASZ2T45_v5KpoTvQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "_nOs8enVHq4slnRHNCV2ZAQdkcs",
+            "id": "NcpKuGvXhIM",
+            "snippet": {
+                "publishedAt": "2025-10-29T12:44:29Z",
+                "channelId": "UCxWfuzrNR2jjAnWUh8o8ycA",
+                "title": "Autumn Café Jazz 🍂 | 1940s Nostalgic Lounge Collection",
+                "description": "#AutumnJazz #VintageJazz #1940sJazz #CaféJazz #RetroLounge #ClassicJazz #SmoothJazz #VintageVibes #JazzCollection #NostalgicJazz\n\nWelcome to Autumn Café Jazz 🍂, where the warm glow of the 1940s fills every note. Imagine soft jazz echoing through a vintage café — gentle piano, mellow trumpets, and tender vocals that capture the bittersweet beauty of autumn nights. Let the nostalgic charm of classic jazz transport you to a time of elegance, romance, and quiet reflection.\n\n✉Contact us: jazzmusicback@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NcpKuGvXhIM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NcpKuGvXhIM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NcpKuGvXhIM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NcpKuGvXhIM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NcpKuGvXhIM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jazz Music Back",
+                "tags": [
+                    "1940s jazz",
+                    "vintage jazz",
+                    "nostalgic jazz",
+                    "retro jazz lounge",
+                    "autumn jazz",
+                    "jazz bar classics",
+                    "smooth jazz 1940s",
+                    "timeless swing",
+                    "fall jazz playlist",
+                    "romantic jazz",
+                    "cozy jazz nights",
+                    "vintage music mix",
+                    "lounge jazz 1930s 1940s",
+                    "jazz nostalgia playlist"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Autumn Café Jazz 🍂 | 1940s Nostalgic Lounge Collection",
+                    "description": "#AutumnJazz #VintageJazz #1940sJazz #CaféJazz #RetroLounge #ClassicJazz #SmoothJazz #VintageVibes #JazzCollection #NostalgicJazz\n\nWelcome to Autumn Café Jazz 🍂, where the warm glow of the 1940s fills every note. Imagine soft jazz echoing through a vintage café — gentle piano, mellow trumpets, and tender vocals that capture the bittersweet beauty of autumn nights. Let the nostalgic charm of classic jazz transport you to a time of elegance, romance, and quiet reflection.\n\n✉Contact us: jazzmusicback@gmail.com"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H5M33S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "243",
+                "likeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "gyD7uEBw4mVvQQJtlApeKpFpez4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "u9NzpaBxpj2MEjR_ILlPmmh1MEE",
+            "id": "aicnCd9SgME",
+            "snippet": {
+                "publishedAt": "2024-12-09T09:00:05Z",
+                "channelId": "UC6TJkBRLMFJ-9c7pXehoZwg",
+                "title": "박재범 Chapter 작업 비하인드 스토리  #shorts",
+                "description": "#심아론 #simaron #Youth_Soaking_in_Sunlight #차례 #TURN #H1GHRMUSIC #하이어뮤직",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aicnCd9SgME/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aicnCd9SgME/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aicnCd9SgME/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aicnCd9SgME/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aicnCd9SgME/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "H1GHR MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "박재범 Chapter 작업 비하인드 스토리  #shorts",
+                    "description": "#심아론 #simaron #Youth_Soaking_in_Sunlight #차례 #TURN #H1GHRMUSIC #하이어뮤직"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2754",
+                "likeCount": "114",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

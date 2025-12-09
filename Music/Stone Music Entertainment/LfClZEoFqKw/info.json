@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "KZHQBEGnSg-i86l8b7oM0nSi6Vo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "C-htx4YBxzp-WAaokWMnjDQ9KQs",
+            "id": "LfClZEoFqKw",
+            "snippet": {
+                "publishedAt": "2025-12-09T06:34:09Z",
+                "channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
+                "title": "비주얼+피지컬+예능감 다 가짐 알디원(ALD1)이 [사기캐]인 이유 자컨으로 알아보자 (프로필 검증 편) 📝｜#Shorts",
+                "description": "비주얼+피지컬+예능감 다 가짐\n알디원(ALD1)이 [사기캐]인 이유 자컨으로 알아보자 (프로필 검증 편) 📝｜#Shorts  \n\n✅26.1.12 (Mon) 6PM 알파드라이브원 'EUPHORIA' Release!\n\n#스톤뮤직 #stonemusicentertainment \n#ALPHADRIVEONE #ALD1\n#알파드라이브원\n#EUPHORIA #유포리아",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LfClZEoFqKw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LfClZEoFqKw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LfClZEoFqKw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LfClZEoFqKw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LfClZEoFqKw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Stone Music Entertainment",
+                "tags": [
+                    "K-CULTURE",
+                    "korean Music",
+                    "MV",
+                    "Music Video",
+                    "K-Pop",
+                    "Kpop",
+                    "뮤비",
+                    "뮤직비디오",
+                    "Stone Music Entertainment"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "비주얼+피지컬+예능감 다 가짐 알디원(ALD1)이 [사기캐]인 이유 자컨으로 알아보자 (프로필 검증 편) 📝｜#Shorts",
+                    "description": "비주얼+피지컬+예능감 다 가짐\n알디원(ALD1)이 [사기캐]인 이유 자컨으로 알아보자 (프로필 검증 편) 📝｜#Shorts  \n\n✅26.1.12 (Mon) 6PM 알파드라이브원 'EUPHORIA' Release!\n\n#스톤뮤직 #stonemusicentertainment \n#ALPHADRIVEONE #ALD1\n#알파드라이브원\n#EUPHORIA #유포리아"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1487",
+                "likeCount": "131",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "qvzJ_jI26pDNEhwl99buKVZHHOs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "w8O5tda_nTtV1RzAFhMJbQIipYo",
+            "id": "q48stD2CPws",
+            "snippet": {
+                "publishedAt": "2024-12-31T03:02:31Z",
+                "channelId": "UCtj5rIKd3atoia8j033p-Ow",
+                "title": "\"???\" 피아노 편곡&연주 (티저 Ver.) / 아리우스 사오리",
+                "description": "Blue Archive - \"Theme ??\" Piano Performance (Teaser Ver.)\n\n------------------------------------------------------------------------------------------------------\n* 15초 분량의 티저 버전입니다.\n* 2025년 1월 8일 20:00(UTC+9) 에 공개됩니다.\n------------------------------------------------------------------------------------------------------\n---------------------------------------------------\n디스코드 채널 : https://discord.gg/TGvwJR9rs7\n치지직 : https://chzzk.naver.com/b09be9f2f4a04fbfb660d13cce01197f\n---------------------------------------------------\n\n#BlueArchive #블루아카이브 #ブルーアーカイブ #ブルアカ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q48stD2CPws/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q48stD2CPws/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q48stD2CPws/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/q48stD2CPws/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/q48stD2CPws/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Frost Music (프뮤)",
+                "tags": [
+                    "ブルアカ グレゴリオ",
+                    "블루아카이브",
+                    "Blue Archive PV",
+                    "블루아카이브 ost",
+                    "Blue Archive ost",
+                    "Blue Archive piano",
+                    "블루아카이브 피아노",
+                    "블루아카이브 pv",
+                    "ブルアカ PV",
+                    "ブルアカ ost",
+                    "블루아카이브 브금",
+                    "BlueArchive music",
+                    "BlueArchive bgm",
+                    "ブルアカ ピアノ",
+                    "Blue Archive",
+                    "ブルアカ 音楽",
+                    "ブルーアーカイブ",
+                    "ブルーアーカイブ PV",
+                    "ブルーアーカイブ ost",
+                    "Blue Archive music",
+                    "Blue Archive bgm",
+                    "ブルーアーカイブ ピアノ",
+                    "Blue Archive story bgm",
+                    "블루아카이브 스토리 브금",
+                    "그레고리우스 브금",
+                    "ブルアカ",
+                    "블루아카 최종장 피아노",
+                    "블루아카 최종장 브금",
+                    "블루아카 최종장 ost",
+                    "블루아카 최종장"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"???\" 피아노 편곡&연주 (티저 Ver.) / 아리우스 사오리",
+                    "description": "Blue Archive - \"Theme ??\" Piano Performance (Teaser Ver.)\n\n------------------------------------------------------------------------------------------------------\n* 15초 분량의 티저 버전입니다.\n* 2025년 1월 8일 20:00(UTC+9) 에 공개됩니다.\n------------------------------------------------------------------------------------------------------\n---------------------------------------------------\n디스코드 채널 : https://discord.gg/TGvwJR9rs7\n치지직 : https://chzzk.naver.com/b09be9f2f4a04fbfb660d13cce01197f\n---------------------------------------------------\n\n#BlueArchive #블루아카이브 #ブルーアーカイブ #ブルアカ"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1539",
+                "likeCount": "58",
+                "favoriteCount": "0",
+                "commentCount": "19"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

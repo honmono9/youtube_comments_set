@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "VInMR7Gc2Bkd_w1VUV_DQt75BSw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "nABNrEnwWgwnHj8JesabIfXIEGw",
+            "id": "N2e2WlcTbV4",
+            "snippet": {
+                "publishedAt": "2025-12-09T09:00:37Z",
+                "channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
+                "title": "윤현상 (Yoon Hyun Sang) - Corduroy Coat Live Clip｜#Shorts",
+                "description": "윤현상 (Yoon Hyun Sang) - Corduroy Coat Live Clip｜#Shorts \n\n#스톤뮤직 #stonemusicentertainment \n#윤현상 #Yoon_Hyun_Sang",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N2e2WlcTbV4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N2e2WlcTbV4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N2e2WlcTbV4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/N2e2WlcTbV4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/N2e2WlcTbV4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Stone Music Entertainment",
+                "tags": [
+                    "K-CULTURE",
+                    "korean Music",
+                    "MV",
+                    "Music Video",
+                    "K-Pop",
+                    "Kpop",
+                    "뮤비",
+                    "뮤직비디오",
+                    "Stone Music Entertainment"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "윤현상 (Yoon Hyun Sang) - Corduroy Coat Live Clip｜#Shorts",
+                    "description": "윤현상 (Yoon Hyun Sang) - Corduroy Coat Live Clip｜#Shorts \n\n#스톤뮤직 #stonemusicentertainment \n#윤현상 #Yoon_Hyun_Sang"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "561",
+                "likeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

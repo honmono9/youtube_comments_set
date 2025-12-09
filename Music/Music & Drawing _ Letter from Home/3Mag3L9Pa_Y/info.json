@@ -1,0 +1,84 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "HcTwV_A2gUHAatN0MJKeToOHtcI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "HrV78tLAYAJcMCGgoSbEVVTRCDo",
+            "id": "3Mag3L9Pa_Y",
+            "snippet": {
+                "publishedAt": "2025-10-11T10:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Relaxing Piano Jazz | Bright Autumn Jazz to Refresh Your Day",
+                "description": "Immerse yourself in the smooth sound of a piano trio jazz as the train glides through peaceful summer fields.\nA bright, refreshing, and nostalgic jazz collection to accompany your day — whether you’re studying, relaxing, or watching the world pass by.\n🎹 Piano | 🎻 Bass | 🥁 Drums — the timeless trio that paints every journey with rhythm and soul.\n\nListen, breathe, and travel through the sound. 🚂✨\n\n#pianojazz # jazz #pianotriojazz #relaxingjazz #smoothjazz #jazzpiano #studyjazz #backgroundjazz #autumnjazz #countrysidejazz #cafejazz  #morningjazz #chilljazz #instrumentaljazz jazzmusic #jazzplaylist",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3Mag3L9Pa_Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3Mag3L9Pa_Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3Mag3L9Pa_Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3Mag3L9Pa_Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3Mag3L9Pa_Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "autumn jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Relaxing Piano Jazz | Bright Autumn Jazz to Refresh Your Day",
+                    "description": "Immerse yourself in the smooth sound of a piano trio jazz as the train glides through peaceful summer fields.\nA bright, refreshing, and nostalgic jazz collection to accompany your day — whether you’re studying, relaxing, or watching the world pass by.\n🎹 Piano | 🎻 Bass | 🥁 Drums — the timeless trio that paints every journey with rhythm and soul.\n\nListen, breathe, and travel through the sound. 🚂✨\n\n#pianojazz # jazz #pianotriojazz #relaxingjazz #smoothjazz #jazzpiano #studyjazz #backgroundjazz #autumnjazz #countrysidejazz #cafejazz  #morningjazz #chilljazz #instrumentaljazz jazzmusic #jazzplaylist"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H51S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "308",
+                "likeCount": "8",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "4QEH5vrjen5MhdplEo9RinUDCFo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "hLaPjIsrIPxW-ReR8_M0oPckpts",
+            "id": "eAm6h8ua9lQ",
+            "snippet": {
+                "publishedAt": "2021-09-15T09:00:16Z",
+                "channelId": "UC2QOMTJ0Gz5vJPMl7KXkWaA",
+                "title": "真夏の島谷ひとみMV BEST コレクション2021",
+                "description": "島谷ひとみが選ぶ真夏に聞きたいベストコレクション！\n本人解説で蘇るMV撮影当時の思い。\n記念すべく第一弾に選んだ曲は？\n\n#島谷ひとみ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eAm6h8ua9lQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eAm6h8ua9lQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eAm6h8ua9lQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eAm6h8ua9lQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eAm6h8ua9lQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HITOMI SHIMATANI MUSIC Official Youtube",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "真夏の島谷ひとみMV BEST コレクション2021",
+                    "description": "島谷ひとみが選ぶ真夏に聞きたいベストコレクション！\n本人解説で蘇るMV撮影当時の思い。\n記念すべく第一弾に選んだ曲は？\n\n#島谷ひとみ"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT24M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "13611",
+                "likeCount": "403",
+                "favoriteCount": "0",
+                "commentCount": "43"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

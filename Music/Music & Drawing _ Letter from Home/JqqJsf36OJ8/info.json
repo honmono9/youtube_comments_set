@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "xK4tKSoZXZ1SmygfUjUreNno3Eo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "_OMjRUNqId8-7V2k5VEja09YF14",
+            "id": "JqqJsf36OJ8",
+            "snippet": {
+                "publishedAt": "2025-09-02T10:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Rainy Night Saxophone Jazz in New York Terrace | Smooth Vintage Jazz for Relaxing",
+                "description": "Step back into the romantic nights of 1950s New York.\nThe rain falls gently outside, neon lights glow in the streets,\nand smooth saxophone jazz fills the air.\nA perfect vintage playlist for cozy nights, studying, or simply relaxing with timeless oldies jazz.\n\n#NightJazz #1950sJazz #Vintagejazz #SaxophoneJazz #SmoothJazz #JazzPlaylist #RomanticEveningJazz #rainyjazz #CozyNightJazz #ClassicJazzMusic #JazzLounge #studyjazz #workjazz #jazzinstrumental #relaxingjazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JqqJsf36OJ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JqqJsf36OJ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JqqJsf36OJ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JqqJsf36OJ8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "rain jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "saxophone jazz",
+                    "new york jazz",
+                    "1950s jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Rainy Night Saxophone Jazz in New York Terrace | Smooth Vintage Jazz for Relaxing",
+                    "description": "Step back into the romantic nights of 1950s New York.\nThe rain falls gently outside, neon lights glow in the streets,\nand smooth saxophone jazz fills the air.\nA perfect vintage playlist for cozy nights, studying, or simply relaxing with timeless oldies jazz.\n\n#NightJazz #1950sJazz #Vintagejazz #SaxophoneJazz #SmoothJazz #JazzPlaylist #RomanticEveningJazz #rainyjazz #CozyNightJazz #ClassicJazzMusic #JazzLounge #studyjazz #workjazz #jazzinstrumental #relaxingjazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1075",
+                "likeCount": "34",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

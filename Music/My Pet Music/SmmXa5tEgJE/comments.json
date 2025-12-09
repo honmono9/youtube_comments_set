@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "3m1GVwOpvcm0ppwbhGgXByF2if4",
+        "id": "UgyStH4paAi_G-gNsh54AaABAg",
+        "snippet": {
+            "channelId": "UCo62tODW4YnxtszbusXyX-w",
+            "videoId": "SmmXa5tEgJE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "q2taoNrH4YPk8K-EMbaZd2MxDn4",
+                "id": "UgyStH4paAi_G-gNsh54AaABAg",
+                "snippet": {
+                    "channelId": "UCo62tODW4YnxtszbusXyX-w",
+                    "videoId": "SmmXa5tEgJE",
+                    "textDisplay": "リラックスミュージックいろいろありますが　うちの犬はこれがお気に入りの様で直ぐに寝てしまいます😊",
+                    "textOriginal": "リラックスミュージックいろいろありますが　うちの犬はこれがお気に入りの様で直ぐに寝てしまいます😊",
+                    "authorDisplayName": "@ミチ-i4w",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lS8OZBtlFwnlzCg24FY6wbOAfwvJ3BWkghlv0Ai37Y9x0=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%E3%83%9F%E3%83%81-i4w",
+                    "authorChannelId": {
+                        "value": "UCsGzofFA0lkeA4LctvJLooA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-10-27T19:06:32Z",
+                    "updatedAt": "2025-10-27T19:06:32Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "3NEQhffGqjOBCUDVLdyQ4-tLNEQ",
+        "id": "UgzIOjAp2Nmzwl2LtrR4AaABAg",
+        "snippet": {
+            "channelId": "UCo62tODW4YnxtszbusXyX-w",
+            "videoId": "SmmXa5tEgJE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "1Azo_lMsfvYpZq5BvElJG66iPNA",
+                "id": "UgzIOjAp2Nmzwl2LtrR4AaABAg",
+                "snippet": {
+                    "channelId": "UCo62tODW4YnxtszbusXyX-w",
+                    "videoId": "SmmXa5tEgJE",
+                    "textDisplay": "うちのマルチーズそっくりです♪",
+                    "textOriginal": "うちのマルチーズそっくりです♪",
+                    "authorDisplayName": "@chi-u1p",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lTymn5dUH3T6BZl0qmzkRbs8kKie1Qd2mKo-sTuPLenNptfnxwVTMJzgNGmWXaMrvhGQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@chi-u1p",
+                    "authorChannelId": {
+                        "value": "UCSRglk1atGGbGYbRpyHBwzA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-09-21T15:37:36Z",
+                    "updatedAt": "2025-09-21T15:37:36Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

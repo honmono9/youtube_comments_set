@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "aLqWJ97G92ir7NElpSaX_8xBNX0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "MF7-b36cGJ39gB78pIG0g_oT8Zc",
+            "id": "8Ptr6j57hSA",
+            "snippet": {
+                "publishedAt": "2023-05-09T05:19:31Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Tuesday Morning Jazz - Positive Jazz & Bossa Nova Music to Chill Out",
+                "description": "Happy morning jazz and bossa nova music by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#morning #happyjazz #springjazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Ptr6j57hSA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Ptr6j57hSA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Ptr6j57hSA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8Ptr6j57hSA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8Ptr6j57hSA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "tags": [
+                    "jazz",
+                    "bossa nova",
+                    "jazz live",
+                    "jazz playlist",
+                    "jazz radio",
+                    "jazz morning",
+                    "jazz music",
+                    "relaxing jazz",
+                    "happy jazz",
+                    "positive jazz",
+                    "weekend jazz",
+                    "saturday jazz",
+                    "sunday jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Tuesday Morning Jazz - Positive Jazz & Bossa Nova Music to Chill Out",
+                    "description": "Happy morning jazz and bossa nova music by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#morning #happyjazz #springjazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H25M52S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "51897",
+                "likeCount": "242",
+                "favoriteCount": "0",
+                "commentCount": "15"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

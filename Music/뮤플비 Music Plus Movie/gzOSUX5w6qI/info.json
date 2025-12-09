@@ -1,0 +1,113 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "wMPBltAibPJjGzPl8nFaq1DdD2Q",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "OUgBRQzdy22RaEnB0EeAXw5lG3c",
+            "id": "gzOSUX5w6qI",
+            "snippet": {
+                "publishedAt": "2025-05-31T08:30:31Z",
+                "channelId": "UClbjf4pXBzXVk3ImyeBa__w",
+                "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 학교 지각했을 때 듣는 플리",
+                "description": "0:00 1\n0:00 1\n\n1:00 2\n1:00 2\n\n2:40 3\n2:40 3\n\n3:28 Ghost Protocol\n3:28 Ghost Protocol\n\n4:53 Rogue Nation\n4:53 Rogue Nation\n\n5:51 Fallout\n5:51 Fallout\n\n7:21 Dead Reckoning\n7:21 Dead Reckoning\n\n8:28 The Final Reckoning\n8:28 The Final Reckoning",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gzOSUX5w6qI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gzOSUX5w6qI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gzOSUX5w6qI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gzOSUX5w6qI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gzOSUX5w6qI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뮤플비 Music Plus Movie",
+                "tags": [
+                    "팝송",
+                    "영화",
+                    "팝송가사해석",
+                    "가사해석",
+                    "미션임파서블",
+                    "학교플리",
+                    "지각플리",
+                    "학교지각",
+                    "학교지각플리",
+                    "영화OST플리",
+                    "영화OST모음",
+                    "영화테마",
+                    "영화 노래",
+                    "미션임파스ㅓ블",
+                    "미션임파서블 노래",
+                    "미션임파서블ost",
+                    "미션임파서블테마",
+                    "미션임파서블플레이리스트",
+                    "급한 업무 플리",
+                    "급한일 플리",
+                    "신나는플리",
+                    "웅장한",
+                    "웅장한 브금",
+                    "웅장한 노래",
+                    "웅장한 플리",
+                    "웅장한 ost",
+                    "미션임파서블 파이널 레코닝",
+                    "미임파",
+                    "미션임파서블 데드레코닝",
+                    "미션임파서블 톰크루즈",
+                    "미션임파서블 플레이리스트",
+                    "미션임파서블 ost",
+                    "미션임파서블 플레이리시트",
+                    "mission impossible"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 학교 지각했을 때 듣는 플리",
+                    "description": "0:00 1\n0:00 1\n\n1:00 2\n1:00 2\n\n2:40 3\n2:40 3\n\n3:28 Ghost Protocol\n3:28 Ghost Protocol\n\n4:53 Rogue Nation\n4:53 Rogue Nation\n\n5:51 Fallout\n5:51 Fallout\n\n7:21 Dead Reckoning\n7:21 Dead Reckoning\n\n8:28 The Final Reckoning\n8:28 The Final Reckoning"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT9M48S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9854",
+                "likeCount": "258",
+                "favoriteCount": "0",
+                "commentCount": "33"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

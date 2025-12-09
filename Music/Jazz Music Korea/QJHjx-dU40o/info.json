@@ -1,0 +1,108 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "oqRj-2RKHG-FVJTm8GioFP9lcCA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "WUG3Uz7F2j0htoJLzTo_WhJ2gbs",
+            "id": "QJHjx-dU40o",
+            "snippet": {
+                "publishedAt": "2023-09-09T08:52:20Z",
+                "channelId": "UCsfYd7AVFk_ASiMudok6_sQ",
+                "title": "Live at the Fukuoka!",
+                "description": "Contact  - chjh1234@gmail.com     \n\n후쿠오카 텐진에 위치한 재즈클럽 Cafe style Jam 에서 연주한\n\nSuzukake no michi  입니다! \n\n즐겁게 감상 해 주세요\n\n클라리넷 - Akina hadano\n클라리넷 - 서효상\n피아노 - 강승훈\n비브라폰 - Kimoto\n베이스 - 최준혁\n기타 - Manggo\n\n협력 및  섭외문의\nContact  - chjh1234@gmail.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QJHjx-dU40o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QJHjx-dU40o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QJHjx-dU40o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QJHjx-dU40o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QJHjx-dU40o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jazz Music Korea",
+                "tags": [
+                    "재즈",
+                    "재즈밴드",
+                    "재즈공연",
+                    "재즈밴드굿펠리스",
+                    "굿펠리스",
+                    "재즈밴드섭외",
+                    "재즈음악",
+                    "재즈뮤직코리아",
+                    "공연",
+                    "공연섭외",
+                    "재즈베이스",
+                    "콘트라베이스",
+                    "콘트라베이스최준혁",
+                    "재즈베이스최준혁",
+                    "워킹베이스",
+                    "jazz",
+                    "jazzband",
+                    "jazzmusic",
+                    "jazzmusickorea",
+                    "goodfellis",
+                    "uprightbass",
+                    "jazzbass",
+                    "choijunhyuk",
+                    "비브라폰",
+                    "livejazz",
+                    "jazzbandgoodfellis",
+                    "autumn leaves",
+                    "버스킹",
+                    "어텀리브스",
+                    "즉흥연주",
+                    "피렌체",
+                    "여행",
+                    "이태리",
+                    "italy"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Live at the Fukuoka!",
+                    "description": "Contact  - chjh1234@gmail.com     \n\n후쿠오카 텐진에 위치한 재즈클럽 Cafe style Jam 에서 연주한\n\nSuzukake no michi  입니다! \n\n즐겁게 감상 해 주세요\n\n클라리넷 - Akina hadano\n클라리넷 - 서효상\n피아노 - 강승훈\n비브라폰 - Kimoto\n베이스 - 최준혁\n기타 - Manggo\n\n협력 및  섭외문의\nContact  - chjh1234@gmail.com."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT10M58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2259",
+                "likeCount": "85",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

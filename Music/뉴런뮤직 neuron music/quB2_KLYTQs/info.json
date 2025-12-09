@@ -1,0 +1,104 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "WKmE5emgTyMksOvG5pTQseTG1G0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "k4KstfoitgEobiTVM0OK2kqn_Q4",
+            "id": "quB2_KLYTQs",
+            "snippet": {
+                "publishedAt": "2024-12-25T09:00:58Z",
+                "channelId": "UCFjKZImEGGPqOz7P9UZ0IlQ",
+                "title": "그때 그 시절 감성 #알앤비",
+                "description": "#이지카이트 #디스토리 #흑백영화\n\n✔️ 𝙁𝙤𝙡𝙡𝙤𝙬 𝙄𝙯𝙮𝙠𝙞𝙩𝙚\n∙ https://www.instagram.com/izykite/\n∙ https://www.instagram.com/izykite_official/\n∙ https://www.youtube.com/@Izykite \n∙ https://twitter.com/Izykite_\n∙ https://www.facebook.com/izykite",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/quB2_KLYTQs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/quB2_KLYTQs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/quB2_KLYTQs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/quB2_KLYTQs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/quB2_KLYTQs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뉴런뮤직 neuron music",
+                "tags": [
+                    "이지카이트",
+                    "Izykite",
+                    "이지카이트 노래",
+                    "뉴런뮤직",
+                    "싱어송라이터",
+                    "싱송라",
+                    "뉴런뮤직 폴킴",
+                    "정수민",
+                    "재만",
+                    "디스토리",
+                    "이지카이트 디스토리",
+                    "디스토리 이별후애",
+                    "싸이월드",
+                    "싸이월드 감성",
+                    "하루하루",
+                    "윤미래",
+                    "빅마마",
+                    "싸이월드 노래모음",
+                    "뮤직비디오",
+                    "흑백영화",
+                    "이지카이트 흑백영화",
+                    "디스토리 흑백영화",
+                    "이지카이트 디스토리 흑백영화",
+                    "SZA",
+                    "Hit Different x Good Days",
+                    "RnB",
+                    "R&B",
+                    "알앤비",
+                    "알앤비 플리",
+                    "플레이리스트"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "그때 그 시절 감성 #알앤비",
+                    "description": "#이지카이트 #디스토리 #흑백영화\n\n✔️ 𝙁𝙤𝙡𝙡𝙤𝙬 𝙄𝙯𝙮𝙠𝙞𝙩𝙚\n∙ https://www.instagram.com/izykite/\n∙ https://www.instagram.com/izykite_official/\n∙ https://www.youtube.com/@Izykite \n∙ https://twitter.com/Izykite_\n∙ https://www.facebook.com/izykite"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1166",
+                "likeCount": "36",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

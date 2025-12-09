@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "o_5VGqb2jI38HZbhknh8oMsCyQA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "gzuvqjXv-yXRSyCXz8xUmkbiNOI",
+            "id": "G2aQEjHX-pA",
+            "snippet": {
+                "publishedAt": "2021-10-13T09:24:36Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "미국항공우주국 NASA에서 특별 공연한 소프라노 조수아",
+                "description": "차세대 프리마돈나 #조수아 소니클래시컬코리아 아티스트 인터뷰!\n\n미국항공우주국 NASA에서 특별 공연한 이야기부터 즉석 라이브 공연까지🤩\n\n인터뷰에서 바로 확인해보세요💕\n\n\n#소니클래시컬코리아 #소니클래시컬 #아티스트 #인터뷰 #SonyClassical",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G2aQEjHX-pA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G2aQEjHX-pA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G2aQEjHX-pA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/G2aQEjHX-pA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/G2aQEjHX-pA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "미국항공우주국 NASA에서 특별 공연한 소프라노 조수아",
+                    "description": "차세대 프리마돈나 #조수아 소니클래시컬코리아 아티스트 인터뷰!\n\n미국항공우주국 NASA에서 특별 공연한 이야기부터 즉석 라이브 공연까지🤩\n\n인터뷰에서 바로 확인해보세요💕\n\n\n#소니클래시컬코리아 #소니클래시컬 #아티스트 #인터뷰 #SonyClassical"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT13M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "10117",
+                "likeCount": "55",
+                "favoriteCount": "0",
+                "commentCount": "19"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

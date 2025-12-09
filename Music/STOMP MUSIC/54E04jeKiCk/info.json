@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "FsloVgA1fNBadM6NWjxR8LVehrQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "E3R6WFIGzZP-QEfCanDGHCth_Vo",
+            "id": "54E04jeKiCk",
+            "snippet": {
+                "publishedAt": "2021-10-29T06:04:10Z",
+                "channelId": "UCEhxA_aRk5gPi7PbzvmkSlg",
+                "title": "[BGM] 추억의 싸이월드 BGM 플레이리스트 | cyworld bgm PLAYLIST",
+                "description": "도토리로 감성 충전..★\n가사 없는(02~) 추억의 싸이월드 BGM 모음🎻\n\nCyworld BGM Playlist that brings back memories.\n\n* 영상에 포함된 광고는 유튜브에서 자동으로 삽입되며, 광고로 인한 수익은 저작권자에게 돌아갑니다.\n\n#싸이월드 #싸이플리 #BGM",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/54E04jeKiCk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/54E04jeKiCk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/54E04jeKiCk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/54E04jeKiCk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/54E04jeKiCk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "STOMP MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[BGM] 추억의 싸이월드 BGM 플레이리스트 | cyworld bgm PLAYLIST",
+                    "description": "도토리로 감성 충전..★\n가사 없는(02~) 추억의 싸이월드 BGM 모음🎻\n\nCyworld BGM Playlist that brings back memories.\n\n* 영상에 포함된 광고는 유튜브에서 자동으로 삽입되며, 광고로 인한 수익은 저작권자에게 돌아갑니다.\n\n#싸이월드 #싸이플리 #BGM"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1H47M19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2680",
+                "likeCount": "37",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "0F9UrHjR__Mgo1jMg-HBS_MbfTg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "JcUSFyhxpkl0eZ3V0UhSeOGWINg",
+            "id": "8Q9hmCLHvkY",
+            "snippet": {
+                "publishedAt": "2021-11-15T11:05:50Z",
+                "channelId": "UC2uBCRZPRAaCbUUoBt5f9Eg",
+                "title": "여유롭게 즐기는 감성 팝 음악/재즈 with 존 슬론",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Q9hmCLHvkY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Q9hmCLHvkY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Q9hmCLHvkY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8Q9hmCLHvkY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8Q9hmCLHvkY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "맬러리 뮤직 Mallory Music",
+                "tags": [
+                    "감성 팝송",
+                    "잔잔한 팝송",
+                    "팝송 추천",
+                    "여유로운 노래",
+                    "playlist",
+                    "재즈",
+                    "jazz",
+                    "cozy songs"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "여유롭게 즐기는 감성 팝 음악/재즈 with 존 슬론",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT29M40S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "66773",
+                "likeCount": "1256",
+                "favoriteCount": "0",
+                "commentCount": "85"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

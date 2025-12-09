@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "eLKzZBOYweFUazM_sZu_K2N4GIY",
+        "id": "Ugz38v2b4lCwToWTHBt4AaABAg",
+        "snippet": {
+            "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+            "videoId": "bt1x5O0ZvJk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "3Wq3YpqUl9G1Fu5Sg5hyYc7mSVM",
+                "id": "Ugz38v2b4lCwToWTHBt4AaABAg",
+                "snippet": {
+                    "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                    "videoId": "bt1x5O0ZvJk",
+                    "textDisplay": "❤❤",
+                    "textOriginal": "❤❤",
+                    "authorDisplayName": "@yomnaai-awlaki8538",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k3FddQ4PfTifS6_iuG2V83XUmeEV_uSYth8H8EjiNdZZaRxq6vU6WWACH3QxsfAYN4-A=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@yomnaai-awlaki8538",
+                    "authorChannelId": {
+                        "value": "UCLnnwomBxi7NiGwI8Amn-bw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-07-28T09:02:58Z",
+                    "updatedAt": "2023-07-28T09:02:58Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Ygz29PQ9zmbyLyv4GKS3Dbi3_d0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "JaoWEgrSivSKD-XyH57MgMB_ehE",
+            "id": "6Cqd1j2H9eQ",
+            "snippet": {
+                "publishedAt": "2020-08-17T12:44:24Z",
+                "channelId": "UCYxyYe0yGYIlSaPDvwaO3TA",
+                "title": "let's make songs together NOW",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6Cqd1j2H9eQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6Cqd1j2H9eQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6Cqd1j2H9eQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6Cqd1j2H9eQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6Cqd1j2H9eQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Napkins Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "let's make songs together NOW",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT34M37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "8736",
+                "likeCount": "469",
+                "favoriteCount": "0",
+                "commentCount": "47"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "YZnHFYl-d9_Rh5urFZGRRHArd1Q",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "GPV8JkLEas8pLmz4tp_E7Aq9kjY",
+            "id": "tB2VJl2_osY",
+            "snippet": {
+                "publishedAt": "2025-11-23T23:01:13Z",
+                "channelId": "UCbGe5jill2XY05_TGvtKiPQ",
+                "title": "Cafe playlist ☕카페에서 듣기 좋은 노래 모음 가을이 가고 겨울이 올 때마음속 따뜻함이 필요할 때 | 그냥 틀어 놓기 좋은 음악 ",
+                "description": "🟢 Spotify\n\nhttps://open.spotify.com/artist/2K7ZrQf4vYvuGKWAjD54WW?si=-Ke52_OASUiXCsP-fU3vQw\n\n\n▶️ YouTube Music\n/ https://youtube.com/channel/UCtgK5ZUYqmqOhtbJzc7wRiA?si=pfPQiMmo_0ldvZ_i\n\n\n🍎 Apple Music\n/ https://music.apple.com/kr/artist/cherry/1828855228\n\n\n\n\n #겨울팝송 #가을팝송 #가을플레이리스트 #겨울플레이리스트\n#카페플리 #카페음악 #매장음악 #따뜻한음악 #감성음악\n#가을카페 #겨울카페 #가을음악 #겨울음악\n#분위기좋은노래 #카페에서듣기좋은노래\n#공부할때듣기좋은노래 #집중할때듣기좋은노래\n#노래모음 #감성플리 #감성팝송 #체리뮤직\n\n#AutumnPlaylist #WinterPlaylist #CafeMusic #ChillPop #IndiePop #RelaxingSongs #CozySongs #StudyPlaylist #FocusMusic #WorkMusic #ChillVibes #WarmVibes #CafeVibes #FallVibes #WinterVibes #BGM #SoftPlaylist #AestheticMusic #SeasonalPlaylist",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tB2VJl2_osY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tB2VJl2_osY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tB2VJl2_osY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tB2VJl2_osY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tB2VJl2_osY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "cherry music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Cafe playlist ☕카페에서 듣기 좋은 노래 모음 가을이 가고 겨울이 올 때마음속 따뜻함이 필요할 때 | 그냥 틀어 놓기 좋은 음악 ",
+                    "description": "🟢 Spotify\n\nhttps://open.spotify.com/artist/2K7ZrQf4vYvuGKWAjD54WW?si=-Ke52_OASUiXCsP-fU3vQw\n\n\n▶️ YouTube Music\n/ https://youtube.com/channel/UCtgK5ZUYqmqOhtbJzc7wRiA?si=pfPQiMmo_0ldvZ_i\n\n\n🍎 Apple Music\n/ https://music.apple.com/kr/artist/cherry/1828855228\n\n\n\n\n #겨울팝송 #가을팝송 #가을플레이리스트 #겨울플레이리스트\n#카페플리 #카페음악 #매장음악 #따뜻한음악 #감성음악\n#가을카페 #겨울카페 #가을음악 #겨울음악\n#분위기좋은노래 #카페에서듣기좋은노래\n#공부할때듣기좋은노래 #집중할때듣기좋은노래\n#노래모음 #감성플리 #감성팝송 #체리뮤직\n\n#AutumnPlaylist #WinterPlaylist #CafeMusic #ChillPop #IndiePop #RelaxingSongs #CozySongs #StudyPlaylist #FocusMusic #WorkMusic #ChillVibes #WarmVibes #CafeVibes #FallVibes #WinterVibes #BGM #SoftPlaylist #AestheticMusic #SeasonalPlaylist"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3H24S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "15293",
+                "likeCount": "90",
+                "favoriteCount": "0",
+                "commentCount": "20"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "qd0gjp2c4SSoKD92OgreAI3_11Y",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "pRrsFBJJGNyITex9WtlcGJXQX64",
+            "id": "kTnjlLcXigA",
+            "snippet": {
+                "publishedAt": "2025-11-13T15:14:37Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Soundgarden -  Fell On Black Days | Soul AI Cover",
+                "description": "Fell On Black Days by Soundgarden twisted into Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nWhatsoever I've feared has come to light\nAnd whatsoever I've fought off became my life\n\nJust when every day seemed to greet me with a smile\nSunspots have faded\nNow I'm doing time\nNow I'm doing time\n\n'Cause I fell on black days\nI fell on black days\n\nWhomsoever I've cured\nI've sickened now\nAnd whomsoever I've cradled\nI've put you down\n\nI'm a searchlight soul they say\nBut I can't see it in the night\nI'm only faking when I get it right\nWhen I get it right\n\n'Cause I fell on black days\nI fell on black days\n\nHow would I know\nThat this could be my fate?\nHow would I know\nThat this could be my fate?\n\nSo what you wanted to see good has made you blind\nAnd what you wanted to be yours has made it mine\n\nSo don't you lock up something\nThat you wanted to see fly\nHands are for shaking\nNo not tying\nNo not tying\n\nI sure don't mind a change\nSure don't mind a change\nYeah, sure don't mind, sure don't mind a change\nI sure don't mind a change\n\n'Cause I fell on black days\nI fell on black days\n\nHow would I know\nThat this could be my fate?\n\nHow would I know\nThat this could be my fate?\n\nHow would I know\nThat this could be my fate?\n\nHow would I know\nThat this could be my fate?\n\nI sure don't mind a change",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kTnjlLcXigA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kTnjlLcXigA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kTnjlLcXigA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kTnjlLcXigA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kTnjlLcXigA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Soundgarden -  Fell On Black Days | Soul AI Cover",
+                    "description": "Fell On Black Days by Soundgarden twisted into Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\n\nWhatsoever I've feared has come to light\nAnd whatsoever I've fought off became my life\n\nJust when every day seemed to greet me with a smile\nSunspots have faded\nNow I'm doing time\nNow I'm doing time\n\n'Cause I fell on black days\nI fell on black days\n\nWhomsoever I've cured\nI've sickened now\nAnd whomsoever I've cradled\nI've put you down\n\nI'm a searchlight soul they say\nBut I can't see it in the night\nI'm only faking when I get it right\nWhen I get it right\n\n'Cause I fell on black days\nI fell on black days\n\nHow would I know\nThat this could be my fate?\nHow would I know\nThat this could be my fate?\n\nSo what you wanted to see good has made you blind\nAnd what you wanted to be yours has made it mine\n\nSo don't you lock up something\nThat you wanted to see fly\nHands are for shaking\nNo not tying\nNo not tying\n\nI sure don't mind a change\nSure don't mind a change\nYeah, sure don't mind, sure don't mind a change\nI sure don't mind a change\n\n'Cause I fell on black days\nI fell on black days\n\nHow would I know\nThat this could be my fate?\n\nHow would I know\nThat this could be my fate?\n\nHow would I know\nThat this could be my fate?\n\nHow would I know\nThat this could be my fate?\n\nI sure don't mind a change"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M33S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2297",
+                "likeCount": "74",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

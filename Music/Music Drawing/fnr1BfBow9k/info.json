@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "BlviSWcJYLuDyMT0LzehPV6rTKI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Iv1We3hMPbJ5IM_N7CRfFOkSoA8",
+            "id": "fnr1BfBow9k",
+            "snippet": {
+                "publishedAt": "2023-10-25T12:00:35Z",
+                "channelId": "UCe_z-lf1t3vPM0FE61ILj9A",
+                "title": "\"추억을 쌓는 밤.. 오늘도 잘자요!\" 마음을 위로하는 수면음악",
+                "description": "너와 나의 이야기가 만나\n우리의 추억이 되고 ..\n그 추억은 지금 별이 되어 내리고 있어..\n그 별은 언제나 내 마음속에서\n반짝일거야..\n\n- 추억이 별이 되어 내리는 밤에..\n\n\n🎵곡 제목                      \n 01.오로라 여행\n 02.별똥별\n\n 그림 - Illustrator 700\n Artwork by@700_illust\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #잠오는음악 #잠잘때듣는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fnr1BfBow9k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fnr1BfBow9k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fnr1BfBow9k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fnr1BfBow9k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fnr1BfBow9k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Drawing",
+                "tags": [
+                    "수면음악",
+                    "수면유도음악",
+                    "편안한음악",
+                    "잠잘때듣는음악",
+                    "RelaxingMusic",
+                    "SleepMusic",
+                    "SleepingMusic",
+                    "RelaxMusic",
+                    "잠오는음악",
+                    "자기전에듣는음악",
+                    "불면증음악"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\"추억을 쌓는 밤.. 오늘도 잘자요!\" 마음을 위로하는 수면음악",
+                    "description": "너와 나의 이야기가 만나\n우리의 추억이 되고 ..\n그 추억은 지금 별이 되어 내리고 있어..\n그 별은 언제나 내 마음속에서\n반짝일거야..\n\n- 추억이 별이 되어 내리는 밤에..\n\n\n🎵곡 제목                      \n 01.오로라 여행\n 02.별똥별\n\n 그림 - Illustrator 700\n Artwork by@700_illust\n\n\n🌙'Music Drawing' 의 음악과 그림을 통해\n소소한 일상을 나누며 따뜻한 위로가 되길 바래요.\n\n\n#수면유도음악 #잠오는음악 #잠잘때듣는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT11H22M44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "201886",
+                "likeCount": "3360",
+                "favoriteCount": "0",
+                "commentCount": "122"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

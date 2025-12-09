@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "pLCxa2nrnYqpySbIDmv4veYLbiU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ZQE13cYGuX0dgxTk1y_IRKgcuI8",
+            "id": "7qYq_92dDpc",
+            "snippet": {
+                "publishedAt": "2014-05-18T11:00:17Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "팬텀 (PHANTOM) '오늘따라 (Seoul Lonely) (Feat. 가인) OFFICIAL TEASER",
+                "description": "팬텀 (PHANTOM) '오늘따라 (Seoul Lonely) (Feat. 가인) OFFICIAL TEASER\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7qYq_92dDpc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7qYq_92dDpc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7qYq_92dDpc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7qYq_92dDpc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7qYq_92dDpc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "tags": [
+                    "팬텀",
+                    "오늘따라",
+                    "phantom",
+                    "seoul lonely"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "팬텀 (PHANTOM) '오늘따라 (Seoul Lonely) (Feat. 가인) OFFICIAL TEASER",
+                    "description": "팬텀 (PHANTOM) '오늘따라 (Seoul Lonely) (Feat. 가인) OFFICIAL TEASER\n\nBRANDNEW MUSIC Official @\nhttp://www.facebook.com/brandnewmusic2011\nhttp://www.instagram.com/brandnewmusic2011\nhttp://twitter.com/BN_Music"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "13291",
+                "likeCount": "364",
+                "favoriteCount": "0",
+                "commentCount": "11"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

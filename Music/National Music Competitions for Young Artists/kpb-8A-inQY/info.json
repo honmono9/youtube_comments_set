@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "QcXCRpN1baWvBJ9JMcnYgU53xFM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "jNvZyjwqq-KpoPAMyN7U3zJ689I",
+            "id": "kpb-8A-inQY",
+            "snippet": {
+                "publishedAt": "2024-11-28T01:13:46Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "2024 NAMCYA Junior Strings Category Finals Competition",
+                "description": "2024 NAMCYA: 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐉𝐮𝐧𝐢𝐨𝐫 𝐒𝐭𝐫𝐢𝐧𝐠𝐬 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲 𝐅𝐢𝐧𝐚𝐥𝐬 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧\n—\nThe 2024 National Music Competitions for Young Artists (NAMCYA): 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐉𝐮𝐧𝐢𝐨𝐫 𝐒𝐭𝐫𝐢𝐧𝐠𝐬 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲 𝐅𝐢𝐧𝐚𝐥𝐬 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧 is in partnership with the National Commission for Culture and the Arts and the Cultural Center of the Philippines, and in cooperation with The Metropolitan Theater and DepEd Philippines.\n\n#NAMCYA\n#NAMCYA2024\n#SalinlahingMusika\n#GalingNAMCYA\n#NAMCYAatTheMet\n#YoungArtists\n#MusicalExcellence",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kpb-8A-inQY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kpb-8A-inQY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kpb-8A-inQY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kpb-8A-inQY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kpb-8A-inQY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "2024 NAMCYA Junior Strings Category Finals Competition",
+                    "description": "2024 NAMCYA: 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐉𝐮𝐧𝐢𝐨𝐫 𝐒𝐭𝐫𝐢𝐧𝐠𝐬 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲 𝐅𝐢𝐧𝐚𝐥𝐬 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧\n—\nThe 2024 National Music Competitions for Young Artists (NAMCYA): 𝐒𝐚𝐥𝐢𝐧𝐥𝐚𝐡𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐤𝐚 𝐉𝐮𝐧𝐢𝐨𝐫 𝐒𝐭𝐫𝐢𝐧𝐠𝐬 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲 𝐅𝐢𝐧𝐚𝐥𝐬 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧 is in partnership with the National Commission for Culture and the Arts and the Cultural Center of the Philippines, and in cooperation with The Metropolitan Theater and DepEd Philippines.\n\n#NAMCYA\n#NAMCYA2024\n#SalinlahingMusika\n#GalingNAMCYA\n#NAMCYAatTheMet\n#YoungArtists\n#MusicalExcellence"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2H58M30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "552",
+                "likeCount": "8",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

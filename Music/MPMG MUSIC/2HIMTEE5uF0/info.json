@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "6dFKMJRrxdLQIr81MGM4fK88waU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "0MlzsmyCTOJHoRvjUN_3unzcs1o",
+            "id": "2HIMTEE5uF0",
+            "snippet": {
+                "publishedAt": "2021-02-02T08:01:07Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "원기옥이 진짜 모여지다니 🔥 말이 안 되잖아 (feat. 어디든 발군이 함께해)",
+                "description": "지구에 흩어져있는 모든 (MPMG) 친구들아! 🌎\n데이브레이크에게 원기옥을 모아줘 🔥🔥\n\n데이브레이크 - 말이 안 되잖아 (feat. 헤이즈)\n2021.02.02. 6PM Release\n\n#데이브레이크 #말이안되잖아 #헤이즈",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2HIMTEE5uF0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2HIMTEE5uF0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2HIMTEE5uF0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2HIMTEE5uF0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2HIMTEE5uF0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "원기옥이 진짜 모여지다니 🔥 말이 안 되잖아 (feat. 어디든 발군이 함께해)",
+                    "description": "지구에 흩어져있는 모든 (MPMG) 친구들아! 🌎\n데이브레이크에게 원기옥을 모아줘 🔥🔥\n\n데이브레이크 - 말이 안 되잖아 (feat. 헤이즈)\n2021.02.02. 6PM Release\n\n#데이브레이크 #말이안되잖아 #헤이즈"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M17S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1174",
+                "likeCount": "87",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

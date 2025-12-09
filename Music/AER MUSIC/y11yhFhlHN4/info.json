@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "mYwbqzHBkt4HOCfbbCxsapSn_-E",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "fJr0bWmQDRHaLo7d0d__daw8tjU",
+            "id": "y11yhFhlHN4",
+            "snippet": {
+                "publishedAt": "2023-04-21T09:03:14Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[OFFICIAL AUDIO] 보라미유 - 우린 다시 봄 | 조선변호사 오리지널 사운드 트랙 3",
+                "description": "보라미유 - 우린 다시 봄 | 조선변호사 오리지널 사운드 트랙 3\n\n#MBC드라마 #조선변호사\n#OST #오리지널사운드트랙 #Release\n#보라미유 #우린다시봄\n#아에르뮤직 #AERMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y11yhFhlHN4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y11yhFhlHN4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y11yhFhlHN4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/y11yhFhlHN4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/y11yhFhlHN4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[OFFICIAL AUDIO] 보라미유 - 우린 다시 봄 | 조선변호사 오리지널 사운드 트랙 3",
+                    "description": "보라미유 - 우린 다시 봄 | 조선변호사 오리지널 사운드 트랙 3\n\n#MBC드라마 #조선변호사\n#OST #오리지널사운드트랙 #Release\n#보라미유 #우린다시봄\n#아에르뮤직 #AERMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M39S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2488",
+                "likeCount": "108",
+                "favoriteCount": "0",
+                "commentCount": "13"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

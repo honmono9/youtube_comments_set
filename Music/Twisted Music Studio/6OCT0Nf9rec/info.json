@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "OL0PGatkr2ut9z56tAAKmHbkC3c",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "csc591CCBqjPeKI0ghbjfuAofZI",
+            "id": "6OCT0Nf9rec",
+            "snippet": {
+                "publishedAt": "2025-12-02T20:30:01Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "Incubus - Drive | 70s Soul AI Cover",
+                "description": "Drive by Incubus twisted into 70s Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\nSometimes I feel the fear of uncertainty stinging clear\nAnd I, I can't help but ask myself\nHow much I let the fear take the wheel and steer\n\nIt's driven me before\nAnd it seems to have a vague, haunting mass appeal\nBut lately I'm\nBeginning to find that I should be the one behind the wheel\n\nWhatever tomorrow brings I'll be there\nWith open arms and open eyes, yeah\nWhatever tomorrow brings I'll be there\nI'll be there\n\nSo if I decide to waiver my chance\nTo be one of the hive\nWill I choose water over wine\nAnd hold my own and drive?\nOh\n\nIt's driven me before\nAnd it seems to be the way, that everyone else gets around\nBut lately I'm\nBeginning to find that when I drive myself, my light is found\n\nWhatever tomorrow brings I'll be there\nWith open arms and open eyes, yeah\nWhatever tomorrow brings I'll be there\nI'll be there\n\nWould you choose water over wine?\nHold the wheel and drive\n\nWhatever tomorrow brings I'll be there\nWith open arms and open eyes, yeah\nWhatever tomorrow brings I'll be there\nI'll be there\n\nDo-do-do, do-do-do, do-do-do-do-do\nWhoa-oh-oh, do-do-do-do-do\nDo-do-do, do-do-do, do-do-do-do-do\nWho-a-oh-oh-oh-oh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6OCT0Nf9rec/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6OCT0Nf9rec/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6OCT0Nf9rec/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6OCT0Nf9rec/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6OCT0Nf9rec/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Incubus - Drive | 70s Soul AI Cover",
+                    "description": "Drive by Incubus twisted into 70s Soul music\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\nSometimes I feel the fear of uncertainty stinging clear\nAnd I, I can't help but ask myself\nHow much I let the fear take the wheel and steer\n\nIt's driven me before\nAnd it seems to have a vague, haunting mass appeal\nBut lately I'm\nBeginning to find that I should be the one behind the wheel\n\nWhatever tomorrow brings I'll be there\nWith open arms and open eyes, yeah\nWhatever tomorrow brings I'll be there\nI'll be there\n\nSo if I decide to waiver my chance\nTo be one of the hive\nWill I choose water over wine\nAnd hold my own and drive?\nOh\n\nIt's driven me before\nAnd it seems to be the way, that everyone else gets around\nBut lately I'm\nBeginning to find that when I drive myself, my light is found\n\nWhatever tomorrow brings I'll be there\nWith open arms and open eyes, yeah\nWhatever tomorrow brings I'll be there\nI'll be there\n\nWould you choose water over wine?\nHold the wheel and drive\n\nWhatever tomorrow brings I'll be there\nWith open arms and open eyes, yeah\nWhatever tomorrow brings I'll be there\nI'll be there\n\nDo-do-do, do-do-do, do-do-do-do-do\nWhoa-oh-oh, do-do-do-do-do\nDo-do-do, do-do-do, do-do-do-do-do\nWho-a-oh-oh-oh-oh"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT4M14S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "814",
+                "likeCount": "29",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

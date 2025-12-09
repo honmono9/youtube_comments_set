@@ -1,0 +1,104 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "au1G0m-9Sh8zXpFNoyoKVPAONdA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "tgjU1rMkb_ChjVwulbDriUlYrCw",
+            "id": "b90HcmHtaZo",
+            "snippet": {
+                "publishedAt": "2025-11-13T08:30:19Z",
+                "channelId": "UC3q6ETGnbbeQ9F_3G04_2ug",
+                "title": "◎ Shorts 이거 듣고 인피니트 생각난 사람 손✋",
+                "description": "#플레이리스트 #아홉 #피노키오 \n구독  https://goo.gl/xVBJcD\n\n\n\n🎤영상의 포함된 광고는 유튜브에서 자동으로 삽입됩니다.\n🎤해당 채널에서 발생된 모든 수익은 100% 원저작권자에 돌아갑니다. \n      혹시 음원 사용을 원치 않으시면 꼭 댓글로 남겨주세요",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b90HcmHtaZo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b90HcmHtaZo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b90HcmHtaZo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/b90HcmHtaZo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/b90HcmHtaZo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "루프탑뮤직 Rooftop Music",
+                "tags": [
+                    "AHOF",
+                    "아홉",
+                    "피노키오는 거짓말을 싫어해",
+                    "피노키오는 거짓말을 싫어해 (Pinocchio)",
+                    "AHOF 피노키오는 거짓말을 싫어해",
+                    "아홉 피노키오는 거짓말을 싫어해",
+                    "AHOF 신곡",
+                    "AHOF 뮤비",
+                    "아홉 신곡",
+                    "아홉 뮤비",
+                    "AHOF 피노키오는 거짓말을 싫어해 뮤비",
+                    "아홉 피노키오는 거짓말을 싫어해 뮤비",
+                    "피노키오는 거짓말을 싫어해 뮤비",
+                    "피노키오는 거짓말을 싫어해 Music Video",
+                    "Pinocchio 뮤비",
+                    "AHOF Pinocchio 뮤비",
+                    "아홉 Pinocchio MV",
+                    "Pinocchio MV",
+                    "AHOF 피노키오는 거짓말을 싫어해 MV",
+                    "아홉 피노키오는 거짓말을 싫어해 Music Video",
+                    "아홉 피노키오는 거짓말을 싫어해 MV",
+                    "AHOF Pinocchio",
+                    "AHOF Pinocchio MV",
+                    "AHOF Pinocchio MUSIC VIDEO",
+                    "AHOF Pinocchio Music Video",
+                    "shorts",
+                    "R&B",
+                    "노래추천",
+                    "지금듣는노래",
+                    "루프탑뮤직"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "◎ Shorts 이거 듣고 인피니트 생각난 사람 손✋",
+                    "description": "#플레이리스트 #아홉 #피노키오 \n구독  https://goo.gl/xVBJcD\n\n\n\n🎤영상의 포함된 광고는 유튜브에서 자동으로 삽입됩니다.\n🎤해당 채널에서 발생된 모든 수익은 100% 원저작권자에 돌아갑니다. \n      혹시 음원 사용을 원치 않으시면 꼭 댓글로 남겨주세요"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT43S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "768",
+                "likeCount": "5",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

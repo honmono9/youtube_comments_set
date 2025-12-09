@@ -1,0 +1,105 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "-M3x_gg_arjzdJrJ9bJ9tmqjo_4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "czTZEjxoPOeZ44ZKL83AaPRhdTM",
+            "id": "BAksgguo-dQ",
+            "snippet": {
+                "publishedAt": "2025-11-17T08:30:10Z",
+                "channelId": "UC3q6ETGnbbeQ9F_3G04_2ug",
+                "title": "◎ Shorts 라이브까지 된다고? 커버 퀄 너무 좋은데 ☁🌛",
+                "description": "#플레이리스트 #아일릿 #르세라핌\n구독  https://goo.gl/xVBJcD\n\n\n\n🎤영상의 포함된 광고는 유튜브에서 자동으로 삽입됩니다.\n🎤해당 채널에서 발생된 모든 수익은 100% 원저작권자에 돌아갑니다. \n      혹시 음원 사용을 원치 않으시면 꼭 댓글로 남겨주세요",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BAksgguo-dQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BAksgguo-dQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BAksgguo-dQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BAksgguo-dQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BAksgguo-dQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "루프탑뮤직 Rooftop Music",
+                "tags": [
+                    "ILLIT",
+                    "아일릿",
+                    "르세라핌",
+                    "르세라핌 (Perfect Night)",
+                    "ILLIT 르세라핌",
+                    "아일릿 르세라핌",
+                    "ILLIT 신곡",
+                    "ILLIT 뮤비",
+                    "아일릿 신곡",
+                    "아일릿 뮤비",
+                    "ILLIT 르세라핌 뮤비",
+                    "아일릿 르세라핌 뮤비",
+                    "르세라핌 뮤비",
+                    "르세라핌 Music Video",
+                    "Perfect Night 뮤비",
+                    "ILLIT Perfect Night 뮤비",
+                    "아일릿 Perfect Night MV",
+                    "Perfect Night MV",
+                    "ILLIT 르세라핌 MV",
+                    "아일릿 르세라핌 Music Video",
+                    "아일릿 르세라핌 MV",
+                    "ILLIT Perfect Night",
+                    "ILLIT Perfect Night MV",
+                    "ILLIT Perfect Night MUSIC VIDEO",
+                    "ILLIT Perfect Night Music Video",
+                    "shorts",
+                    "노래추천",
+                    "지금듣는노래",
+                    "루프탑뮤직",
+                    "플레이리스트",
+                    "kpop추천"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "◎ Shorts 라이브까지 된다고? 커버 퀄 너무 좋은데 ☁🌛",
+                    "description": "#플레이리스트 #아일릿 #르세라핌\n구독  https://goo.gl/xVBJcD\n\n\n\n🎤영상의 포함된 광고는 유튜브에서 자동으로 삽입됩니다.\n🎤해당 채널에서 발생된 모든 수익은 100% 원저작권자에 돌아갑니다. \n      혹시 음원 사용을 원치 않으시면 꼭 댓글로 남겨주세요"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2319",
+                "likeCount": "16",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

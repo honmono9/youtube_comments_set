@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "PdqKlU6RPh3id-_eFZxaDzGHbeY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "bjyRz5AKIJ0MrpvjJo7aQ7hBKlk",
+            "id": "ZnV01-idM88",
+            "snippet": {
+                "publishedAt": "2025-10-10T17:39:39Z",
+                "channelId": "UCL_O5w1_yeGyukBIRB_1alw",
+                "title": "Guitar Acoustic Chill 🍁 Relaxing Pop Music #music #guitar #guitaracoustic #chill #relaxingmusic",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZnV01-idM88/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZnV01-idM88/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZnV01-idM88/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZnV01-idM88/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZnV01-idM88/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Xadiya Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Guitar Acoustic Chill 🍁 Relaxing Pop Music #music #guitar #guitaracoustic #chill #relaxingmusic",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "id"
+            },
+            "contentDetails": {
+                "duration": "PT1M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "114",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

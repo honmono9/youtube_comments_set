@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "L_VGGbU2HF7rwAPbue-LppkeVNU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "VJ4ae3iazhp25uoJ1vVPX72x7vU",
+            "id": "nJ9q3_s_qsI",
+            "snippet": {
+                "publishedAt": "2025-09-11T10:00:06Z",
+                "channelId": "UCQu6ANPsCPFDrrMSzS9fkEg",
+                "title": "Timeless Piano Jazz | Music That Makes Time Stand Still",
+                "description": "Experience the elegance of piano jazz that makes time stand still.\nThis vintage 1950s Piano Jazz Trio playlist blends smooth piano, warm bass, and gentle drums — perfect for studying, working, or simply relaxing in a cozy evening atmosphere.\n\nLet the timeless sound of jazz transport you to a world where the night never ends and every note lingers in the air. 🎶✨\n\n#timelessjazz #pianojazz #pianojazztrio #vintagejazz #1950sjazz #jazzinstrumental #romanticjazz #oldiesjazz #jazzmusic #jazzplaylist #relaxingjazz #smoothjazz #studyworkmusic #bossanova #cozyjazz #eveningjazz #classicjazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nJ9q3_s_qsI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nJ9q3_s_qsI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nJ9q3_s_qsI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nJ9q3_s_qsI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nJ9q3_s_qsI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music & Drawing : Letter from Home",
+                "tags": [
+                    "jazz",
+                    "jazz instrumental",
+                    "instrumental jazz",
+                    "piano jazz",
+                    "vintage music",
+                    "vintage jazz",
+                    "night jazz",
+                    "relaxing jazz",
+                    "smooth jazz",
+                    "bossa nova",
+                    "classic jazz",
+                    "film jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Timeless Piano Jazz | Music That Makes Time Stand Still",
+                    "description": "Experience the elegance of piano jazz that makes time stand still.\nThis vintage 1950s Piano Jazz Trio playlist blends smooth piano, warm bass, and gentle drums — perfect for studying, working, or simply relaxing in a cozy evening atmosphere.\n\nLet the timeless sound of jazz transport you to a world where the night never ends and every note lingers in the air. 🎶✨\n\n#timelessjazz #pianojazz #pianojazztrio #vintagejazz #1950sjazz #jazzinstrumental #romanticjazz #oldiesjazz #jazzmusic #jazzplaylist #relaxingjazz #smoothjazz #studyworkmusic #bossanova #cozyjazz #eveningjazz #classicjazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H10S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1353",
+                "likeCount": "33",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

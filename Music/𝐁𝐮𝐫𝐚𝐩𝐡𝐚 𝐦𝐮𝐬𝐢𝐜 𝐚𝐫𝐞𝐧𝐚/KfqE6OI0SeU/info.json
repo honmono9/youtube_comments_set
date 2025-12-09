@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "KFJ3CSVmBa1K9suc3yffCTL_-JE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "iFVvXOZyZw4tt8rokmDSTU2Rk5U",
+            "id": "KfqE6OI0SeU",
+            "snippet": {
+                "publishedAt": "2025-11-09T01:38:28Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "ฝนสีเทา [Silver Rain] | Teaser trailer Official Mv 11-11-25 #cinematicrock #music",
+                "description": "⚡รักที่ไม่จางไปสายฝน🌧️ ยังติดอยู่บนเศษใจ🤍 รับฟังพร้อมกัน 11-11-25 🎧🎸🤘🏻 #rock #cinematicrock #cinematictitle #BMAarena",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KfqE6OI0SeU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KfqE6OI0SeU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KfqE6OI0SeU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KfqE6OI0SeU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KfqE6OI0SeU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "tags": [
+                    "สายฝน",
+                    "ฝนสีเทา",
+                    "rock music",
+                    "cinematic rock ballad",
+                    "Thai music",
+                    "thai rock",
+                    "ฝน",
+                    "BMAARENA"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "ฝนสีเทา [Silver Rain] | Teaser trailer Official Mv 11-11-25 #cinematicrock #music",
+                    "description": "⚡รักที่ไม่จางไปสายฝน🌧️ ยังติดอยู่บนเศษใจ🤍 รับฟังพร้อมกัน 11-11-25 🎧🎸🤘🏻 #rock #cinematicrock #cinematictitle #BMAarena"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT32S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4024",
+                "likeCount": "5",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

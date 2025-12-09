@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "hSrvtjBYvff57KAr7rt4A6u8veI",
+        "id": "UgzZ1kWbi_it0DWSKXJ4AaABAg",
+        "snippet": {
+            "channelId": "UCPxPvjsXfa6UJ30L3NAN-nQ",
+            "videoId": "1kJa_R166-g",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "EuhfG1qf25u1WuY_rVF-uPT6fR0",
+                "id": "UgzZ1kWbi_it0DWSKXJ4AaABAg",
+                "snippet": {
+                    "channelId": "UCPxPvjsXfa6UJ30L3NAN-nQ",
+                    "videoId": "1kJa_R166-g",
+                    "textDisplay": "広告無し！！は嘘です！！！\n\n早々に広告に邪魔されました",
+                    "textOriginal": "広告無し！！は嘘です！！！\n\n早々に広告に邪魔されました",
+                    "authorDisplayName": "@month8702",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lILEVKhp8VK40nOEwr3rluORM6UCcqCjoWdi3ZALilD-8=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@month8702",
+                    "authorChannelId": {
+                        "value": "UCb9BAp2kBP-33C0bo3aJmWA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-10-18T02:36:50Z",
+                    "updatedAt": "2025-10-18T02:36:50Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

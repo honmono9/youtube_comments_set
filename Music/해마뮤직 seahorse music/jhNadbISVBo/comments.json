@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "UkIVVnMtdlgwwhEs2KAC44yizgs",
+        "id": "UgwBg5yPh4-BtEW8jl54AaABAg",
+        "snippet": {
+            "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+            "videoId": "jhNadbISVBo",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "lTIQhwclzELYgVKNqUjUurh5NV4",
+                "id": "UgwBg5yPh4-BtEW8jl54AaABAg",
+                "snippet": {
+                    "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                    "videoId": "jhNadbISVBo",
+                    "textDisplay": "😊쉬워서 조아요",
+                    "textOriginal": "😊쉬워서 조아요",
+                    "authorDisplayName": "@이정민-y4o6d",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kcRRCoTHvQB01Yj5Ex0ZU5YOkg3YJ96gY6xtmpmv4=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%EC%9D%B4%EC%A0%95%EB%AF%BC-y4o6d",
+                    "authorChannelId": {
+                        "value": "UCb-MtaO-TnoiEGueLbgd4wQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-10-11T01:59:51Z",
+                    "updatedAt": "2025-10-11T01:59:51Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "6HeiffmmwpZ8Hr1iv4_C7I5kec4",
+        "id": "Ugyx4jN0klXkEwkga7h4AaABAg",
+        "snippet": {
+            "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+            "videoId": "jhNadbISVBo",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "qW1di9TH5wd5LiWrdIKcOeW7af4",
+                "id": "Ugyx4jN0klXkEwkga7h4AaABAg",
+                "snippet": {
+                    "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                    "videoId": "jhNadbISVBo",
+                    "textDisplay": "전부터 그냥 궁금했던건데 혹시 해외 노래는 CDEFGAB로 나타내고 국내 노래는 도레미파솔라로 표기하시는 건가옹?",
+                    "textOriginal": "전부터 그냥 궁금했던건데 혹시 해외 노래는 CDEFGAB로 나타내고 국내 노래는 도레미파솔라로 표기하시는 건가옹?",
+                    "authorDisplayName": "@1iiiiiiiiiioi",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/mugEifWj2zT7-B0ykUkT2lDabcks90oEmyztaWVJYs3BVE5NXIEn01_akSn5yCtjryzazZGqXQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@1iiiiiiiiiioi",
+                    "authorChannelId": {
+                        "value": "UC7F69nXqkuiLkS13k09xLuA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-10-02T17:00:40Z",
+                    "updatedAt": "2025-10-02T17:00:40Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

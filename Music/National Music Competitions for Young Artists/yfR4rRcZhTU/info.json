@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "6ZxEWCz-ofaj9uXbcNs-9Gtl1tg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "IC2GnaZwHaN8TdcerlgZFPmoJS0",
+            "id": "yfR4rRcZhTU",
+            "snippet": {
+                "publishedAt": "2020-09-28T07:07:36Z",
+                "channelId": "UCSE0JDpN-beTZAG3mZVVORQ",
+                "title": "Building & Rebuilding: Upholding Rondalla Music (and) Culture Amidst Pandemic",
+                "description": "Building & Rebuilding: Upholding Rondalla Music (and) Culture Amidst Pandemic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yfR4rRcZhTU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yfR4rRcZhTU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yfR4rRcZhTU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yfR4rRcZhTU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yfR4rRcZhTU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "National Music Competitions for Young Artists ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Building & Rebuilding: Upholding Rondalla Music (and) Culture Amidst Pandemic",
+                    "description": "Building & Rebuilding: Upholding Rondalla Music (and) Culture Amidst Pandemic"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1H26M34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "189",
+                "likeCount": "7",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

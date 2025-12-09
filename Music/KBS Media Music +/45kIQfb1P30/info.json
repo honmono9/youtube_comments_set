@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ZrGiGHGvxHquy6GiD50S9CsG4MA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "1QboqBJQoF1TahOvVTcB3uJ64WQ",
+            "id": "45kIQfb1P30",
+            "snippet": {
+                "publishedAt": "2025-06-20T03:00:11Z",
+                "channelId": "UC9LkgSReKybPl-gABo3fbRQ",
+                "title": "[가사비디오 / Lyric Video] 남우진 - 생각이 납니다",
+                "description": "☑ 신청곡은 커뮤니티 댓글로 적어주세요  ▶https://www.youtube.com/@kbsmediamusicplus/community\n\n생각이 납니다\n당신과 거닐던\n그날 밤 그 거리\n행복했던 그 거리\n\n생각이 납니다\n당신과 거닐던\n그날 밤 그 거리\n행복했던 그 거리\n\n태양을 증인 세우고\n약속하던 그 사랑\n어이해 잊어 버렸나\n그리운 내 사랑아\n\n생각이 납니다\n당신과 거닐던\n그날 밤 그 거리\n행복했던 그 거리\n\n태양을 증인 세우고\n약속하던 그 사랑\n어이해 잊어 버렸나\n그리운 내 사랑아\n\n생각이 납니다\n당신과 거닐던\n그날 밤 그 거리\n행복했던 그 거리\n\n\n#남우진 #생각이납니다 #지구레코드",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/45kIQfb1P30/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/45kIQfb1P30/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/45kIQfb1P30/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/45kIQfb1P30/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/45kIQfb1P30/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS Media Music +",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[가사비디오 / Lyric Video] 남우진 - 생각이 납니다",
+                    "description": "☑ 신청곡은 커뮤니티 댓글로 적어주세요  ▶https://www.youtube.com/@kbsmediamusicplus/community\n\n생각이 납니다\n당신과 거닐던\n그날 밤 그 거리\n행복했던 그 거리\n\n생각이 납니다\n당신과 거닐던\n그날 밤 그 거리\n행복했던 그 거리\n\n태양을 증인 세우고\n약속하던 그 사랑\n어이해 잊어 버렸나\n그리운 내 사랑아\n\n생각이 납니다\n당신과 거닐던\n그날 밤 그 거리\n행복했던 그 거리\n\n태양을 증인 세우고\n약속하던 그 사랑\n어이해 잊어 버렸나\n그리운 내 사랑아\n\n생각이 납니다\n당신과 거닐던\n그날 밤 그 거리\n행복했던 그 거리\n\n\n#남우진 #생각이납니다 #지구레코드"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "293",
+                "likeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

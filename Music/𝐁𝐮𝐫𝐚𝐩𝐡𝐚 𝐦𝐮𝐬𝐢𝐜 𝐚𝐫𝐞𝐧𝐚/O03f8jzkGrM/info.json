@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "lY9G9Dp-hGnFgPr5xApS5ti0J1o",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "lj96hUdTk9rx_yBNlBXyUl1ghoI",
+            "id": "O03f8jzkGrM",
+            "snippet": {
+                "publishedAt": "2025-09-29T08:37:31Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "มารร้าย- 𝕄𝕒𝕣𝕟 ℝ𝕒𝕚 | 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝 𝕄𝕧 @𝔹𝕄𝔸𝕒𝕣𝕖𝕟𝕒 #𝕣𝕠𝕔𝕜 #มารร้าย #𝕞𝕧",
+                "description": "เพลง: มารร้าย | Official Mv \n#Rock #RockBallad #เพลงร็อคไทย #MVใหม่\n\n\nเนื้อร้อง/ทำนอง : Burapha Music Arena©\nเรียบเรียง / ดนตรี : BMAARENA\nProducer : BMAARENA \nMix sound: BMAARENA \nModel: Natchale Kananarongma\n© 2025 BMAarena. ผลงานนี้มีลิขสิทธิ์ \nห้ามทำซ้ำ ดัดแปลง หรือเผยแพร่โดยไม่ได้รับอนุญาต.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O03f8jzkGrM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O03f8jzkGrM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O03f8jzkGrM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/O03f8jzkGrM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/O03f8jzkGrM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "tags": [
+                    "@BMAarena",
+                    "rock music",
+                    "เพลงรัก",
+                    "futuristic rock",
+                    "มารร้าย"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "มารร้าย- 𝕄𝕒𝕣𝕟 ℝ𝕒𝕚 | 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝 𝕄𝕧 @𝔹𝕄𝔸𝕒𝕣𝕖𝕟𝕒 #𝕣𝕠𝕔𝕜 #มารร้าย #𝕞𝕧",
+                    "description": "เพลง: มารร้าย | Official Mv \n#Rock #RockBallad #เพลงร็อคไทย #MVใหม่\n\n\nเนื้อร้อง/ทำนอง : Burapha Music Arena©\nเรียบเรียง / ดนตรี : BMAARENA\nProducer : BMAARENA \nMix sound: BMAARENA \nModel: Natchale Kananarongma\n© 2025 BMAarena. ผลงานนี้มีลิขสิทธิ์ \nห้ามทำซ้ำ ดัดแปลง หรือเผยแพร่โดยไม่ได้รับอนุญาต."
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT3M54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1195",
+                "likeCount": "30",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

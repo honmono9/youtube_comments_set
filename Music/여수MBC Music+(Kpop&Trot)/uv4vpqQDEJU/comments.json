@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "EzoflA5gLWtIW6hMo1W_ZoDxVvU",
+        "id": "UgzX-C-WvuR0qk9J4VR4AaABAg",
+        "snippet": {
+            "channelId": "UCwIiyFphTd-eTeLBvh8riNw",
+            "videoId": "uv4vpqQDEJU",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "eSpVfhVVbP3HHbEY4Lam6r4Sga8",
+                "id": "UgzX-C-WvuR0qk9J4VR4AaABAg",
+                "snippet": {
+                    "channelId": "UCwIiyFphTd-eTeLBvh8riNw",
+                    "videoId": "uv4vpqQDEJU",
+                    "textDisplay": "Молодец 🔥🈴🐉",
+                    "textOriginal": "Молодец 🔥🈴🐉",
+                    "authorDisplayName": "@dimuabelka8428",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nVeD5xCYwA7ygAM_WcqtqIo4Nkarbx_qWXUCZwQt38cA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@dimuabelka8428",
+                    "authorChannelId": {
+                        "value": "UCjqR6O4_g_uFq46ztxQV_DQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-12-09T07:15:37Z",
+                    "updatedAt": "2025-12-09T07:15:37Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

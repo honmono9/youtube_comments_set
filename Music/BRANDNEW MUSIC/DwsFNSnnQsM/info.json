@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "h6n6QSFk_gt_wYW1E4neucvrzo4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "1JP8eTVs9F7llawVq16Ma1a_2TE",
+            "id": "DwsFNSnnQsM",
+            "snippet": {
+                "publishedAt": "2025-02-20T10:00:16Z",
+                "channelId": "UCAkWpyeieFjzS7GzSJMArhQ",
+                "title": "매일 그리던 네 모습💙",
+                "description": "양다일 콘서트 〈Memories of D.I.LAND 2025〉\n2025. 2. 22 (토) 18:00(KST) ~ 2. 23 (일) 16:00(KST)\n\n예매 : http://buly.kr/B7ZEpen\n\n#양다일 #YangDaIl \n#Memories_of_DILAND_2025\n#브랜뉴뮤직 #BRANDNEWMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DwsFNSnnQsM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DwsFNSnnQsM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DwsFNSnnQsM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DwsFNSnnQsM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DwsFNSnnQsM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BRANDNEW MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "매일 그리던 네 모습💙",
+                    "description": "양다일 콘서트 〈Memories of D.I.LAND 2025〉\n2025. 2. 22 (토) 18:00(KST) ~ 2. 23 (일) 16:00(KST)\n\n예매 : http://buly.kr/B7ZEpen\n\n#양다일 #YangDaIl \n#Memories_of_DILAND_2025\n#브랜뉴뮤직 #BRANDNEWMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "819",
+                "likeCount": "14",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

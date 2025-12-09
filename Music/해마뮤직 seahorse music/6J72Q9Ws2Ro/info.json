@@ -1,0 +1,84 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ikwVtc7XmKnkabkgL8mDSsHc7uM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "9u1FG8miKC9chMK6OPl0cA3MTNI",
+            "id": "6J72Q9Ws2Ro",
+            "snippet": {
+                "publishedAt": "2025-09-28T04:00:08Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "밟으면 소리나는 피아노, 진짜 연주한걸까?",
+                "description": "#피아노커버 #pianocover #피아노연주 #피아노 #페이드 #faded \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6J72Q9Ws2Ro/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6J72Q9Ws2Ro/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6J72Q9Ws2Ro/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6J72Q9Ws2Ro/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6J72Q9Ws2Ro/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "피아노",
+                    "피아노 연주",
+                    "piano",
+                    "피아노 악보",
+                    "piano cover",
+                    "페이드",
+                    "바닥 피아노",
+                    "faded",
+                    "alan walker",
+                    "앨렌 워커"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "밟으면 소리나는 피아노, 진짜 연주한걸까?",
+                    "description": "#피아노커버 #pianocover #피아노연주 #피아노 #페이드 #faded \n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT14S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "102723",
+                "likeCount": "670",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

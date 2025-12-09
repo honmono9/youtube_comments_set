@@ -1,0 +1,90 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "k5wh4Z7rVfw0375au3u89xQy1IU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "A4QoiuENEZosiEvXc6jR15M_z6k",
+            "id": "MPO8bTiP1OM",
+            "snippet": {
+                "publishedAt": "2025-09-09T08:45:06Z",
+                "channelId": "UCWdCzE5GprJA5FR0dWnd28w",
+                "title": "찬양 콘서트 하루 요약 (Feat. 황산교회)",
+                "description": "아름다운 씨리(City) 황산",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MPO8bTiP1OM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MPO8bTiP1OM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MPO8bTiP1OM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MPO8bTiP1OM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MPO8bTiP1OM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HISKINGDOM MUSIC Official",
+                "tags": [
+                    "찬양사역자",
+                    "찬양",
+                    "ccm",
+                    "히스킹덤뮤직",
+                    "수하물 꿀팁",
+                    "개그",
+                    "유머",
+                    "재미",
+                    "브이로그",
+                    "가수",
+                    "가수 브이로그",
+                    "뉴질랜드",
+                    "플러팅",
+                    "찬양 콘서트",
+                    "찬양 추천",
+                    "찬양 공연"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "찬양 콘서트 하루 요약 (Feat. 황산교회)",
+                    "description": "아름다운 씨리(City) 황산"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "914",
+                "likeCount": "40",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

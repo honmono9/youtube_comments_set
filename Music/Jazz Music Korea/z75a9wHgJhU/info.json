@@ -1,0 +1,108 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Qft8IDUZLsinMnC5KnnKcse21Sc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "dbAGws-IXZ43vYkyxuMN3nHiZ0w",
+            "id": "z75a9wHgJhU",
+            "snippet": {
+                "publishedAt": "2023-10-28T07:17:19Z",
+                "channelId": "UCsfYd7AVFk_ASiMudok6_sQ",
+                "title": "후쿠오카에서 현지뮤지션들과 즉흥연주!  -",
+                "description": "후쿠오카 텐진에 위치한 재즈클럽 KING FISH에서\n\n현지뮤지션들과 즉흥연주를 하였습니다.\n\n함께해주신분들  감사합니다.\n\n땡큐\n\nContact - Chjh1234@gmail.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z75a9wHgJhU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z75a9wHgJhU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z75a9wHgJhU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/z75a9wHgJhU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/z75a9wHgJhU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jazz Music Korea",
+                "tags": [
+                    "재즈",
+                    "재즈밴드",
+                    "재즈공연",
+                    "재즈밴드굿펠리스",
+                    "굿펠리스",
+                    "재즈밴드섭외",
+                    "재즈음악",
+                    "재즈뮤직코리아",
+                    "공연",
+                    "공연섭외",
+                    "재즈베이스",
+                    "콘트라베이스",
+                    "콘트라베이스최준혁",
+                    "재즈베이스최준혁",
+                    "워킹베이스",
+                    "jazz",
+                    "jazzband",
+                    "jazzmusic",
+                    "jazzmusickorea",
+                    "goodfellis",
+                    "uprightbass",
+                    "jazzbass",
+                    "choijunhyuk",
+                    "비브라폰",
+                    "livejazz",
+                    "jazzbandgoodfellis",
+                    "autumn leaves",
+                    "버스킹",
+                    "어텀리브스",
+                    "즉흥연주",
+                    "피렌체",
+                    "여행",
+                    "이태리",
+                    "italy"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "후쿠오카에서 현지뮤지션들과 즉흥연주!  -",
+                    "description": "후쿠오카 텐진에 위치한 재즈클럽 KING FISH에서\n\n현지뮤지션들과 즉흥연주를 하였습니다.\n\n함께해주신분들  감사합니다.\n\n땡큐\n\nContact - Chjh1234@gmail.com."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT11M2S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1697",
+                "likeCount": "49",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Eddg2nienlnnNazmnshYolEzVDc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "FxcIln0lU0KgDzuq1ee_FVpnIic",
+            "id": "iwdQm6BX8DU",
+            "snippet": {
+                "publishedAt": "2023-10-06T09:00:37Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "유자 – ‘달려’ Official Music Video",
+                "description": "유자 [달려]\n\nKeep going,\n그냥 너의 길을 달려!\n\n웃=3\n\n\n[Credit]\nLyrics by 유자\nComposed by 유자, Roggy, Yera\nArranged by Roggy, Yera\n\nMixed by Roggy\nMastered by Roggy\nRecorded by Roggy, Yuja\n\nPhotograph by 신민준\nArtwork by 신민준, 신혜린\nShoes owner. BBang\n\n'달려' M/V\nDrawing & Animator｜Ko Seung-Hoon\nDirector｜Ko Seung-Hoon\nProduction｜BMC Innoteh co.,Ltd.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iwdQm6BX8DU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iwdQm6BX8DU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iwdQm6BX8DU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iwdQm6BX8DU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iwdQm6BX8DU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "유자 – ‘달려’ Official Music Video",
+                    "description": "유자 [달려]\n\nKeep going,\n그냥 너의 길을 달려!\n\n웃=3\n\n\n[Credit]\nLyrics by 유자\nComposed by 유자, Roggy, Yera\nArranged by Roggy, Yera\n\nMixed by Roggy\nMastered by Roggy\nRecorded by Roggy, Yuja\n\nPhotograph by 신민준\nArtwork by 신민준, 신혜린\nShoes owner. BBang\n\n'달려' M/V\nDrawing & Animator｜Ko Seung-Hoon\nDirector｜Ko Seung-Hoon\nProduction｜BMC Innoteh co.,Ltd."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M3S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1713",
+                "likeCount": "31",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

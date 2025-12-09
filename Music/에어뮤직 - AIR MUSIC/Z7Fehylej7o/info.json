@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "J2zyahG2LWWfgJElwIwbvDE6XSg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "MKMSOSMoOVbmKg-QlR2OmY7iqGU",
+            "id": "Z7Fehylej7o",
+            "snippet": {
+                "publishedAt": "2025-02-09T12:00:43Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "범준,쿠우키 - 인셉션 (원곡: 공기남)",
+                "description": "범준,쿠우키 - 인셉션 (원곡: 공기남)\n\n오랜 기간동안 많은 사랑을 받아온 아티스트 '공기남'의 대표곡 중 하나인 \n'인셉션'을 에어뮤직의 아티스트 '범준'과 '쿠우키' 버젼의 신선하고 색다른 감성과 분위기로 커버했습니다.\n\n원곡과는 또 다른 '범준&쿠우키' 두 보컬의 매력을 한번 감상해보아요.\n\n#인셉션#커버#공기남#범준#쿠우키#cover#노래커버",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z7Fehylej7o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z7Fehylej7o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z7Fehylej7o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Z7Fehylej7o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Z7Fehylej7o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "범준,쿠우키 - 인셉션 (원곡: 공기남)",
+                    "description": "범준,쿠우키 - 인셉션 (원곡: 공기남)\n\n오랜 기간동안 많은 사랑을 받아온 아티스트 '공기남'의 대표곡 중 하나인 \n'인셉션'을 에어뮤직의 아티스트 '범준'과 '쿠우키' 버젼의 신선하고 색다른 감성과 분위기로 커버했습니다.\n\n원곡과는 또 다른 '범준&쿠우키' 두 보컬의 매력을 한번 감상해보아요.\n\n#인셉션#커버#공기남#범준#쿠우키#cover#노래커버"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M20S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "825",
+                "likeCount": "29",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

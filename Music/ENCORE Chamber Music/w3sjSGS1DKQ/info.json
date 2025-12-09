@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "QhHVXdhu9CB7NnOc4wMV3TgJCZE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "k0NysO93YOUp9k6_gMFNglTSNwo",
+            "id": "w3sjSGS1DKQ",
+            "snippet": {
+                "publishedAt": "2024-11-08T22:36:26Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "240615 PAUL WIANCKO American Haiku",
+                "description": "Natural History Museum 20240615\nEric Wong, Viola\nMax Geissler, Cello",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w3sjSGS1DKQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w3sjSGS1DKQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w3sjSGS1DKQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/w3sjSGS1DKQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/w3sjSGS1DKQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "240615 PAUL WIANCKO American Haiku",
+                    "description": "Natural History Museum 20240615\nEric Wong, Viola\nMax Geissler, Cello"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT10M56S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "147",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

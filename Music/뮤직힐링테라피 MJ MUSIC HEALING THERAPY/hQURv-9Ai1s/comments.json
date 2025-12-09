@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "HNKMxvklXV4Z9lYcsJH8SJZ7ztU",
+        "id": "UgwtEhLDINmuRWSN50V4AaABAg",
+        "snippet": {
+            "channelId": "UCFenHjfqkwDFalw73fHvjww",
+            "videoId": "hQURv-9Ai1s",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "XdtlVbvwwf_JqnU5d8X5qMZA4L4",
+                "id": "UgwtEhLDINmuRWSN50V4AaABAg",
+                "snippet": {
+                    "channelId": "UCFenHjfqkwDFalw73fHvjww",
+                    "videoId": "hQURv-9Ai1s",
+                    "textDisplay": "매일 아침, 책상 위에 놓여 있던 작은 꽃 한 송이.  \n그 꽃이 어디서 왔는지, 누가 두고 갔는지 아무도 몰랐습니다.  \n그리고 어느 날, 그 꽃도… 그 사람도 사라졌습니다.  \n그제야 깨달았죠.  \n진짜 보석은, 늘 조용히 곁에 있었단 걸......",
+                    "textOriginal": "매일 아침, 책상 위에 놓여 있던 작은 꽃 한 송이.  \n그 꽃이 어디서 왔는지, 누가 두고 갔는지 아무도 몰랐습니다.  \n그리고 어느 날, 그 꽃도… 그 사람도 사라졌습니다.  \n그제야 깨달았죠.  \n진짜 보석은, 늘 조용히 곁에 있었단 걸......",
+                    "authorDisplayName": "@therapymusic-pr8vg",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/GyKAwTEKIvpCTBHKYpyY2dOmSppcD3tYqRcbvGBCpLVh35LzNES8NiQ1H_gZCHpu7jBwITktSA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@therapymusic-pr8vg",
+                    "authorChannelId": {
+                        "value": "UCFenHjfqkwDFalw73fHvjww"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 3,
+                    "publishedAt": "2025-09-09T22:48:13Z",
+                    "updatedAt": "2025-09-09T22:48:13Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,81 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "g_hfLhEx8YOGhvOLeH9lxvBSSnQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "wBlAmIafMGwAGG8JLjH6DUoS8eY",
+            "id": "jhNadbISVBo",
+            "snippet": {
+                "publishedAt": "2025-09-26T09:01:25Z",
+                "channelId": "UCaZwXnZ4QREZ_ee11lR88uw",
+                "title": "Bling-Bang-Bang-Born 챌린지 🕺 피아노 건반 5개로 쉽게 연주하기 🎹",
+                "description": "#BlingBangBangBorn #빙방방봉 #BlingBangBangBornchallenge #マッシュル #creepynuts \n#피아노커버 #pianocover #피아노연주\n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jhNadbISVBo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jhNadbISVBo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jhNadbISVBo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jhNadbISVBo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jhNadbISVBo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "해마뮤직 seahorse music",
+                "tags": [
+                    "Bling-Bang-Bang-Born",
+                    "bling bang bang born",
+                    "보넥도",
+                    "boynextdoor",
+                    "creepynuts",
+                    "크리피넛츠",
+                    "피아노"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Bling-Bang-Bang-Born 챌린지 🕺 피아노 건반 5개로 쉽게 연주하기 🎹",
+                    "description": "#BlingBangBangBorn #빙방방봉 #BlingBangBangBornchallenge #マッシュル #creepynuts \n#피아노커버 #pianocover #피아노연주\n\n🎵 해마의 음악 블로그 🎵\nhttps://blog.naver.com/seahorsemusic\n\n🎹 사용한 피아노 듀로 H3 보러가기 🎹\nhttps://blog.naver.com/seahorsemusic/222840404313"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT14S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "14586",
+                "likeCount": "131",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

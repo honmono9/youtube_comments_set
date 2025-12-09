@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "cIrZUOTbWal4TkS0tb0hYTvomqQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "gA88vjKwkwitrzHYWcO1qI_6jiQ",
+            "id": "UJ2y9mSTVRw",
+            "snippet": {
+                "publishedAt": "2024-11-07T04:32:11Z",
+                "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                "title": "🍁가을하면 재즈, 재즈하면 가을🎵🎷| 미키 토시오(Miki Toshio) #Shorts",
+                "description": "재즈의 낭만과 즐거움이 가득했던\n야마하 아티스트 미키 토시오 내한 \n재즈 바 라이브🎵 \n\n🎼Artist. Miki Toshio\n🎷Saxophone. YTS-82ZASP\n\n📍SoundDog (서울특별시 용산구 한강대로104길 78-1)\n\n🔗블로그에서 더 자세히 보기 : https://bit.ly/3YBHX6z\n\n#야마하 #야마하뮤직코리아\n#야마하색소폰 #야마하아티스트\n#미키토시오 #토시오미키 #사운드독 #재즈바 #색소폰연주\n#YTS82Z #YTS82ZASP #saxophone #Jazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UJ2y9mSTVRw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UJ2y9mSTVRw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UJ2y9mSTVRw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UJ2y9mSTVRw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UJ2y9mSTVRw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yamaha Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🍁가을하면 재즈, 재즈하면 가을🎵🎷| 미키 토시오(Miki Toshio) #Shorts",
+                    "description": "재즈의 낭만과 즐거움이 가득했던\n야마하 아티스트 미키 토시오 내한 \n재즈 바 라이브🎵 \n\n🎼Artist. Miki Toshio\n🎷Saxophone. YTS-82ZASP\n\n📍SoundDog (서울특별시 용산구 한강대로104길 78-1)\n\n🔗블로그에서 더 자세히 보기 : https://bit.ly/3YBHX6z\n\n#야마하 #야마하뮤직코리아\n#야마하색소폰 #야마하아티스트\n#미키토시오 #토시오미키 #사운드독 #재즈바 #색소폰연주\n#YTS82Z #YTS82ZASP #saxophone #Jazz"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "774",
+                "likeCount": "16",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

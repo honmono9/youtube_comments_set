@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Sknk-2chGOJNRHm6d0wpa3elcBc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "T0uuq4lWmCSu5mkfC553aBD6tBs",
+            "id": "8y9IUFvb22k",
+            "snippet": {
+                "publishedAt": "2023-05-19T08:00:08Z",
+                "channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
+                "title": "[Playlist] 우리의 봄을 부탁해 🌸 | K-Pop Spring Love Song Playlist",
+                "description": "#playlist #kpop #spring #rnb #indie\n\n-\n\n서울뮤직 오피셜 : https://www.youtube.com/@SEOULMUSIC\n서울뮤직 인스타 : https://www.instagram.com/seoulmusic.official/\n뉴릴리즈 : https://url.kr/74qx8g\n믹스테잎 : https://url.kr/ps2j8z\n\n-\n\n#playlist #플레이리스트\n#kpop #케이팝 #rnb #알앤비 #indie #인디 #국내인디\n#spring #봄 #벚꽃캐롤 #달달",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8y9IUFvb22k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8y9IUFvb22k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8y9IUFvb22k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8y9IUFvb22k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8y9IUFvb22k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEOUL MUSIC / 서울뮤직",
+                "tags": [
+                    "#playlist",
+                    "#플레이리스트",
+                    "#kpop",
+                    "#케이팝",
+                    "#rnb",
+                    "#알앤비",
+                    "#indie",
+                    "#인디",
+                    "#국내인디",
+                    "#spring",
+                    "#봄",
+                    "#벚꽃캐롤",
+                    "#달달"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Playlist] 우리의 봄을 부탁해 🌸 | K-Pop Spring Love Song Playlist",
+                    "description": "#playlist #kpop #spring #rnb #indie\n\n-\n\n서울뮤직 오피셜 : https://www.youtube.com/@SEOULMUSIC\n서울뮤직 인스타 : https://www.instagram.com/seoulmusic.official/\n뉴릴리즈 : https://url.kr/74qx8g\n믹스테잎 : https://url.kr/ps2j8z\n\n-\n\n#playlist #플레이리스트\n#kpop #케이팝 #rnb #알앤비 #indie #인디 #국내인디\n#spring #봄 #벚꽃캐롤 #달달"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1H6M31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2491",
+                "likeCount": "46",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

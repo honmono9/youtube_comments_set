@@ -1,0 +1,97 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ntuAXNCQzGWk-G3Exra3VZmKBMk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "dL6BpPx3d3vJhCNH5AzXWCi9dbM",
+            "id": "Wca9g9ljc-c",
+            "snippet": {
+                "publishedAt": "2025-06-17T11:43:00Z",
+                "channelId": "UClbjf4pXBzXVk3ImyeBa__w",
+                "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 선곡 맛집 라디오 악마",
+                "description": "0:00 Black Gryph0n & Baasik - INSANE \n0:00 Black Gryph0n & Baasik - INSANE \n\n2:39 The Living Tombstone - Alastor's Game\n2:39 The Living Tombstone - Alastor's Game\n\n5:43 VACON - Woodpecker\n5:43 VACON - Woodpecker\n\n8:40 NateWantsToBattle - Phantom\n8:40 NateWantsToBattle - Phantom\n\n12:53 Bo Burnham - Welcome to the internet\n12:53 Bo Burnham - Welcome to the internet\n\n17:28 Black Gryph0n & Baasik - DAISIES\n17:28 Black Gryph0n & Baasik - DAISIES\n\n19:46 Silva Hound - Radio Play\n19:46 Silva Hound - Radio Play\n\n23:50 MÅNESKIN - DON'T WANNA SLEEP\n23:50 MÅNESKIN - DON'T WANNA SLEEP\n\n26:24 TytoCat - DEAL MAKER\n26:24 TytoCat - DEAL MAKER",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wca9g9ljc-c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wca9g9ljc-c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wca9g9ljc-c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Wca9g9ljc-c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Wca9g9ljc-c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뮤플비 Music Plus Movie",
+                "tags": [
+                    "팝송",
+                    "영화",
+                    "팝송가사해석",
+                    "가사해석",
+                    "플리",
+                    "알래스터",
+                    "플리알래스터",
+                    "라디오악마",
+                    "무서운팝송",
+                    "팝송플리",
+                    "신나는플리",
+                    "공부할때듣는노래",
+                    "공부플리",
+                    "운동플리",
+                    "운동할때듣는플리",
+                    "해즈빈호텔",
+                    "해즈빈호텔ost",
+                    "해즈빈호텔플리"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 선곡 맛집 라디오 악마",
+                    "description": "0:00 Black Gryph0n & Baasik - INSANE \n0:00 Black Gryph0n & Baasik - INSANE \n\n2:39 The Living Tombstone - Alastor's Game\n2:39 The Living Tombstone - Alastor's Game\n\n5:43 VACON - Woodpecker\n5:43 VACON - Woodpecker\n\n8:40 NateWantsToBattle - Phantom\n8:40 NateWantsToBattle - Phantom\n\n12:53 Bo Burnham - Welcome to the internet\n12:53 Bo Burnham - Welcome to the internet\n\n17:28 Black Gryph0n & Baasik - DAISIES\n17:28 Black Gryph0n & Baasik - DAISIES\n\n19:46 Silva Hound - Radio Play\n19:46 Silva Hound - Radio Play\n\n23:50 MÅNESKIN - DON'T WANNA SLEEP\n23:50 MÅNESKIN - DON'T WANNA SLEEP\n\n26:24 TytoCat - DEAL MAKER\n26:24 TytoCat - DEAL MAKER"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT29M42S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "110890",
+                "likeCount": "3559",
+                "favoriteCount": "0",
+                "commentCount": "75"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

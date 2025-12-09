@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "tP-F8EEIWIDKGs68FLNswN_1ZzM",
+        "id": "UgwKmb82sL6889lW6Gp4AaABAg",
+        "snippet": {
+            "channelId": "UCFenHjfqkwDFalw73fHvjww",
+            "videoId": "gDTGTRhCV64",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "jPZCYgALfhMPwrgdqwSmgXBAaAI",
+                "id": "UgwKmb82sL6889lW6Gp4AaABAg",
+                "snippet": {
+                    "channelId": "UCFenHjfqkwDFalw73fHvjww",
+                    "videoId": "gDTGTRhCV64",
+                    "textDisplay": "부드러운 불빛 아래, 조용히 흐르는 왈츠.  \n그리고 어느 날, 아무 말 없이 내 앞에 앉은 그리움.  \n이 영상은 말 대신 마음이 울리는 순간을 담았습니다.\n장소 : 명동 사유의 서재",
+                    "textOriginal": "부드러운 불빛 아래, 조용히 흐르는 왈츠.  \n그리고 어느 날, 아무 말 없이 내 앞에 앉은 그리움.  \n이 영상은 말 대신 마음이 울리는 순간을 담았습니다.\n장소 : 명동 사유의 서재",
+                    "authorDisplayName": "@therapymusic-pr8vg",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/GyKAwTEKIvpCTBHKYpyY2dOmSppcD3tYqRcbvGBCpLVh35LzNES8NiQ1H_gZCHpu7jBwITktSA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@therapymusic-pr8vg",
+                    "authorChannelId": {
+                        "value": "UCFenHjfqkwDFalw73fHvjww"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 4,
+                    "publishedAt": "2025-08-18T14:33:13Z",
+                    "updatedAt": "2025-08-18T14:33:13Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "3P0zXI2XndYjL93MHeP9hwFkm_M",
+        "id": "UgzzDHEjA6ONUrxFWmt4AaABAg",
+        "snippet": {
+            "channelId": "UCFenHjfqkwDFalw73fHvjww",
+            "videoId": "gDTGTRhCV64",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "DBfzS2E2mLaraSqH7iYXfm3IlGs",
+                "id": "UgzzDHEjA6ONUrxFWmt4AaABAg",
+                "snippet": {
+                    "channelId": "UCFenHjfqkwDFalw73fHvjww",
+                    "videoId": "gDTGTRhCV64",
+                    "textDisplay": "So so wonderful and beautiful 🙏🌺♥️",
+                    "textOriginal": "So so wonderful and beautiful 🙏🌺♥️",
+                    "authorDisplayName": "@benterinaldo8491",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k78bXqxjvCHrukhuyGTsKlhlaQhxV6ae87tix931MAixZFqdBbIe8JVhOogv1wZNqh6A=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@benterinaldo8491",
+                    "authorChannelId": {
+                        "value": "UCL3Q-31uKHGS9z3vN2i2hkg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 3,
+                    "publishedAt": "2025-08-21T02:10:14Z",
+                    "updatedAt": "2025-08-21T02:10:14Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

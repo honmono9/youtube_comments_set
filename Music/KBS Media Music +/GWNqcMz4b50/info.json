@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "68oLX4TasLUUa0ZS4r8mhZRxLOA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "-1ypP9qV-JtH0p12OfWafGnx5VI",
+            "id": "GWNqcMz4b50",
+            "snippet": {
+                "publishedAt": "2025-08-25T07:00:53Z",
+                "channelId": "UC9LkgSReKybPl-gABo3fbRQ",
+                "title": "[가사비디오 / Lyric Video] 넷소리 걸작 제 1집 - 뱃노래",
+                "description": "KBS MEDIA에서 새롭게 선보이는 음원들을 구독하고 만나보세요 '◡' ! \n   /   @KBSMEDIAMUSICPLUS\n\n배야 누야 누야\n배야 누야 누우\n어기 어차\n뱃놀이 가잔다\n\n배야 누야 누야\n배야 누야 누우\n어기 어차\n뱃놀이 가잔다\n\n으슥 달밤에\n개구리 우는 소리\n시집 못 간 노처녀가\n바람이 났구나\n\n배야 누야 누야\n배야 누야 누우\n어기 어차\n뱃놀이 가잔다\n\n청천 하늘엔\n잔별도 많구요\n장가 못 간 노총각이\n수심도 많다네\n\n배야 누야 누야\n배야 누야 누우\n어기 어차\n뱃놀이 가잔다\n\n어기어차\n어기어차\n\n\n\n#KBS미디어뮤직플러스 #KBSMEDIAMUSICPLUS #케이비에스미디어뮤직플러스 \n#넷소리걸작제1집 #뱃노래  #지구레코드",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GWNqcMz4b50/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GWNqcMz4b50/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GWNqcMz4b50/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GWNqcMz4b50/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GWNqcMz4b50/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS Media Music +",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[가사비디오 / Lyric Video] 넷소리 걸작 제 1집 - 뱃노래",
+                    "description": "KBS MEDIA에서 새롭게 선보이는 음원들을 구독하고 만나보세요 '◡' ! \n   /   @KBSMEDIAMUSICPLUS\n\n배야 누야 누야\n배야 누야 누우\n어기 어차\n뱃놀이 가잔다\n\n배야 누야 누야\n배야 누야 누우\n어기 어차\n뱃놀이 가잔다\n\n으슥 달밤에\n개구리 우는 소리\n시집 못 간 노처녀가\n바람이 났구나\n\n배야 누야 누야\n배야 누야 누우\n어기 어차\n뱃놀이 가잔다\n\n청천 하늘엔\n잔별도 많구요\n장가 못 간 노총각이\n수심도 많다네\n\n배야 누야 누야\n배야 누야 누우\n어기 어차\n뱃놀이 가잔다\n\n어기어차\n어기어차\n\n\n\n#KBS미디어뮤직플러스 #KBSMEDIAMUSICPLUS #케이비에스미디어뮤직플러스 \n#넷소리걸작제1집 #뱃노래  #지구레코드"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M7S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "110",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

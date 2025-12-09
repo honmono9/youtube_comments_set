@@ -1,0 +1,95 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "GYTSlXYa6RVi4jB_Depck2Lj2dI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "9_cHAlf0XyNLfwZ8TSj_0LfxH_M",
+            "id": "wOvCsnTvcNE",
+            "snippet": {
+                "publishedAt": "2021-05-06T08:12:51Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "[한글 자막 MV] Tate McRae(테이트 맥레이) - r u ok",
+                "description": "정신 나갔니..? 전남친에게 명치 때리는 화제의 그 팝송!👊\n요즘 제일 잘나가는 03년생 테이트의 미친 음색을 한글 자막과 함께 감상하세요🙆\n\n🎼 내 음원 서비스에서 듣기: https://smek.lnk.to/ruok_TM\n\n🔗 소뮤코 공식 채널 팔로우\n▶ Instagram: https://www.instagram.com/sonymusicko...​ \n▶ Facebook: https://www.facebook.com/sonymusickorea​​\n▶ YouTube: https://www.youtube.com/c/SonymusicCoKr​​\n▶ Twitter: https://twitter.com/SonyMusicKr_POP",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wOvCsnTvcNE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wOvCsnTvcNE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wOvCsnTvcNE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wOvCsnTvcNE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wOvCsnTvcNE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "tags": [
+                    "#테이트맥레이",
+                    "#TateMcRae",
+                    "#billieeillish",
+                    "#빌리아일리시",
+                    "#팝송",
+                    "#추천",
+                    "#팝송추천",
+                    "#신곡",
+                    "#플레이리스트",
+                    "#소니뮤직",
+                    "#유니버설뮤직",
+                    "#워너뮤직",
+                    "#인기팝송",
+                    "#top100",
+                    "#빌보드",
+                    "#음색깡패",
+                    "#힐링",
+                    "#뮤직비디오",
+                    "#한글가사",
+                    "#기몽초",
+                    "#떼껄룩"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[한글 자막 MV] Tate McRae(테이트 맥레이) - r u ok",
+                    "description": "정신 나갔니..? 전남친에게 명치 때리는 화제의 그 팝송!👊\n요즘 제일 잘나가는 03년생 테이트의 미친 음색을 한글 자막과 함께 감상하세요🙆\n\n🎼 내 음원 서비스에서 듣기: https://smek.lnk.to/ruok_TM\n\n🔗 소뮤코 공식 채널 팔로우\n▶ Instagram: https://www.instagram.com/sonymusicko...​ \n▶ Facebook: https://www.facebook.com/sonymusickorea​​\n▶ YouTube: https://www.youtube.com/c/SonymusicCoKr​​\n▶ Twitter: https://twitter.com/SonyMusicKr_POP"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "29105",
+                "likeCount": "185",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

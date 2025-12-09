@@ -1,0 +1,79 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ilqQ3a79UV8vg5VT8wUQZSkgbOQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "QDOE2dAgJYE8zcrouZQMseBMCUc",
+            "id": "3GRXRUHk_jI",
+            "snippet": {
+                "publishedAt": "2023-06-02T00:00:02Z",
+                "channelId": "UCE4IM82TdhmOl4Qtn8nsaGQ",
+                "title": "[Official T/S] Kid Milli - HONDA !",
+                "description": "D-1\n\n#KidMilli - #HONDA ! \nOfficial MV Teaser\n \n[ BEIGE ] now available on every streaming platforms.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3GRXRUHk_jI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3GRXRUHk_jI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3GRXRUHk_jI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3GRXRUHk_jI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3GRXRUHk_jI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AP Alchemy It's Indigo Music",
+                "tags": [
+                    "키드밀리",
+                    "혼다",
+                    "Kid Milli",
+                    "HONDA",
+                    "BEIGE"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[Official T/S] Kid Milli - HONDA !",
+                    "description": "D-1\n\n#KidMilli - #HONDA ! \nOfficial MV Teaser\n \n[ BEIGE ] now available on every streaming platforms."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3071",
+                "likeCount": "136",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

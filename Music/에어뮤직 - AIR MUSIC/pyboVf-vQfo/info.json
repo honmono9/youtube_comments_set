@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "IuiP1y7-dOD5WxwNfwSbg4thm_0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "7eik_IneCPgwn4dsdr48MRyo2CE",
+            "id": "pyboVf-vQfo",
+            "snippet": {
+                "publishedAt": "2024-12-17T03:00:39Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "고남준, 쿠우키 - Peach (Prod. 공기남)",
+                "description": "수 많은 인연 사이\nYou’re my mellow peach\n\nTrack list.\n1. Peach (Prod. 공기남) (작사: 고남준 / 작곡: 공기남, 고남준 / 편곡: 공기남)\n2. Peach (Prod. 공기남)(Inst.) (작곡: 공기남 / 편곡: 공기남) \n\n[Credits]\nexecutive producer 공기남\nLyrics by 고남준\nComposed by 공기남,고남준\nArranged by 공기남\nVocal by 고남준,쿠우키\nChorus by 공기남\nPiano by 공기남\nGuitar by 양혁\nBass by 공기남\nDrum by 공기남\nMidi Programing by 공기남\nRecorded by fovitz @AirMusic Studio\nMixed by fovitz @AirMusic Studio\nMastered by 권남우 @821 Sound\nAlbum artwork by 공기남,고남준,Mabinc @airman_music @namjunisme @melanoalbinc\nManagement Airmusic\nTeam leader 박지호 @melanoalbinc\nDistributed by Wanermusic_Korea",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pyboVf-vQfo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pyboVf-vQfo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pyboVf-vQfo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pyboVf-vQfo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pyboVf-vQfo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "고남준, 쿠우키 - Peach (Prod. 공기남)",
+                    "description": "수 많은 인연 사이\nYou’re my mellow peach\n\nTrack list.\n1. Peach (Prod. 공기남) (작사: 고남준 / 작곡: 공기남, 고남준 / 편곡: 공기남)\n2. Peach (Prod. 공기남)(Inst.) (작곡: 공기남 / 편곡: 공기남) \n\n[Credits]\nexecutive producer 공기남\nLyrics by 고남준\nComposed by 공기남,고남준\nArranged by 공기남\nVocal by 고남준,쿠우키\nChorus by 공기남\nPiano by 공기남\nGuitar by 양혁\nBass by 공기남\nDrum by 공기남\nMidi Programing by 공기남\nRecorded by fovitz @AirMusic Studio\nMixed by fovitz @AirMusic Studio\nMastered by 권남우 @821 Sound\nAlbum artwork by 공기남,고남준,Mabinc @airman_music @namjunisme @melanoalbinc\nManagement Airmusic\nTeam leader 박지호 @melanoalbinc\nDistributed by Wanermusic_Korea"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "796",
+                "likeCount": "29",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "VaJRqbJdARR3jcmnq8k3Bd_i7hM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "r0Eju57g8nTgRhZfKz4yVoJnnBE",
+            "id": "XVSEcIS3jv0",
+            "snippet": {
+                "publishedAt": "2019-07-17T01:16:34Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "062819 Mozart String Quintet No. 4 in G minor, K. 516",
+                "description": "ENCORE Chamber Music 2019 Season 'La bohème' \n\nJinjoo Cho, violin\nSibbi Bernhardsson, violin\nDimitri Murrath, viola\nYu Jin, viola\nMax Geissler, cello",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XVSEcIS3jv0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XVSEcIS3jv0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XVSEcIS3jv0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XVSEcIS3jv0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XVSEcIS3jv0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "062819 Mozart String Quintet No. 4 in G minor, K. 516",
+                    "description": "ENCORE Chamber Music 2019 Season 'La bohème' \n\nJinjoo Cho, violin\nSibbi Bernhardsson, violin\nDimitri Murrath, viola\nYu Jin, viola\nMax Geissler, cello"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT38M52S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3565",
+                "likeCount": "52",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

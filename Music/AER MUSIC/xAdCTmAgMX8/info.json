@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "G1EKg8ZWxRYmegJ6cRCfLL4RbGQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "8Toymint2toP6W-K25lKnx0Uh_A",
+            "id": "xAdCTmAgMX8",
+            "snippet": {
+                "publishedAt": "2023-04-28T09:00:40Z",
+                "channelId": "UCpz8ZWxhTU-5VuAW1F0H_tA",
+                "title": "[OFFICIAL AUDIO] 소유 - 시간을 돌려서 | 조선변호사 오리지널 사운드 트랙 4",
+                "description": "소유 - 시간을 돌려서 | 조선변호사 오리지널 사운드 트랙 4\n\n#MBC드라마 #조선변호사\n#OST #오리지널사운드트랙 #Release\n#소유 #시간을돌려서\n#아에르뮤직 #AERMUSIC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xAdCTmAgMX8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xAdCTmAgMX8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xAdCTmAgMX8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xAdCTmAgMX8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xAdCTmAgMX8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AER MUSIC",
+                "tags": [
+                    "AER MUSIC",
+                    "아에르뮤직",
+                    "서인국",
+                    "seoinguk",
+                    "레이나",
+                    "남영주"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[OFFICIAL AUDIO] 소유 - 시간을 돌려서 | 조선변호사 오리지널 사운드 트랙 4",
+                    "description": "소유 - 시간을 돌려서 | 조선변호사 오리지널 사운드 트랙 4\n\n#MBC드라마 #조선변호사\n#OST #오리지널사운드트랙 #Release\n#소유 #시간을돌려서\n#아에르뮤직 #AERMUSIC"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M33S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2658",
+                "likeCount": "88",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

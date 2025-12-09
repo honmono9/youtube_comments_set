@@ -1,0 +1,99 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "G5MpZatrzdr6JprghMX4C2i_xdw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "OEY1cA9v01At3kJGZsiqB7wZ7EI",
+            "id": "T-HwHvgtcBg",
+            "snippet": {
+                "publishedAt": "2025-08-09T08:00:28Z",
+                "channelId": "UC3fPnB3ds2xBY1PTtgkCCYw",
+                "title": "🌟2025상반기 핫했던 클럽노래모음 MIX | DJ ASTER🌟",
+                "description": "#아스터 #DJASTER #클럽에서유행하는노래  \n\n00:01 ━━❚━━━━━━ 28:36(광고제거 클릭) 📌\n ⇆ ⠀⠀⠀⠀⠀◃ ❚❚ ▹ ⠀⠀⠀⠀ ↻\n\n좋아요 구독 댓글은 사랑입니다..❤\n수익 및 광고가 없는 영상이지만\n음원 저작권과 조회수에 따라 유튜브에서 자체적으로 광고가 삽입될 수 있습니다! \n 28:36 클릭후 다시 00:01 앞으로 돌아가시면 광고가 사라집니다!!\n\n인스타그램\n@Aster_djofficial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T-HwHvgtcBg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T-HwHvgtcBg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T-HwHvgtcBg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/T-HwHvgtcBg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/T-HwHvgtcBg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ASTER MUSIC",
+                "tags": [
+                    "아스터",
+                    "클럽에서 유행하는 노래",
+                    "DJ ASTER",
+                    "2025클럽",
+                    "워터밤",
+                    "아스터 네오",
+                    "네오",
+                    "섹시푸드",
+                    "neo",
+                    "햄부기",
+                    "신나는노래",
+                    "외출할때듣는노래",
+                    "dj soda",
+                    "dj arkins",
+                    "arkins",
+                    "롯데 아웃송",
+                    "아웃송",
+                    "크보 아웃송",
+                    "클럽"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🌟2025상반기 핫했던 클럽노래모음 MIX | DJ ASTER🌟",
+                    "description": "#아스터 #DJASTER #클럽에서유행하는노래  \n\n00:01 ━━❚━━━━━━ 28:36(광고제거 클릭) 📌\n ⇆ ⠀⠀⠀⠀⠀◃ ❚❚ ▹ ⠀⠀⠀⠀ ↻\n\n좋아요 구독 댓글은 사랑입니다..❤\n수익 및 광고가 없는 영상이지만\n음원 저작권과 조회수에 따라 유튜브에서 자체적으로 광고가 삽입될 수 있습니다! \n 28:36 클릭후 다시 00:01 앞으로 돌아가시면 광고가 사라집니다!!\n\n인스타그램\n@Aster_djofficial"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT28M36S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "320128",
+                "likeCount": "2055",
+                "favoriteCount": "0",
+                "commentCount": "98"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

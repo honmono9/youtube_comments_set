@@ -1,0 +1,104 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "bv4B41R4fAFx-aWEzqMefW1Y2t4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "pm6GAPxEPYV2lLubLSHNdAvtAmE",
+            "id": "x8eDmdrtMyI",
+            "snippet": {
+                "publishedAt": "2024-12-10T06:11:08Z",
+                "channelId": "UCEhxA_aRk5gPi7PbzvmkSlg",
+                "title": "🎶Beauty and the Beast(미녀와 야수 OST)🏰",
+                "description": "#크리스마스 #미녀와야수 #부산공연\n\n크리스마스, 최고의 선물!\n환상의 멜로디로 깊어지는 크리스마스❄️\n\n🎶Beauty and the Beast(미녀와 야수 OST)🏰\n\n10대의 첼로로 만나보는 캐롤부터, 디즈니, 지브리 음악까지!\n진정한 \"크리스마스 축제\", 부산문화회관에서 만나요!\n\n🎄크리스마스 10첼로 페스티벌 :디즈니 VS 지브리🎄\n◆일시장소 : 𝟐𝟎𝟐𝟒년 𝟏𝟐월 𝟐𝟓일(수) 오후 𝟓시 부산문화회관 대극장\n◆입장연령 : 만 7세 이상 관람 가능(미취학아동 관람 불가)\n◆출연진 : 아르츠 10 CELLISTS [리더 박건우/이길재/채훈선/박소진/최민지/이세인/강예주/남유리나/안예진/이제헌], 타악기 김승수, 트럼펫 홍성민, 오보에 강다해\n◆예매처 : 인터파크, 티켓링크",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x8eDmdrtMyI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x8eDmdrtMyI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x8eDmdrtMyI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/x8eDmdrtMyI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/x8eDmdrtMyI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "STOMP MUSIC",
+                "tags": [
+                    "스톰프뮤직",
+                    "stompmusic",
+                    "classic",
+                    "ochestra",
+                    "gamemusic",
+                    "classic music",
+                    "BGM",
+                    "playlist",
+                    "calm",
+                    "차분한 음악",
+                    "플리",
+                    "플레이리스트",
+                    "떼껄룩",
+                    "클래식",
+                    "뉴에이지",
+                    "new age",
+                    "piano",
+                    "cello",
+                    "violin",
+                    "viola",
+                    "base",
+                    "contra base",
+                    "베이스",
+                    "콘트라베이스",
+                    "첼로",
+                    "바이올린",
+                    "비올라",
+                    "현악",
+                    "관악",
+                    "현악4중주"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "🎶Beauty and the Beast(미녀와 야수 OST)🏰",
+                    "description": "#크리스마스 #미녀와야수 #부산공연\n\n크리스마스, 최고의 선물!\n환상의 멜로디로 깊어지는 크리스마스❄️\n\n🎶Beauty and the Beast(미녀와 야수 OST)🏰\n\n10대의 첼로로 만나보는 캐롤부터, 디즈니, 지브리 음악까지!\n진정한 \"크리스마스 축제\", 부산문화회관에서 만나요!\n\n🎄크리스마스 10첼로 페스티벌 :디즈니 VS 지브리🎄\n◆일시장소 : 𝟐𝟎𝟐𝟒년 𝟏𝟐월 𝟐𝟓일(수) 오후 𝟓시 부산문화회관 대극장\n◆입장연령 : 만 7세 이상 관람 가능(미취학아동 관람 불가)\n◆출연진 : 아르츠 10 CELLISTS [리더 박건우/이길재/채훈선/박소진/최민지/이세인/강예주/남유리나/안예진/이제헌], 타악기 김승수, 트럼펫 홍성민, 오보에 강다해\n◆예매처 : 인터파크, 티켓링크"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "903",
+                "likeCount": "15",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "3l4epUFvJhZgQzJWSeaTWYjA6IQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "hHJQfZpKDH__hbrsQEL9B8WPzhw",
+            "id": "pat24Aq1lAE",
+            "snippet": {
+                "publishedAt": "2018-07-21T06:05:04Z",
+                "channelId": "UCpoVBgMggBOwAe9SDo4S_Og",
+                "title": "'Attention' 펜타토닉스 vs 프리티머치 버전 비교해서 듣기",
+                "description": "@ 소니뮤직코리아 페이스북  https://www.facebook.com/sonymusickorea\n@ 소니뮤직코리아 인스타그램  https://www.instagram.com/sonymusickorea",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pat24Aq1lAE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pat24Aq1lAE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pat24Aq1lAE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pat24Aq1lAE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "소니뮤직코리아 Sony Music Korea",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "'Attention' 펜타토닉스 vs 프리티머치 버전 비교해서 듣기",
+                    "description": "@ 소니뮤직코리아 페이스북  https://www.facebook.com/sonymusickorea\n@ 소니뮤직코리아 인스타그램  https://www.instagram.com/sonymusickorea"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3131",
+                "likeCount": "54",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

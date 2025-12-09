@@ -1,0 +1,67 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "vNjMkl6ioT5sldp_hEyzUWjBd_Y",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ehg3iAG7HvQSKG8zWegxleTxxuY",
+            "id": "iSrAnwF17uk",
+            "snippet": {
+                "publishedAt": "2025-05-17T05:00:46Z",
+                "channelId": "UC5L6Me5Apx9VzGfjd5qRu1A",
+                "title": "นักร้องลูกทุ่งสมัยก่อน ส่วนใหญ่แล้ว จะเป็นโทนเสียงแหลม จริงดิ..! ไปฟังกันเลย",
+                "description": "นักร้องลูกทุ่งสมัยก่อน ส่วนใหญ่แล้ว จะเป็นโทนเสียงแหลม จริงดิ..! ไปฟังกันเลย\n#เพลงลูกทุ่งยุคเก่า #Music relax26",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iSrAnwF17uk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iSrAnwF17uk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iSrAnwF17uk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iSrAnwF17uk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music relax26",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "นักร้องลูกทุ่งสมัยก่อน ส่วนใหญ่แล้ว จะเป็นโทนเสียงแหลม จริงดิ..! ไปฟังกันเลย",
+                    "description": "นักร้องลูกทุ่งสมัยก่อน ส่วนใหญ่แล้ว จะเป็นโทนเสียงแหลม จริงดิ..! ไปฟังกันเลย\n#เพลงลูกทุ่งยุคเก่า #Music relax26"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT2M24S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "651",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

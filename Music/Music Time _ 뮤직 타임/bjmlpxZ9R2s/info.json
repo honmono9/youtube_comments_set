@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Mj7K0DeT_vwUJCgDZgI48uD4DEI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "VO7Mx2E5yEYM2ROaGKBNfx-5A8U",
+            "id": "bjmlpxZ9R2s",
+            "snippet": {
+                "publishedAt": "2025-12-04T14:45:39Z",
+                "channelId": "UCYA3gLE34set7Xn_FVU8D0Q",
+                "title": "SEOEUNKWANG (서은광 (비투비)) - Greatest Moment [가사]",
+                "description": "SEOEUNKWANG (서은광 (비투비)) - Greatest Moment [가사]\n_\n아티스트:서은광 (비투비)\n유형:정규\n장르:발라드, 댄스/팝, 알앤비/소울\n스타일:발라드, 댄스 팝, 팝 락, 알앤비\n발매일:2025.12.04\n유통사:카카오엔터테인먼트\n기획사:비투비컴퍼니\n_\n#SEOEUNKWANG #서은광 #비투비 #GreatestMoment",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bjmlpxZ9R2s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bjmlpxZ9R2s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bjmlpxZ9R2s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bjmlpxZ9R2s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bjmlpxZ9R2s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Time | 뮤직 타임",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "SEOEUNKWANG (서은광 (비투비)) - Greatest Moment [가사]",
+                    "description": "SEOEUNKWANG (서은광 (비투비)) - Greatest Moment [가사]\n_\n아티스트:서은광 (비투비)\n유형:정규\n장르:발라드, 댄스/팝, 알앤비/소울\n스타일:발라드, 댄스 팝, 팝 락, 알앤비\n발매일:2025.12.04\n유통사:카카오엔터테인먼트\n기획사:비투비컴퍼니\n_\n#SEOEUNKWANG #서은광 #비투비 #GreatestMoment"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M25S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "652",
+                "likeCount": "21",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

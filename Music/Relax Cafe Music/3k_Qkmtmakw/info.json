@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "bMg1V-5FkN3sWREhrUTLMtoV5LY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "EcY4IFrckCaQyAWnxyoGsxHXd6A",
+            "id": "3k_Qkmtmakw",
+            "snippet": {
+                "publishedAt": "2022-06-24T13:00:04Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Coffee Lounge Jazz - Relaxing Summer Vibes with Jazz & Bossa Nova Music",
+                "description": "The best playlist of coffee lounge jazz! Enjoy good summer vibes with this relaxing playlist of jazz and bossa nova music by Richard Freeman!\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #coffeejazz #bossanova \n\nl130",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3k_Qkmtmakw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3k_Qkmtmakw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3k_Qkmtmakw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3k_Qkmtmakw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3k_Qkmtmakw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "tags": [
+                    "coffee lounge jazz",
+                    "summer jazz",
+                    "bossa nova",
+                    "jazz music",
+                    "relaxing jazz",
+                    "summer vibes jazz",
+                    "lounge jazz to chill out",
+                    "good company jazz"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Coffee Lounge Jazz - Relaxing Summer Vibes with Jazz & Bossa Nova Music",
+                    "description": "The best playlist of coffee lounge jazz! Enjoy good summer vibes with this relaxing playlist of jazz and bossa nova music by Richard Freeman!\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #coffeejazz #bossanova \n\nl130"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "13713",
+                "likeCount": "183",
+                "favoriteCount": "0",
+                "commentCount": "15"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

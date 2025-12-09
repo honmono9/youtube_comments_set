@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "M_wTqTuPgYxykLuoqQPR0UHALa4",
+        "id": "UgwkgkST9iSAwCdrvWx4AaABAg",
+        "snippet": {
+            "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+            "videoId": "5rlRqSdzETo",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "FHyBujPFrPywgeXvrIbgb57z85s",
+                "id": "UgwkgkST9iSAwCdrvWx4AaABAg",
+                "snippet": {
+                    "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+                    "videoId": "5rlRqSdzETo",
+                    "textDisplay": "Yaşamak korkunç birşey.....",
+                    "textOriginal": "Yaşamak korkunç birşey.....",
+                    "authorDisplayName": "@EMO72551",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/rIj8Chcitn5BtTrdBeSX0Zp4FcOjUcyO-EFR7YISa8gD4_8zpntxXwmxJACspGvjF99gfU8gZA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@EMO72551",
+                    "authorChannelId": {
+                        "value": "UC2_Hh-d81RKW_vyHGblQbVg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-09-22T14:22:44Z",
+                    "updatedAt": "2025-09-22T14:22:44Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "I8_OrfALc67WfrhpSYYP1QUzpzs",
+        "id": "UgwfAq060m4aFuxDvNB4AaABAg",
+        "snippet": {
+            "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+            "videoId": "5rlRqSdzETo",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "dy0IYUOmi2OZ8_p9Xlq1Iq07H04",
+                "id": "UgwfAq060m4aFuxDvNB4AaABAg",
+                "snippet": {
+                    "channelId": "UCJQzrp79_bSgVcEDipm_LWQ",
+                    "videoId": "5rlRqSdzETo",
+                    "textDisplay": "İçim yanıyor😢",
+                    "textOriginal": "İçim yanıyor😢",
+                    "authorDisplayName": "@FerideKirdag",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nEK1kbF7CC8jzmxy5AOsGznV0V8U7waLwCm7EBugLuJA6Zhn2wYaW4DejMrvW3aNbXFg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@FerideKirdag",
+                    "authorChannelId": {
+                        "value": "UCFF-x4IY4zrg1olXIQ9lkFA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-09-22T11:23:25Z",
+                    "updatedAt": "2025-09-22T11:23:25Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

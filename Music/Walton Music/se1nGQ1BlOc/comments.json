@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "WhxqjJVmZtnysk4_6o_PjGwBTMg",
+        "id": "Ugx05K0vCI7WIF0vLLN4AaABAg",
+        "snippet": {
+            "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+            "videoId": "se1nGQ1BlOc",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "l7saaVv6qpWulAIpkU8soGwA9x4",
+                "id": "Ugx05K0vCI7WIF0vLLN4AaABAg",
+                "snippet": {
+                    "channelId": "UC8uYNU1wl52INvGDS2SlWmA",
+                    "videoId": "se1nGQ1BlOc",
+                    "textDisplay": "Hi,beloved please can i have this partition in format pdf??? please",
+                    "textOriginal": "Hi,beloved please can i have this partition in format pdf??? please",
+                    "authorDisplayName": "@SergeWeathleyLusamba",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nlK0XZCHPihWVQ4ZXtf5b8YpsaViKGdlcNQOujPdbuOV75OJmCMvjy0UMhDlldDDfeTw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@SergeWeathleyLusamba",
+                    "authorChannelId": {
+                        "value": "UCJyLGywrKuEUDyvX1nbwlKg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-08-03T13:59:19Z",
+                    "updatedAt": "2025-08-03T13:59:19Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Ugh06sEn-bFfKolUm4IVHI485XU",
+        "id": "Ugzrh7Nret4XXtdN9Z94AaABAg",
+        "snippet": {
+            "channelId": "UCsfYd7AVFk_ASiMudok6_sQ",
+            "videoId": "wiEvPcetp4A",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "RptuEksNvWwne8HzaCJWk4w4oyc",
+                "id": "Ugzrh7Nret4XXtdN9Z94AaABAg",
+                "snippet": {
+                    "channelId": "UCsfYd7AVFk_ASiMudok6_sQ",
+                    "videoId": "wiEvPcetp4A",
+                    "textDisplay": "Wow!  Cool 😎 loved it!!!! 🇺🇸🇵🇭🫡",
+                    "textOriginal": "Wow!  Cool 😎 loved it!!!! 🇺🇸🇵🇭🫡",
+                    "authorDisplayName": "@edwardbondoc2550",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mHu8jAQ_2V6J6Tec6hXSbB6D50Fwv8TCVH6qO9rQP_nQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@edwardbondoc2550",
+                    "authorChannelId": {
+                        "value": "UC0THqgOQRKAuNbM8IggtQ7w"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2023-08-27T09:25:58Z",
+                    "updatedAt": "2023-08-27T09:25:58Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

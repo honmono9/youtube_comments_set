@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "0io8YOQFBPMEt2xj1wRoFLQyZsU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "rFrAd76R4hwzKJ_Fy6LRrt0hB_4",
+            "id": "NTAbhGf_wF4",
+            "snippet": {
+                "publishedAt": "2025-07-09T02:05:30Z",
+                "channelId": "UCKL8FqxI07jpXsJ0PA09kOw",
+                "title": "우리에겐 익숙한 리코더,  야마하 리코더 제작 과정.mov📂",
+                "description": "리코더, 어떻게 만들어지는지 궁금하셨나요? 👀\n\n우리에겐 너무나 익숙한 리코더,\n그 속에는 놀라운 제작 비밀이 숨어 있습니다🤔\n\n정성으로 완성되는 리코더의 제작 과정,\n지금 영상으로 함께 만나보세요!\n\n#Yamaha\n#YamahaMusic \n#MakeWaves \n#BehindTheScenes",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NTAbhGf_wF4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NTAbhGf_wF4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NTAbhGf_wF4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NTAbhGf_wF4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NTAbhGf_wF4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yamaha Music Korea",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "우리에겐 익숙한 리코더,  야마하 리코더 제작 과정.mov📂",
+                    "description": "리코더, 어떻게 만들어지는지 궁금하셨나요? 👀\n\n우리에겐 너무나 익숙한 리코더,\n그 속에는 놀라운 제작 비밀이 숨어 있습니다🤔\n\n정성으로 완성되는 리코더의 제작 과정,\n지금 영상으로 함께 만나보세요!\n\n#Yamaha\n#YamahaMusic \n#MakeWaves \n#BehindTheScenes"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT52S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "712",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

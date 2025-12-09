@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Gre3mpua1D_6rkWhXnOVRTIIQCM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "9m3s6-WCtib3t5jRLJ8tWbhzmKQ",
+            "id": "CkHpFobu5wk",
+            "snippet": {
+                "publishedAt": "2019-08-02T02:31:52Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "071319 Hindemith Viola Sonata, Op. 11, No. 4, 1st mvt",
+                "description": "ENCORE Chamber Music 2019 Season 'La bohème' \nSummer Academy Blooming Artists Concert\n\nHanna Lee, viola (age 16)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CkHpFobu5wk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CkHpFobu5wk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CkHpFobu5wk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CkHpFobu5wk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CkHpFobu5wk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "071319 Hindemith Viola Sonata, Op. 11, No. 4, 1st mvt",
+                    "description": "ENCORE Chamber Music 2019 Season 'La bohème' \nSummer Academy Blooming Artists Concert\n\nHanna Lee, viola (age 16)"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT6M47S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2007",
+                "likeCount": "17",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

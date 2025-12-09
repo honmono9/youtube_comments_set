@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "FJBnf4BhnO143ZwbVrVg-QlXUzE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "1mj0d2ZMThuXyqja4FJTpSdzzIE",
+            "id": "Zuu7c3uuNyM",
+            "snippet": {
+                "publishedAt": "2022-04-17T13:00:16Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Smooth Jazz - Elegant Jazz Music for Work, Study",
+                "description": "Relaxing playlist of smooth jazz music with elegant vibe to it. Great to use as background music when working or studying. Music by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #smoothjazz #studyjazz\n\nl116",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zuu7c3uuNyM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zuu7c3uuNyM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zuu7c3uuNyM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Zuu7c3uuNyM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Zuu7c3uuNyM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "tags": [
+                    "smooth jazz",
+                    "jazz music",
+                    "elegant jazz",
+                    "jazz for work",
+                    "jazz for study",
+                    "jazz to concentrate",
+                    "good mood jazz",
+                    "jazz beats music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Smooth Jazz - Elegant Jazz Music for Work, Study",
+                    "description": "Relaxing playlist of smooth jazz music with elegant vibe to it. Great to use as background music when working or studying. Music by Richard Freeman\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #smoothjazz #studyjazz\n\nl116"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10H",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "31072",
+                "likeCount": "316",
+                "favoriteCount": "0",
+                "commentCount": "27"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

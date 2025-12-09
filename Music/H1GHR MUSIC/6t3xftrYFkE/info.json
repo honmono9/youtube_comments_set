@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "TLFXswqASPd_sq-6WR9nQHwLOGc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "MxEZJKK-ipCQfAdiF-m4iRRfixY",
+            "id": "6t3xftrYFkE",
+            "snippet": {
+                "publishedAt": "2024-12-07T03:00:03Z",
+                "channelId": "UC6TJkBRLMFJ-9c7pXehoZwg",
+                "title": "lIlBOI NEW EP [Get Back] #lIlBOI #릴보이#GetBack#THECAMP#H1GHRMUSIC #하이어뮤직",
+                "description": "2024.12.13. 6PM",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6t3xftrYFkE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6t3xftrYFkE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6t3xftrYFkE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6t3xftrYFkE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6t3xftrYFkE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "H1GHR MUSIC",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "lIlBOI NEW EP [Get Back] #lIlBOI #릴보이#GetBack#THECAMP#H1GHRMUSIC #하이어뮤직",
+                    "description": "2024.12.13. 6PM"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT10S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1907",
+                "likeCount": "82",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "wiSlX4jc--vs_mp417aR0k08Mjg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "pOP6TJ2aaH2LQnVM1KD4_g8r0yQ",
+            "id": "CghgOdJun7Y",
+            "snippet": {
+                "publishedAt": "2022-09-06T16:00:15Z",
+                "channelId": "UCwdmcaOcWQ7PW8_wuaB8Cjw",
+                "title": "SEBASTIAN SPENCER X PORNOBASS X SARAH - ONS (HARDSTYLE Version | OFFICIAL AUDIO) HQ",
+                "description": "Spotify Link:\nhttps://open.spotify.com/album/7J2Q69nVQD5yGy1JHPxeHT\n\nItunes Link:\nhttp://itunes.apple.com/album/id1643502970?ls=1&app=itunes\n\nAb sofort überall digital erhältlich!\n\n\nVocals: Sarah P.\nMusic: Nick Mares (PORNOBASS)\nLyrics: Sebastian Spencer",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CghgOdJun7Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CghgOdJun7Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CghgOdJun7Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CghgOdJun7Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CghgOdJun7Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sebastian Spencer Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "de",
+                "localized": {
+                    "title": "SEBASTIAN SPENCER X PORNOBASS X SARAH - ONS (HARDSTYLE Version | OFFICIAL AUDIO) HQ",
+                    "description": "Spotify Link:\nhttps://open.spotify.com/album/7J2Q69nVQD5yGy1JHPxeHT\n\nItunes Link:\nhttp://itunes.apple.com/album/id1643502970?ls=1&app=itunes\n\nAb sofort überall digital erhältlich!\n\n\nVocals: Sarah P.\nMusic: Nick Mares (PORNOBASS)\nLyrics: Sebastian Spencer"
+                },
+                "defaultAudioLanguage": "de"
+            },
+            "contentDetails": {
+                "duration": "PT3M31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "23505",
+                "likeCount": "427",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

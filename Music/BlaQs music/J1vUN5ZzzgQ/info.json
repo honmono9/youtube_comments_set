@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "a8Imqk7RX_yLVhZCPkfEU1oopZI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "t1jtfViNveAc8-5PwiGbcUyctt4",
+            "id": "J1vUN5ZzzgQ",
+            "snippet": {
+                "publishedAt": "2025-07-11T14:00:06Z",
+                "channelId": "UCoAOTBoviujUGWXOWDgfKmw",
+                "title": "Blaqs -summer time(visuals)",
+                "description": "it's a party anthem,it's summer ,it's written and performed by BlaQs\n at KCR ,mixed and materd by kagoh on the beats...enyoy#summer #dance #subscribers",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J1vUN5ZzzgQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J1vUN5ZzzgQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J1vUN5ZzzgQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/J1vUN5ZzzgQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/J1vUN5ZzzgQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BlaQs music",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Blaqs -summer time(visuals)",
+                    "description": "it's a party anthem,it's summer ,it's written and performed by BlaQs\n at KCR ,mixed and materd by kagoh on the beats...enyoy#summer #dance #subscribers"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2M26S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "601",
+                "likeCount": "53",
+                "favoriteCount": "0",
+                "commentCount": "42"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

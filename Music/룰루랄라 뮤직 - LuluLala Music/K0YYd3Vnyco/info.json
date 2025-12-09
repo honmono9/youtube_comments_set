@@ -1,0 +1,104 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "O60zTkM8pWBhNEIfWp6zGjHN0Lw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "kkPz324qyOQW47WfqX72vdzYOtw",
+            "id": "K0YYd3Vnyco",
+            "snippet": {
+                "publishedAt": "2018-11-30T12:00:01Z",
+                "channelId": "UC3kgosidfK3i_47Q2otmmGw",
+                "title": "EXID (이엑스아이디) - 'I LOVE YOU (알러뷰)' @Sungduck Live | Facetime Live (Vertical Cam)",
+                "description": "EXID at Sungduck Live on 29th, November. \n#oksusu #sungducklive #EXID #facetimelive \n\n▶oksusu : http://m.oksusu.com/?s=363\n▶[Sungduck Live] Offical Twitter: https://twitter.com/sungduckwho\n▶Sungduck Live go live on oksusu on every Tuesdays and Thursdays 9PM (KST)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K0YYd3Vnyco/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K0YYd3Vnyco/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K0YYd3Vnyco/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K0YYd3Vnyco/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K0YYd3Vnyco/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "룰루랄라 뮤직 - LuluLala Music",
+                "tags": [
+                    "SUNGDUCK LIVE",
+                    "FACETIME LIVE",
+                    "EXID",
+                    "exid- i love you",
+                    "i love you LIVE",
+                    "EXID LIVE",
+                    "K-pop",
+                    "SOLJI",
+                    "HYELIN",
+                    "JUNGHWA",
+                    "HANI",
+                    "LE",
+                    "EXID COMEBACK",
+                    "3rd",
+                    "i love you",
+                    "이엑스아이디",
+                    "이엑스아이디 라이브",
+                    "이엑스아이디 i love you",
+                    "솔지",
+                    "혜린",
+                    "정화",
+                    "하니",
+                    "엘리",
+                    "미니앨범",
+                    "성덕라이브",
+                    "영통라이브",
+                    "exid 알러뷰",
+                    "exid 알러뷰 라이브",
+                    "알러뷰",
+                    "성덕라이브 exid"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "EXID (이엑스아이디) - 'I LOVE YOU (알러뷰)' @Sungduck Live | Facetime Live (Vertical Cam)",
+                    "description": "EXID at Sungduck Live on 29th, November. \n#oksusu #sungducklive #EXID #facetimelive \n\n▶oksusu : http://m.oksusu.com/?s=363\n▶[Sungduck Live] Offical Twitter: https://twitter.com/sungduckwho\n▶Sungduck Live go live on oksusu on every Tuesdays and Thursdays 9PM (KST)"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M49S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "446178",
+                "likeCount": "13046",
+                "favoriteCount": "0",
+                "commentCount": "294"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

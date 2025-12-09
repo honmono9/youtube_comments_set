@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "uqC5xcmApNRroLHJHm0f5piwIFE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "v1_5ubMNw3E40yQv2QlxEl5k1Sw",
+            "id": "f-SF3bLVrUM",
+            "snippet": {
+                "publishedAt": "2025-11-26T22:00:59Z",
+                "channelId": "UCeDrHzmLSddOtgCmsCXPtWw",
+                "title": "The Offspring - The Kids Aren't Alright | 70s Soul Cover",
+                "description": "The Kids Aren't Alright by The Offspring twisted in 70s Soul\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\nWhen we were young the future was so bright (Whoa)\nThe old neighborhood was so alive (Whoa)\nAnd every kid on the whole damn street (Whoa)\nWas gonna make it big and not be beat\nNow the neighborhood's cracked and torn (Whoa)\nThe kids are grown up but their lives are worn (Whoa)\nHow can one little street\nSwallow so many lives?\n\nChances thrown, nothing's free\nLonging for what used to be\nStill it's hard, hard to see\nFragile lives, shattered dreams\n(Go!)\n\nJamie had a chance, well she really did (Whoa)\nInstead she dropped out and had a couple of kids (Whoa)\nMark still lives at home 'cause he's got no job (Whoa)\nHe just plays guitar and smokes a lot of pot\nJay committed suicide (Whoa)\nBrandon OD'd and died (Whoa)\nWhat the hell is going on?\nThe cruelest dream, reality\n\nChances thrown, nothing's free\nLonging for what used to be\nStill it's hard, hard to see\nFragile lives, shattered dreams\n(Go!)\n\nChances thrown, nothing's free\nLonging for what used to be\nStill it's hard, hard to see\nFragile lives, shattered dreams",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f-SF3bLVrUM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f-SF3bLVrUM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f-SF3bLVrUM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/f-SF3bLVrUM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/f-SF3bLVrUM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Twisted Music Studio",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "The Offspring - The Kids Aren't Alright | 70s Soul Cover",
+                    "description": "The Kids Aren't Alright by The Offspring twisted in 70s Soul\n\nLike what you hear? Help keep the party going!\nhttps://tiptopjar.com/TwistedMusicStudio\n\nLyrics:\nWhen we were young the future was so bright (Whoa)\nThe old neighborhood was so alive (Whoa)\nAnd every kid on the whole damn street (Whoa)\nWas gonna make it big and not be beat\nNow the neighborhood's cracked and torn (Whoa)\nThe kids are grown up but their lives are worn (Whoa)\nHow can one little street\nSwallow so many lives?\n\nChances thrown, nothing's free\nLonging for what used to be\nStill it's hard, hard to see\nFragile lives, shattered dreams\n(Go!)\n\nJamie had a chance, well she really did (Whoa)\nInstead she dropped out and had a couple of kids (Whoa)\nMark still lives at home 'cause he's got no job (Whoa)\nHe just plays guitar and smokes a lot of pot\nJay committed suicide (Whoa)\nBrandon OD'd and died (Whoa)\nWhat the hell is going on?\nThe cruelest dream, reality\n\nChances thrown, nothing's free\nLonging for what used to be\nStill it's hard, hard to see\nFragile lives, shattered dreams\n(Go!)\n\nChances thrown, nothing's free\nLonging for what used to be\nStill it's hard, hard to see\nFragile lives, shattered dreams"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M49S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "427",
+                "likeCount": "13",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

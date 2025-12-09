@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "6AHhhewUQQVf1eRSpNj3U6-ypIk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "wgApE46Jl8P_bsgStbnTUV1sVIw",
+            "id": "PB9vg7PEpYA",
+            "snippet": {
+                "publishedAt": "2025-08-07T10:00:44Z",
+                "channelId": "UCQu7HT9yzlDacTpi1J6ZuMA",
+                "title": "드라이브 가고싶어지는 요즘 한강 분위기 #드라이브갈사람",
+                "description": "#드라이브갈사람 #한강 #야경 #근황 #공기남 #fadeintoyou",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PB9vg7PEpYA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PB9vg7PEpYA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PB9vg7PEpYA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PB9vg7PEpYA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PB9vg7PEpYA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "에어뮤직 - AIR MUSIC ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "드라이브 가고싶어지는 요즘 한강 분위기 #드라이브갈사람",
+                    "description": "#드라이브갈사람 #한강 #야경 #근황 #공기남 #fadeintoyou"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2220",
+                "likeCount": "9",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

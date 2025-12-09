@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "aYLl4vpLEiRCVVwe9yFu1G9tPeU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "M_6Xtm59ImnxFeR2oPfj9WXy46c",
+            "id": "JcLSz7mJ6us",
+            "snippet": {
+                "publishedAt": "2021-11-26T10:00:14Z",
+                "channelId": "UCUJuOBgZ4AcZNeyNqzH1udQ",
+                "title": "[Teaser] 노리플라이 콘서트 '오래전 그 멜로디: Bookend'",
+                "description": "노리플라이 콘서트 '오래전 그 멜로디: Bookend'\n\nTeaser Film\nTICKET OPEN D-3\n\n3년만의 공연, 그리고 3년만에 함께하는 연말.\n지난 무대들 위 멜로디를 모아 보내는 오늘의 Reply,\n'오래전 그 멜로디: Bookend'의 콘서트 티저 영상을 공개합니다.\n\n일시: 2021. 12. 11(SAT) - 12(SUN), 토 7시 / 일 6시\n장소: 목동 로운아트홀\n티켓 오픈: 11월 29일(MON) 오후 6시 at 인터파크 티켓\n티켓 가격: 일반석 99,000원 / 시야제한석 77,000원\n주최: MPMG MUSIC\n주관: 주식회사 엠피엠지\n\n#노리플라이 #noreply #오래전그멜로디",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JcLSz7mJ6us/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JcLSz7mJ6us/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JcLSz7mJ6us/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JcLSz7mJ6us/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JcLSz7mJ6us/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MPMG MUSIC",
+                "tags": [
+                    "노리플라이",
+                    "오래전그멜로디",
+                    "noreply",
+                    "권순관",
+                    "정욱재",
+                    "콘서트",
+                    "연말",
+                    "공연",
+                    "티저",
+                    "teaser",
+                    "bookend",
+                    "concert"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[Teaser] 노리플라이 콘서트 '오래전 그 멜로디: Bookend'",
+                    "description": "노리플라이 콘서트 '오래전 그 멜로디: Bookend'\n\nTeaser Film\nTICKET OPEN D-3\n\n3년만의 공연, 그리고 3년만에 함께하는 연말.\n지난 무대들 위 멜로디를 모아 보내는 오늘의 Reply,\n'오래전 그 멜로디: Bookend'의 콘서트 티저 영상을 공개합니다.\n\n일시: 2021. 12. 11(SAT) - 12(SUN), 토 7시 / 일 6시\n장소: 목동 로운아트홀\n티켓 오픈: 11월 29일(MON) 오후 6시 at 인터파크 티켓\n티켓 가격: 일반석 99,000원 / 시야제한석 77,000원\n주최: MPMG MUSIC\n주관: 주식회사 엠피엠지\n\n#노리플라이 #noreply #오래전그멜로디"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2140",
+                "likeCount": "25",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

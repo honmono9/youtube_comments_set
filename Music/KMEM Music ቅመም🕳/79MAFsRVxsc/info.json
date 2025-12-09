@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "hh87_nn0dd5cHgDaYLbncdqXeag",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "cNnUMT9kkziaTDG7-GHwOqNjmfQ",
+            "id": "79MAFsRVxsc",
+            "snippet": {
+                "publishedAt": "2024-11-07T08:23:37Z",
+                "channelId": "UCH1VQkBY5lN73--RjIwIHqw",
+                "title": "DU.NE.G_Atfred (official Drill Music) ethiopia drill music 2024",
+                "description": "#music #drill #Atfred #Kmemhood",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/79MAFsRVxsc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/79MAFsRVxsc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/79MAFsRVxsc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/79MAFsRVxsc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "KMEM Music ቅመም🕳",
+                "tags": [
+                    "#kmemmusic",
+                    "#driil",
+                    "#ethiopiamusic",
+                    "#music",
+                    "#hopemusic",
+                    "#admasentertement",
+                    "#kmemhood",
+                    "#wizdan"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "arc",
+                "localized": {
+                    "title": "DU.NE.G_Atfred (official Drill Music) ethiopia drill music 2024",
+                    "description": "#music #drill #Atfred #Kmemhood"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M5S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "153",
+                "likeCount": "8",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

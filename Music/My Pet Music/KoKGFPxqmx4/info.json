@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "Ikf1H49PIpvNA2XisLb7DCxkdDI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "pacoovdpikC7no2NhrHkuLqyKnM",
+            "id": "KoKGFPxqmx4",
+            "snippet": {
+                "publishedAt": "2025-07-15T10:00:38Z",
+                "channelId": "UCo62tODW4YnxtszbusXyX-w",
+                "title": "(호숫가 소리)강아지를 편안하게 해주는 음악🐶수면 힐링음악🎵분리불안,심리안정 음악",
+                "description": "안녕하세요. My Pet Music 입니다.\n반려견을 편안하게 해주는 \n호숫가 물소리와 잔잔한 음악이예요~ \n심리안정과 분리불안에도 도움이 될거예요 :)\n오늘도 반려견과 함께 행복한 시간 되세요! \n\n\n#강아지수면음악 #강아지음악 #강아지가좋아하는음악",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KoKGFPxqmx4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KoKGFPxqmx4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KoKGFPxqmx4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KoKGFPxqmx4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KoKGFPxqmx4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "My Pet Music",
+                "tags": [
+                    "강아지음악",
+                    "개음악",
+                    "강아지가좋아하는음악",
+                    "개가좋아하는음악",
+                    "DogMusic",
+                    "DogsMusic",
+                    "DogRelaxMusic",
+                    "DogRelaxingMusic",
+                    "DogSleepMusic",
+                    "DogSleepingMusic",
+                    "PEtMusic",
+                    "펫뮤직"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "(호숫가 소리)강아지를 편안하게 해주는 음악🐶수면 힐링음악🎵분리불안,심리안정 음악",
+                    "description": "안녕하세요. My Pet Music 입니다.\n반려견을 편안하게 해주는 \n호숫가 물소리와 잔잔한 음악이예요~ \n심리안정과 분리불안에도 도움이 될거예요 :)\n오늘도 반려견과 함께 행복한 시간 되세요! \n\n\n#강아지수면음악 #강아지음악 #강아지가좋아하는음악"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT8H26M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4764",
+                "likeCount": "59",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

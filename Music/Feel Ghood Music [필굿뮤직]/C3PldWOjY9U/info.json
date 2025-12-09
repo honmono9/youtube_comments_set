@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "pjML444k-feFarb1igeIKcCcZ8Q",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ZYzt8Dt6-A4OnsOVvmOUQ8-WoSA",
+            "id": "C3PldWOjY9U",
+            "snippet": {
+                "publishedAt": "2021-05-21T09:28:06Z",
+                "channelId": "UC8gRco988IELoTNTl4OBd2w",
+                "title": "BIBI (비비) - 'Umm... Life' (with Yoonmirae) Official M/V",
+                "description": "비비 (BIBI)\n‘Umm... Life' Music Video \n\n비비 단편소설 \n[인생은 나쁜X (Life is a Bi…)]\n\n1. Umm…Life \n2. BAD SAD AND MAD*\n3. 피리 (PIRI the dog)\n4. Birthday Cake\n5. 인생은 나쁜년 (Life is a Bi…)*\n\n@nakedbibi \n\n#비비​ #BIBI​ #인생은나쁜X​ #BAD SAD AND MAD\n#필굿뮤직​ #FeelghoodMusic​ #2ndEP\n\n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4​\n - Website : http://www.feelghood.com/​ \n - Facebook : https://www.facebook.com/Feelghood",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C3PldWOjY9U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C3PldWOjY9U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C3PldWOjY9U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/C3PldWOjY9U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/C3PldWOjY9U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Feel Ghood Music [필굿뮤직]",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "BIBI (비비) - 'Umm... Life' (with Yoonmirae) Official M/V",
+                    "description": "비비 (BIBI)\n‘Umm... Life' Music Video \n\n비비 단편소설 \n[인생은 나쁜X (Life is a Bi…)]\n\n1. Umm…Life \n2. BAD SAD AND MAD*\n3. 피리 (PIRI the dog)\n4. Birthday Cake\n5. 인생은 나쁜년 (Life is a Bi…)*\n\n@nakedbibi \n\n#비비​ #BIBI​ #인생은나쁜X​ #BAD SAD AND MAD\n#필굿뮤직​ #FeelghoodMusic​ #2ndEP\n\n\nFeel Ghood Information\n - Instagram : http://bit.ly/2FTvFA4​\n - Website : http://www.feelghood.com/​ \n - Facebook : https://www.facebook.com/Feelghood"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "123256",
+                "likeCount": "11667",
+                "favoriteCount": "0",
+                "commentCount": "298"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

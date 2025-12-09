@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "NjBFuYvQ3anOfw6hGQ3phrc4rsk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "JIWBofo558Do7wLs4Ru-p4Nv_14",
+            "id": "vigxaZaO6Kw",
+            "snippet": {
+                "publishedAt": "2025-12-07T05:28:57Z",
+                "channelId": "UCYA3gLE34set7Xn_FVU8D0Q",
+                "title": "Cha Ga Eul (차가을) - 너 없이도 잘 살더라 (regret) [가사]",
+                "description": "Cha Ga Eul (차가을) - 너 없이도 잘 살더라 (regret) [가사]\n_\n아티스트:차가을\n유형:싱글\n장르:발라드\n스타일:발라드\n발매일:2025.12.06\n유통사:카카오엔터테인먼트\n기획사:TWT Entertainment\n_\n#ChaGaEul #차가을 #너없이도잘살더라",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vigxaZaO6Kw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vigxaZaO6Kw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vigxaZaO6Kw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vigxaZaO6Kw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vigxaZaO6Kw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music Time | 뮤직 타임",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "Cha Ga Eul (차가을) - 너 없이도 잘 살더라 (regret) [가사]",
+                    "description": "Cha Ga Eul (차가을) - 너 없이도 잘 살더라 (regret) [가사]\n_\n아티스트:차가을\n유형:싱글\n장르:발라드\n스타일:발라드\n발매일:2025.12.06\n유통사:카카오엔터테인먼트\n기획사:TWT Entertainment\n_\n#ChaGaEul #차가을 #너없이도잘살더라"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "783",
+                "likeCount": "23",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "q4PIJ5rN05j6NuhjJpEcSY5PrVo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "JUzIf4LCzNAk8v9ZQEwa7IUSeJk",
+            "id": "zEA8mZ88euI",
+            "snippet": {
+                "publishedAt": "2023-09-18T05:25:30Z",
+                "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
+                "title": "Monday Morning Jazz - September Jazz & Bossa Nova Music for Good Day",
+                "description": "The best of happy morning jazz and positive bossa nova music by Richard Freeman! Great choice for background music when you studying or trying to relax.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #morning #autumnjazz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zEA8mZ88euI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zEA8mZ88euI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zEA8mZ88euI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zEA8mZ88euI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zEA8mZ88euI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Relax Cafe Music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Monday Morning Jazz - September Jazz & Bossa Nova Music for Good Day",
+                    "description": "The best of happy morning jazz and positive bossa nova music by Richard Freeman! Great choice for background music when you studying or trying to relax.\n\n© All music and videos are produced by us and are copyrighted.\n\nListen on Spotify: https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ\nApple Music: https://music.apple.com/us/artist/richard-freeman/1494633442\n\n#jazz #morning #autumnjazz"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3H12M6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "88240",
+                "likeCount": "449",
+                "favoriteCount": "0",
+                "commentCount": "21"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "b_pvgIKqoJjeu3IWjqbOdRz45Fo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "V4gsJWQCpbqA_eWjA03qjDTUrT8",
+            "id": "UIB_GBWzx2Y",
+            "snippet": {
+                "publishedAt": "2025-11-21T10:46:38Z",
+                "channelId": "UCGUvUVuthSVOk0Kq34krOGA",
+                "title": "หลงเธอหมดใจ| Teaser trailer R.I.V เจ็บแล้ว… เดินต่อ  #RIV #BMAarena",
+                "description": "No Turning Back.🔥\nเจ็บแล้ว… เดินต่อ.\nไฟไหม้ข้างหลัง ไม่ได้แปลว่าต้องกลับไปดับมัน.\n  Burapha Music Arena (BMAARENA)🤙🏻\n #cinematicrock #RIV #BMAarena",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UIB_GBWzx2Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UIB_GBWzx2Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UIB_GBWzx2Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UIB_GBWzx2Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UIB_GBWzx2Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "𝐁𝐮𝐫𝐚𝐩𝐡𝐚 𝐦𝐮𝐬𝐢𝐜 𝐚𝐫𝐞𝐧𝐚",
+                "tags": [
+                    "Re-imagined version",
+                    "No Turning Back",
+                    "BMAARENA",
+                    "R.I.V",
+                    "Cinematic rock",
+                    "Futuristic synth sound"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "th",
+                "localized": {
+                    "title": "หลงเธอหมดใจ| Teaser trailer R.I.V เจ็บแล้ว… เดินต่อ  #RIV #BMAarena",
+                    "description": "No Turning Back.🔥\nเจ็บแล้ว… เดินต่อ.\nไฟไหม้ข้างหลัง ไม่ได้แปลว่าต้องกลับไปดับมัน.\n  Burapha Music Arena (BMAARENA)🤙🏻\n #cinematicrock #RIV #BMAarena"
+                },
+                "defaultAudioLanguage": "th"
+            },
+            "contentDetails": {
+                "duration": "PT37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2894",
+                "likeCount": "7",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

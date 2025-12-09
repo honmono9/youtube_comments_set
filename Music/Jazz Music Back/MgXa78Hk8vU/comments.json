@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "ST6TKoOr0a4JPRXoE5bJEKOSB0s",
+        "id": "UgyLzNCrLnlZBySo__V4AaABAg",
+        "snippet": {
+            "channelId": "UCxWfuzrNR2jjAnWUh8o8ycA",
+            "videoId": "MgXa78Hk8vU",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "23ZER8Bg2TXVRaTSL0CFZd-wZ0o",
+                "id": "UgyLzNCrLnlZBySo__V4AaABAg",
+                "snippet": {
+                    "channelId": "UCxWfuzrNR2jjAnWUh8o8ycA",
+                    "videoId": "MgXa78Hk8vU",
+                    "textDisplay": "Good❤",
+                    "textOriginal": "Good❤",
+                    "authorDisplayName": "@ThảoNguyễn-m8v",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lobEygh6O_Bjl7h7mr4MTRESHAyLTBfmIrqCBX7xUBostd5FaRyhFqYGRxUGQnwchWjQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@Th%E1%BA%A3oNguy%E1%BB%85n-m8v",
+                    "authorChannelId": {
+                        "value": "UChE0YSMQ7QRXBGmn9eKrFtw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-09-23T01:58:40Z",
+                    "updatedAt": "2025-09-23T01:58:40Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

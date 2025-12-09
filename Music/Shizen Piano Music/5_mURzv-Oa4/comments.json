@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "OlLfSI-Zp8wpRmya26xIJhPSMqE",
+        "id": "Ugyxwu72b_q6eFfV9lV4AaABAg",
+        "snippet": {
+            "channelId": "UCPxPvjsXfa6UJ30L3NAN-nQ",
+            "videoId": "5_mURzv-Oa4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "MZOg5tEF7YvZtgI7cWEtc9AGcCg",
+                "id": "Ugyxwu72b_q6eFfV9lV4AaABAg",
+                "snippet": {
+                    "channelId": "UCPxPvjsXfa6UJ30L3NAN-nQ",
+                    "videoId": "5_mURzv-Oa4",
+                    "textDisplay": "5分鐘一次廣告，超爛",
+                    "textOriginal": "5分鐘一次廣告，超爛",
+                    "authorDisplayName": "@奇異果-n9y",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kWeBJr6KlCZxeB7cQh-Go6xQc0qA_HD15Ul7TKX9lpnCc=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@%E5%A5%87%E7%95%B0%E6%9E%9C-n9y",
+                    "authorChannelId": {
+                        "value": "UC2yhjJt0K20EmC6GmD3bY8A"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-09-20T14:47:59Z",
+                    "updatedAt": "2025-09-20T14:47:59Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

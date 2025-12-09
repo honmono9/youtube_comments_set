@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "0hAaUF_CZOO-f1pmy0raFCLMRIw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "7jL57n6C7B0fPqndIdCvHEbm1d4",
+            "id": "hT911QCvjik",
+            "snippet": {
+                "publishedAt": "2019-07-31T03:18:36Z",
+                "channelId": "UCAAWXF7aHzSvzKeFbMGvLhQ",
+                "title": "062119 Smetana String Quartet No.1, JB 1:105, 1st mvt",
+                "description": "ENCORE Chamber Music 2019 Season 'La bohème' \nString Quartet Intensive Blooming Artists Concert\n\nAlena Hove, violin\nCameron Alan-Lee, violin\nSam Rosenthal, viola\nWill Cayanan, cello",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hT911QCvjik/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hT911QCvjik/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hT911QCvjik/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hT911QCvjik/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hT911QCvjik/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ENCORE Chamber Music",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "062119 Smetana String Quartet No.1, JB 1:105, 1st mvt",
+                    "description": "ENCORE Chamber Music 2019 Season 'La bohème' \nString Quartet Intensive Blooming Artists Concert\n\nAlena Hove, violin\nCameron Alan-Lee, violin\nSam Rosenthal, viola\nWill Cayanan, cello"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT7M58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1143",
+                "likeCount": "16",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

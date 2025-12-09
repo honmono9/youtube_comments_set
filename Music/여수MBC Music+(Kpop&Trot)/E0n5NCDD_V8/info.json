@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "SLVJ-pG42dMTeXvttw083bxNnFE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "fzwAxCC8bVqL35K5-CjARJOxk4U",
+            "id": "E0n5NCDD_V8",
+            "snippet": {
+                "publishedAt": "2025-12-08T07:44:46Z",
+                "channelId": "UCwIiyFphTd-eTeLBvh8riNw",
+                "title": "[김범룡 - 바람 바람 바람] #트로트클라쓰 #trotclass #k_music #노래의인연",
+                "description": "✨노래의 인연✨TV방송 160회 💙TROT CLASS\n📌12/5(금) 오후 5시10분~ 여수MBC TV+유튜브 최초공개!\n★출연 - 김범룡/요요미/김충훈/양혜승/MC양성화\n🎬장소 - 스프링 사운즈\n전체보기 ▶https://youtu.be/BrBnhZvCOC4\n\n#트로트클라쓰 #trotclass #여수MBC트로트클라쓰 #MC양성화",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E0n5NCDD_V8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E0n5NCDD_V8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E0n5NCDD_V8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/E0n5NCDD_V8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/E0n5NCDD_V8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "여수MBC Music+(Kpop&Trot)",
+                "tags": [
+                    "여수MBC",
+                    "여수MBC뮤직",
+                    "여수MBC Music+",
+                    "뮤직플러스",
+                    "트로트",
+                    "트로트메들리",
+                    "인기트로트",
+                    "trot",
+                    "ktrot"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[김범룡 - 바람 바람 바람] #트로트클라쓰 #trotclass #k_music #노래의인연",
+                    "description": "✨노래의 인연✨TV방송 160회 💙TROT CLASS\n📌12/5(금) 오후 5시10분~ 여수MBC TV+유튜브 최초공개!\n★출연 - 김범룡/요요미/김충훈/양혜승/MC양성화\n🎬장소 - 스프링 사운즈\n전체보기 ▶https://youtu.be/BrBnhZvCOC4\n\n#트로트클라쓰 #trotclass #여수MBC트로트클라쓰 #MC양성화"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "197",
+                "likeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

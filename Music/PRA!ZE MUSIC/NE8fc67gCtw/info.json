@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "zihGMUy2HhquD1UY1gpYNHwQOQ4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "st2jqKqQvpGs3FJIj2p3BN2lcZc",
+            "id": "NE8fc67gCtw",
+            "snippet": {
+                "publishedAt": "2025-01-31T05:30:12Z",
+                "channelId": "UCF8rdToaInqvvn5-cvnP4BA",
+                "title": "PRA!ZE MUSIC - I ADORE YOU (MASHUP) | HUGEL X JEAN PAREDES",
+                "description": "HEY YT FAM BRINGING YOU THE I ADORE YOU MASHUP ❤️‍🔥\n\n\nSHOW SOME LOVE AND SUPPORT ME ON INSTAGRAM  TOO❤️\n\nhttps://www.instagram.com/praize.music?igsh=MTVpYTZkY2EwZGJ0bw%3D%3D&utm_source=qr\n\n\n\n\nCOPYRIGHT DISCLAIMER\n\nCopyright Disclaimer: - Under section 107 of the copyright Act 1976, allowance is mad for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statues that might otherwise be infringing. Non- Profit, educational or personal use tips the balance in favor of FAIR USE.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NE8fc67gCtw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NE8fc67gCtw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NE8fc67gCtw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NE8fc67gCtw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NE8fc67gCtw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "PRA!ZE MUSIC ",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "PRA!ZE MUSIC - I ADORE YOU (MASHUP) | HUGEL X JEAN PAREDES",
+                    "description": "HEY YT FAM BRINGING YOU THE I ADORE YOU MASHUP ❤️‍🔥\n\n\nSHOW SOME LOVE AND SUPPORT ME ON INSTAGRAM  TOO❤️\n\nhttps://www.instagram.com/praize.music?igsh=MTVpYTZkY2EwZGJ0bw%3D%3D&utm_source=qr\n\n\n\n\nCOPYRIGHT DISCLAIMER\n\nCopyright Disclaimer: - Under section 107 of the copyright Act 1976, allowance is mad for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statues that might otherwise be infringing. Non- Profit, educational or personal use tips the balance in favor of FAIR USE."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2M54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2527",
+                "likeCount": "70",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

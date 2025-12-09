@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "XVzcihtQhVLMFFGMSCtRnXpaYIM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "G7ny-uGEZbKnysb6mn_SquyJmJI",
+            "id": "Z0AjsKY_bpk",
+            "snippet": {
+                "publishedAt": "2025-03-09T21:03:38Z",
+                "channelId": "UCkmFNfKyMtNxvAQFUo5UDXw",
+                "title": "疲れたらオシャレな曲と共に一息入れましょう☕️ #bgm #music #洋楽bgm #bgm作業用 #musicplaylist #chill #coffeebreak  #goodvibes",
+                "description": "カフェにいる気分にさせてくれるプレイリストをもっと聴いてみたい方はこちらからどうぞ↓\n‪@-manzanillamusic-‬ \n\n色々な洋楽プレイリストを発信中！\n気に入ってもらえたら高評価&チャンネル登録お願いします。",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z0AjsKY_bpk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z0AjsKY_bpk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z0AjsKY_bpk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Z0AjsKY_bpk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Z0AjsKY_bpk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "manzanilla music",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "疲れたらオシャレな曲と共に一息入れましょう☕️ #bgm #music #洋楽bgm #bgm作業用 #musicplaylist #chill #coffeebreak  #goodvibes",
+                    "description": "カフェにいる気分にさせてくれるプレイリストをもっと聴いてみたい方はこちらからどうぞ↓\n‪@-manzanillamusic-‬ \n\n色々な洋楽プレイリストを発信中！\n気に入ってもらえたら高評価&チャンネル登録お願いします。"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2328",
+                "likeCount": "41",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}
