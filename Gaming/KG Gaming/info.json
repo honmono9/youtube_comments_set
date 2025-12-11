@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#channel",
+    "etag": "aOt5PfekGf5DxxrYY-_rlcsmRiE",
+    "id": "UCnoXQZ4krtA96huhCSQkMeg",
+    "snippet": {
+        "title": "KG Gaming",
+        "description": "",
+        "customUrl": "@kendallgraygaming",
+        "publishedAt": "2019-09-26T13:24:10Z",
+        "thumbnails": {
+            "default": {
+                "url": "https://yt3.ggpht.com/ytc/AIdro_nbxLxMa5mBcmWwCmE_UVpI9TLB4ndf4FLzgH-2ZlZElK0=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+            },
+            "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AIdro_nbxLxMa5mBcmWwCmE_UVpI9TLB4ndf4FLzgH-2ZlZElK0=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+            },
+            "high": {
+                "url": "https://yt3.ggpht.com/ytc/AIdro_nbxLxMa5mBcmWwCmE_UVpI9TLB4ndf4FLzgH-2ZlZElK0=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+            }
+        },
+        "localized": {
+            "title": "KG Gaming",
+            "description": ""
+        },
+        "country": "US"
+    },
+    "contentDetails": {
+        "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UUnoXQZ4krtA96huhCSQkMeg"
+        }
+    },
+    "statistics": {
+        "viewCount": "203880271",
+        "subscriberCount": "671000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "359"
+    },
+    "brandingSettings": {
+        "channel": {
+            "title": "KG Gaming",
+            "keywords": "\"kendall gray\" \"kendall gray gaming\" \"kendall gray gaming channel\" \"hunter call of the wild\" \"hunting games\"",
+            "country": "US"
+        },
+        "image": {
+            "bannerExternalUrl": "https://yt3.googleusercontent.com/FD605okA77zRN7y0txevpz9rWQ6dIbTms7yonTMCNdNFTfJx6SfpqT7SHkfXZIuWb1fQqTA7"
+        }
+    }
+}
