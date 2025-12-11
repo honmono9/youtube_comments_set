@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "pzvf7VIfJ7WyYOskuxz9w4eDyR8",
+        "id": "Ugz6NUwst4fY1tSik0B4AaABAg",
+        "snippet": {
+            "channelId": "UCXJL3ST-O0J3nqzQyPJtpNg",
+            "videoId": "_BL8wfwfP68",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "hsBLOTLekU9fIVBrCeflwQSHpPQ",
+                "id": "Ugz6NUwst4fY1tSik0B4AaABAg",
+                "snippet": {
+                    "channelId": "UCXJL3ST-O0J3nqzQyPJtpNg",
+                    "videoId": "_BL8wfwfP68",
+                    "textDisplay": "You really get a lot of value out of the Yakuza games... I love it",
+                    "textOriginal": "You really get a lot of value out of the Yakuza games... I love it",
+                    "authorDisplayName": "@MercuryFederer",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m3hjd2fRvk3ef7m0ewb2sv73Rk4fDG6DLbnq-2LKaj704=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@MercuryFederer",
+                    "authorChannelId": {
+                        "value": "UC7MphF_Bn__h-aVUQ7uK41g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-10-22T19:59:44Z",
+                    "updatedAt": "2025-10-22T19:59:44Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "fRwIgaRRtKPRyWTDuQtD5Vm8yUo",
+        "id": "UgwZbvMkXCuWfosDw3N4AaABAg",
+        "snippet": {
+            "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+            "videoId": "_7PaqUUnjUQ",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "3aaQqrdE4XBmgGR55d34Si5x1EI",
+                "id": "UgwZbvMkXCuWfosDw3N4AaABAg",
+                "snippet": {
+                    "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+                    "videoId": "_7PaqUUnjUQ",
+                    "textDisplay": "Dear Friends ! Watch the New Video - https://youtu.be/NDJa250HtvI?si=9up7zI-xlExS8RB2",
+                    "textOriginal": "Dear Friends ! Watch the New Video - https://youtu.be/NDJa250HtvI?si=9up7zI-xlExS8RB2",
+                    "authorDisplayName": "@King-Games",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l_rHQeNtaFEaV5HX8FJOKvKUkI1f9ccIpfx9wzPROrsrE=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@King-Games",
+                    "authorChannelId": {
+                        "value": "UCGu9-9FqQtXAitxkOnHzz6Q"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-21T14:28:05Z",
+                    "updatedAt": "2025-11-21T14:28:05Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "olwwD3r3pQo6Tkwd3DTBtOktmtc",
+        "id": "Ugy2515FSgFQ4AwkCp14AaABAg",
+        "snippet": {
+            "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+            "videoId": "_7PaqUUnjUQ",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "pcjtslcUl5lV_d19FapjBexEHPE",
+                "id": "Ugy2515FSgFQ4AwkCp14AaABAg",
+                "snippet": {
+                    "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+                    "videoId": "_7PaqUUnjUQ",
+                    "textDisplay": "Brother what is your videos AVERAGE VIEW DURATION time AVD ?",
+                    "textOriginal": "Brother what is your videos AVERAGE VIEW DURATION time AVD ?",
+                    "authorDisplayName": "@BabyG-CARGAMES",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/8GdR6MFQK2j1P9We8GIH-cUWNC1U1fOQkc8Dgsf1Vsoa0Z6n0gvikSp09aj5KURz6kWCJQmoVg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@BabyG-CARGAMES",
+                    "authorChannelId": {
+                        "value": "UCZvc1_PuYPnOw5VVUFrGTBw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-11-21T17:32:44Z",
+                    "updatedAt": "2025-11-21T17:32:44Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

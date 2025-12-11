@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "67Uv0G1zbvJynWNvmqZB3mNj8f4",
+        "id": "UgwkzYsS6lNXYYiJC0p4AaABAg",
+        "snippet": {
+            "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+            "videoId": "G0F8IVQJv-Y",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "gGYWNmM-jiORv3cSY_UWZFKoW5E",
+                "id": "UgwkzYsS6lNXYYiJC0p4AaABAg",
+                "snippet": {
+                    "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                    "videoId": "G0F8IVQJv-Y",
+                    "textDisplay": "Wtf",
+                    "textOriginal": "Wtf",
+                    "authorDisplayName": "@aleksandrapawlicka4031",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mm9kMIFpT_k9l5rlZrxkYHlU5eh8ZjnpIOlvHDOH4=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@aleksandrapawlicka4031",
+                    "authorChannelId": {
+                        "value": "UC4nuKuCh6lAndI98yrSbxoQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-06T08:09:29Z",
+                    "updatedAt": "2025-12-06T08:09:29Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "RzcdRcIJMMBl-x60dHTciifrtMM",
+        "id": "UgyhzaaUyWWr3ihuO1d4AaABAg",
+        "snippet": {
+            "channelId": "UCcTa20zpKM6CkcvocFXVe6A",
+            "videoId": "NBG9OOHu-4g",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "8IldOPL5fJen7T2NRBQMWzaj1c4",
+                "id": "UgyhzaaUyWWr3ihuO1d4AaABAg",
+                "snippet": {
+                    "channelId": "UCcTa20zpKM6CkcvocFXVe6A",
+                    "videoId": "NBG9OOHu-4g",
+                    "textDisplay": "I'm still trying to figure out which is the better route between phenomaman and water boy joining. (Having phenomaman join AND romancing blazer is a crime)",
+                    "textOriginal": "I'm still trying to figure out which is the better route between phenomaman and water boy joining. (Having phenomaman join AND romancing blazer is a crime)",
+                    "authorDisplayName": "@StarWyvernHPB",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/vLsEyjGVUAW7ORev5s0EVtziaQhUMQUJM0evynyIxptPjMGhvXCa-6gLRlr0h9PkktM7IcdIDg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@StarWyvernHPB",
+                    "authorChannelId": {
+                        "value": "UCnRaOD2KKZDqKx001nVHbpA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 28,
+                    "publishedAt": "2025-11-17T17:51:27Z",
+                    "updatedAt": "2025-11-17T17:51:27Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 6,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "0z6Ptj9A-bmcYa9E6a5_GRCsOJs",
+        "id": "UgyahErQs10JCuqBAEJ4AaABAg",
+        "snippet": {
+            "channelId": "UCcTa20zpKM6CkcvocFXVe6A",
+            "videoId": "NBG9OOHu-4g",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "7DvLL12qvIUj-h-qoA3IuttFdHI",
+                "id": "UgyahErQs10JCuqBAEJ4AaABAg",
+                "snippet": {
+                    "channelId": "UCcTa20zpKM6CkcvocFXVe6A",
+                    "videoId": "NBG9OOHu-4g",
+                    "textDisplay": "When the heck does Blonde Blazer get to be on your team to send out? Beat the game and there was never a time where she actually joined for Robert to send out.",
+                    "textOriginal": "When the heck does Blonde Blazer get to be on your team to send out? Beat the game and there was never a time where she actually joined for Robert to send out.",
+                    "authorDisplayName": "@dayesacc",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mqsCDoxSpZRtsa5oq63jU9_srTP-lI4kKa9fb-9gY=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@dayesacc",
+                    "authorChannelId": {
+                        "value": "UCvyI6uSYJfkwnI8STxoX01Q"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 11,
+                    "publishedAt": "2025-11-17T17:42:14Z",
+                    "updatedAt": "2025-11-17T17:42:14Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 7,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "t1xLZzDQOPNC2kqef1tMz86EAJY",
+        "id": "Ugwq_ZamcNWgnow0fot4AaABAg",
+        "snippet": {
+            "channelId": "UCXJL3ST-O0J3nqzQyPJtpNg",
+            "videoId": "5nL_6OaxYkU",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "4e-tY0kWsSEz58iY0IHlFrjEjBs",
+                "id": "Ugwq_ZamcNWgnow0fot4AaABAg",
+                "snippet": {
+                    "channelId": "UCXJL3ST-O0J3nqzQyPJtpNg",
+                    "videoId": "5nL_6OaxYkU",
+                    "textDisplay": "1:24:20\nAll hail the rat King!",
+                    "textOriginal": "1:24:20\nAll hail the rat King!",
+                    "authorDisplayName": "@Left4Coragem",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l4Y08zzOqipy1wYzjPEB8saF5Ex6J9j72tmMOg7xlAEg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@Left4Coragem",
+                    "authorChannelId": {
+                        "value": "UCzhg6X0n_S9VKWoGnaiEOeg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-12-10T01:56:08Z",
+                    "updatedAt": "2025-12-10T01:56:08Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

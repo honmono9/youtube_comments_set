@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "CU3YHNTPMbv4sGq_O7qTTGt-Cp8",
+        "id": "Ugz2nzxE8dFX7Lj1EiF4AaABAg",
+        "snippet": {
+            "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+            "videoId": "FUsxdRDUKEU",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "HLjDm5MYJndWCM8_xFKcyVPOvho",
+                "id": "Ugz2nzxE8dFX7Lj1EiF4AaABAg",
+                "snippet": {
+                    "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+                    "videoId": "FUsxdRDUKEU",
+                    "textDisplay": "Dear Friends ! Watch the New Video - https://youtu.be/Z4ZGhcyPxFU?si=H8-yJDAyc1rVNODi",
+                    "textOriginal": "Dear Friends ! Watch the New Video - https://youtu.be/Z4ZGhcyPxFU?si=H8-yJDAyc1rVNODi",
+                    "authorDisplayName": "@King-Games",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l_rHQeNtaFEaV5HX8FJOKvKUkI1f9ccIpfx9wzPROrsrE=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@King-Games",
+                    "authorChannelId": {
+                        "value": "UCGu9-9FqQtXAitxkOnHzz6Q"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-12-09T14:20:59Z",
+                    "updatedAt": "2025-12-09T14:20:59Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "D_FE7h_ahP1_tQ1ADonNjW33S7E",
+        "id": "UgzFGDYc7SaWIh9HwJ14AaABAg",
+        "snippet": {
+            "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+            "videoId": "FUsxdRDUKEU",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "3rYy7PDTAHx_kVV-dSKfwxN8SBA",
+                "id": "UgzFGDYc7SaWIh9HwJ14AaABAg",
+                "snippet": {
+                    "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+                    "videoId": "FUsxdRDUKEU",
+                    "textDisplay": "Which Software You Use For Making Videos?",
+                    "textOriginal": "Which Software You Use For Making Videos?",
+                    "authorDisplayName": "@King-Plays-NEW",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/4hJ7regNOiuMHgSt9v__mdznoPfvbiIRHmAUaXYOBndopnAW9vS0T34YgoyPo9tBu4kwkivE=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@King-Plays-NEW",
+                    "authorChannelId": {
+                        "value": "UCIM3D16UTbNZD8wh_Fitx-g"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-09T07:04:11Z",
+                    "updatedAt": "2025-12-09T07:04:11Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 2,
+            "isPublic": true
+        }
+    }
+]

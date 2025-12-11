@@ -1,0 +1,104 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "1YiIs_ghsJRahAxmCRC-nB-mNxo",
+        "id": "UgxJVd8VgoQmrjkd2ol4AaABAg",
+        "snippet": {
+            "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+            "videoId": "Q7FrwdKjtoY",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "sbbECZhCbDGPNCOB0SBZeN8-Xis",
+                "id": "UgxJVd8VgoQmrjkd2ol4AaABAg",
+                "snippet": {
+                    "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                    "videoId": "Q7FrwdKjtoY",
+                    "textDisplay": "I'm just happy that T1 can have a Zeri comp now lol.",
+                    "textOriginal": "I'm just happy that T1 can have a Zeri comp now lol.",
+                    "authorDisplayName": "@Gwynsladle",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/I3b_tMzdV78eE6cARNZUodzMi_c74sd9EHPdhrophQN51V1D_xY7K5J_uSoFLUhIhuO8oRB15g=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@Gwynsladle",
+                    "authorChannelId": {
+                        "value": "UCRSeEUGju3fOgJE098piFaw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-01T07:55:02Z",
+                    "updatedAt": "2025-12-01T07:55:02Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "J0EGZZoeD2XEtTirLsoB_hmbrr4",
+        "id": "Ugx5Mtb8GqdMOnsULr54AaABAg",
+        "snippet": {
+            "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+            "videoId": "Q7FrwdKjtoY",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "tmDcD5N4GjStU-l6VGDj1IZchSU",
+                "id": "Ugx5Mtb8GqdMOnsULr54AaABAg",
+                "snippet": {
+                    "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                    "videoId": "Q7FrwdKjtoY",
+                    "textDisplay": "So clean",
+                    "textOriginal": "So clean",
+                    "authorDisplayName": "@Drainfrog45",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n3hoM5iLIn3En7gY83Kbw8U881LzQFrrVIA9tfGtM=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@Drainfrog45",
+                    "authorChannelId": {
+                        "value": "UCPRPFKDgWc30sRBF5x1XOYg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-11-30T13:26:43Z",
+                    "updatedAt": "2025-11-30T13:26:43Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "wR1x5Q2ep8726yDi4qnhQevsukE",
+        "id": "UgzRH--6dXwU-Scvga94AaABAg",
+        "snippet": {
+            "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+            "videoId": "Q7FrwdKjtoY",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "1kQMsV8cPX3QgRcwTCHD84YJdD0",
+                "id": "UgzRH--6dXwU-Scvga94AaABAg",
+                "snippet": {
+                    "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                    "videoId": "Q7FrwdKjtoY",
+                    "textDisplay": "G2 shows up when it matters the least🙏🙏🙏🙏🎉🎉🎉",
+                    "textOriginal": "G2 shows up when it matters the least🙏🙏🙏🙏🎉🎉🎉",
+                    "authorDisplayName": "@SwimmingLugia",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/-d_fyLRWqdA7HIWjg50oWrwbRcYV6tVGfFKMXoz1IVbEidHujy0p8Q8qHokUUuKRWe4cPS64Xg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@SwimmingLugia",
+                    "authorChannelId": {
+                        "value": "UCicqLZl159L_jgVsfJnZmug"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 42,
+                    "publishedAt": "2025-11-30T02:35:52Z",
+                    "updatedAt": "2025-11-30T02:35:52Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

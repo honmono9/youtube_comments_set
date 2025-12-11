@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Ho04PaPn9Jtroqd101rSd9Q6SwY",
+        "id": "UgzIIvWAl2h0hOBRa5N4AaABAg",
+        "snippet": {
+            "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+            "videoId": "CXfpKw9GZYI",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "kbs5SBzcTNFoDv6y_TwgwgpOebs",
+                "id": "UgzIIvWAl2h0hOBRa5N4AaABAg",
+                "snippet": {
+                    "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+                    "videoId": "CXfpKw9GZYI",
+                    "textDisplay": "Dear Friends ! Watch the New Video - https://youtu.be/0fu3miLMSrE?si=zkgWbxFERJwoE7xf",
+                    "textOriginal": "Dear Friends ! Watch the New Video - https://youtu.be/0fu3miLMSrE?si=zkgWbxFERJwoE7xf",
+                    "authorDisplayName": "@King-Games",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l_rHQeNtaFEaV5HX8FJOKvKUkI1f9ccIpfx9wzPROrsrE=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@King-Games",
+                    "authorChannelId": {
+                        "value": "UCGu9-9FqQtXAitxkOnHzz6Q"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-06T14:01:24Z",
+                    "updatedAt": "2025-12-06T14:01:24Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "zr-f9bfp4h4fXKedmDG-s-h0igo",
+        "id": "UgyXgUk_kO0qOe8OtwN4AaABAg",
+        "snippet": {
+            "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+            "videoId": "CXfpKw9GZYI",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "vnyLZ0ptNnkKX6uEAwtL_WBdldg",
+                "id": "UgyXgUk_kO0qOe8OtwN4AaABAg",
+                "snippet": {
+                    "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+                    "videoId": "CXfpKw9GZYI",
+                    "textDisplay": "Bro please tell me do you have faced any copyright issues from making this types of videos",
+                    "textOriginal": "Bro please tell me do you have faced any copyright issues from making this types of videos",
+                    "authorDisplayName": "@NewOne-o4q",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n4EABOy6Ijor53Y9vON11pv7lnVa4DCZbpGTyhfVHnh3Pxiux6cQbieChI2FN94xMBGA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@NewOne-o4q",
+                    "authorChannelId": {
+                        "value": "UC9YeWiQvGDOY1Cuvz53o4Ow"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-06T03:46:58Z",
+                    "updatedAt": "2025-12-06T03:46:58Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "x7sj43UTXDgDTB4Sznkk3QE6xzc",
+        "id": "UgzK2wl_VNauyNlaAS54AaABAg",
+        "snippet": {
+            "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+            "videoId": "0fu3miLMSrE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "4J4r8SynWwrin2XRT9MY7f1cZ8E",
+                "id": "UgzK2wl_VNauyNlaAS54AaABAg",
+                "snippet": {
+                    "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+                    "videoId": "0fu3miLMSrE",
+                    "textDisplay": "Dear Friends ! Watch the New Video - https://youtu.be/CXfpKw9GZYI?si=Yj8JvljNqO5wLlq5",
+                    "textOriginal": "Dear Friends ! Watch the New Video - https://youtu.be/CXfpKw9GZYI?si=Yj8JvljNqO5wLlq5",
+                    "authorDisplayName": "@King-Games",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l_rHQeNtaFEaV5HX8FJOKvKUkI1f9ccIpfx9wzPROrsrE=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@King-Games",
+                    "authorChannelId": {
+                        "value": "UCGu9-9FqQtXAitxkOnHzz6Q"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-06T14:01:42Z",
+                    "updatedAt": "2025-12-06T14:01:42Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "pYswsLT-GNjea45h8IciX1v-cKo",
+        "id": "UgwfG4uOmjn3hhP69eB4AaABAg",
+        "snippet": {
+            "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+            "videoId": "0fu3miLMSrE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "TDiuy16gcn-ueIRmbBBTVt8kyQ8",
+                "id": "UgwfG4uOmjn3hhP69eB4AaABAg",
+                "snippet": {
+                    "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+                    "videoId": "0fu3miLMSrE",
+                    "textDisplay": "Bro please tell me we can use game sound(background music) for our videos or not or we have to add background music ourself",
+                    "textOriginal": "Bro please tell me we can use game sound(background music) for our videos or not or we have to add background music ourself",
+                    "authorDisplayName": "@RogerThakuri",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nda3NuW4HXFz11TFja6elUTDgEB9wuwjLWBcCho3VqWai3G3DxOL09_d1cje349l3kKw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@RogerThakuri",
+                    "authorChannelId": {
+                        "value": "UCl8j-CTzE6mCu74FFfSVAdA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-12-06T17:32:40Z",
+                    "updatedAt": "2025-12-06T17:33:21Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]

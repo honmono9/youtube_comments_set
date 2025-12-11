@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "2mQ3M44OsW8PUOBX8tL8IGQn5aQ",
+        "id": "Ugz-Xo5oZJdJwgUsja94AaABAg",
+        "snippet": {
+            "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+            "videoId": "3gdWjx7d13k",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "_ONWy0LpAHuF9ODLPrlB7KJV6U4",
+                "id": "Ugz-Xo5oZJdJwgUsja94AaABAg",
+                "snippet": {
+                    "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                    "videoId": "3gdWjx7d13k",
+                    "textDisplay": "საღოლ ბიჭებო",
+                    "textOriginal": "საღოლ ბიჭებო",
+                    "authorDisplayName": "@g1ushacc",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/JvgLz05twINYSHRhJ1pZap4zPSYGpR2NaaJT9FnaT8tiSSl_RlmBCpHgCk9Evvp55FnF1CVj=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@g1ushacc",
+                    "authorChannelId": {
+                        "value": "UCf2i_5Qlf2wI6flIhWvGFoA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-11-18T12:14:07Z",
+                    "updatedAt": "2025-11-18T12:14:07Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "6LyrpfYq5nd5o0v66F6c1TSbD3w",
+        "id": "Ugy4DJTyT_QTS59IzY14AaABAg",
+        "snippet": {
+            "channelId": "UCmlqW3C9C0_gA0LufzbHfKg",
+            "videoId": "c-ZKg0q-3v4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "U40SJOLjqdDwLsBNzEX7cYQ-oDY",
+                "id": "Ugy4DJTyT_QTS59IzY14AaABAg",
+                "snippet": {
+                    "channelId": "UCmlqW3C9C0_gA0LufzbHfKg",
+                    "videoId": "c-ZKg0q-3v4",
+                    "textDisplay": "This was a great one",
+                    "textOriginal": "This was a great one",
+                    "authorDisplayName": "@dannypassion",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/4NtstW8Yty907UMYjtBmsI0MX6zmnDWYsbajPaPFXxUipnCCj2NI14XB1uju_za86LzdhH1uK9U=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@dannypassion",
+                    "authorChannelId": {
+                        "value": "UCwOjYi16PClZzcrq1_tbhsQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-10-06T14:03:48Z",
+                    "updatedAt": "2025-10-06T14:03:48Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

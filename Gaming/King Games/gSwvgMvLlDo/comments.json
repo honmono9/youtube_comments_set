@@ -1,0 +1,36 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "YQ5US1d7yJxroDoRsG7puS6IcMQ",
+        "id": "Ugx7CgbbAC8N0cOYvCl4AaABAg",
+        "snippet": {
+            "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+            "videoId": "gSwvgMvLlDo",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "lvHtk5mPRwe1WspBdvl3rVICxu4",
+                "id": "Ugx7CgbbAC8N0cOYvCl4AaABAg",
+                "snippet": {
+                    "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+                    "videoId": "gSwvgMvLlDo",
+                    "textDisplay": "Dear Friends ! Watch the New Video - https://youtu.be/IBLNGoISnkE?si=BsA3bI7lnl2E1qaM",
+                    "textOriginal": "Dear Friends ! Watch the New Video - https://youtu.be/IBLNGoISnkE?si=BsA3bI7lnl2E1qaM",
+                    "authorDisplayName": "@King-Games",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l_rHQeNtaFEaV5HX8FJOKvKUkI1f9ccIpfx9wzPROrsrE=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@King-Games",
+                    "authorChannelId": {
+                        "value": "UCGu9-9FqQtXAitxkOnHzz6Q"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2025-12-10T14:26:35Z",
+                    "updatedAt": "2025-12-10T14:26:35Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

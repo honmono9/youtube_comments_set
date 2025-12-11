@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "8XVhqhLKpSkjZl2qLmEVLkzAyM0",
+        "id": "UgxF_b7nLaWMrPgI9Jt4AaABAg",
+        "snippet": {
+            "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+            "videoId": "byDuwEmlShE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "rqIxLA6Xr4cHyEsIgeWkLfcgCKI",
+                "id": "UgxF_b7nLaWMrPgI9Jt4AaABAg",
+                "snippet": {
+                    "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+                    "videoId": "byDuwEmlShE",
+                    "textDisplay": "Dear Friends ! Watch the New Video - https://youtu.be/konoR0WdH_o?si=61b7pxUAZthL7PQn",
+                    "textOriginal": "Dear Friends ! Watch the New Video - https://youtu.be/konoR0WdH_o?si=61b7pxUAZthL7PQn",
+                    "authorDisplayName": "@King-Games",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l_rHQeNtaFEaV5HX8FJOKvKUkI1f9ccIpfx9wzPROrsrE=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@King-Games",
+                    "authorChannelId": {
+                        "value": "UCGu9-9FqQtXAitxkOnHzz6Q"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 2,
+                    "publishedAt": "2025-11-23T13:59:48Z",
+                    "updatedAt": "2025-11-23T13:59:48Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "VkVQ3J-fYKT2QhQ2Ulj9pzFeeEE",
+        "id": "Ugyr3OFHYEuy0EhZz8x4AaABAg",
+        "snippet": {
+            "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+            "videoId": "byDuwEmlShE",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "ish1EMHkYurI0vAFyDWIX0JDu0Q",
+                "id": "Ugyr3OFHYEuy0EhZz8x4AaABAg",
+                "snippet": {
+                    "channelId": "UCGu9-9FqQtXAitxkOnHzz6Q",
+                    "videoId": "byDuwEmlShE",
+                    "textDisplay": "Hlo bro kia ap capcut se video editing ke waqat me NOISE CLEANUP karate ho .aur agar karate ho tu kitni .plz reply me ❤",
+                    "textOriginal": "Hlo bro kia ap capcut se video editing ke waqat me NOISE CLEANUP karate ho .aur agar karate ho tu kitni .plz reply me ❤",
+                    "authorDisplayName": "@ZoomFiGAMES-k6e",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/GLS63nbaPQM84uiYUIZoHsQ_U5QIH8Kt0MXSv7pGMzYPr_w7ZOfRQz2HZ44N9oedttaZuNvI7N0=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/@ZoomFiGAMES-k6e",
+                    "authorChannelId": {
+                        "value": "UCvImUcgN9_6mV-HbbWNyEaw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2025-11-23T03:20:12Z",
+                    "updatedAt": "2025-11-23T03:20:12Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+        }
+    }
+]
