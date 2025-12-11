@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "MQ4yxLuYZtnrP3yH_mV1_8JtSXQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "oaTb8Rz3RSr65wScSu99J6s9vec",
+            "id": "PEwgW5ARPnw",
+            "snippet": {
+                "publishedAt": "2025-10-28T19:45:56Z",
+                "channelId": "UCXJL3ST-O0J3nqzQyPJtpNg",
+                "title": "MEGA STRUM TIME - WE CRUSH INFINITE WEALTH",
+                "description": "AAAA CAT FIGHT!\n----------\nDisplate: https://displate.com/preachgaming?art=619e85e06e135\nGear: https://preachgaming.com/shop/\nTwitter:  @Preachgaming\nLive Stream - twitch.tv/preachlfw\nWebsite: https://preachgaming.com/\n---------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PEwgW5ARPnw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PEwgW5ARPnw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PEwgW5ARPnw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PEwgW5ARPnw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PEwgW5ARPnw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Preach Gaming",
+                "tags": [
+                    "Preach",
+                    "wow",
+                    "preachgaming",
+                    "preach gaming",
+                    "world of warcraft",
+                    "ffxiv",
+                    "final fantasy 14",
+                    "ff14",
+                    "final fantasy xiv",
+                    "mmo",
+                    "mikepreachwow"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "MEGA STRUM TIME - WE CRUSH INFINITE WEALTH",
+                    "description": "AAAA CAT FIGHT!\n----------\nDisplate: https://displate.com/preachgaming?art=619e85e06e135\nGear: https://preachgaming.com/shop/\nTwitter:  @Preachgaming\nLive Stream - twitch.tv/preachlfw\nWebsite: https://preachgaming.com/\n---------"
+                },
+                "defaultAudioLanguage": "en-GB"
+            },
+            "contentDetails": {
+                "duration": "PT9H45M22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4034",
+                "likeCount": "48",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

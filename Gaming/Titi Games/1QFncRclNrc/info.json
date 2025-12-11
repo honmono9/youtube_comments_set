@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "UB9IPa2GzpYT7tQ9r4D4cOANINE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "UX6O-IYXcIHWF9Phlj813Wdf3ZM",
+            "id": "1QFncRclNrc",
+            "snippet": {
+                "publishedAt": "2023-06-18T15:35:58Z",
+                "channelId": "UCPG7VLW5ERyzfvcxglNKLEQ",
+                "title": "Barbie The Movie #Roblox",
+                "description": "Barbie the Movie but its Roblox by Titi Games",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1QFncRclNrc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1QFncRclNrc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1QFncRclNrc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1QFncRclNrc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1QFncRclNrc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Titi Games",
+                "tags": [
+                    "barbie",
+                    "barbie the movie",
+                    "barbie roblox",
+                    "roblox",
+                    "titi",
+                    "titi games"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Barbie The Movie #Roblox",
+                    "description": "Barbie the Movie but its Roblox by Titi Games"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT14S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "regionRestriction": {
+                    "blocked": [
+                        "BY",
+                        "RU"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "152772",
+                "likeCount": "2765",
+                "favoriteCount": "0",
+                "commentCount": "69"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

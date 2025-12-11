@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "AJg8TfbGfZXzYARufbnNHY-D-SI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "93pJ8I0ml6Pnz-UKzAF97_jb6DY",
+            "id": "NeEwfQjyUMc",
+            "snippet": {
+                "publishedAt": "2025-04-29T21:16:50Z",
+                "channelId": "UCPG7VLW5ERyzfvcxglNKLEQ",
+                "title": "Roblox Goldie & Titi Games Pop Muzik",
+                "description": "Obsessed with these new dance! Should we make videos again???",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NeEwfQjyUMc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NeEwfQjyUMc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NeEwfQjyUMc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NeEwfQjyUMc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NeEwfQjyUMc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Titi Games",
+                "tags": [
+                    "titi",
+                    "titi games",
+                    "roblox",
+                    "goldie"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Roblox Goldie & Titi Games Pop Muzik",
+                    "description": "Obsessed with these new dance! Should we make videos again???"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "55317",
+                "likeCount": "688",
+                "favoriteCount": "0",
+                "commentCount": "414"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

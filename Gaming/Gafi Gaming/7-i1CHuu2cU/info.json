@@ -1,0 +1,102 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "A4OP2_1xcSg61zNvGc0L3UNfQwg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "YVXIvEI31501lpYdrEzTc2qITaQ",
+            "id": "7-i1CHuu2cU",
+            "snippet": {
+                "publishedAt": "2025-04-11T09:32:07Z",
+                "channelId": "UC-hW_HaWcgc92BbW3kAQBig",
+                "title": "Gafin e ndal policia",
+                "description": "• Twitch: https://www.twitch.tv/realgafi\n• Nëse ju ka pëlqyer kjo video klikoni buttonin Like dhe shikoni më shumë këtu: https://bit.ly/3TpSyht\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\nShikoni vlogat me te fundit ketu: https://bit.ly/3J5suUb\n-------\n• Instagram -   / gafurcukiqi  \n• Facebook -    / gafivlogs",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7-i1CHuu2cU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7-i1CHuu2cU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7-i1CHuu2cU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7-i1CHuu2cU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7-i1CHuu2cU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gafi Gaming",
+                "tags": [
+                    "gafi gta",
+                    "gta 5",
+                    "shqip",
+                    "gta 5 shqip",
+                    "csgo shqip",
+                    "jusufi",
+                    "gafi me jusufin",
+                    "jusufi me gafin",
+                    "jusuf kaveci",
+                    "gafi polic",
+                    "jusufi hajn",
+                    "jusufi fortnite",
+                    "fortnite",
+                    "fortnite shqip",
+                    "pubg shqip",
+                    "pubg",
+                    "pubg mobile shqip",
+                    "livestream shqip",
+                    "csgo live shqip",
+                    "csgo livestream shqip",
+                    "meci",
+                    "endriti",
+                    "shuki",
+                    "gafii",
+                    "juski",
+                    "juski gta",
+                    "gaf",
+                    "gafi live"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "sq",
+                "localized": {
+                    "title": "Gafin e ndal policia",
+                    "description": "• Twitch: https://www.twitch.tv/realgafi\n• Nëse ju ka pëlqyer kjo video klikoni buttonin Like dhe shikoni më shumë këtu: https://bit.ly/3TpSyht\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\nShikoni vlogat me te fundit ketu: https://bit.ly/3J5suUb\n-------\n• Instagram -   / gafurcukiqi  \n• Facebook -    / gafivlogs"
+                },
+                "defaultAudioLanguage": "zxx"
+            },
+            "contentDetails": {
+                "duration": "PT11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "169018",
+                "likeCount": "799",
+                "favoriteCount": "0",
+                "commentCount": "27"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

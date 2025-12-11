@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "L-0AXkXi-RTpM-7cOrDcYf4Dt78",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "JvA4r2SjtFEkjaQ_v12w_P6i0yI",
+            "id": "MVHIm6AuRGI",
+            "snippet": {
+                "publishedAt": "2025-10-27T10:45:03Z",
+                "channelId": "UCpfXVjy3p5qfR_7EoKpQirQ",
+                "title": "WE'RE HAVING A BABY!",
+                "description": "We're having a baby | The Frustrated Gamer and Sam have a big announcement today! Sam is pregnant and we're having our first baby in April!\n#havingababy #frustratedgamer \n\n► https://youtu.be/nB6_TFjFBPk \n\n► TFG Instagram: https://www.instagram.com/tfgvlogs \n\n► TFG Vlogs Channel! https://www.youtube.com/tfgvlogs",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MVHIm6AuRGI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MVHIm6AuRGI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MVHIm6AuRGI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MVHIm6AuRGI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MVHIm6AuRGI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Frustrated Gamer",
+                "tags": [
+                    "were having a baby",
+                    "baby announcement",
+                    "the frustrated gamer were having a baby",
+                    "the frustrated gamer baby",
+                    "having a baby",
+                    "tfg were having a baby",
+                    "tfg baby",
+                    "the frustrated gamer baby announcement",
+                    "the frustrated gamer"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "WE'RE HAVING A BABY!",
+                    "description": "We're having a baby | The Frustrated Gamer and Sam have a big announcement today! Sam is pregnant and we're having our first baby in April!\n#havingababy #frustratedgamer \n\n► https://youtu.be/nB6_TFjFBPk \n\n► TFG Instagram: https://www.instagram.com/tfgvlogs \n\n► TFG Vlogs Channel! https://www.youtube.com/tfgvlogs"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT6M4S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "182442",
+                "likeCount": "8931",
+                "favoriteCount": "0",
+                "commentCount": "6132"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

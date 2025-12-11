@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "curVlfaUninGDh9CjAyT7PcFUc4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "GiPUzi-lyhyJMHS64wNdalMU-oY",
+            "id": "WTPbIbGIz6E",
+            "snippet": {
+                "publishedAt": "2025-12-02T03:20:07Z",
+                "channelId": "UCcTa20zpKM6CkcvocFXVe6A",
+                "title": "Eminem vs Slim Shady in Hitman",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WTPbIbGIz6E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WTPbIbGIz6E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WTPbIbGIz6E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WTPbIbGIz6E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WTPbIbGIz6E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Dan Allen Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Eminem vs Slim Shady in Hitman",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT36S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "298535",
+                "likeCount": "8285",
+                "favoriteCount": "0",
+                "commentCount": "171"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

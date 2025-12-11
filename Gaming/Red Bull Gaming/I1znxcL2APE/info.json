@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "CRoCzfeCf-N2UNlxHFtSkL6eMmM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "UfjpCKnIA51Jfq99dtoO67t-J7M",
+            "id": "I1znxcL2APE",
+            "snippet": {
+                "publishedAt": "2025-11-30T16:07:09Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "Pure precision of the GOAT #redbull #gaming #esports #faker #leagueoflegends",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I1znxcL2APE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I1znxcL2APE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I1znxcL2APE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/I1znxcL2APE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/I1znxcL2APE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Pure precision of the GOAT #redbull #gaming #esports #faker #leagueoflegends",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "464220",
+                "likeCount": "7345",
+                "favoriteCount": "0",
+                "commentCount": "103"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

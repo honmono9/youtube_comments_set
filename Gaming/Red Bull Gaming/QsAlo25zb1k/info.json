@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "0P743KIMJcr7Q5s1te8NiDm7kCA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "hqHoz78peQo3D_mND7GNToaWOCg",
+            "id": "QsAlo25zb1k",
+            "snippet": {
+                "publishedAt": "2025-11-19T18:40:00Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "T1 Stax and T1 Buzz try to guess the map blindfolded! #valorant #redbull #gaming #esportsgaming",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QsAlo25zb1k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QsAlo25zb1k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QsAlo25zb1k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QsAlo25zb1k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QsAlo25zb1k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "T1 Stax and T1 Buzz try to guess the map blindfolded! #valorant #redbull #gaming #esportsgaming",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT42S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "12606",
+                "likeCount": "325",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

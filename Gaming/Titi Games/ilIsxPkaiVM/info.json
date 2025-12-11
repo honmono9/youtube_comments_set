@@ -1,0 +1,95 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "GXsAfOUhF_b0nPksmW5BucoGpSs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "lhkHyP7DE8HzeanyskHEKNBwdf0",
+            "id": "ilIsxPkaiVM",
+            "snippet": {
+                "publishedAt": "2024-01-04T19:56:21Z",
+                "channelId": "UCPG7VLW5ERyzfvcxglNKLEQ",
+                "title": "Roblox Goldie Gets a Major Preppy Makeover in Berry Ave",
+                "description": "My daughter Goldie gets the ultimate preppy make over by our babysitter in Berry Ave. Goldie uses her lifelong savings to buy all the preppy girl things. Lululemon, skincare at Sephora, Ugg's and so much more. She even get a new hairstyle and fake gel nails. What will Titi think about her new look?\nFind out what happens in this fun and funny Roblox family roleplay episode.\n#roblox #titi #games",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ilIsxPkaiVM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ilIsxPkaiVM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ilIsxPkaiVM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ilIsxPkaiVM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ilIsxPkaiVM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Titi Games",
+                "tags": [
+                    "roblox",
+                    "roleplay",
+                    "role play",
+                    "goldie",
+                    "titi",
+                    "bloxy",
+                    "tt",
+                    "titi games",
+                    "family",
+                    "roblox titi",
+                    "family routine",
+                    "story",
+                    "barbie",
+                    "friendly",
+                    "preppy",
+                    "babysitter",
+                    "bloxburg",
+                    "berry ave",
+                    "fun",
+                    "babysitter story",
+                    "brookhaven"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Roblox Goldie Gets a Major Preppy Makeover in Berry Ave",
+                    "description": "My daughter Goldie gets the ultimate preppy make over by our babysitter in Berry Ave. Goldie uses her lifelong savings to buy all the preppy girl things. Lululemon, skincare at Sephora, Ugg's and so much more. She even get a new hairstyle and fake gel nails. What will Titi think about her new look?\nFind out what happens in this fun and funny Roblox family roleplay episode.\n#roblox #titi #games"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10M14S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "103020",
+                "likeCount": "525",
+                "favoriteCount": "0",
+                "commentCount": "81"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

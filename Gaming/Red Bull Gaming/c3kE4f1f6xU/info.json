@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "cv9c6TWCl0DuP4fwvaOoQM4DOKM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Y5pxC7y57akm_KbTQp48n_Fcslc",
+            "id": "c3kE4f1f6xU",
+            "snippet": {
+                "publishedAt": "2025-11-29T16:20:07Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "Proud Caedrel with Los Ratones #gaming #esports #losratones #leagueoflegends",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c3kE4f1f6xU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c3kE4f1f6xU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c3kE4f1f6xU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c3kE4f1f6xU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/c3kE4f1f6xU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Proud Caedrel with Los Ratones #gaming #esports #losratones #leagueoflegends",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT17S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "43922",
+                "likeCount": "691",
+                "favoriteCount": "0",
+                "commentCount": "14"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

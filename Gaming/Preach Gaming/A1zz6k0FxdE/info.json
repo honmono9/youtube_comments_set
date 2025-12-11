@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "adzCWlBTZQJRQt3YkaegTZtI-Rg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "USUedSZVqF2m9wQLpOMqucRsq0U",
+            "id": "A1zz6k0FxdE",
+            "snippet": {
+                "publishedAt": "2025-11-24T16:20:00Z",
+                "channelId": "UCXJL3ST-O0J3nqzQyPJtpNg",
+                "title": "First Time 🙌 Full Blind 😎 OSRS 👍Let's see what the Old School can teach us",
+                "description": "OSRS First TIme\n----------\nDisplate: https://displate.com/preachgaming?art=619e85e06e135\nGear: https://preachgaming.com/shop/\nTwitter:  @Preachgaming\nLive Stream - twitch.tv/preachlfw\nWebsite: https://preachgaming.com/\n---------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A1zz6k0FxdE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A1zz6k0FxdE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A1zz6k0FxdE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/A1zz6k0FxdE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/A1zz6k0FxdE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Preach Gaming",
+                "tags": [
+                    "Preach",
+                    "wow",
+                    "preachgaming",
+                    "preach gaming",
+                    "world of warcraft",
+                    "ffxiv",
+                    "final fantasy 14",
+                    "ff14",
+                    "final fantasy xiv",
+                    "mmo",
+                    "mikepreachwow"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "First Time 🙌 Full Blind 😎 OSRS 👍Let's see what the Old School can teach us",
+                    "description": "OSRS First TIme\n----------\nDisplate: https://displate.com/preachgaming?art=619e85e06e135\nGear: https://preachgaming.com/shop/\nTwitter:  @Preachgaming\nLive Stream - twitch.tv/preachlfw\nWebsite: https://preachgaming.com/\n---------"
+                },
+                "defaultAudioLanguage": "en-GB"
+            },
+            "contentDetails": {
+                "duration": "PT6H26M10S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9704",
+                "likeCount": "177",
+                "favoriteCount": "0",
+                "commentCount": "42"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

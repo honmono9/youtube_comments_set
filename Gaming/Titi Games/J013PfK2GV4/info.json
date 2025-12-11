@@ -1,0 +1,81 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "kpglToD_4lvlPkGnViF5vRDsYkA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Y0YWb9MGLPHOOayi9loB8K5GRx0",
+            "id": "J013PfK2GV4",
+            "snippet": {
+                "publishedAt": "2023-01-03T01:46:30Z",
+                "channelId": "UCPG7VLW5ERyzfvcxglNKLEQ",
+                "title": "Roblox Goldie Avatar Wednesday Adams Viral Dance",
+                "description": "Roblox Goldie turns her avatar into Wednesday Adams and tries the viral dance to lady gagas epic song.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J013PfK2GV4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J013PfK2GV4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J013PfK2GV4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/J013PfK2GV4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/J013PfK2GV4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Titi Games",
+                "tags": [
+                    "roblox",
+                    "goldie",
+                    "titi games",
+                    "Wednesday Adams",
+                    "Wednesday dance",
+                    "viral",
+                    "roblox avatar"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Roblox Goldie Avatar Wednesday Adams Viral Dance",
+                    "description": "Roblox Goldie turns her avatar into Wednesday Adams and tries the viral dance to lady gagas epic song."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "431028",
+                "likeCount": "5675",
+                "favoriteCount": "0",
+                "commentCount": "136"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

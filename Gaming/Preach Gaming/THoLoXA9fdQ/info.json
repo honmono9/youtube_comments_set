@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "zR572v7SdLR3Pg3ghXCFHjS_nfU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Y79AKhcmHf2y-3lJ2ozAW29tSZs",
+            "id": "THoLoXA9fdQ",
+            "snippet": {
+                "publishedAt": "2025-10-17T16:32:56Z",
+                "channelId": "UCXJL3ST-O0J3nqzQyPJtpNg",
+                "title": "TANKING AND PUSHING RANK 1 ALL TIME | DRAMA LATER",
+                "description": "END OF WEEK SMASH TIME\n----------\nDisplate: https://displate.com/preachgaming?art=619e85e06e135\nGear: https://preachgaming.com/shop/\nTwitter:  @Preachgaming\nLive Stream - twitch.tv/preachlfw\nWebsite: https://preachgaming.com/\n---------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/THoLoXA9fdQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/THoLoXA9fdQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/THoLoXA9fdQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/THoLoXA9fdQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/THoLoXA9fdQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Preach Gaming",
+                "tags": [
+                    "Preach",
+                    "wow",
+                    "preachgaming",
+                    "preach gaming",
+                    "world of warcraft",
+                    "ffxiv",
+                    "final fantasy 14",
+                    "ff14",
+                    "final fantasy xiv",
+                    "mmo",
+                    "mikepreachwow"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "TANKING AND PUSHING RANK 1 ALL TIME | DRAMA LATER",
+                    "description": "END OF WEEK SMASH TIME\n----------\nDisplate: https://displate.com/preachgaming?art=619e85e06e135\nGear: https://preachgaming.com/shop/\nTwitter:  @Preachgaming\nLive Stream - twitch.tv/preachlfw\nWebsite: https://preachgaming.com/\n---------"
+                },
+                "defaultAudioLanguage": "en-GB"
+            },
+            "contentDetails": {
+                "duration": "PT8H34M32S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5246",
+                "likeCount": "53",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

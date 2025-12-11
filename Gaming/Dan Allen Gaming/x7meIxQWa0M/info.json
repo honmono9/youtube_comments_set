@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "canko4WB9s4oooQGi-zicg9JuNc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "P09eubdp0laKJqwgJHSLsQ41QxU",
+            "id": "x7meIxQWa0M",
+            "snippet": {
+                "publishedAt": "2025-11-15T13:11:15Z",
+                "channelId": "UCcTa20zpKM6CkcvocFXVe6A",
+                "title": "Punch Up is Jealous of Golem in Dispatch",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x7meIxQWa0M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x7meIxQWa0M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x7meIxQWa0M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/x7meIxQWa0M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/x7meIxQWa0M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Dan Allen Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Punch Up is Jealous of Golem in Dispatch",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT9S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "135529",
+                "likeCount": "3127",
+                "favoriteCount": "0",
+                "commentCount": "39"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

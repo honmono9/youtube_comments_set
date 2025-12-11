@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "_0Gy7cTinCctAchi-XziyTsw7vg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "PYt1ztVKCWD_26AXp0OfbKNTF3U",
+            "id": "Gr0NdBQAivc",
+            "snippet": {
+                "publishedAt": "2025-12-10T09:32:40Z",
+                "channelId": "UCXJL3ST-O0J3nqzQyPJtpNg",
+                "title": "WE NEED AN ELECTRIC CHAR ASAP - DON'T GET OUT OF LINE OR IT'S THE CAGE FOR YOU",
+                "description": "GULAG SIMULATOR \n----------\nDisplate: https://displate.com/preachgaming?art=619e85e06e135\nGear: https://preachgaming.com/shop/\nTwitter:  @Preachgaming\nLive Stream - twitch.tv/preachlfw\nWebsite: https://preachgaming.com/\n---------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Gr0NdBQAivc/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Gr0NdBQAivc/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Gr0NdBQAivc/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Gr0NdBQAivc/sddefault_live.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Gr0NdBQAivc/maxresdefault_live.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Preach Gaming",
+                "tags": [
+                    "Preach",
+                    "wow",
+                    "preachgaming",
+                    "preach gaming",
+                    "world of warcraft",
+                    "ffxiv",
+                    "final fantasy 14",
+                    "ff14",
+                    "final fantasy xiv",
+                    "mmo",
+                    "mikepreachwow"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "live",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "WE NEED AN ELECTRIC CHAR ASAP - DON'T GET OUT OF LINE OR IT'S THE CAGE FOR YOU",
+                    "description": "GULAG SIMULATOR \n----------\nDisplate: https://displate.com/preachgaming?art=619e85e06e135\nGear: https://preachgaming.com/shop/\nTwitter:  @Preachgaming\nLive Stream - twitch.tv/preachlfw\nWebsite: https://preachgaming.com/\n---------"
+                },
+                "defaultAudioLanguage": "en-GB"
+            },
+            "contentDetails": {
+                "duration": "P0D",
+                "dimension": "2d",
+                "definition": "sd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "587",
+                "likeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

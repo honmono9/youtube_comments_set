@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "15kKTdMFRdyCilN_Ylm7ROh-nwU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "EDI8Ro83fo8gGYRUAs3leXdM0TU",
+            "id": "mBPnaPztOeU",
+            "snippet": {
+                "publishedAt": "2025-12-05T11:45:10Z",
+                "channelId": "UCpfXVjy3p5qfR_7EoKpQirQ",
+                "title": "Welcome to the TFG Spa!",
+                "description": "Welcome to the TFG Spa Waterpark Simulator | The Frustrated Gamer Waterpark Simulator game is back! Today I will open a day spa section of my waterpark. Will @Caylus come visit the park one of these days? Let's play Waterpark Simulator gameplay with The Frustrated Gamer! \n#Waterparksimulator #halloween #frustratedgamer \n\n► https://youtu.be/8oj8A9FSY_0 \n\n► TFG Instagram: https://www.instagram.com/tfgvlogs \n\n► TFG Vlogs Channel! https://www.youtube.com/tfgvlogs",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mBPnaPztOeU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mBPnaPztOeU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mBPnaPztOeU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mBPnaPztOeU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mBPnaPztOeU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Frustrated Gamer",
+                "tags": [
+                    "Welcome to the TFG Spa",
+                    "The Frustrated Gamer Waterpark Simulator game",
+                    "Waterpark Simulator",
+                    "The Frustrated Gamer Waterpark Simulator",
+                    "Waterpark Sim",
+                    "The Frustrated Gamer Waterpark Sim",
+                    "Waterpark Simulator game",
+                    "waterpark simulator",
+                    "waterpark simulator caylus",
+                    "waterpark simulator update",
+                    "tfg waterpark simulator",
+                    "tfg waterpark",
+                    "The Frustrated Gamer Waterpark",
+                    "waterpark game",
+                    "the frustrated gamer"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Welcome to the TFG Spa!",
+                    "description": "Welcome to the TFG Spa Waterpark Simulator | The Frustrated Gamer Waterpark Simulator game is back! Today I will open a day spa section of my waterpark. Will @Caylus come visit the park one of these days? Let's play Waterpark Simulator gameplay with The Frustrated Gamer! \n#Waterparksimulator #halloween #frustratedgamer \n\n► https://youtu.be/8oj8A9FSY_0 \n\n► TFG Instagram: https://www.instagram.com/tfgvlogs \n\n► TFG Vlogs Channel! https://www.youtube.com/tfgvlogs"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT22M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "52511",
+                "likeCount": "1168",
+                "favoriteCount": "0",
+                "commentCount": "312"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

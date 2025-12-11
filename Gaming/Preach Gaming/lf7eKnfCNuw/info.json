@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "DpmY4wudIH31q590MZr0Zvc0sNM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "dc1qCEG5ijcD2JHa7lMIUDdcjH0",
+            "id": "lf7eKnfCNuw",
+            "snippet": {
+                "publishedAt": "2025-11-12T17:07:14Z",
+                "channelId": "UCXJL3ST-O0J3nqzQyPJtpNg",
+                "title": "DIGIMON Giveaways 👍Digital Monsters 👍Preach is the Champion 👍Not an Egg Thief 👍",
+                "description": "WENZ SKYSCRAPER MON \n----------\nDisplate: https://displate.com/preachgaming?art=619e85e06e135\nGear: https://preachgaming.com/shop/\nTwitter:  @Preachgaming\nLive Stream - twitch.tv/preachlfw\nWebsite: https://preachgaming.com/\n---------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lf7eKnfCNuw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lf7eKnfCNuw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lf7eKnfCNuw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lf7eKnfCNuw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lf7eKnfCNuw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Preach Gaming",
+                "tags": [
+                    "Preach",
+                    "wow",
+                    "preachgaming",
+                    "preach gaming",
+                    "world of warcraft",
+                    "ffxiv",
+                    "final fantasy 14",
+                    "ff14",
+                    "final fantasy xiv",
+                    "mmo",
+                    "mikepreachwow"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "DIGIMON Giveaways 👍Digital Monsters 👍Preach is the Champion 👍Not an Egg Thief 👍",
+                    "description": "WENZ SKYSCRAPER MON \n----------\nDisplate: https://displate.com/preachgaming?art=619e85e06e135\nGear: https://preachgaming.com/shop/\nTwitter:  @Preachgaming\nLive Stream - twitch.tv/preachlfw\nWebsite: https://preachgaming.com/\n---------"
+                },
+                "defaultAudioLanguage": "en-GB"
+            },
+            "contentDetails": {
+                "duration": "PT7H17M32S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4929",
+                "likeCount": "63",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

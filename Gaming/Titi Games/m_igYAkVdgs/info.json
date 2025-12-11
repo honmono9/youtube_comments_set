@@ -1,0 +1,84 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "8_IjWvf24cs6-3a-9V0O-Smdqe8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Xblq2EL4egTH-VZRczXS6EAodDE",
+            "id": "m_igYAkVdgs",
+            "snippet": {
+                "publishedAt": "2023-08-31T21:28:46Z",
+                "channelId": "UCPG7VLW5ERyzfvcxglNKLEQ",
+                "title": "Roblox Goldie Bloxburg Trick on Neighbors",
+                "description": "Goldie and Bestie Sara want to get a mega fidget box but don't have money. They come up with a way to raise money but things don't go as planned.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m_igYAkVdgs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m_igYAkVdgs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m_igYAkVdgs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m_igYAkVdgs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m_igYAkVdgs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Titi Games",
+                "tags": [
+                    "roblox",
+                    "bloxburg",
+                    "titi games",
+                    "goldie",
+                    "tricks",
+                    "hacks",
+                    "funny",
+                    "funny moments",
+                    "gaming",
+                    "rp"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Roblox Goldie Bloxburg Trick on Neighbors",
+                    "description": "Goldie and Bestie Sara want to get a mega fidget box but don't have money. They come up with a way to raise money but things don't go as planned."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "47211",
+                "likeCount": "492",
+                "favoriteCount": "0",
+                "commentCount": "26"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

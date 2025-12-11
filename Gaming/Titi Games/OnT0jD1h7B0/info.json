@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "sXuehltzr1q4v9vpwHpBpwkdAdU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "nM-7wcNjT_mfpgcJn6-rA0RWdtk",
+            "id": "OnT0jD1h7B0",
+            "snippet": {
+                "publishedAt": "2023-03-14T20:53:57Z",
+                "channelId": "UCPG7VLW5ERyzfvcxglNKLEQ",
+                "title": "Caring for Cute Pets in Roblox with Goldie & Titi Games - Pet Party",
+                "description": "In this video Titi & Goldie play Pet Party in Roblox. Goldie turns into a cute kitten and we explore this fun and interactive game. Packed with pet accesories like pet toys, food, beds and foods this game is ready for roleplaying. We check out the vet after Goldie kitty gets sick. You even have to clean up after your pet like in real life. We even run into Wednesday Addams and Enid. They want to take Goldie Kitty for themselves.\n\n🎵Music provided by 브금대통령\n🎵Track : 너무 귀여운 노래 - https://youtu.be/Wz63udVDoH0",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OnT0jD1h7B0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OnT0jD1h7B0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OnT0jD1h7B0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OnT0jD1h7B0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OnT0jD1h7B0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Titi Games",
+                "tags": [
+                    "roblox",
+                    "pet",
+                    "pet party",
+                    "goldie",
+                    "titi",
+                    "titi games",
+                    "goldie roblox",
+                    "family gaming",
+                    "friendly",
+                    "cute",
+                    "caring for pets",
+                    "fun",
+                    "funny",
+                    "family roblox",
+                    "goldie videos"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Caring for Cute Pets in Roblox with Goldie & Titi Games - Pet Party",
+                    "description": "In this video Titi & Goldie play Pet Party in Roblox. Goldie turns into a cute kitten and we explore this fun and interactive game. Packed with pet accesories like pet toys, food, beds and foods this game is ready for roleplaying. We check out the vet after Goldie kitty gets sick. You even have to clean up after your pet like in real life. We even run into Wednesday Addams and Enid. They want to take Goldie Kitty for themselves.\n\n🎵Music provided by 브금대통령\n🎵Track : 너무 귀여운 노래 - https://youtu.be/Wz63udVDoH0"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT9M39S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "499347",
+                "likeCount": "806",
+                "favoriteCount": "0",
+                "commentCount": "92"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

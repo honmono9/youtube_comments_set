@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "-zO_XTcJ7elDvwVx01XHNbFzC28",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "2NgyE3ASldKhIgSGWuyR3HrcAZg",
+            "id": "a02qkZBF8fA",
+            "snippet": {
+                "publishedAt": "2025-11-16T22:26:37Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "That aim is legendary! #valorant #redbull #valorantclips #esports #gaming",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a02qkZBF8fA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a02qkZBF8fA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a02qkZBF8fA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/a02qkZBF8fA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/a02qkZBF8fA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "That aim is legendary! #valorant #redbull #valorantclips #esports #gaming",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT29S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "22651",
+                "likeCount": "279",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

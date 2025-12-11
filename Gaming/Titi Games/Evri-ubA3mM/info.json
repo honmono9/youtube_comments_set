@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "P7BcloQlVLKq_ZSV7GUwoA8nfY8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "EvPPKF_1IbxwG1AlOvdHXUk1PeU",
+            "id": "Evri-ubA3mM",
+            "snippet": {
+                "publishedAt": "2023-10-02T20:18:08Z",
+                "channelId": "UCPG7VLW5ERyzfvcxglNKLEQ",
+                "title": "Goldie is a third wheel in Roblox",
+                "description": "Goldie is back in school and sees her bestie Sarah, but quickly realizes Sarah has another BFF!  Will she be the third wheel in this friendship.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Evri-ubA3mM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Evri-ubA3mM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Evri-ubA3mM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Evri-ubA3mM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Evri-ubA3mM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Titi Games",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Goldie is a third wheel in Roblox",
+                    "description": "Goldie is back in school and sees her bestie Sarah, but quickly realizes Sarah has another BFF!  Will she be the third wheel in this friendship."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "59540",
+                "likeCount": "473",
+                "favoriteCount": "0",
+                "commentCount": "15"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

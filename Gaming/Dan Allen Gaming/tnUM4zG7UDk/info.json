@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "FjKwoC2cJ7geva7tfu7wwPEnlzo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Kgu3q7S3aYen3h8yIhNYZgiFQI0",
+            "id": "tnUM4zG7UDk",
+            "snippet": {
+                "publishedAt": "2025-11-17T18:10:45Z",
+                "channelId": "UCcTa20zpKM6CkcvocFXVe6A",
+                "title": "Dispatch - Golem and Invisigal being Best Friends",
+                "description": "Golem and Invisigal being best friends in Dispatch!\n\n🔴Subscribe: https://www.youtube.com/@DanAllenGaming?sub_confirmation=1\n\n💪 Support the Channel: https://www.youtube.com/channel/UCcTa20zpKM6CkcvocFXVe6A/join\n\n🎙️Dan Allen Gaming Podcast: https://www.youtube.com/playlist?list=PLp-XS7Tadj5JC6KstAqXKFrCC-jLuQAd9\n\n🎮 Follow Dan here:\n📸 https://www.instagram.com/DanAllenGaming\n🐦 https://www.twitter.com/DanAllenGaming\n📱 https://www.tiktok.com/@danallengaming\n📘 https://www.facebook.com/DanAllenGaming\n----------------------------------------------------------------------------\n#dispatch #dispatchgame",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tnUM4zG7UDk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tnUM4zG7UDk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tnUM4zG7UDk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tnUM4zG7UDk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tnUM4zG7UDk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Dan Allen Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Dispatch - Golem and Invisigal being Best Friends",
+                    "description": "Golem and Invisigal being best friends in Dispatch!\n\n🔴Subscribe: https://www.youtube.com/@DanAllenGaming?sub_confirmation=1\n\n💪 Support the Channel: https://www.youtube.com/channel/UCcTa20zpKM6CkcvocFXVe6A/join\n\n🎙️Dan Allen Gaming Podcast: https://www.youtube.com/playlist?list=PLp-XS7Tadj5JC6KstAqXKFrCC-jLuQAd9\n\n🎮 Follow Dan here:\n📸 https://www.instagram.com/DanAllenGaming\n🐦 https://www.twitter.com/DanAllenGaming\n📱 https://www.tiktok.com/@danallengaming\n📘 https://www.facebook.com/DanAllenGaming\n----------------------------------------------------------------------------\n#dispatch #dispatchgame"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M5S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "41708",
+                "likeCount": "977",
+                "favoriteCount": "0",
+                "commentCount": "52"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

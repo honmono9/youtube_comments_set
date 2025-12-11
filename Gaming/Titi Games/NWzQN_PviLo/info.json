@@ -1,0 +1,88 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "IHXXsZlIwUMjSZetvYvVi0bHoBE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "85N16ax4s7EMUUsTwYgmrTAH8Ss",
+            "id": "NWzQN_PviLo",
+            "snippet": {
+                "publishedAt": "2023-09-12T16:37:33Z",
+                "channelId": "UCPG7VLW5ERyzfvcxglNKLEQ",
+                "title": "Roblox Goldie is Playing the Billy Game Show - Titi Games",
+                "description": "Roblox games are always fun! This game is called the \"Billy Gameshow\" and it is a fun and exiting game with lots of skill and luck involved.\nGoldie love Roblox, but this time she is not playing her favorite games like Brookhaven or Bloxburg, she wants to go on the Billy Game show.\nThe game is full of challenges and obby type mini games and is similar to the famous Squid games, and while playing you get to enjoy the fast pace and spooky challenges.\nWill Goldie win? Will Titi help her? \n\n#Goldie #Roblox #Titi",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NWzQN_PviLo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NWzQN_PviLo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NWzQN_PviLo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NWzQN_PviLo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NWzQN_PviLo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Titi Games",
+                "tags": [
+                    "titi",
+                    "goldie",
+                    "roblox",
+                    "bloxburg",
+                    "obby",
+                    "game",
+                    "gaming",
+                    "billy",
+                    "fun",
+                    "funny",
+                    "Goldie play",
+                    "role play",
+                    "spooky",
+                    "squid game"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Roblox Goldie is Playing the Billy Game Show - Titi Games",
+                    "description": "Roblox games are always fun! This game is called the \"Billy Gameshow\" and it is a fun and exiting game with lots of skill and luck involved.\nGoldie love Roblox, but this time she is not playing her favorite games like Brookhaven or Bloxburg, she wants to go on the Billy Game show.\nThe game is full of challenges and obby type mini games and is similar to the famous Squid games, and while playing you get to enjoy the fast pace and spooky challenges.\nWill Goldie win? Will Titi help her? \n\n#Goldie #Roblox #Titi"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT8M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "16391",
+                "likeCount": "200",
+                "favoriteCount": "0",
+                "commentCount": "35"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

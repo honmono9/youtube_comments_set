@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "JXfAwLt8zt2K95z_KK-c6HpsLNA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "B9DfgYjPVlXoR-LRgxxYcd-VFpE",
+            "id": "sel_PWfJkjg",
+            "snippet": {
+                "publishedAt": "2025-11-16T00:41:29Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "REACTION LEAF 🤩 @G2esports #redbull #redbullgaming #gaming #esports #valorant #homeground",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sel_PWfJkjg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sel_PWfJkjg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sel_PWfJkjg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sel_PWfJkjg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sel_PWfJkjg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "REACTION LEAF 🤩 @G2esports #redbull #redbullgaming #gaming #esports #valorant #homeground",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT24S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "20940",
+                "likeCount": "433",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

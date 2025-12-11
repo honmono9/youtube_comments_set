@@ -1,0 +1,86 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "dCV2N4WTaY85TQTiW094tkrELt4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Puf3v63DTJE7FunPkMLebL8pv7I",
+            "id": "WzlyHISwvXU",
+            "snippet": {
+                "publishedAt": "2025-11-29T15:39:23Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "5 ADCs versus Noway |  G2 vs NNO Old | Red Bull League of Its Own",
+                "description": "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/redbull",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WzlyHISwvXU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WzlyHISwvXU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WzlyHISwvXU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WzlyHISwvXU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WzlyHISwvXU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "tags": [
+                    "games",
+                    "twitch",
+                    "nno",
+                    "nno old",
+                    "g2",
+                    "loio",
+                    "red bull loio",
+                    "red bull league of its own",
+                    "lol",
+                    "league of legends",
+                    "worlds",
+                    "lec"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "5 ADCs versus Noway |  G2 vs NNO Old | Red Bull League of Its Own",
+                    "description": "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/redbull"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT25M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "17991",
+                "likeCount": "185",
+                "favoriteCount": "0",
+                "commentCount": "21"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "02ML9LjR42E5It4-d63REySeyXY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "lU_xQ0Ze4NVfDAn5orTnYwRcqlg",
+            "id": "ZKFXFRg2qiE",
+            "snippet": {
+                "publishedAt": "2025-11-16T21:33:10Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "How did @G2esports do that???? #valorant #redbull #valorantclips #esports #gaming",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZKFXFRg2qiE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZKFXFRg2qiE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZKFXFRg2qiE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZKFXFRg2qiE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZKFXFRg2qiE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "How did @G2esports do that???? #valorant #redbull #valorantclips #esports #gaming",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "10619",
+                "likeCount": "90",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

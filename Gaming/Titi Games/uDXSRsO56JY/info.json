@@ -1,0 +1,95 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "p65O3DhusJvrrzPPyv0wriQxk50",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Bm0bbtbE9i9rWfUnJLir9uzdviM",
+            "id": "uDXSRsO56JY",
+            "snippet": {
+                "publishedAt": "2023-09-02T14:25:51Z",
+                "channelId": "UCPG7VLW5ERyzfvcxglNKLEQ",
+                "title": "Roblox Barbie Family Disney Trip RP in Bloxburg",
+                "description": "We Roleplay as Barbie Dreamhouse Adventures family in Bloxburg, Starting off with their fun and hectic morning routine. We have the amazing Barbie dreamhouse house in Bloxburg!! Barbie plans a fun road trip with Chelsea, Skipper and Stacie and they head to Disney! They go on all the rides but end up losing Stacie along the way! How will their trip end up?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uDXSRsO56JY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uDXSRsO56JY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uDXSRsO56JY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uDXSRsO56JY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uDXSRsO56JY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Titi Games",
+                "tags": [
+                    "roblox family",
+                    "barbie",
+                    "travel routine",
+                    "brookhaven",
+                    "rp",
+                    "vacation",
+                    "titi games",
+                    "goldie",
+                    "titi goldie roblox",
+                    "roblox",
+                    "funny",
+                    "family",
+                    "sisters",
+                    "bloxburg",
+                    "roleplay",
+                    "dreamhouse",
+                    "adventures",
+                    "titi",
+                    "disney trip",
+                    "bloxburg rp",
+                    "bloxburg rp with voice"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Roblox Barbie Family Disney Trip RP in Bloxburg",
+                    "description": "We Roleplay as Barbie Dreamhouse Adventures family in Bloxburg, Starting off with their fun and hectic morning routine. We have the amazing Barbie dreamhouse house in Bloxburg!! Barbie plans a fun road trip with Chelsea, Skipper and Stacie and they head to Disney! They go on all the rides but end up losing Stacie along the way! How will their trip end up?"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT17M8S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "127202",
+                "likeCount": "699",
+                "favoriteCount": "0",
+                "commentCount": "78"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

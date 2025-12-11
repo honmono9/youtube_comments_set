@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "x4uF41PoBQkwO8wdyiNzb5Zdfd8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ShBRYhoKfRn3Yvkadt1OgcWo4OM",
+            "id": "Lw8Ay-u3Tgw",
+            "snippet": {
+                "publishedAt": "2025-11-29T18:04:29Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "Los Ratones vs Karmine Corp | Red Bull League of Its Own",
+                "description": "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/redbull",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Lw8Ay-u3Tgw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Lw8Ay-u3Tgw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Lw8Ay-u3Tgw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Lw8Ay-u3Tgw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Lw8Ay-u3Tgw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "tags": [
+                    "games",
+                    "twitch",
+                    "karmine corp",
+                    "los ratones",
+                    "lol",
+                    "league of legends",
+                    "red bull league of its own",
+                    "red bull"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Los Ratones vs Karmine Corp | Red Bull League of Its Own",
+                    "description": "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/redbull"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT28M39S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "81049",
+                "likeCount": "917",
+                "favoriteCount": "0",
+                "commentCount": "196"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

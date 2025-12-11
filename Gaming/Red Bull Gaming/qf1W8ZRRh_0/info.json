@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "QtgUmaHyvZOQl-ELSQx-M96AYus",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "mOi_lzKqxmbPGR6iQki7Spv16no",
+            "id": "qf1W8ZRRh_0",
+            "snippet": {
+                "publishedAt": "2025-11-29T18:49:34Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "G2 vs Karmine Corp | Red Bull League of Its Own",
+                "description": "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/redbull",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qf1W8ZRRh_0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qf1W8ZRRh_0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qf1W8ZRRh_0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qf1W8ZRRh_0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qf1W8ZRRh_0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "tags": [
+                    "games",
+                    "twitch",
+                    "g2",
+                    "kcorp",
+                    "karmine corp",
+                    "league of legends",
+                    "red bull",
+                    "red bull league of its own",
+                    "loio"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "G2 vs Karmine Corp | Red Bull League of Its Own",
+                    "description": "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/redbull"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT27M30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "22167",
+                "likeCount": "185",
+                "favoriteCount": "0",
+                "commentCount": "11"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

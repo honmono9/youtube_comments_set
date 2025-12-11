@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "paSqMfxG6X-GJ6tNpG9dEX9xDm8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "9Uln_r3uvsfQPyBZXKRSq6CIBZI",
+            "id": "DZDsrh-inWY",
+            "snippet": {
+                "publishedAt": "2025-12-04T15:41:28Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "Voice Comms Highlights: Red Bull League of Its Own",
+                "description": "Europe’s finest teams met in Munich to test T1’s League of Legends expertise once again.\nRed Bull League of Its Own made its grand return to Germany on November 29th, taking over the SAP Garden in Munich for the third edition of the one-day invitational tournament. The pressure was on this year, as reigning champions T1 returned to the stage along with some of Europe’s most celebrated teams, all going head-to-head in an unmissable end-of-year showdown.\n----------------------------------------------------------------------\nThis is Red Bull Gaming; your digital source for the latest news, tournament coverage, interviews, video features, and broadcasts for the Red Bull competitive gaming family.\n\nFollow us on Twitter: https://www.twitter.com/redbullgaming\nFacebook: https://www.facebook.com/redbullgaming\nInstagram: https://www.instagram.com/redbullgaming/\nSubscribe: http://win.gs/subtogaming",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DZDsrh-inWY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DZDsrh-inWY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DZDsrh-inWY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DZDsrh-inWY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DZDsrh-inWY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "tags": [
+                    "red bull esports",
+                    "red bull gaming",
+                    "red bull",
+                    "redbull",
+                    "LOIO",
+                    "RED BULL LEAGUE OF ITS OWN",
+                    "faker",
+                    "t1",
+                    "g2",
+                    "kcorp",
+                    "karmine corp",
+                    "nno",
+                    "nno old",
+                    "voice comms",
+                    "league of legends voice comms"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Voice Comms Highlights: Red Bull League of Its Own",
+                    "description": "Europe’s finest teams met in Munich to test T1’s League of Legends expertise once again.\nRed Bull League of Its Own made its grand return to Germany on November 29th, taking over the SAP Garden in Munich for the third edition of the one-day invitational tournament. The pressure was on this year, as reigning champions T1 returned to the stage along with some of Europe’s most celebrated teams, all going head-to-head in an unmissable end-of-year showdown.\n----------------------------------------------------------------------\nThis is Red Bull Gaming; your digital source for the latest news, tournament coverage, interviews, video features, and broadcasts for the Red Bull competitive gaming family.\n\nFollow us on Twitter: https://www.twitter.com/redbullgaming\nFacebook: https://www.facebook.com/redbullgaming\nInstagram: https://www.instagram.com/redbullgaming/\nSubscribe: http://win.gs/subtogaming"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT8M23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "68307",
+                "likeCount": "1953",
+                "favoriteCount": "0",
+                "commentCount": "96"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "v7XlKqTcdNlEP6Joq3EGek6q62Y",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "T9GsjDjy9piUKAjKNj3QGe3BopY",
+            "id": "2pFsF5nYqvg",
+            "snippet": {
+                "publishedAt": "2025-11-29T18:54:19Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "T1 vs G2 | Red Bull League of Its Own",
+                "description": "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/redbull",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2pFsF5nYqvg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2pFsF5nYqvg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2pFsF5nYqvg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2pFsF5nYqvg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2pFsF5nYqvg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "tags": [
+                    "games",
+                    "twitch",
+                    "g2",
+                    "t1",
+                    "loio",
+                    "red bull",
+                    "red bull league of its own",
+                    "lol",
+                    "faker",
+                    "keria",
+                    "caps"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "T1 vs G2 | Red Bull League of Its Own",
+                    "description": "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/redbull"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT28M28S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "221737",
+                "likeCount": "1631",
+                "favoriteCount": "0",
+                "commentCount": "310"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

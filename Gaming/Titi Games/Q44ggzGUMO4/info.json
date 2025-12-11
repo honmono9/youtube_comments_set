@@ -1,0 +1,91 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "-Hb8tcDggoH8rQmOCAKzFO8ElEg",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "IEQf357BO87CR57TPqyfrRpX0eg",
+            "id": "Q44ggzGUMO4",
+            "snippet": {
+                "publishedAt": "2023-07-25T17:57:28Z",
+                "channelId": "UCPG7VLW5ERyzfvcxglNKLEQ",
+                "title": "Roblox Barbie Story with Titi & Goldie",
+                "description": "Titi & Goldie go on a journey to Barbie Land to Help Barbie from the Sus CEO. in this fun and exciting story game inspired by the new Barbie Movie in theaters. Goldie and Titi go on a fabulous pink adventure so safe Barbie, But will they be able to help her or get trapped in Barbie land forever?\n\n#roblox #titi #goldie",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q44ggzGUMO4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q44ggzGUMO4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q44ggzGUMO4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Q44ggzGUMO4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Q44ggzGUMO4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Titi Games",
+                "tags": [
+                    "roblox",
+                    "goldie",
+                    "titi",
+                    "titi games",
+                    "goldie roblox",
+                    "barbie story",
+                    "roblox barbie",
+                    "roblox story",
+                    "fun",
+                    "pink",
+                    "funny",
+                    "adventures",
+                    "family",
+                    "roblox family",
+                    "family gaming",
+                    "dolls",
+                    "play"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Roblox Barbie Story with Titi & Goldie",
+                    "description": "Titi & Goldie go on a journey to Barbie Land to Help Barbie from the Sus CEO. in this fun and exciting story game inspired by the new Barbie Movie in theaters. Goldie and Titi go on a fabulous pink adventure so safe Barbie, But will they be able to help her or get trapped in Barbie land forever?\n\n#roblox #titi #goldie"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT9M51S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "106745",
+                "likeCount": "412",
+                "favoriteCount": "0",
+                "commentCount": "68"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

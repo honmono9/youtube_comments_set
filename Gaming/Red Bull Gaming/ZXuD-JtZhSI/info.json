@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "5NS9aztlRdJPakRwiHkMbgIK2-k",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "tbpTJBnWtgSVgwCl7sELvjs7Ekg",
+            "id": "ZXuD-JtZhSI",
+            "snippet": {
+                "publishedAt": "2025-11-29T20:40:43Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "Baus 🙌 #redbull #gaming #esports #leagueoflegends",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZXuD-JtZhSI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZXuD-JtZhSI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZXuD-JtZhSI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZXuD-JtZhSI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZXuD-JtZhSI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Baus 🙌 #redbull #gaming #esports #leagueoflegends",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT20S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "12684",
+                "likeCount": "144",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

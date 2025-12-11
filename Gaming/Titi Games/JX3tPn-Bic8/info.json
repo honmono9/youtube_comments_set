@@ -1,0 +1,82 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "n56i2F1EqzfOPEQi5cASu6xEOa8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "7apT12P9tHKuH4qPHcPH4masPKQ",
+            "id": "JX3tPn-Bic8",
+            "snippet": {
+                "publishedAt": "2023-03-08T19:07:16Z",
+                "channelId": "UCPG7VLW5ERyzfvcxglNKLEQ",
+                "title": "Adorable Roblox Kitty sings Taylor Swift 😂",
+                "description": "We played Roblox Pet Party and made this adorable clip with our favorite swiftie song! \nAnti-hero remix kitty style.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JX3tPn-Bic8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JX3tPn-Bic8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JX3tPn-Bic8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JX3tPn-Bic8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JX3tPn-Bic8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Titi Games",
+                "tags": [
+                    "roblox",
+                    "pet",
+                    "cute",
+                    "adorable",
+                    "taylor swift",
+                    "antihero",
+                    "trending",
+                    "goldie"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Adorable Roblox Kitty sings Taylor Swift 😂",
+                    "description": "We played Roblox Pet Party and made this adorable clip with our favorite swiftie song! \nAnti-hero remix kitty style."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "105545",
+                "likeCount": "1242",
+                "favoriteCount": "0",
+                "commentCount": "72"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

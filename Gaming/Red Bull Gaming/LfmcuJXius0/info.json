@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "srLJxT_sNcMz4k5UlsEQhOD48xM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "G3Fx5loVJkYMAUV6sbA9jx_CyvI",
+            "id": "LfmcuJXius0",
+            "snippet": {
+                "publishedAt": "2025-11-16T21:19:10Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "Imagine facing these two teams!! #valorant #redbull #esports #gaming #tenz #ludwig #tarik",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LfmcuJXius0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LfmcuJXius0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LfmcuJXius0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LfmcuJXius0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LfmcuJXius0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Imagine facing these two teams!! #valorant #redbull #esports #gaming #tenz #ludwig #tarik",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT32S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "10714",
+                "likeCount": "303",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

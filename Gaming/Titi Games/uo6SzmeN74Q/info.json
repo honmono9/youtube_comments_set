@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "vPSR7I87rm0xQkb1kOr4NzZfxwU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "50dy-W1RAlTu8vVXGN8brMjKWZs",
+            "id": "uo6SzmeN74Q",
+            "snippet": {
+                "publishedAt": "2023-12-13T21:03:57Z",
+                "channelId": "UCPG7VLW5ERyzfvcxglNKLEQ",
+                "title": "Roblox Christmas Fun Roleplays with Titi & Goldie Family",
+                "description": "Roblox is celebrating Christmas and so are we. Our Family of gamers is presenting some fun stories and roleplays the whole family will enjoy. Goldie and Titi love playing different Roblox games especially creating roleplays and adventures in Bloxburg, Brookhaven, and all other fun Obbys. What will Goldie get for Christmas what fun adventures are they heading to? come and enjoy the Roblox holiday spirit with Titi games and Goldie, Merry Christmas!\n#roblox #titi #games",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uo6SzmeN74Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uo6SzmeN74Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uo6SzmeN74Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uo6SzmeN74Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uo6SzmeN74Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Titi Games",
+                "tags": [
+                    "titi",
+                    "tt",
+                    "titi games",
+                    "goldie",
+                    "play",
+                    "role play",
+                    "rp",
+                    "roblox",
+                    "bloxburg",
+                    "brookhaven",
+                    "games",
+                    "game",
+                    "story",
+                    "family",
+                    "roblox family"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Roblox Christmas Fun Roleplays with Titi & Goldie Family",
+                    "description": "Roblox is celebrating Christmas and so are we. Our Family of gamers is presenting some fun stories and roleplays the whole family will enjoy. Goldie and Titi love playing different Roblox games especially creating roleplays and adventures in Bloxburg, Brookhaven, and all other fun Obbys. What will Goldie get for Christmas what fun adventures are they heading to? come and enjoy the Roblox holiday spirit with Titi games and Goldie, Merry Christmas!\n#roblox #titi #games"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT36M8S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "75115",
+                "likeCount": "417",
+                "favoriteCount": "0",
+                "commentCount": "47"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

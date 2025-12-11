@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ZcwoZxPZwTaXQUiCpMv-COv3e8I",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "VZyUw_YDUMI8mShYx-Oea-i4BYI",
+            "id": "eyvaiwwCYwY",
+            "snippet": {
+                "publishedAt": "2025-12-02T09:13:31Z",
+                "channelId": "UCcTa20zpKM6CkcvocFXVe6A",
+                "title": "Eminem Chemistry Class goes Wrong",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eyvaiwwCYwY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eyvaiwwCYwY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eyvaiwwCYwY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eyvaiwwCYwY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eyvaiwwCYwY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Dan Allen Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Eminem Chemistry Class goes Wrong",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "13464",
+                "likeCount": "138",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

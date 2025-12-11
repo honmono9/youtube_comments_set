@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "BAsy81s_G60QXH-U2AWf5DG1YBU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "J4bSWlJXpildkEtV_V20dW54pVw",
+            "id": "olS4OEviBLA",
+            "snippet": {
+                "publishedAt": "2025-11-29T21:02:00Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "T1 vs Los Ratones | Red Bull League of Its Own",
+                "description": "Europe’s finest teams are headed to Munich to test T1’s League of Legends expertise once again.\nRed Bull League of Its Own makes its grand return to Germany on November 29th, taking over the SAP Garden in Munich for the third edition of the one-day invitational tournament. The pressure is on this year, as reigning champions T1 return to the stage along with some of Europe’s most celebrated teams, all going head-to-head in an unmissable end-of-year showdown set to feature exclusive match-ups and unparalleled gameplay.\n----------------------------------------------------------------------\nThis is Red Bull Gaming; your digital source for the latest news, tournament coverage, interviews, video features, and broadcasts for the Red Bull competitive gaming family.\n\nFollow us on Twitter: https://www.twitter.com/redbullgaming\nFacebook: https://www.facebook.com/redbullgaming\nInstagram: https://www.instagram.com/redbullgaming/\nSubscribe: http://win.gs/subtogaming",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/olS4OEviBLA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/olS4OEviBLA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/olS4OEviBLA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/olS4OEviBLA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/olS4OEviBLA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "tags": [
+                    "red bull esports",
+                    "red bull gaming",
+                    "red bull",
+                    "redbull",
+                    "t1",
+                    "los ratones",
+                    "loio",
+                    "league of legends",
+                    "red bull league of its own"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "T1 vs Los Ratones | Red Bull League of Its Own",
+                    "description": "Europe’s finest teams are headed to Munich to test T1’s League of Legends expertise once again.\nRed Bull League of Its Own makes its grand return to Germany on November 29th, taking over the SAP Garden in Munich for the third edition of the one-day invitational tournament. The pressure is on this year, as reigning champions T1 return to the stage along with some of Europe’s most celebrated teams, all going head-to-head in an unmissable end-of-year showdown set to feature exclusive match-ups and unparalleled gameplay.\n----------------------------------------------------------------------\nThis is Red Bull Gaming; your digital source for the latest news, tournament coverage, interviews, video features, and broadcasts for the Red Bull competitive gaming family.\n\nFollow us on Twitter: https://www.twitter.com/redbullgaming\nFacebook: https://www.facebook.com/redbullgaming\nInstagram: https://www.instagram.com/redbullgaming/\nSubscribe: http://win.gs/subtogaming"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT27M39S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "417352",
+                "likeCount": "6939",
+                "favoriteCount": "0",
+                "commentCount": "462"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

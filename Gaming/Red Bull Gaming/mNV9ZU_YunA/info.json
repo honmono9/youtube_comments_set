@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "j5rjb-w9ID0BSJSWXdUgCSVkXdQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "uaFjSBJ98V0jvZ5j_sBIV97wZso",
+            "id": "mNV9ZU_YunA",
+            "snippet": {
+                "publishedAt": "2025-11-29T21:33:59Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "Red Bull League of Its Own",
+                "description": "Europe’s finest teams are headed to Munich to test T1’s League of Legends expertise once again.\nRed Bull League of Its Own makes its grand return to Germany on November 29th, taking over the SAP Garden in Munich for the third edition of the one-day invitational tournament. The pressure is on this year, as reigning champions T1 return to the stage along with some of Europe’s most celebrated teams, all going head-to-head in an unmissable end-of-year showdown set to feature exclusive match-ups and unparalleled gameplay.\n----------------------------------------------------------------------\nThis is Red Bull Gaming; your digital source for the latest news, tournament coverage, interviews, video features, and broadcasts for the Red Bull competitive gaming family.\n\nFollow us on Twitter: https://www.twitter.com/redbullgaming\nFacebook: https://www.facebook.com/redbullgaming\nInstagram: https://www.instagram.com/redbullgaming/\nSubscribe: http://win.gs/subtogaming",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mNV9ZU_YunA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mNV9ZU_YunA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mNV9ZU_YunA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mNV9ZU_YunA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mNV9ZU_YunA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "tags": [
+                    "red bull esports",
+                    "red bull gaming",
+                    "red bull",
+                    "redbull"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Red Bull League of Its Own",
+                    "description": "Europe’s finest teams are headed to Munich to test T1’s League of Legends expertise once again.\nRed Bull League of Its Own makes its grand return to Germany on November 29th, taking over the SAP Garden in Munich for the third edition of the one-day invitational tournament. The pressure is on this year, as reigning champions T1 return to the stage along with some of Europe’s most celebrated teams, all going head-to-head in an unmissable end-of-year showdown set to feature exclusive match-ups and unparalleled gameplay.\n----------------------------------------------------------------------\nThis is Red Bull Gaming; your digital source for the latest news, tournament coverage, interviews, video features, and broadcasts for the Red Bull competitive gaming family.\n\nFollow us on Twitter: https://www.twitter.com/redbullgaming\nFacebook: https://www.facebook.com/redbullgaming\nInstagram: https://www.instagram.com/redbullgaming/\nSubscribe: http://win.gs/subtogaming"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT6H24M42S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1239731",
+                "likeCount": "14024",
+                "favoriteCount": "0",
+                "commentCount": "201"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

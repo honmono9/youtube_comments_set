@@ -1,0 +1,102 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "krhU1xG7-2tjaJYdjnWv6nMBHBU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "l7osQ_Utj1hD2gQq3ATGbto3itw",
+            "id": "agEHMUm_mns",
+            "snippet": {
+                "publishedAt": "2025-12-06T05:41:19Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "EPIC FINALE | Apex Pro Duos | Red Bull Legends Inn 2025",
+                "description": "iiTzTimmy and ImperialHal invite out the top Apex Legends duos to The Godfrey Hotel in Chicago where the teams will compete in a series of challenges decided by viewers in real time, to earn the title of Red Bull Legends Inn Champion.\n\nTeams:\n- iiTzTimmy & ImperialHal\n- Cau7ion & Genburten\n- Fairyfaya & Sikezz\n- Drac & Emtee\n- Xynew & Zap\n- Euriece & 1tappytheworld\n- Tiffajessi & Monsoon\n- Drumbum & Zer0\n- Snip3down & Wethepeople\n- Kazakh & Ojrein\n- Keon & Stankiniii\n- Guhrl & Albralelie\n- Bronzey & Gild\n- Yanya & Babynikki\n- Naughty & Apryze\n- Haik & Enoch\n- Phony & Confusingqt\n- Fun & Crestep\n- Giggleautumn & Verhulst",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/agEHMUm_mns/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/agEHMUm_mns/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/agEHMUm_mns/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/agEHMUm_mns/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/agEHMUm_mns/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "tags": [
+                    "ALGS finals",
+                    "Apex Legends grand finals",
+                    "Apex Final Circle",
+                    "Apex Legends",
+                    "Apex",
+                    "ALGS",
+                    "ALGS 2025",
+                    "Apex Legends Global Series",
+                    "ALGS Championship",
+                    "Red Bull",
+                    "Red Bull Gaming",
+                    "Red Bull Esports",
+                    "Apex Legends Esports",
+                    "iiTzTimmy",
+                    "ImperialHal",
+                    "Red Bull Legends Inn",
+                    "Red Bull Apex Legends",
+                    "Apex Legends Tournament",
+                    "Apex Legends Duos",
+                    "iiTzTimmy ImperialHal",
+                    "NiceWigg",
+                    "NiceWigg ALGS",
+                    "NiceWigg Apex",
+                    "NiceWigg Red Bull",
+                    "iiTzTimmy Red bull",
+                    "ImperialHal Red Bull",
+                    "Apex Clutch",
+                    "Apex Finals"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "EPIC FINALE | Apex Pro Duos | Red Bull Legends Inn 2025",
+                    "description": "iiTzTimmy and ImperialHal invite out the top Apex Legends duos to The Godfrey Hotel in Chicago where the teams will compete in a series of challenges decided by viewers in real time, to earn the title of Red Bull Legends Inn Champion.\n\nTeams:\n- iiTzTimmy & ImperialHal\n- Cau7ion & Genburten\n- Fairyfaya & Sikezz\n- Drac & Emtee\n- Xynew & Zap\n- Euriece & 1tappytheworld\n- Tiffajessi & Monsoon\n- Drumbum & Zer0\n- Snip3down & Wethepeople\n- Kazakh & Ojrein\n- Keon & Stankiniii\n- Guhrl & Albralelie\n- Bronzey & Gild\n- Yanya & Babynikki\n- Naughty & Apryze\n- Haik & Enoch\n- Phony & Confusingqt\n- Fun & Crestep\n- Giggleautumn & Verhulst"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT21M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "21251",
+                "likeCount": "378",
+                "favoriteCount": "0",
+                "commentCount": "30"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

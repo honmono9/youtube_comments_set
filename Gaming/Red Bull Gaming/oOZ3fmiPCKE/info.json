@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "xJH1l49WhwP-sBCd5OPsOIH4iYw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Z_2lezfzFMHGnVnRDR-OSUjGqIY",
+            "id": "oOZ3fmiPCKE",
+            "snippet": {
+                "publishedAt": "2025-11-20T19:42:18Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "The newest additions to the F1 pit crew MrSavage & Preston 🏎️#redbull #gaming #formula1 #pitstop",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oOZ3fmiPCKE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oOZ3fmiPCKE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oOZ3fmiPCKE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oOZ3fmiPCKE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oOZ3fmiPCKE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "The newest additions to the F1 pit crew MrSavage & Preston 🏎️#redbull #gaming #formula1 #pitstop",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "18892",
+                "likeCount": "176",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

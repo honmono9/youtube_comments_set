@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "SHypelXTc0rUIxh1kl2D1jZUsm8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "eKl6qcajzdEAzu34fCaipeVBlqQ",
+            "id": "XBaOX_Pwf30",
+            "snippet": {
+                "publishedAt": "2025-11-29T14:35:37Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "Maxim and Noway are having fun at Red Bull League of Its Own 😌 #gaming #esports #redbull #noway4u",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XBaOX_Pwf30/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XBaOX_Pwf30/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XBaOX_Pwf30/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XBaOX_Pwf30/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XBaOX_Pwf30/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Maxim and Noway are having fun at Red Bull League of Its Own 😌 #gaming #esports #redbull #noway4u",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "11457",
+                "likeCount": "227",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

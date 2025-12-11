@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "0-O8S_9zPGsv8mYYOA3w9gPY6qI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "YPqagdDPasYHWA2Tpw9qtyVt3sw",
+            "id": "k6jGM5oF7S4",
+            "snippet": {
+                "publishedAt": "2025-12-06T03:40:00Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "INSANE 1v2 CLUTCH 🤯",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k6jGM5oF7S4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k6jGM5oF7S4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k6jGM5oF7S4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/k6jGM5oF7S4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/k6jGM5oF7S4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "INSANE 1v2 CLUTCH 🤯",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT24S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9734",
+                "likeCount": "32",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

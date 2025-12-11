@@ -1,0 +1,107 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "8WZTq76RIMtTExQzcpi-SF0aKu0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "UdE3koz_DtnP8CrxMvjbA_YQaZ0",
+            "id": "0k37yHCVNa0",
+            "snippet": {
+                "publishedAt": "2025-10-14T19:00:03Z",
+                "channelId": "UCXJL3ST-O0J3nqzQyPJtpNg",
+                "title": "WoW's Housing Is NEXT LEVEL - Midnight Alpha Preview",
+                "description": "We FINALLY have access to exterior decoration. Join us today as we talk about how it all works, and show some of the crazy things that are possible with this system.\n----------\nDisplate: https://displate.com/preachgaming?art=619e85e06e135\nGear: https://preachgaming.com/shop/\nTwitter:  @Preachgaming\nLive Stream - twitch.tv/preachlfw\nWebsite: https://preachgaming.com/\n---------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0k37yHCVNa0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0k37yHCVNa0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0k37yHCVNa0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0k37yHCVNa0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0k37yHCVNa0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Preach Gaming",
+                "tags": [
+                    "Preach",
+                    "wow",
+                    "preachgaming",
+                    "preach gaming",
+                    "world of warcraft",
+                    "mmo",
+                    "mikepreachwow",
+                    "midnight",
+                    "the last titan",
+                    "last titan",
+                    "TWW",
+                    "wow midnight",
+                    "wow the last titan",
+                    "chris metzen",
+                    "blizzcon",
+                    "worldsoul",
+                    "worldsoul saga",
+                    "wow expansion",
+                    "wow expansion reveal",
+                    "xalatath",
+                    "midnight expansion",
+                    "alpha",
+                    "beta",
+                    "midnight alpha",
+                    "midnight beta",
+                    "midnight testing",
+                    "housing",
+                    "wow housing",
+                    "ffxiv housing",
+                    "midnight housing",
+                    "housing guide",
+                    "housing alpha",
+                    "housing beta"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "WoW's Housing Is NEXT LEVEL - Midnight Alpha Preview",
+                    "description": "We FINALLY have access to exterior decoration. Join us today as we talk about how it all works, and show some of the crazy things that are possible with this system.\n----------\nDisplate: https://displate.com/preachgaming?art=619e85e06e135\nGear: https://preachgaming.com/shop/\nTwitter:  @Preachgaming\nLive Stream - twitch.tv/preachlfw\nWebsite: https://preachgaming.com/\n---------"
+                },
+                "defaultAudioLanguage": "en-GB"
+            },
+            "contentDetails": {
+                "duration": "PT13M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "48321",
+                "likeCount": "1488",
+                "favoriteCount": "0",
+                "commentCount": "324"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "NZugNeLB-qiVTZVjoikbnw8_bRc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Gq-SCjbRrh7yL-zcVEwFxxAf3y8",
+            "id": "A5HW3EyPpC4",
+            "snippet": {
+                "publishedAt": "2025-12-01T11:45:03Z",
+                "channelId": "UCpfXVjy3p5qfR_7EoKpQirQ",
+                "title": "DO NOT Fall Into The Pit!",
+                "description": "Can I Survive The pit | The Frustrated Gamer Project P.I.T.T game is here! See if I can feed the pit to survive and make loads of money! Let's play Project P.I.T.T gameplay with The Frustrated Gamer! \n#projectpitt #thepit #frustratedgamer \n\n► https://youtu.be/fNDAgVOR5VA \n\n► TFG Instagram: https://www.instagram.com/tfgvlogs \n\n► TFG Vlogs Channel! https://www.youtube.com/tfgvlogs",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A5HW3EyPpC4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A5HW3EyPpC4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A5HW3EyPpC4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/A5HW3EyPpC4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/A5HW3EyPpC4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Frustrated Gamer",
+                "tags": [
+                    "Can I Survive The pit",
+                    "project p.i.t.t game",
+                    "project p.i.t.t",
+                    "the frustrated gamer survive the pit",
+                    "feed the pit to survive",
+                    "the frustrated gamer project pitt",
+                    "tfg survive the pit",
+                    "tfg project pitt",
+                    "survive the pit",
+                    "the frustrated gamer",
+                    "DO NOT Fall Into The Pit"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "DO NOT Fall Into The Pit!",
+                    "description": "Can I Survive The pit | The Frustrated Gamer Project P.I.T.T game is here! See if I can feed the pit to survive and make loads of money! Let's play Project P.I.T.T gameplay with The Frustrated Gamer! \n#projectpitt #thepit #frustratedgamer \n\n► https://youtu.be/fNDAgVOR5VA \n\n► TFG Instagram: https://www.instagram.com/tfgvlogs \n\n► TFG Vlogs Channel! https://www.youtube.com/tfgvlogs"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT24M22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "63948",
+                "likeCount": "1317",
+                "favoriteCount": "0",
+                "commentCount": "306"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

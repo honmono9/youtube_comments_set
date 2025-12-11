@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "WbN4kuw-qlJOroWJUan7h8h1P00",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "9NkNu8Xf54_GgiK2uUAeEs2mDtk",
+            "id": "NBG9OOHu-4g",
+            "snippet": {
+                "publishedAt": "2025-11-17T15:25:22Z",
+                "channelId": "UCcTa20zpKM6CkcvocFXVe6A",
+                "title": "Secret Blazer & Phenomaman Dialogue",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NBG9OOHu-4g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NBG9OOHu-4g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NBG9OOHu-4g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NBG9OOHu-4g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NBG9OOHu-4g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Dan Allen Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Secret Blazer & Phenomaman Dialogue",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "13803",
+                "likeCount": "200",
+                "favoriteCount": "0",
+                "commentCount": "15"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

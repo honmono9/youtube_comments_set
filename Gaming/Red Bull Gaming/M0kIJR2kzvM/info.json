@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ISwbCmEpLos3V2wI23JMlPeDatk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "r8QvI_Tdl_ODSluRz8wR0ETnZ90",
+            "id": "M0kIJR2kzvM",
+            "snippet": {
+                "publishedAt": "2025-11-29T13:32:33Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "Can Rekkles join Faker in the 5.00 sharp club? #gaming #esports #rekkles #faker",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M0kIJR2kzvM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M0kIJR2kzvM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M0kIJR2kzvM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/M0kIJR2kzvM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/M0kIJR2kzvM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Can Rekkles join Faker in the 5.00 sharp club? #gaming #esports #rekkles #faker",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "7695",
+                "likeCount": "169",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

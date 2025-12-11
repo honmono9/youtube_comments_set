@@ -1,0 +1,92 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "QP1A8lC5B8bZJh2cJuQGi1dYbSI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "dOW1plhwSs7yj53LPv4nvUQU7C4",
+            "id": "gjfBV-a1W_U",
+            "snippet": {
+                "publishedAt": "2025-11-16T01:12:48Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "VERTICAL Stream | Winner & Lower Finals | Red Bull Home Ground",
+                "description": "The biggest off-season invitational VALORANT tournament Red Bull Home Ground returns in New York with intense matchups between some of the best VALORANT teams in the world. \n\nInvited Teams\n- FNATIC, G2, NRG, Sentinels, T1, ZETA\n\n----------------------------------------------------------------------\nThis is Red Bull Gaming; your digital source for the latest news, tournament coverage, interviews, video features, and broadcasts for the Red Bull competitive gaming family.\n\nFollow us on Twitter: https://www.twitter.com/redbullgaming\nFacebook: https://www.facebook.com/redbullgaming\nInstagram: https://www.instagram.com/redbullgaming/\nSubscribe: http://win.gs/subtogaming",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gjfBV-a1W_U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gjfBV-a1W_U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gjfBV-a1W_U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gjfBV-a1W_U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gjfBV-a1W_U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "tags": [
+                    "Red Bull",
+                    "Red Bull Gaming",
+                    "Red Bull Esports",
+                    "VALORANT",
+                    "Valorant Esports",
+                    "VCT",
+                    "Valorant Champions Tour",
+                    "Valorant Tournament",
+                    "Red Bull Home Ground",
+                    "Red Bull Home Ground Valorant",
+                    "Red Bull Home Ground 2025",
+                    "Red Bull Home Ground World Finals",
+                    "Sentinels",
+                    "G2 Valorant",
+                    "T1 Valorant",
+                    "NRG Valorant",
+                    "FNATIC Valorant",
+                    "Zeta Valorant"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "VERTICAL Stream | Winner & Lower Finals | Red Bull Home Ground",
+                    "description": "The biggest off-season invitational VALORANT tournament Red Bull Home Ground returns in New York with intense matchups between some of the best VALORANT teams in the world. \n\nInvited Teams\n- FNATIC, G2, NRG, Sentinels, T1, ZETA\n\n----------------------------------------------------------------------\nThis is Red Bull Gaming; your digital source for the latest news, tournament coverage, interviews, video features, and broadcasts for the Red Bull competitive gaming family.\n\nFollow us on Twitter: https://www.twitter.com/redbullgaming\nFacebook: https://www.facebook.com/redbullgaming\nInstagram: https://www.instagram.com/redbullgaming/\nSubscribe: http://win.gs/subtogaming"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT6H6M39S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5111",
+                "likeCount": "36",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

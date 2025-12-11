@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "GgEEoq0isc9ZDrsljH5LgT7zpZA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "I9gPA-xhTGInwoKPh1abj5aEySM",
+            "id": "oO_qhfmYtYE",
+            "snippet": {
+                "publishedAt": "2025-11-21T17:26:27Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "Reliving the Red Bull Home Ground action 🥹 #redbull #gaming #valorant",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oO_qhfmYtYE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oO_qhfmYtYE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oO_qhfmYtYE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oO_qhfmYtYE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oO_qhfmYtYE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Reliving the Red Bull Home Ground action 🥹 #redbull #gaming #valorant",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "26686",
+                "likeCount": "809",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

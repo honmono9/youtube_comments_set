@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "DCZWkiYRP50kALKZnaNZmuX14ww",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "JaYXUe46khZP76TpYJ8g2vBUtIQ",
+            "id": "G0F8IVQJv-Y",
+            "snippet": {
+                "publishedAt": "2025-12-06T06:22:00Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "A 1v1 TO END THE CHAMPIONSHIP 🤯",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G0F8IVQJv-Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G0F8IVQJv-Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G0F8IVQJv-Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/G0F8IVQJv-Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/G0F8IVQJv-Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "A 1v1 TO END THE CHAMPIONSHIP 🤯",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT38S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "24912",
+                "likeCount": "91",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

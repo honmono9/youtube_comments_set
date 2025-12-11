@@ -1,0 +1,83 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "K6YnMOD8Y7sT3z9EIrkha0EDrK8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "nkxjV842pbIe3dS8N2fdojRirJE",
+            "id": "fUwXcmP3YDg",
+            "snippet": {
+                "publishedAt": "2025-11-29T20:45:08Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "T1 vs NNO Old | Red Bull League of Its Own",
+                "description": "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/redbull",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fUwXcmP3YDg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fUwXcmP3YDg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fUwXcmP3YDg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fUwXcmP3YDg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fUwXcmP3YDg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "tags": [
+                    "games",
+                    "twitch",
+                    "nno old",
+                    "nno",
+                    "t1",
+                    "faker",
+                    "noway",
+                    "lol",
+                    "league of legends"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "T1 vs NNO Old | Red Bull League of Its Own",
+                    "description": "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/redbull"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT22M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "111451",
+                "likeCount": "1041",
+                "favoriteCount": "0",
+                "commentCount": "53"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

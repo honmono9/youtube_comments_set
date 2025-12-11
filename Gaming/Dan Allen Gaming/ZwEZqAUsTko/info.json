@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "FIrG5rqIl26bhY9xzPcJWN79luU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Rr9zSnusT_riek_D1W248jv6RnA",
+            "id": "ZwEZqAUsTko",
+            "snippet": {
+                "publishedAt": "2025-11-28T17:06:25Z",
+                "channelId": "UCcTa20zpKM6CkcvocFXVe6A",
+                "title": "Bode Actor Noshir Dalal from Jedi Survivor",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZwEZqAUsTko/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZwEZqAUsTko/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZwEZqAUsTko/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZwEZqAUsTko/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZwEZqAUsTko/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Dan Allen Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Bode Actor Noshir Dalal from Jedi Survivor",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M14S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3106",
+                "likeCount": "150",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

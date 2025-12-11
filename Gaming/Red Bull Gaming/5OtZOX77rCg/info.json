@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "iopXQhhDUHeL_LIn7PQiz3QEHNI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "bbPyCf7ngoD3S0LAURVpQiUpN_w",
+            "id": "5OtZOX77rCg",
+            "snippet": {
+                "publishedAt": "2025-11-16T23:34:43Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "Congratulations @G2esports 🏆 #valorant #redbull #gaming #esports #redbullhomeground",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5OtZOX77rCg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5OtZOX77rCg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5OtZOX77rCg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5OtZOX77rCg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5OtZOX77rCg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Congratulations @G2esports 🏆 #valorant #redbull #gaming #esports #redbullhomeground",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT36S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2471",
+                "likeCount": "43",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

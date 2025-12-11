@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "4JOt_JEUdduUAJceWp2fGKWKwTs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "RJcHSpHgXcKyadpBEjJsE3FgorQ",
+            "id": "Q7FrwdKjtoY",
+            "snippet": {
+                "publishedAt": "2025-11-29T18:09:10Z",
+                "channelId": "UC8VddvuHJzIj__Ud0rY2_ww",
+                "title": "This is THE GAME #redbull #gaming #esports #leagueoflegends",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q7FrwdKjtoY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q7FrwdKjtoY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q7FrwdKjtoY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Q7FrwdKjtoY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Q7FrwdKjtoY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull Gaming",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "This is THE GAME #redbull #gaming #esports #leagueoflegends",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "25340",
+                "likeCount": "279",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

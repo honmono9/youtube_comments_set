@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ixOCx2Xw6kMa5gDkWP6eJB0cOTA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "H4EN2lLREPyinaB8apPkB0SmYhg",
+            "id": "wkpXA7Mgq_8",
+            "snippet": {
+                "publishedAt": "2023-10-07T15:39:00Z",
+                "channelId": "UCPG7VLW5ERyzfvcxglNKLEQ",
+                "title": "Roblox Goldie Gets her ears pierced at Claire’s",
+                "description": "Enjoy this funny clip of Roblox where Goldie get her ears pierced for the first time in bloxburg Claire’s. Will she be scared watch and find out!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wkpXA7Mgq_8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wkpXA7Mgq_8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wkpXA7Mgq_8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wkpXA7Mgq_8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wkpXA7Mgq_8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Titi Games",
+                "tags": [
+                    "Roblox",
+                    "Bloxburg",
+                    "baby goldie"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Roblox Goldie Gets her ears pierced at Claire’s",
+                    "description": "Enjoy this funny clip of Roblox where Goldie get her ears pierced for the first time in bloxburg Claire’s. Will she be scared watch and find out!"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT51S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "86797",
+                "likeCount": "875",
+                "favoriteCount": "0",
+                "commentCount": "57"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

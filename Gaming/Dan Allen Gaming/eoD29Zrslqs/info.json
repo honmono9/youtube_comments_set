@@ -1,0 +1,75 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "0hr5v0IwDiiBgehD8Y2uwfAt45g",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "mIuoLjgtHBa4ZJ_Xh3fDpyJ0m9g",
+            "id": "eoD29Zrslqs",
+            "snippet": {
+                "publishedAt": "2025-12-03T14:03:15Z",
+                "channelId": "UCcTa20zpKM6CkcvocFXVe6A",
+                "title": "Hitman - All Eminem Scenes and Voice Lines",
+                "description": "Watch every single cutscene, interaction, and hear all the voice lines associated with the Eminem/Slim Shady in Hitman World of Assassination.\n\n🔴Subscribe: https://www.youtube.com/@DanAllenGaming?sub_confirmation=1\n\n💪 Support the Channel: https://www.youtube.com/channel/UCcTa20zpKM6CkcvocFXVe6A/join\n\n🎙️Dan Allen Gaming Podcast: https://www.youtube.com/playlist?list=PLp-XS7Tadj5JC6KstAqXKFrCC-jLuQAd9\n\n🎮 Follow Dan here:\n📸 https://www.instagram.com/DanAllenGaming\n🐦 https://www.twitter.com/DanAllenGaming\n📱 https://www.tiktok.com/@danallengaming\n📘 https://www.facebook.com/DanAllenGaming\n----------------------------------------------------------------------------\n#hitman #eminem",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eoD29Zrslqs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eoD29Zrslqs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eoD29Zrslqs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eoD29Zrslqs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eoD29Zrslqs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Dan Allen Gaming",
+                "tags": [
+                    "hitman"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Hitman - All Eminem Scenes and Voice Lines",
+                    "description": "Watch every single cutscene, interaction, and hear all the voice lines associated with the Eminem/Slim Shady in Hitman World of Assassination.\n\n🔴Subscribe: https://www.youtube.com/@DanAllenGaming?sub_confirmation=1\n\n💪 Support the Channel: https://www.youtube.com/channel/UCcTa20zpKM6CkcvocFXVe6A/join\n\n🎙️Dan Allen Gaming Podcast: https://www.youtube.com/playlist?list=PLp-XS7Tadj5JC6KstAqXKFrCC-jLuQAd9\n\n🎮 Follow Dan here:\n📸 https://www.instagram.com/DanAllenGaming\n🐦 https://www.twitter.com/DanAllenGaming\n📱 https://www.tiktok.com/@danallengaming\n📘 https://www.facebook.com/DanAllenGaming\n----------------------------------------------------------------------------\n#hitman #eminem"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT12M2S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "33108",
+                "likeCount": "934",
+                "favoriteCount": "0",
+                "commentCount": "95"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}
